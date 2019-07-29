@@ -4,7 +4,7 @@ Welcome to the largest expertly annotated corpus for complex definition extracti
 In the meantime, please use the current version of the corpus.
 The most recent version of the corpus was updated on **29 JULY 2019**.
 
-For more information regarding the annotation, schema, or general characteristics of the coprus, please see our paper <here>(https://sigann.github.io/LAW-XIII-2019/pdf/W19-4015.pdf).
+For more information regarding the annotation, schema, or general characteristics of the coprus, please see our paper [here](https://sigann.github.io/LAW-XIII-2019/pdf/W19-4015.pdf).
   
 # Data Format
 We are currently releasing data in .conll format with the formatting as follows:
