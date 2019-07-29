@@ -1,0 +1,303 @@
+1517. <START> The adrenal medulla contains large, irregularly shaped cells that are closely associated with blood vessels.<END>. These cells are innervated by preganglionic autonomic nerve fibers from the central nervous system. 
+
+
+1520. The endocrine cells of the pancreas form clusters called pancreatic islets or the islets of Langerhans, as visible in the micrograph shown in [link]. <START> The pancreatic islets contain two primary cell types: alpha cells, which produce the hormone glucagon, and beta cells, which produce the hormone insulin.<END>. These hormones regulate blood glucose levels. 
+
+
+1523. The kidneys also release calcitriol, which aids in the absorption of Ca2+ and phosphate ions. <START> Erythropoietin (EPO) is a protein hormone that triggers the formation of red blood cells in the bone marrow.<END>. EPO is released in response to low oxygen levels. 
+
+
+1526. Maintaining a proper water balance in the body is important to avoid dehydration or over-hydration (hyponatremia). <START> The water concentration of the body is monitored by osmoreceptors in the hypothalamus, which detect the concentration of electrolytes in the extracellular fluid.<END>. The concentration of electrolytes in the blood rises when there is water loss caused by excessive perspiration, inadequate water intake, or low blood volume due to blood loss. 
+
+
+1529. <START> Another hormone responsible for maintaining electrolyte concentrations in extracellular fluids is aldosterone, a steroid hormone that is produced by the adrenal cortex.<END>. In contrast to ADH, which promotes the reabsorption of water to maintain proper water balance, aldosterone maintains proper water balance by enhancing Na+ reabsorption and K+ secretion from extracellular fluid of the cells in kidney tubules. 
+
+
+1532. Regulation of the reproductive system is a process that requires the action of hormones from the pituitary gland, the adrenal cortex, and the gonads. <START> During puberty in both males and females, the hypothalamus produces gonadotropin-releasing hormone (GnRH), which stimulates the production and release of follicle-stimulating hormone (FSH) and luteinizing hormone (LH) from the anterior pituitary gland.<END>. These hormones regulate the gonads (testes in males and ovaries in females) and therefore are called gonadotropins. 
+
+
+1535. <START> In addition to producing FSH and LH, the anterior portion of the pituitary gland also produces the hormone prolactin (PRL) in females.<END>. Prolactin stimulates the production of milk by the mammary glands following childbirth. 
+
+
+1538. In order to manage nutrient intake, storing excess intake and utilizing reserves when necessary, the body uses hormones to moderate energy stores. <START> Insulin is produced by the beta cells of the pancreas, which are stimulated to release insulin as blood glucose levels rise (for example, after a meal is consumed).<END>. Insulin lowers blood glucose levels by enhancing the rate of glucose uptake and utilization by target cells, which use glucose for ATP production. 
+
+
+1541. Over time, high blood glucose levels can cause nerve damage to the eyes and peripheral body tissues, as well as damage to the kidneys and cardiovascular system. <START> Oversecretion of insulin can cause hypoglycemia, low blood glucose levels.<END>. This causes insufficient glucose availability to cells, often leading to muscle weakness, and can sometimes cause unconsciousness or death if left untreated. 
+
+
+1544. Glucagon also stimulates absorption of amino acids from the blood by the liver, which then converts them to glucose. <START> This process of glucose synthesis is called gluconeogenesis.<END>. Glucagon also stimulates adipose cells to release fatty acids into the blood. 
+
+
+1547. T3 and T4 release from the thyroid gland is stimulated by thyroid-stimulating hormone (TSH), which is produced by the anterior pituitary. <START> TSH binding at the receptors of the follicle of the thyroid triggers the production of T3 and T4 from a glycoprotein called thyroglobulin.<END>. Thyroglobulin is present in the follicles of the thyroid, and is converted into thyroid hormones with the addition of iodine. 
+
+
+1550. In children, hypothyroidism can cause cretinism, which can lead to mental retardation and growth defects. <START> Hyperthyroidism, the overproduction of thyroid hormones, can lead to an increased metabolic rate and its effects: weight loss, excess heat production, sweating, and an increased heart rate.<END>. Graves’ disease is one example of a hyperthyroid condition. 
+
+
+1553. Hormonal regulation is required for the growth and replication of most cells in the body. <START> Growth hormone (GH), produced by the anterior portion of the pituitary gland, accelerates the rate of protein synthesis, particularly in skeletal muscle and bones.<END>. Growth hormone has direct and indirect mechanisms of action. 
+
+
+1556. GH levels are regulated by two hormones produced by the hypothalamus. <START> GH release is stimulated by growth hormone-releasing hormone (GHRH) and is inhibited by growth hormone-inhibiting hormone (GHIH), also called somatostatin.Growth hormone directly accelerates the rate of protein synthesis in skeletal muscle and bones.<END>. Insulin-like growth factor 1 (IGF-1) is activated by growth hormone and also allows formation of new proteins in muscle cells and bone. 
+
+
+1559. In some documented cases, individuals can reach heights of over eight feet. <START> In adults, excessive GH can lead to acromegaly, a condition in which there is enlargement of bones in the face, hands, and feet that are still capable of growth.<END>. 
+
+
+1562. In a long-term stress response, the hypothalamus triggers the release of ACTH from the anterior pituitary gland. <START> The adrenal cortex is stimulated by ACTH to release steroid hormones called corticosteroids.<END>. Corticosteroids turn on transcription of certain genes in the nuclei of target cells. 
+
+
+1565. <START> Hypersecretion of glucocorticoids can cause a condition known as Cushing’s disease, characterized by a shifting of fat storage areas of the body.<END>. This can cause the accumulation of adipose tissue in the face and neck, and excessive glucose in the blood. 
+
+
+1568. <START> A hydrostatic skeleton is a skeleton formed by a fluid-filled compartment within the body, called the coelom.<END>. The organs of the coelom are supported by the aqueous fluid, which also resists external compression. 
+
+
+1571. <START> The axial skeleton forms the central axis of the body and includes the bones of the skull, ossicles of the middle ear, hyoid bone of the throat, vertebral column, and the thoracic cage (ribcage) ([link]).<END>. The function of the axial skeleton is to provide support and protection for the brain, the spinal cord, and the organs in the ventral body cavity. 
+
+
+1574. <START> The auditory ossicles of the middle ear transmit sounds from the air as vibrations to the fluid-filled cochlea.<END>. The auditory ossicles consist of three bones each: the malleus, incus, and stapes. 
+
+
+1577. <START> The vertebral column, or spinal column, surrounds and protects the spinal cord, supports the head, and acts as an attachment point for the ribs and muscles of the back and neck.<END>. The adult vertebral column comprises 26 bones: the 24 vertebrae, the sacrum, and the coccyx bones. 
+
+
+1580. <START> The sternum, or breastbone, is a long, flat bone located at the anterior of the chest.<END>. It is formed from three bones that fuse in the adult. 
+
+
+1583. <START> The pectoral girdle bones provide the points of attachment of the upper limbs to the axial skeleton.<END>. The human pectoral girdle consists of the clavicle (or collarbone) in the anterior, and the scapula (or shoulder blades) in the posterior ([link]). 
+
+
+1586. <START> An articulation is any place at which two bones are joined.<END>. The humerus is the largest and longest bone of the upper limb and the only bone of the arm. 
+
+
+1589. The forearm extends from the elbow to the wrist and consists of two bones: the ulna and the radius. <START> The radius is located along the lateral (thumb) side of the forearm and articulates with the humerus at the elbow.<END>. The ulna is located on the medial aspect (pinky-finger side) of the forearm. 
+
+
+1592. <START> The pelvic girdle attaches to the lower limbs of the axial skeleton.<END>. Because it is responsible for bearing the weight of the body and for locomotion, the pelvic girdle is securely attached to the axial skeleton by strong ligaments. 
+
+
+1595. <START> The femur, or thighbone, is the longest, heaviest, and strongest bone in the body.<END>. The femur and pelvis form the hip joint at the proximal end. 
+
+
+1598. It is the second largest bone in the human body and is responsible for transmitting the weight of the body from the femur to the foot. <START> The fibula, or calf bone, parallels and articulates with the tibia.<END>. It does not articulate with the femur and does not bear weight. 
+
+
+1601. <START> The point at which two or more bones meet is called a joint, or articulation.<END>. Joints are responsible for movement, such as the movement of limbs, and stability, such as the stability found in the bones of the skull. 
+
+
+1604. <START> Syndesmoses are joints in which the bones are connected by a band of connective tissue, allowing for more movement than in a suture.<END>. An example of a syndesmosis is the joint of the tibia and fibula in the ankle. 
+
+
+1607. There are two types of cartilaginous joints: synchondroses and symphyses. <START> In a synchondrosis, the bones are joined by hyaline cartilage.<END>. Synchondroses are found in the epiphyseal plates of growing bones in children. 
+
+
+1610. The functional classification divides joints into three categories: synarthroses, amphiarthroses, and diarthroses. <START> A synarthrosis is a joint that is immovable.<END>. This includes sutures, gomphoses, and synchondroses. 
+
+
+1613. <START> Gliding movements occur as relatively flat bone surfaces move past each other.<END>. Gliding movements produce very little rotation or angular movement of the bones. 
+
+
+1616. Moving the forearm upward at the elbow or moving the wrist to move the hand toward the forearm are examples of flexion. <START> Extension is the opposite of flexion in that the angle between the bones of a joint increases.<END>. Straightening a limb after flexion is an example of extension. 
+
+
+1619. Examples of abduction are moving the arms or legs laterally to lift them straight out to the side. <START> Adduction is the movement of a bone toward the midline of the body.<END>. Movement of the limbs inward after abduction is an example of adduction. 
+
+
+1622. Rotational movement is the movement of a bone as it rotates around its longitudinal axis. <START> Rotation can be toward the midline of the body, which is referred to as medial rotation, or away from the midline of the body, which is referred to as lateral rotation.<END>. Movement of the head from side to side is an example of rotation. 
+
+
+1625. Eversion is the opposite of inversion, movement of the sole of the foot outward, away from the midline of the body. <START> Protraction is the anterior movement of a bone in the horizontal plane.<END>. Retraction occurs as a joint moves back into position after protraction. 
+
+
+1628. Elevation is the movement of a bone upward, such as when the shoulders are shrugged, lifting the scapulae. <START> Depression is the opposite of elevation—movement downward of a bone, such as after the shoulders are shrugged and the scapulae return to their normal position from an elevated position.<END>. Dorsiflexion is a bending at the ankle such that the toes are lifted toward the knee. 
+
+
+1631. Plantar flexion is a bending at the ankle when the heel is lifted, such as when standing on the toes. <START> Supination is the movement of the radius and ulna bones of the forearm so that the palm faces forward.<END>. Pronation is the opposite movement, in which the palm faces backward. 
+
+
+1634. <START> Planar joints have bones with articulating surfaces that are flat or slightly curved faces.<END>. These joints allow for gliding movements, and so the joints are sometimes referred to as gliding joints. 
+
+
+1637. <START> Condyloid joints consist of an oval-shaped end of one bone fitting into a similarly oval-shaped hollow of another bone ([link]).<END>. This is also sometimes called an ellipsoidal joint. 
+
+
+1640. <START> Skeletal muscle tissue forms skeletal muscles, which attach to bones or skin and control locomotion and any movement that can be consciously controlled.<END>. Because it can be controlled by thought, skeletal muscle is also called voluntary muscle. 
+
+
+1643. <START> Cardiac muscle tissue is only found in the heart, and cardiac contractions pump blood throughout the body and maintain blood pressure.<END>. Like skeletal muscle, cardiac muscle is striated, but unlike skeletal muscle, cardiac muscle cannot be consciously controlled and is called involuntary muscle. 
+
+
+1646. Each I band has a dense line running vertically through the middle called a Z disc or Z line. <START> The Z discs mark the border of units called sarcomeres, which are the functional units of skeletal muscle.<END>. One sarcomere is the space between two consecutive Z discs and contains one entire A band and two halves of an I band, one on either side of the A band. 
+
+
+1649. Thick filaments occur only in the A band of a myofibril. <START> Thin filaments attach to a protein in the Z disc called alpha-actinin and occur across the entire length of the I band and partway into the A band.<END>. The region at which thick and thin filaments overlap has a dense appearance, as there is little space between the filaments. 
+
+
+1652. Each skeletal muscle fiber is controlled by a motor neuron, which conducts signals from the brain or spinal cord to the muscle. <START> The area of the sarcolemma on the muscle fiber that interacts with the neuron is called the motor end plate.<END>. The end of the neuron’s axon is called the synaptic terminal, and it does not actually contact the motor end plate. 
+
+
+1655. The mineral salts primarily include hydroxyapatite, a mineral formed from calcium phosphate. <START> Calcification is the process of deposition of mineral salts on the collagen fiber matrix that crystallizes and hardens the tissue.<END>. The process of calcification only occurs in the presence of collagen fibers. 
+
+
+1658. The diaphysis, or central shaft, contains bone marrow in a marrow cavity. <START> The rounded ends, the epiphyses, are covered with articular cartilage and are filled with red bone marrow, which produces blood cells ([link]).<END>. Most of the limb bones are long bones—for example, the femur, tibia, ulna, and radius. 
+
+
+1661. <START> Irregular bones are bones with complex shapes.<END>. These bones may have short, flat, notched, or ridged surfaces. 
+
+
+1664. <START> Compact bone (or cortical bone) forms the hard external layer of all bones and surrounds the medullary cavity, or bone marrow.<END>. It provides protection and strength to bones. 
+
+
+1667. Each osteon consists of lamellae, which are layers of compact matrix that surround a central canal called the Haversian canal. <START> The Haversian canal (osteonic canal) contains the bone’s blood vessels and nerve fibers ([link]).<END>. Osteons in compact bone tissue are aligned in the same direction along lines of stress and help the bone resist bending or fracturing. 
+
+
+1670. Bone consists of four types of cells: osteoblasts, osteoclasts, osteocytes, and osteoprogenitor cells. <START> Osteoblasts are bone cells that are responsible for bone formation.<END>. Osteoblasts synthesize and secrete the organic part and inorganic part of the extracellular matrix of bone tissue, and collagen fibers. 
+
+
+1673. Osteocytes maintain normal bone structure by recycling the mineral salts in the bony matrix. <START> Osteoprogenitor cells are squamous stem cells that divide to produce daughter cells that differentiate into osteoblasts.<END>. Osteoprogenitor cells are important in the repair of fractures. 
+
+
+1676. <START> Endochondral ossification is the process of bone development from hyaline cartilage.<END>. All of the bones of the body, except for the flat bones of the skull, mandible, and clavicles, are formed through endochondral ossification. 
+
+
+1679. Bone renewal continues after birth into adulthood. <START> Bone remodeling is the replacement of old bone tissue by new bone tissue.<END>. It involves the processes of bone deposition by osteoblasts and bone resorption by osteoclasts. 
+
+
+1682. The right lung is larger and contains three lobes, whereas the smaller left lung contains two lobes ([link]). <START> The muscular diaphragm, which facilitates breathing, is inferior to (below) the lungs and marks the end of the thoracic cavity.The trachea bifurcates into the right and left bronchi in the lungs.<END>. The right lung is made of three lobes and is larger. 
+
+
+1685. Air enters the lungs through the two primary (main) bronchi (singular: bronchus). <START> Each bronchus divides into secondary bronchi, then into tertiary bronchi, which in turn divide, creating smaller and smaller diameter bronchioles as they split and spread through the lung.<END>. Like the trachea, the bronchi are made of cartilage and smooth muscle. 
+
+
+1688. The alveolar sacs resemble bunches of grapes tethered to the end of the bronchioles ([link]). <START> In the acinar region, the alveolar ducts are attached to the end of each bronchiole.<END>. At the end of each duct are approximately 100 alveolar sacs, each containing 20 to 30 alveoli that are 200 to 300 microns in diameter. 
+
+
+1691. If particulates do make it beyond the nose, or enter through the mouth, the bronchi and bronchioles of the lungs also contain several protective devices. <START> The lungs produce mucus—a sticky substance made of mucin, a complex glycoprotein, as well as salts and water—that traps particulates.<END>. The bronchi and bronchioles contain cilia, small hair-like projections that line the walls of the bronchi and bronchioles ([link]). 
+
+
+1694. The volume in the lung can be divided into four units: tidal volume, expiratory reserve volume, inspiratory reserve volume, and residual volume. <START> Tidal volume (TV) measures the amount of air that is inspired and expired during a normal breath.<END>. On average, this volume is around one-half liter, which is a little less than the capacity of a 20-ounce drink bottle. 
+
+
+1697. Conversely, the inspiratory reserve volume (IRV) is the additional amount of air that can be inhaled after a normal inhalation. <START> The residual volume (RV) is the amount of air that is left after expiratory reserve volume is exhaled.<END>. The lungs are never completely empty: There is always some air left in the lungs after a maximal exhalation. 
+
+
+1700. It is, therefore, the sum of the tidal volume and inspiratory reserve volume. <START> The functional residual capacity (FRC) includes the expiratory reserve volume and the residual volume.<END>. The FRC measures the amount of additional air that can be exhaled after a normal exhalation. 
+
+
+1703. Lung volumes are measured by a technique called spirometry. <START> An important measurement taken during spirometry is the forced expiratory volume (FEV), which measures how much air can be forced out of the lung over a specific period, usually one second (FEV1).<END>. In addition, the forced vital capacity (FVC), which is the total amount of air that can be forcibly exhaled, is measured. 
+
+
+1706. To increase the volume of the lungs, the chest wall expands. <START> This results from the contraction of the intercostal muscles, the muscles that are connected to the rib cage.<END>. Lung volume expands because the diaphragm contracts and the intercostals muscles contract, thus expanding the thoracic cavity. 
+
+
+1709. A second layer of parietal pleura lines the interior of the thorax ([link]). <START> The space between these layers, the intrapleural space, contains a small amount of fluid that protects the tissue and reduces the friction generated from rubbing the tissue layers together as the lungs contract and relax.<END>. Pleurisy results when these layers of tissue become inflamed; it is painful because the inflammation increases the pressure within the thoracic cavity and reduces the volume of the lung. 
+
+
+1712. On average, under non-exertion conditions, the human respiratory rate is 12–15 breaths/minute. <START> The respiratory rate contributes to the alveolar ventilation, or how much air moves into and out of the alveoli.<END>. Alveolar ventilation prevents carbon dioxide buildup in the alveoli. 
+
+
+1715. Babies born prematurely sometimes do not produce enough surfactant. <START> As a result, they suffer from respiratory distress syndrome, because it requires more effort to inflate their lungs.<END>. Surfactant is also important for preventing collapse of small alveoli relative to large alveoli. 
+
+
+1718. In these types of restrictive diseases, the intrapleural pressure is more positive and the airways collapse upon exhalation, which traps air in the lungs. <START> Forced or functional vital capacity (FVC), which is the amount of air that can be forcibly exhaled after taking the deepest breath possible, is much lower than in normal patients, and the time it takes to exhale most of the air is greatly prolonged ([link]).<END>. A patient suffering from these diseases cannot exhale the normal amount of air. 
+
+
+1721. At times, however, there is a mismatch between the amount of air (ventilation, V) and the amount of blood (perfusion, Q) in the lungs. <START> This is referred to as ventilation/perfusion (V/Q) mismatch.<END>. 
+
+
+1724. <START> HemoglobinHemoglobin, or Hb, is a protein molecule found in red blood cells (erythrocytes) made of four subunits: two alpha subunits and two beta subunits ([link]).<END>. Each subunit surrounds a central heme group that contains iron and binds one oxygen molecule, allowing each hemoglobin molecule to bind four oxygen molecules. 
+
+
+1727. <START> The oxygen-carrying capacity of hemoglobin determines how much oxygen is carried in the blood.<END>. In addition to 
+
+
+1730. This form transports about 10 percent of the carbon dioxide. <START> When carbon dioxide binds to hemoglobin, a molecule called carbaminohemoglobin is formed.<END>. Binding of carbon dioxide to hemoglobin is reversible. 
+
+
+1733. However, hemoglobin binds to the free H+ ions and thus limits shifts in pH. <START> The newly synthesized bicarbonate ion is transported out of the red blood cell into the liquid component of the blood in exchange for a chloride ion (Cl-); this is called the chloride shift.<END>. When the blood reaches the lungs, the bicarbonate ion is transported back into the red blood cell in exchange for the chloride ion. 
+
+
+1736. In an open circulatory system, the blood is not enclosed in the blood vessels but is pumped into a cavity called a hemocoel and is called hemolymph because the blood mixes with the interstitial fluid. <START> As the heart beats and the animal moves, the hemolymph circulates around the organs within the body cavity and then reenters the hearts through openings called ostia.<END>. This movement allows for gas and nutrient exchange. 
+
+
+1739. This unidirectional flow of blood produces a gradient of oxygenated to deoxygenated blood around the fish’s systemic circuit. <START> The result is a limit in the amount of oxygen that can reach some of the organs and tissues of the body, reducing the overall metabolic capacity of fish.In amphibians, reptiles, birds, and mammals, blood flow is directed in two circuits: one through the lungs and back to the heart, which is called pulmonary circulation, and the other throughout the rest of the body and its organs including the brain (systemic circulation).<END>. In amphibians, gas exchange also occurs through the skin during pulmonary circulation and is referred to as pulmocutaneous circulation. 
+
+
+1742. The mixing is mitigated by a ridge within the ventricle that diverts oxygen-rich blood through the systemic circulatory system and deoxygenated blood to the pulmocutaneous circuit. <START> For this reason, amphibians are often described as having double circulation.Most reptiles also have a three-chambered heart similar to the amphibian heart that directs blood to the pulmonary and systemic circuits, as shown in [link]c.<END>. The ventricle is divided more effectively by a partial septum, which results in less mixing of oxygenated and deoxygenated blood. 
+
+
+1745. <START> Red blood cells, or erythrocytes (erythro- = “red”; -cyte = “cell”), are specialized cells that circulate through the body delivering oxygen to cells; they are formed from stem cells in the bone marrow.<END>. In mammals, red blood cells are small biconcave cells that at maturity do not contain a nucleus or mitochondria and are only 7–8 µm in size. 
+
+
+1748. In addition, the right atrium receives blood from the coronary sinus which drains deoxygenated blood from the heart itself. <START> This deoxygenated blood then passes to the right ventricle through the atrioventricular valve or the tricuspid valve, a flap of connective tissue that opens in only one direction to prevent the backflow of blood.<END>. The valve separating the chambers on the left side of the heart valve is called the biscuspid or mitral valve. 
+
+
+1751. The heart is composed of three layers; the epicardium, the myocardium, and the endocardium, illustrated in [link]. <START> The inner wall of the heart has a lining called the endocardium.<END>. The myocardium consists of the heart muscle cells that make up the middle layer and the bulk of the heart wall. 
+
+
+1754. The heart has its own blood vessels that supply the heart muscle with blood. <START> The coronary arteries branch from the aorta and surround the outer surface of the heart like a crown.<END>. They diverge into capillaries where the heart muscle is supplied with oxygen before converging again into the coronary veins to take the deoxygenated blood back to the right atrium where the blood will be re-oxygenated through the pulmonary circuit. 
+
+
+1757. Because of the size (narrow) of the coronary arteries and their function in serving the heart itself, atherosclerosis can be deadly in these arteries. <START> The slowdown of blood flow and subsequent oxygen deprivation that results from atherosclerosis causes severe pain, known as angina, and complete blockage of the arteries will cause myocardial infarction: the death of cardiac muscle tissue, commonly known as a heart attack.<END>. 
+
+
+1760. The pumping of the heart is a function of the cardiac muscle cells, or cardiomyocytes, that make up the heart muscle. <START> Cardiomyocytes, shown in [link], are distinctive muscle cells that are striated like skeletal muscle but pump rhythmically and involuntarily like smooth muscle; they are connected by intercalated disks exclusive to cardiac muscle.<END>. They are self-stimulated for a period of time and isolated cardiomyocytes will beat if given the correct balance of nutrients and electrolytes. 
+
+
+1763. The blood from the heart is carried through the body by a complex network of blood vessels ([link]). <START> Arteries take blood away from the heart.<END>. The main artery is the aorta that branches into major arteries that take blood to different limbs and organs. 
+
+
+1766. Fluid also crosses into the interstitial space from the capillaries. <START> The capillaries converge again into venules that connect to minor veins that finally connect to major veins that take blood high in carbon dioxide back to the heart.<END>. Veins are blood vessels that bring blood back to the heart. 
+
+
+1769. <START> Blood pressure (BP) is the pressure exerted by blood on the walls of a blood vessel that helps to push blood through the body.<END>. Systolic blood pressure measures the amount of pressure that blood exerts on vessels while the heart is beating. 
+
+
+1772. Cardiac output is the volume of blood pumped by the heart in one minute. <START> It is calculated by multiplying the number of heart contractions that occur per minute (heart rate) times the stroke volume (the volume of blood pumped into the aorta per contraction of the left ventricle).<END>. Therefore, cardiac output can be increased by increasing heart rate, as when exercising. 
+
+
+1775. Osmoregulation is the process of maintenance of salt and water balance (osmotic balance) across membranes within the body’s fluids, which are composed of water, plus electrolytes and non-electrolytes. <START> An electrolyte is a solute that dissociates into ions when dissolved in water.<END>. A non-electrolyte, in contrast, doesn’t dissociate into ions during water dissolution. 
+
+
+1778. In order to calculate osmotic pressure, it is necessary to understand how solute concentrations are measured. <START> The unit for measuring solutes is the mole.<END>. One mole is defined as the gram molecular weight of the solute. 
+
+
+1781. Organisms like the salmon and molly that can tolerate a relatively wide range of salinity are referred to as euryhaline organisms. <START> This is possible because some fish have evolved osmoregulatory mechanisms to survive in all kinds of aquatic environments.<END>. When they live in fresh water, their bodies tend to take up water because the environment is relatively hypotonic, as illustrated in [link]a. 
+
+
+1784. Oxygen allows the kidney cells to efficiently manufacture chemical energy in the form of ATP through aerobic respiration. <START> The filtrate coming out of the kidneys is called urine.<END>. 
+
+
+1787. The second layer is called the perirenal fat capsule, which helps anchor the kidneys in place. <START> The third and innermost layer is the renal capsule.<END>. Internally, the kidney has three regions—an outer cortex, a medulla in the middle, and the renal pelvis in the region called the hilum of the kidney. 
+
+
+1790. The renal cortex is granular due to the presence of nephrons—the functional unit of the kidney. <START> The medulla consists of multiple pyramidal tissue masses, called the renal pyramids.<END>. In between the pyramids are spaces called renal columns through which the blood vessels pass. 
+
+
+1793. The renal pyramids along with the adjoining cortical region are called the lobes of the kidney. <START> The renal pelvis leads to the ureter on the outside of the kidney.<END>. On the inside of the kidney, the renal pelvis branches out into two or three extensions called the major calyces, which further branch into the minor calyces. 
+
+
+1796. The arteries, veins, and nerves that supply the kidney enter and exit at the renal hilum. <START> Renal blood supply starts with the branching of the aorta into the renal arteries (which are each named based on the region of the kidney they pass through) and ends with the exiting of the renal veins to join the inferior vena cava.<END>. The renal arteries split into several segmental arteries upon entering the kidneys. 
+
+
+1799. Each segmental artery splits further into several interlobar arteries and enters the renal columns, which supply the renal lobes. <START> The interlobar arteries split at the junction of the renal cortex and medulla to form the arcuate arteries.<END>. The arcuate “bow shaped” arteries form arcs along the base of the medullary pyramids. 
+
+
+1802. There are two types of nephrons—cortical nephrons (85 percent), which are deep in the renal cortex, and juxtamedullary nephrons (15 percent), which lie in the renal cortex close to the renal medulla. <START> A nephron consists of three parts—a renal corpuscle, a renal tubule, and the associated capillary network, which originates from the cortical radiate arteries.<END>. 
+
+
+1805. The first part is called the proximal convoluted tubule (PCT) due to its proximity to the glomerulus; it stays in the renal cortex. <START> The second part is called the loop of Henle, or nephritic loop, because it forms a loop (with descending and ascending limbs) that goes through the renal medulla.<END>. The third part of the renal tubule is called the distal convoluted tubule (DCT) and this part is also restricted to the renal cortex. 
+
+
+1808. The branch that enters the glomerulus is called the afferent arteriole. <START> The branch that exits the glomerulus is called the efferent arteriole.<END>. Within the glomerulus, the network of capillaries is called the glomerular capillary bed. 
+
+
+1811. First, the nephrons filter blood that runs through the capillary network in the glomerulus. <START> Almost all solutes, except for proteins, are filtered out into the glomerulus by a process called glomerular filtration.<END>. Second, the filtrate is collected in the renal tubules. 
+
+
+1814. There is no energy requirement at this stage of the filtration process. <START> Glomerular filtration rate (GFR) is the volume of glomerular filtrate formed per minute by the kidneys.<END>. GFR is regulated by multiple mechanisms and is an important indicator of kidney function. 
+
+
+1817. Because two sides of the loop of Henle perform opposing functions, as illustrated in [link], it acts as a countercurrent multiplier. <START> The vasa recta around it acts as the countercurrent exchanger.Art Connection<END>. 
+
+
