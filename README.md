@@ -13,3 +13,6 @@ TOKEN TXT_SOURCE_FILE START_CHAR END_CHAR TAG TAG_ID ROOT_ID RELATION
 
 Character indices are derived from brat standoff format. Tags follow a BIO format with the tag schema outlined in the paper.
 
+# Licensing Information
+The entire dataset of textbook sentences with annotations is available for use under the [CC BYNA-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode) license. Contact the authors for information on commercial use.
+
