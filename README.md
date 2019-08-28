@@ -1,5 +1,5 @@
 # Welcome to the DEFT corpus!
-Welcome to the largest expertly annotated corpus for complex definition extraction in free text. Pardon our dust - we are currently in the final phases of our adjudication process and will update with a complete, up-to-date, and adjudicated corpus in the coming weeks. At that time, you will have access to the original brat standoff files in addition to the .txt source files and derived .conll formats. You can source the complete text from the corresponding textbooks at <https://cnx.org>.
+Welcome to the largest expertly annotated corpus for complex definition extraction in free text. Pardon our dust - this data is associated with [SemEval 2020 Task 6](https://competitions.codalab.org/competitions/20900) (DeftEval) and we are releasing the full dataset on the SemEval conference schedule. Dev and trial data are available now, and training data will become available on 4 Sept 2019. Test data will be released after the completion of the SemEval evaluation period on 2 Feb 2020. You can source the complete text from the corresponding textbooks at <https://cnx.org>.
 
 In the meantime, please use the current version of the corpus.
 The most recent version of the corpus was updated on **28 AUG 2019**.
