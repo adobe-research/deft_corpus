@@ -1,0 +1,4 @@
+3324. When someone has a combination of alleles for a given gene, they are said to be heterozygous.         For example, smooth chin is a recessive trait, which means that an individual will only display the smooth chin phenotype if they are homozygous for that recessive allele (bb).Imagine that a woman with a cleft chin mates with a man with a smooth chin.       What type of chin will their child have? 
+
+3327. So far, we have discussed traits that involve just one gene, but few human characteristics are controlled by a single gene.         Most traits are polygenic: controlled by more than one gene.       Height is one example of a polygenic trait, as are skin color and weight.In this Punnett square, N represents the normal allele, and p represents the recessive allele that is associated with PKU. 
+

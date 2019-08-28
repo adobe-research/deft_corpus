@@ -1,0 +1,6 @@
+3257. (Whimsical names are common in particle physics, reflecting the personalities of modern physicists.)         Originally, three quark types—or flavors—were proposed to account for the then-known mesons and baryons.       These quark flavors are named up (u), down (d), and strange (s). 
+
+3260. In 1975, the tau (ττ size 12{τ} {}) was discovered, and a third family of leptons emerged as seen in [link]).          Theorists quickly proposed two more quark flavors called top (t) or truth and bottom (b) or beauty to keep the number of quarks the same as the number of leptons.       And in 1976, the upsilon ( 
+
+3266.          It is beyond the scope of this text to go into more detail on the types of quark and gluon interactions that underlie the observable particles, but the theory (quantum chromodynamics or QCD) is very self-consistent.       So successful have QCD and the electroweak theory been that, taken together, they are called the Standard Model. 
+

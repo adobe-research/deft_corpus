@@ -1,0 +1,4 @@
+2758. From the definition of work, we see that those units are force times distance.         Thus, in SI units, work and energy are measured in newton-meters.       A newton-meter is given the special name joule (J), and 1 J=1 N⋅m=1 kg⋅m2/s21 J=1 N⋅m=1 kg⋅m2/s2 size 12{1" J"=1" N" cdot m=1" kg" cdot m rSup { size 8{2} } "/s" rSup { size 8{2} } } {}. 
+
+2767. Electrical energy is a common form that is converted to many other forms and does work in a wide range of practical situations.         Fuels, such as gasoline and food, carry chemical energy that can be transferred to a system through oxidation.       Chemical fuel can also produce electrical energy, such as in batteries. 
+

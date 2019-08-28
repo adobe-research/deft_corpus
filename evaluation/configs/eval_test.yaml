@@ -1,0 +1,25 @@
+# Configs for quickly testing that the evaluation scripts are working
+
+task_1:
+        gold_fname: ./data/task_1_gold.deft
+        pred_fname: ./data/task_1_pred.deft
+        do_eval: True
+        eval_labels:
+                - HasDef
+                - NoDef
+task_2:
+        gold_fname: ./data/task_2_gold.deft
+        pred_fname: ./data/task_2_pred.deft
+        do_eval: True
+        eval_labels:
+                - B-Term
+                - I-Term
+                - B-Definition
+                - I-Definition
+
+task_3:
+        gold_fname: ./data/task_3_gold.deft
+        pred_fname: ./data/task_3_pred.deft
+        do_eval: True
+        eval_labels: 
+                - Direct-Defines
