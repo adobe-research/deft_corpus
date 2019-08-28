@@ -1,0 +1,6 @@
+3316. DNA is a helix-shaped molecule made up of nucleotide base pairs.         In each chromosome, sequences of DNA make up genes that control or partially control a number of visible characteristics, known as traits, such as eye color, hair color, and so on.       A single gene may have multiple possible variations, or alleles. 
+
+3319. A person’s genotype is the genetic makeup of that individual.         Phenotype, on the other hand, refers to the individual’s inherited physical characteristics, which are a combination of genetic and environmental influences ([link]).(a) Genotype refers to the genetic makeup of an individual based on the genetic material (DNA) inherited from one’s parents.       (b) Phenotype describes an individual’s observable characteristics, such as hair color, skin color, height, and build. 
+
+3355.         The action potential is an all-or-none phenomenon.       In simple terms, this means that an incoming signal from another neuron is either sufficient or insufficient to reach the threshold of excitation. 
+

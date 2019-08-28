@@ -1,0 +1,4 @@
+3326. Sickle-cell anemia is just one of many genetic disorders caused by the pairing of two recessive genes.         For example, phenylketonuria (PKU) is a condition in which individuals lack an enzyme that normally converts harmful amino acids into harmless byproducts.       If someone with this condition goes untreated, he or she will experience significant deficits in cognitive function, seizures, and increased risk of various psychiatric disorders. 
+
+3362. Agonists are chemicals that mimic a neurotransmitter at the receptor site and, thus, strengthen its effects.         An antagonist, on the other hand, blocks or impedes the normal activity of a neurotransmitter at the receptor.       Agonist and antagonist drugs are prescribed to correct the specific neurotransmitter imbalances underlying a person’s condition. 
+

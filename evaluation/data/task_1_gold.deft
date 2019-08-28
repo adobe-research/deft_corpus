@@ -1,0 +1,5 @@
+"This sentence has a definition"	"HasDef"
+"This sentence has no definition"	"NoDef"
+"This sentence is a definition"	"HasDef"
+"This sentence is not a definition"	"NoDef"
+"This sentence lacks a definition"	"NoDef"

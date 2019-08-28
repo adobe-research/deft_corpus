@@ -1,0 +1,8 @@
+3001.          Kirchhoff’s second rule (the loop rule) is an application of conservation of energy.       The loop rule is stated in terms of potential, VV size 12{V} {}, rather than potential energy, but the two are related since PEelec=qVPEelec=qV size 12{ ital "PE" rSub { size 8{"elec"} } = ital "qV"} {}. 
+
+3007.          A potentiometer is a null measurement device for measuring potentials (voltages).       (See [link].) 
+
+3022. This separation of charge creates a voltage εε size 12{ε} {}, known as the Hall emf, across the conductor.         The creation of a voltage across a current-carrying conductor by a magnetic field is known as the Hall effect, after Edwin Hall, the American physicist who discovered it in 1879.The Hall effect.       (a) Electrons move to the left in this flat conductor (conventional current to the right). 
+
+3115. If we pass light through smaller openings, often called slits, we can use Huygens’s principle to see that light bends as sound does (see [link]).         The bending of a wave around the edges of an opening or an obstacle is called diffraction.       Diffraction is a wave characteristic and occurs for all types of waves. 
+

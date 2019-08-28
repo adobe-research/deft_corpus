@@ -1,0 +1,51 @@
+951	data/source_txt/dev/t1_biology_2_303.txt	 4570	 4573	 O	 -1	 -1	 0
+.	data/source_txt/dev/t1_biology_2_303.txt	 4573	 4574	 O	 -1	 -1	 0
+
+Triploblasts 	data/source_txt/dev/t1_biology_2_303.txt	 4583	 4595	 B-Definition	 T39	 T38	 Direct-Defines
+that 	data/source_txt/dev/t1_biology_2_303.txt	 4596	 4600	 I-Definition	 T39	 T38	 Direct-Defines
+do 	data/source_txt/dev/t1_biology_2_303.txt	 4601	 4603	 I-Definition	 T39	 T38	 Direct-Defines
+not 	data/source_txt/dev/t1_biology_2_303.txt	 4604	 4607	 I-Definition	 T39	 T38	 Direct-Defines
+develop 	data/source_txt/dev/t1_biology_2_303.txt	 4608	 4615	 I-Definition	 T39	 T38	 Direct-Defines
+a 	data/source_txt/dev/t1_biology_2_303.txt	 4616	 4617	 I-Definition	 T39	 T38	 Direct-Defines
+coelom 	data/source_txt/dev/t1_biology_2_303.txt	 4618	 4624	 I-Definition	 T39	 T38	 Direct-Defines
+are 	data/source_txt/dev/t1_biology_2_303.txt	 4625	 4628	 O	 -1	 -1	 0
+called 	data/source_txt/dev/t1_biology_2_303.txt	 4629	 4635	 O	 -1	 -1	 0
+acoelomates	data/source_txt/dev/t1_biology_2_303.txt	 4636	 4647	 B-Term	 T38	 0	 Direct-Defines
+, 	data/source_txt/dev/t1_biology_2_303.txt	 4647	 4648	 O	 -1	 -1	 0
+and 	data/source_txt/dev/t1_biology_2_303.txt	 4649	 4652	 O	 -1	 -1	 0
+their 	data/source_txt/dev/t1_biology_2_303.txt	 4653	 4658	 O	 -1	 -1	 0
+mesoderm 	data/source_txt/dev/t1_biology_2_303.txt	 4659	 4667	 O	 -1	 -1	 0
+region 	data/source_txt/dev/t1_biology_2_303.txt	 4668	 4674	 O	 -1	 -1	 0
+is 	data/source_txt/dev/t1_biology_2_303.txt	 4675	 4677	 O	 -1	 -1	 0
+completely 	data/source_txt/dev/t1_biology_2_303.txt	 4678	 4688	 O	 -1	 -1	 0
+filled 	data/source_txt/dev/t1_biology_2_303.txt	 4689	 4695	 O	 -1	 -1	 0
+with 	data/source_txt/dev/t1_biology_2_303.txt	 4696	 4700	 O	 -1	 -1	 0
+tissue	data/source_txt/dev/t1_biology_2_303.txt	 4701	 4707	 O	 -1	 -1	 0
+, 	data/source_txt/dev/t1_biology_2_303.txt	 4707	 4708	 O	 -1	 -1	 0
+although 	data/source_txt/dev/t1_biology_2_303.txt	 4709	 4717	 O	 -1	 -1	 0
+they 	data/source_txt/dev/t1_biology_2_303.txt	 4718	 4722	 O	 -1	 -1	 0
+do 	data/source_txt/dev/t1_biology_2_303.txt	 4723	 4725	 O	 -1	 -1	 0
+still 	data/source_txt/dev/t1_biology_2_303.txt	 4726	 4731	 O	 -1	 -1	 0
+have 	data/source_txt/dev/t1_biology_2_303.txt	 4732	 4736	 O	 -1	 -1	 0
+a 	data/source_txt/dev/t1_biology_2_303.txt	 4737	 4738	 O	 -1	 -1	 0
+gut 	data/source_txt/dev/t1_biology_2_303.txt	 4739	 4742	 O	 -1	 -1	 0
+cavity	data/source_txt/dev/t1_biology_2_303.txt	 4743	 4749	 O	 -1	 -1	 0
+.	data/source_txt/dev/t1_biology_2_303.txt	 4749	 4750	 O	 -1	 -1	 0
+
+Examples 	data/source_txt/dev/t1_biology_2_303.txt	 4757	 4765	 O	 -1	 -1	 0
+of 	data/source_txt/dev/t1_biology_2_303.txt	 4766	 4768	 O	 -1	 -1	 0
+acoelomates 	data/source_txt/dev/t1_biology_2_303.txt	 4769	 4780	 O	 -1	 -1	 0
+include 	data/source_txt/dev/t1_biology_2_303.txt	 4781	 4788	 O	 -1	 -1	 0
+animals 	data/source_txt/dev/t1_biology_2_303.txt	 4789	 4796	 O	 -1	 -1	 0
+in 	data/source_txt/dev/t1_biology_2_303.txt	 4797	 4799	 O	 -1	 -1	 0
+the 	data/source_txt/dev/t1_biology_2_303.txt	 4800	 4803	 O	 -1	 -1	 0
+phylum 	data/source_txt/dev/t1_biology_2_303.txt	 4804	 4810	 O	 -1	 -1	 0
+Platyhelminthes	data/source_txt/dev/t1_biology_2_303.txt	 4811	 4826	 O	 -1	 -1	 0
+, 	data/source_txt/dev/t1_biology_2_303.txt	 4826	 4827	 O	 -1	 -1	 0
+also 	data/source_txt/dev/t1_biology_2_303.txt	 4828	 4832	 O	 -1	 -1	 0
+known 	data/source_txt/dev/t1_biology_2_303.txt	 4833	 4838	 O	 -1	 -1	 0
+as 	data/source_txt/dev/t1_biology_2_303.txt	 4839	 4841	 O	 -1	 -1	 0
+flatworms	data/source_txt/dev/t1_biology_2_303.txt	 4842	 4851	 O	 -1	 -1	 0
+.	data/source_txt/dev/t1_biology_2_303.txt	 4851	 4852	 O	 -1	 -1	 0
+
+

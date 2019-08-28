@@ -1,0 +1,12 @@
+2954. The magnitude of the dipole is called the dipole moment.These two centers of charge will terminate some of the electric field lines coming from a free charge, as on a DNA molecule.         This results in a reduction in the strength of the Coulomb interaction.       One might say that screening makes the Coulomb force a short range force rather than long range. 
+
+2966.          In the first stage of the xerography process, the conducting aluminum drum is grounded so that a negative charge is induced under the thin layer of uniformly positively charged selenium.       In the second stage, the surface of the drum is exposed to the image of whatever is to be copied. 
+
+2972.          A capacitor is a device used to store electric charge.       Capacitors have applications ranging from filtering static out of radio reception to energy storage in heart defibrillators. 
+
+2999.          Kirchhoff’s first rule (the junction rule) is an application of the conservation of charge to a junction; it is illustrated in [link].       Current is the flow of charge, and charge is conserved; thus, whatever charge flows into the junction must flow out. 
+
+3002. The loop rule is stated in terms of potential, VV size 12{V} {}, rather than potential energy, but the two are related since PEelec=qVPEelec=qV size 12{ ital "PE" rSub { size 8{"elec"} } = ital "qV"} {}.         Recall that emf is the potential difference of a source when no current is flowing.       In a closed loop, whatever energy is supplied by emf must be transferred into other forms by devices in the loop, since there are no other ways in which energy can be transferred into or out of the circuit. 
+
+3131.          Einstein essentially did the theoretical aspect of this method for relativity.       With two deceptively simple postulates and a careful consideration of how measurements are made, he produced the theory of special relativity.Einstein’s First Postulate 
+

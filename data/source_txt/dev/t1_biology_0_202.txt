@@ -1,0 +1,10 @@
+659. It is hard to determine which process dominates because it is often nearly impossible to determine the cause of change in allele frequencies at each occurrence.         An event that initiates an allele frequency change in an isolated part of the population, which is not typical of the original population, is called the founder effect.       Natural selection, random drift, and founder effects can lead to significant changes in the genome of a population. 
+
+662.         Heritability is the fraction of phenotype variation that can be attributed to genetic differences, or genetic variance, among individuals in a population.       The greater the hereditability of a population’s phenotypic variation, the more susceptible it is to the evolutionary forces that act on heritable variation. 
+
+704.         To aid in the tremendous task of describing phylogenies accurately, scientists often use a concept called maximum parsimony, which means that events occurred in the simplest, most obvious way.       For example, if a group of people entered a forest preserve to go hiking, based on the principle of maximum parsimony, one could predict that most of the people would hike on established trails rather than forge new ones. 
+
+767. Autotrophic organisms that convert solar energy into chemical energy are called phototrophs, and they appeared within one billion years of the formation of Earth.         Then, cyanobacteria, also known as blue-green algae, evolved from these simple phototrophs one billion years later.       Cyanobacteria ([link]) began the oxygenation of the atmosphere. 
+
+902. Some seeds are enveloped by sporophyte tissues upon maturation.         The layer of sporophyte tissue that surrounds the megasporangium, and later, the embryo, is called the integument.       
+

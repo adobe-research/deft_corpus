@@ -1,0 +1,14 @@
+2949. Since the electric field has both magnitude and direction, it is a vector.         Like all vectors, the electric field can be represented by an arrow that has length proportional to its magnitude and that points in the correct direction.       (We have used arrows extensively to represent force vectors, for example. 
+
+2955.          Conductors contain free charges that move easily.       When excess charge is placed on a conductor or the conductor is put into a static electric field, charges in the conductor quickly respond to reach a steady state called electrostatic equilibrium. 
+
+3078.          Ultraviolet means “above violet.” The electromagnetic frequencies of ultraviolet radiation (UV) extend upward from violet, the highest-frequency visible light.       Ultraviolet is also produced by atomic and molecular motions and electronic transitions. 
+
+3132. Einstein essentially did the theoretical aspect of this method for relativity.         With two deceptively simple postulates and a careful consideration of how measurements are made, he produced the theory of special relativity.Einstein’s First Postulate       
+
+3138. The latter is the case.         The correct formula for one-dimensional relativistic velocity addition is       
+
+3165. (See [link].)         These series are named after early researchers who studied them in particular depth.The observed hydrogen-spectrum wavelengths can be calculated using the following formula:       
+
+3171.         is the Rydberg constant.       Thus, we have used Bohr’s assumptions to derive the formula first proposed by Balmer years earlier as a recipe to fit experimental data. 
+

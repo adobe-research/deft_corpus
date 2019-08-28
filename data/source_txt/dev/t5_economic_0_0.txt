@@ -1,0 +1,10 @@
+4323.         John Maynard Keynes (1883–1946), one of the greatest economists of the twentieth century, pointed out that economics is not just a subject area but also a way of thinking.       Keynes, shown in [link], famously wrote in the introduction to a fellow economist’s book: “[Economics] is a method rather than a doctrine, an apparatus of the mind, a technique of thinking, which helps its possessor to draw correct conclusions.” In other words, economics teaches you how to think, not what to think. 
+
+4332. In a market economy, decision-making is decentralized.         Market economies are based on private enterprise: the means of production (resources and businesses) are owned and operated by private individuals or groups of private individuals.       Businesses supply goods and services based on demand. 
+
+4407. When the price of a gallon of gasoline goes up, for example, people look for ways to reduce their consumption by combining several errands, commuting by carpool or mass transit, or taking weekend or vacation trips closer to home.         Economists call this inverse relationship between price and quantity demanded the law of demand.       The law of demand assumes that all other variables that affect demand (to be explained in the next module) are held constant. 
+
+4449.         Many states do have usury laws, which impose an upper limit on the interest rate that lenders can charge.       However, in many cases these upper limits are well above the market interest rate. 
+
+4470. Rates of saving in America have never been especially high, but they seem to have dipped even lower in recent years, as the data from the Bureau of Economic Analysis in [link] show.         A decision about how much to save can be represented using an intertemporal budget constraint.       Household decisions about the quantity of financial savings show the same underlying pattern of logic as the consumption choice decision and the labor-leisure decision. 
+

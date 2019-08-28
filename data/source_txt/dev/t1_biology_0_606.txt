@@ -1,0 +1,14 @@
+1823. They are usually found in pairs and the number of tubules varies with the species of insect.         Malpighian tubules are convoluted, which increases their surface area, and they are lined with microvilli for reabsorption and maintenance of osmotic balance.       Malpighian tubules work cooperatively with specialized glands in the wall of the rectum. 
+
+1832. The environment consists of numerous pathogens, which are agents, usually microorganisms, that cause diseases in their hosts.         A host is the organism that is invaded and often harmed by a pathogen.       Pathogens include bacteria, protists, fungi and other infectious organisms. 
+
+1835. The immune system has specific cells, described in [link] and shown in [link], with receptors that recognize these PAMPs.         A macrophage is a large phagocytic cell that engulfs foreign particles and pathogens.       Macrophages recognize PAMPs via complementary pattern recognition receptors (PRRs). 
+
+1838. Cytokine Release EffectThe binding of PRRs with PAMPs triggers the release of cytokines, which signal that a pathogen is present and needs to be destroyed along with any infected cells.         A cytokine is a chemical messenger that regulates cell differentiation (form and function), proliferation (production), and gene expression to affect immune responses.       At least 40 types of cytokines exist in humans that differ in terms of the cell type that produces them, the cell type that responds to them, and the changes they produce. 
+
+1847. T cells and B cells of the adaptive immune system also are classified as lymphocytes.         T cells are lymphocytes that mature in the thymus gland, and B cells are lymphocytes that mature in the bone marrow.       NK cells identify intracellular infections, especially from viruses, by the altered expression of major histocompatibility class (MHC) I molecules on the surface of infected cells. 
+
+1892.         Fragmentation is the breaking of the body into two parts with subsequent regeneration.       If the animal is capable of fragmentation, and the part is big enough, a separate individual will regrow. 
+
+1904.         Semen is a mixture of sperm and spermatic duct secretions (about 10 percent of the total) and fluids from accessory glands that contribute most of the semen’s volume.       Sperm are haploid cells, consisting of a flagellum as a tail, a neck that contains the cell’s energy-producing mitochondria, and a head that contains the genetic material. 
+

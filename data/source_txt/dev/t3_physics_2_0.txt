@@ -1,0 +1,8 @@
+2649. Both are quite different from the velocity of an airplane relative to its passengers (which should be close to zero).         Relative velocities are one aspect of relativity, which is defined to be the study of how different observers moving relative to each other measure the same phenomenon.       
+
+2877. This question was answered at a theoretical level in 1824 by a young French engineer, Sadi Carnot (1796–1832), in his study of the then-emerging heat engine technology crucial to the Industrial Revolution.         He devised a theoretical cycle, now called the Carnot cycle, which is the most efficient cyclical process possible.       The second law of thermodynamics can be restated in terms of the Carnot cycle, and so what Carnot actually discovered was this fundamental law. 
+
+2928. The reason is that each instrument produces a distinctive set of frequencies and intensities.         We call our perception of these combinations of frequencies and intensities tone quality, or more commonly the timbre of the sound.       It is more difficult to correlate timbre perception to physical quantities than it is for loudness or pitch perception. 
+
+2934. Franklin wrote in his letters and books that he could see the effects of electric charge but did not understand what caused the phenomenon.         Today we have the advantage of knowing that normal matter is made of atoms, and that atoms contain positive and negative charges, usually in equal amounts.[link] shows a simple model of an atom with negative electrons orbiting its positive nucleus.       The nucleus is positive due to the presence of positively charged protons. 
+
