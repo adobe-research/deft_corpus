@@ -1,0 +1,184 @@
+3615. We use a variety of cues in a visual scene to establish our sense of depth.         Some of these are binocular cues, which means that they rely on the use of both eyes.       One example of a binocular depth cue is binocular disparity, the slightly different view of the world that each of our eyes receives. 
+
+3618. An example of a monocular cue would be what is known as linear perspective.         Linear perspective refers to the fact that we perceive depth when we see two parallel lines that seem to converge in an image ([link]).       Some other monocular depth cues are interposition, the partial overlap of objects, and the relative size and closeness of images to the horizon. 
+
+3624. We’ll discuss two of them here: temporal theory and place theory.         The temporal theory of pitch perception asserts that frequency is coded by the activity level of a sensory neuron.       This would mean that a given hair cell would fire action potentials related to the frequency of the sound wave. 
+
+3627. Localizing sound could be considered similar to the way that we perceive depth in our visual fields.         Like the monocular and binocular cues that provided information about depth, the auditory system uses both monaural (one-eared) and binaural (two-eared) cues to localize sound.       
+
+3630.          Deafness is the partial or complete inability to hear.       Some people are born deaf, which is known as congenital deafness. 
+
+3633.          When the hearing problem is associated with a failure to transmit neural signals from the cochlea to the brain, it is called sensorineural hearing loss.       One disease that results in sensorineural hearing loss is Ménière's disease. 
+
+3636. This kind of loss cannot be treated with hearing aids, but some individuals might be candidates for a cochlear implant as a treatment option.         Cochlear implants are electronic devices that consist of a microphone, a speech processor, and an electrode array.       The device receives incoming sound information and directly stimulates the auditory nerve to transmit information to the brain. 
+
+3639. You have learned since elementary school that there are four basic groupings of taste: sweet, salty, sour, and bitter.         Research demonstrates, however, that we have at least six taste groupings.       Umami is our fifth taste. 
+
+3642.          Olfactory receptor cells are located in a mucous membrane at the top of the nose.       Small hair-like extensions from these receptors serve as the sites for odor molecules dissolved in the mucus to interact with chemical receptors located on these extensions ([link]). 
+
+3645. These receptors include Meissner’s corpuscles, Pacinian corpuscles, Merkel’s disks, and Ruffini corpuscles.         Meissner’s corpuscles respond to pressure and lower frequency vibrations, and Pacinian corpuscles detect transient pressure and higher frequency vibrations.       Merkel’s disks respond to light pressure, while Ruffini corpuscles detect stretch (Abraira & Ginty, 2013).There are many types of sensory receptors located in the skin, each attuned to specific touch-related stimuli. 
+
+3648. Generally speaking, pain can be considered to be neuropathic or inflammatory in nature.         Pain that signals some type of tissue damage is known as inflammatory pain.       In some situations, pain results from damage to neurons of either the peripheral or central nervous system. 
+
+3651.          The vestibular sense contributes to our ability to maintain balance and body posture.       As [link] shows, the major sensory organs (utricle, saccule, and the three semicircular canals) of this system are located next to the cochlea in the inner ear. 
+
+3654.          One Gestalt principle is the figure-ground relationship.       According to this principle, we tend to segment our visual world into figure and ground. 
+
+3657.          Two additional Gestalt principles are the law of continuity (or good continuation) and closure.       The law of continuity suggests that we are more likely to perceive continuous, smooth flowing lines rather than jagged, broken lines ([link]). 
+
+3660. You probably feel fairly certain that your perception accurately matches the real world, but this is not always the case.         Our perceptions are based on perceptual hypotheses: educated guesses that we make while interpreting sensory information.       These hypotheses are informed by a number of factors, including our personalities, experiences, and expectations. 
+
+3663. Both instincts and reflexes are innate behaviors that organisms are born with.         Reflexes are a motor or neural reaction to a specific stimulus in the environment.       They tend to be simpler than instincts, involve the activity of specific body parts and systems (e.g., the knee-jerk reflex and the contraction of the pupil in bright light), and involve more primitive centers of the central nervous system (e.g., the spinal cord and the medulla). 
+
+3666. Our minds have a natural tendency to connect events that occur closely together or in sequence.         Associative learning occurs when an organism makes connections between stimuli or events that occur together in the environment.       You will see that associative learning is central to all three basic learning processes discussed in this chapter; classical conditioning tends to involve unconscious processes, operant conditioning tends to involve conscious processes, and observational learning adds social and cognitive layers to all the basic associative processes, both conscious and unconscious. 
+
+3669. Pavlov (1849–1936), a Russian scientist, performed extensive research on dogs and is best known for his experiments in classical conditioning ([link]).         As we discussed briefly in the previous section, classical conditioning is a process by which we learn to associate stimuli and, consequently, to anticipate events.Ivan Pavlov’s research on the digestive system of dogs unexpectedly led to his discovery of the learning process now known as classical conditioning.       "> 
+
+3672. Pavlov would sound a tone (like ringing a bell) and then give the dogs the meat powder ([link]).         The tone was the neutral stimulus (NS), which is a stimulus that does not naturally elicit a response.       Prior to conditioning, the dogs did not salivate when they just heard the tone because the tone had no association for the dogs. 
+
+3675. Tiger will learn to get excited when she hears the “squeak” of the cabinet.         Pairing a new neutral stimulus (“squeak”) with the conditioned stimulus (“zzhzhz”) is called higher-order conditioning, or second-order conditioning.       This means you are using the conditioned stimulus of the can opener to condition another stimulus: the squeaky cabinet ([link]). 
+
+3678. Soon the dogs stopped responding to the tone.         Extinction is the decrease in the conditioned response when the unconditioned stimulus is no longer presented with the conditioned stimulus.       When presented with the conditioned stimulus alone, the dog, cat, or other organism would show a weaker and weaker response, and finally no response. 
+
+3681.         On the other hand, when an organism demonstrates the conditioned response to stimuli that are similar to the condition stimulus, it is called stimulus generalization, the opposite of stimulus discrimination.       The more similar a stimulus is to the condition stimulus, the more likely the organism is to give the conditioned response. 
+
+3684. Remember that in classical conditioning, something in the environment triggers a reflex automatically, and researchers train the organism to react to a different stimulus.         Now we turn to the second type of associative learning, operant conditioning.       In operant conditioning, organisms learn to associate a behavior and its consequence ([link]). 
+
+3690. Remember that reinforcement, even when it is negative, always increases a behavior.         In contrast, punishment always decreases a behavior.       In positive punishment, you add an undesirable stimulus to decrease a behavior. 
+
+3693. ShapingIn his operant conditioning experiments, Skinner often used an approach called shaping.         Instead of rewarding only the target behavior, in shaping, we reward successive approximations of a target behavior.       Why is shaping needed? 
+
+3696. Each time the rat hit the lever, a pellet of food came out.         When an organism receives a reinforcer each time it displays a behavior, it is called continuous reinforcement.       This reinforcement schedule is the quickest way to teach someone a behavior, and it is especially effective in training a new behavior. 
+
+3702.          Although strict behaviorists such as Skinner and Watson refused to believe that cognition (such as thoughts and expectations) plays a role in learning, another behaviorist, Edward C. Tolman, had a different opinion.       Tolman’s experiments with rats demonstrated that organisms can learn even if they do not receive immediate reinforcement (Tolman & Honzik, 1930; Tolman, Ritchie, & Kalish, 1946). 
+
+3705. Previous sections of this chapter focused on classical and operant conditioning, which are forms of associative learning.         In observational learning, we learn by watching others and then imitating, or modeling, what they do or say.       The individuals performing the imitated behavior are called models. 
+
+3708. Bandura and other researchers proposed a brand of behaviorism called social learning theory, which took cognitive processes into account.         According to Bandura, pure behaviorism could not explain why learning can take place in the absence of external reinforcement.       He felt that internal mental states must also have a role in learning and that observational learning involves much more than imitation. 
+
+3711. What are the implications of this study?         Bandura concluded that we watch and learn, and that this learning can have both prosocial and antisocial effects.       Prosocial (positive) models can be used to encourage socially acceptable behavior. 
+
+3714. The different files stored in the file cabinet are called concepts.         Concepts are categories or groupings of linguistic information, images, ideas, or memories, such as life experiences.       Concepts are, in many ways, big ideas that are generated by observing details, and categorizing and combining these details into cognitive structures. 
+
+3717.         An artificial concept, on the other hand, is a concept that is defined by a specific set of characteristics.       Various properties of geometric shapes, like squares and triangles, serve as useful examples of artificial concepts. 
+
+3720.         An event schema, also known as a cognitive script, is a set of behaviors that can feel like a routine.       Think about what you do when you walk into an elevator ([link]). 
+
+3726. Semantics and syntax are part of a language’s grammar.         Semantics refers to the process by which we derive meaning from morphemes and words.       Syntax refers to the way words are organized into sentences (Chomsky, 1965; Fernández & Cairns, 2011). 
+
+3729. B. F. Skinner (1957) proposed that language is learned through reinforcement.         Noam Chomsky (1965) criticized this behaviorist approach, asserting instead that the mechanisms underlying language acquisition are biologically determined.       The use of language develops in the absence of formal instruction and appears to follow a very similar pattern in children from vastly different cultures and backgrounds. 
+
+3732. Different strategies have different action plans associated with them ([link]).         For example, a well-known strategy is trial and error.       The old adage, “If at first you don’t succeed, try, try again” describes trial and error. 
+
+3735.         Working backwards is a useful heuristic in which you begin solving the problem by focusing on the end result.       Consider this example: You live in Washington, D.C. and have been invited to a wedding at 4 PM on Saturday in Philadelphia. 
+
+3741. Hindsight bias leads you to believe that the event you just experienced was predictable, even though it really wasn’t. In other words, you knew all along that things would turn out the way they did.         Representative bias describes a faulty way of thinking, in which you unintentionally stereotype someone or something; for example, you may assume that your professors spend their free time reading books and engaging in intellectual conversation, because the idea of them spending their time playing volleyball or visiting an amusement park does not fit in with your stereotypes of professors.       
+
+3744. Motivation describes the wants or needs that direct behavior toward a goal.         In addition to biological motives, motivations can be intrinsic (arising from internal factors) or extrinsic (arising from external factors) ([link]).       Intrinsically motivated behaviors are performed because of the sense of personal satisfaction that they bring, while extrinsically motivated behaviors are performed in order to receive something from others. 
+
+3747.          According to the drive theory of motivation, deviations from homeostasis create physiological needs.       These needs result in psychological drive states that direct behavior to meet the need and, ultimately, bring the system back to homeostasis. 
+
+3750.          Self-efficacy is an individual’s belief in her own capability to complete a task, which may include a previous successful completion of the exact task or a similar task.       Albert Bandura (1994) theorized that an individual’s sense of self-efficacy plays a pivotal role in motivating behavior. 
+
+3753. In the 1940s, Raymond Cattell proposed a theory of intelligence that divided general intelligence into two components: crystallized intelligence and fluid intelligence (Cattell, 1963).         Crystallized intelligence is characterized as acquired knowledge and the ability to retrieve it.       When you learn, remember, and recall information, you are using crystallized intelligence. 
+
+3756.         Practical intelligence, as proposed by Sternberg, is sometimes compared to “street smarts.” Being practical means you find solutions that work in your everyday life by applying knowledge based on your experiences.       This type of intelligence appears to be separate from traditional understanding of IQ; individuals who score high in practical intelligence may or may not have comparable scores in creative and analytical intelligence (Sternberg, 1988). 
+
+3759.         Multiple Intelligences Theory was developed by Howard Gardner, a Harvard psychologist and former student of Erik Erikson.       Gardner’s theory, which has been refined for more than 30 years, is a more recent development among theories of intelligence. 
+
+3762.         Creativity is the ability to generate, create, or discover new ideas, solutions, and possibilities.       Very creative people often have intense knowledge about something, work on it for years, look at novel solutions, seek out the advice and help of other experts, and take risks. 
+
+3765.         For most people, once they have eaten, they feel satiation, or fullness and satisfaction, and their eating behavior stops.       Like the initiation of eating, satiation is also regulated by several physiological mechanisms. 
+
+3768. Our energy expenditure is obviously affected by our levels of activity, but our body’s metabolic rate also comes into play.         A person’s metabolic rate is the amount of energy that is expended in a given period of time, and there is tremendous individual variability in our metabolic rates.       People with high rates of metabolism are able to burn off calories more easily than those with lower rates of metabolism. 
+
+3771. According to the Centers for Disease Control and Prevention (CDC), an adult with a body mass index (BMI) between 25 and 29.9 is considered overweight ([link]).         An adult with a BMI of 30 or higher is considered obese (Centers for Disease Control and Prevention [CDC], 2012).       People who are so overweight that they are at risk for death are classified as morbidly obese. 
+
+3774.          Prader-Willi Syndrome (PWS) is a genetic disorder that results in persistent feelings of intense hunger and reduced rates of metabolism.       Typically, affected children have to be supervised around the clock to ensure that they do not engage in excessive eating. 
+
+3777.          Anorexia nervosa is an eating disorder characterized by the maintenance of a body weight well below average through starvation and/or excessive exercise.       Individuals suffering from anorexia nervosa often have a distorted body image, referenced in literature as a type of body dysmorphia, meaning that they view themselves as overweight even though they are not. 
+
+3780. Kinsey also developed a continuum known as the Kinsey scale that is still commonly used today to categorize an individual’s sexual orientation (Jenkins, 2010).         Sexual orientation is an individual’s emotional and erotic attractions to same-sexed individuals (homosexual), opposite-sexed individuals (heterosexual), or both (bisexual).       
+
+3783. Based on these observations, Masters and Johnson divided the sexual response cycle into four phases that are fairly similar in men and women: excitement, plateau, orgasm, and resolution ([link]).         The excitement phase is the arousal phase of the sexual response cycle, and it is marked by erection of the penis or clitoris and lubrication and expansion of the vaginal canal.       During plateau, women experience further swelling of the vagina and increased blood flow to the labia minora, and men experience full erection and often exhibit pre-ejaculatory fluid. 
+
+3786. In men, pelvic contractions are accompanied by a buildup of seminal fluid near the urethra that is ultimately forced out by contractions of genital muscles, (i.e., ejaculation).         Resolution is the relatively rapid return to an unaroused state accompanied by a decrease in blood pressure and muscular relaxation.       While many women can quickly repeat the sexual response cycle, men must pass through a longer refractory period as part of resolution. 
+
+3789. When individuals do not feel comfortable identifying with the gender associated with their biological sex, then they experience gender dysphoria.         Gender dysphoria is a diagnostic category in the fifth edition of the Diagnostic and Statistical Manual of Mental Disorders (DSM-5) that describes individuals who do not identify as the gender that most people would assume they are.       This dysphoria must persist for at least six months and result in significant distress or dysfunction to meet DSM-5 diagnostic criteria. 
+
+3792. As a result, the test was normed and standardized, which means that the test was administered consistently to a large enough representative sample of the population that the range of scores resulted in a bell curve (bell curves will be discussed later).         Standardization means that the manner of administration, scoring, and interpretation of results is consistent.       Norming involves giving a test to a large population so data can be collected comparing groups, such as age groups. 
+
+3795. Without a large sample size, it is less likely that the bell curve will represent the wider population.         A representative sample is a subset of the population that accurately represents the general population.       If, for example, you measured the height of the women in your classroom only, you might not actually have a representative sample. 
+
+3798.         The correlations of IQs of unrelated versus related persons reared apart or together suggest a genetic component to intelligence.       The bottom is labeled “Percent IQ Correlation” and the left side is labeled “Relationship.” The percent IQ Correlation for relationships where no genes are shared, including adoptive parent-child pairs, similarly aged unrelated children raised together, and adoptive siblings are around 21 percent, 30 percent, and 32 percent, respectively. 
+
+3810.          THE BIOLOGY OF EMOTIONSEarlier, you learned about the limbic system, which is the area of the brain involved in emotion and memory ([link]).       The limbic system includes the hypothalamus, thalamus, amygdala, and the hippocampus. 
+
+3813. It is critical for classical conditioning and for attaching emotional value to learning processes and memory.         The central nucleus plays a role in attention, and it has connections with the hypothalamus and various brainstem areas to regulate the autonomic nervous and endocrine systems’ activity (Pessoa, 2010).       
+
+3816. This would seem to suggest that the pattern of activity in facial muscles involved in generating emotional expressions is universal, and indeed, this idea was suggested in the late 19th century in Charles Darwin’s book The Expression of Emotions in Man and Animals (1872).         In fact, there is substantial evidence for seven universal emotions that are each associated with distinct facial expressions.       These include: happiness, surprise, sadness, fright, disgust, contempt, and anger ([link]) (Ekman & Keltner, 1997). 
+
+3819.         Personality refers to the long-standing traits and patterns that propel individuals to consistently think, feel, and behave in specific ways.       Our personality is what makes us unique individuals. 
+
+3822. According to Freud, unconscious drives influenced by sex and aggression, along with childhood sexuality, are the forces that influence our personality.         Freud attracted many followers who modified his ideas to create new theories about personality.       These theorists, referred to as neo-Freudians, generally agreed with Freud that childhood experiences matter, but they reduced the emphasis on sex and focused more on the social environment and effects of culture on personality. 
+
+3825.         The unconscious id contains our most primitive drives or urges, and is present from birth.       It directs impulses for hunger, thirst, and sex. 
+
+3828. According to Freud, a person who has a strong ego, which can balance the demands of the id and the superego, has a healthy personality.         Freud maintained that imbalances in the system can lead to neurosis (a tendency to experience negative emotions), anxiety disorders, or unhealthy behaviors.       For example, a person who is dominated by their id might be narcissistic and impulsive. 
+
+3831.         Another defense mechanism is reaction formation, in which someone expresses feelings, thoughts, and behaviors opposite to their inclinations.       In the above example, Joe made fun of a homosexual peer while himself being attracted to males. 
+
+3837.         After passing through the oral stage, children enter what Freud termed the anal stage (1–3 years).       In this stage, children experience pleasure in their bowel and bladder movements, so it makes sense that the conflict in this stage is over toilet training. 
+
+3840.         The final stage is the genital stage (from puberty on).       In this stage, there is a sexual reawakening as the incestuous urges resurface. 
+
+3843. He subsequently founded a school of psychology called individual psychology, which focuses on our drive to compensate for feelings of inferiority.         Adler (1937, 1956) proposed the concept of the inferiority complex.       An inferiority complex refers to a person’s feelings that they lack worth and don’t measure up to the standards of others or of society. 
+
+3846.         The collective unconscious is a universal version of the personal unconscious, holding mental patterns, or memory traces, which are common to all of us (Jung, 1928).       These ancestral memories, which Jung called archetypes, are represented by universal themes in various cultures, as expressed through literature, art, and dreams (Jung). 
+
+3849. Memory is an information processing system; therefore, we often compare it to a computer.         Memory is the set of processes used to encode, store, and retrieve information over different periods of time ([link]).Encoding involves the input of information into the memory system.       Storage is the retention of the encoded information. 
+
+3852. It probably required a lot of work and attention on your part in order to encode that information.         This is known as effortful processing ([link]).       
+
+3855. Craik and Tulving concluded that we process verbal information best through semantic encoding, especially if we apply what is called the self-reference effect.         The self-reference effect is the tendency for an individual to have better memory for information that relates to oneself in comparison to material that has less personal relevance (Rogers, Kuiper & Kirker, 1977).       Could semantic encoding be beneficial to you as you attempt to memorize the concepts in this chapter? 
+
+3858. In order for a memory to go into storage (i.e., long-term memory), it has to pass through three distinct stages: Sensory Memory, Short-Term Memory, and finally Long-Term Memory.         These stages were first proposed by Richard Atkinson and Richard Shiffrin (1968).       Their model of human memory ([link]), called Atkinson-Shiffrin (A-S), is based on the belief that we process memories in the same way that a computer processes information. 
+
+3861.          Short-term memory (STM) is a temporary storage system that processes incoming sensory memory; sometimes it is called working memory.       Short-term memory takes information from sensory memory and sometimes connects that memory to something already in long-term memory. 
+
+3864. Understanding the different types is important because a person’s age or particular types of brain trauma or disorders can leave certain types of LTM intact while having disastrous consequences for other types.         Explicit memories are those we consciously try to remember and recall.       For example, if you are studying for your chemistry exam, the material you are learning will be part of your explicit memory. 
+
+3867.          Declarative memory has to do with the storage of facts and events we personally experienced.       Explicit (declarative) memory has two parts: semantic memory and episodic memory. 
+
+3870. Can you remember every event you have experienced over the course of your life—meals, conversations, clothing choices, weather conditions, and so on?         Most likely none of us could even come close to answering these questions; however, American actress Marilu Henner, best known for the television show Taxi, can remember.       She has an amazing and highly superior autobiographical memory ([link]). 
+
+3873. There are three ways you can retrieve information out of your long-term memory storage system: recall, recognition, and relearning.         Recall is what we most often think about when we talk about memory retrieval: it means you can access information without cues.       For example, you would use recall for an essay test. 
+
+3876. Karl Lashley began exploring this problem, about 100 years ago, by making lesions in the brains of animals such as rats and monkeys.         He was searching for evidence of the engram: the group of neurons that serve as the “physical representation of memory” (Josselyn, 2010).       First, Lashley (1950) trained rats to find their way through a maze. 
+
+3879.          Another group of researchers also experimented with rats to learn how the hippocampus functions in memory processing ([link]).       They created lesions in the hippocampi of the rats, and found that the rats demonstrated memory impairment on various tasks, such as object recognition and maze running. 
+
+3882.          It is also believed that strong emotions trigger the formation of strong memories, and weaker emotional experiences form weaker memories; this is called arousal theory (Christianson, 1992).       For example, strong emotional experiences can trigger the release of neurotransmitters, as well as hormones, which strengthen memory; therefore, our memory for an emotional event is usually better than our memory for a non-emotional event. 
+
+3885.         Albert Bandura agreed with Skinner that personality develops through learning.       He disagreed, however, with Skinner’s strict behaviorist approach to personality development, because he felt that thinking and reasoning are important components of learning. 
+
+3888. Bandura (1977, 1995) has studied a number of cognitive and personal factors that affect learning and personality development, and most recently has focused on the concept of self-efficacy.         Self-efficacy is our level of confidence in our own abilities, developed through our social experiences.       Self-efficacy affects how we approach challenges and reach goals. 
+
+3891.         Walter Mischel was a student of Julian Rotter and taught for years at Stanford, where he was a colleague of Albert Bandura.       Mischel surveyed several decades of empirical psychological literature regarding trait prediction of behavior, and his conclusion shook the foundations of personality psychology. 
+
+3894.          Retrograde amnesia is loss of memory for events that occurred prior to the trauma.       People with retrograde amnesia cannot remember some or even all of their past. 
+
+3897.          In studying cases where DNA evidence has exonerated people from crimes, the Innocence Project discovered that eyewitness misidentification is the leading cause of wrongful convictions (Benjamin N. Cardozo School of Law, Yeshiva University, 2009).       "> 
+
+3900.          Recall of false autobiographical memories is called false memory syndrome.       This syndrome has received a lot of publicity, particularly as it relates to memories of events that do not have independent witnesses—often the only witnesses to the abuse are the perpetrator and the victim (e.g., sexual abuse). 
+
+3903. I know I read the book in high school, and I remember that one of the main characters is named Scout, and her father is an attorney, but I honestly don’t remember anything else.” Nathan wonders if his mother actually read the book, and his mother is surprised she can’t recall the plot.         What is going on here is storage decay: unused information tends to fade with the passage of time.In 1885, German psychologist Hermann Ebbinghaus analyzed the process of memorization.       First, he memorized lists of nonsense syllables. 
+
+3906.          Memories can also be affected by bias, which is the final distortion error.       Schacter (2001) says that your feelings and view of the world can actually distort your memory of past events. 
+
+3909. These are examples of proactive interference: when old information hinders the recall of newly learned information.         Retroactive interference happens when information learned more recently hinders the recall of older information.       For example, this week you are studying about Freud’s Psychoanalytic Theory. 
+
+3912. Another humanistic theorist was Carl Rogers.         One of Rogers’s main ideas about personality regards self-concept, our thoughts and feelings about ourselves.       How would you respond to the question, “Who am I?” Your answer can show how you see yourself. 
+
+3915. According to Rogers (1980), “As persons are accepted and prized, they tend to develop a more caring attitude towards themselves” (p. 116).         Conversely, when there is a great discrepancy between our ideal and actual selves, we experience a state Rogers called incongruence, which can lead to maladjustment.       Both Rogers’s and Maslow’s theories focus on individual choices and do not believe that biology is deterministic. 
+

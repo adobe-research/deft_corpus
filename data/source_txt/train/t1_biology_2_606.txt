@@ -1,0 +1,156 @@
+1822.         Malpighian Tubules of InsectsMalpighian tubules are found lining the gut of some species of arthropods, such as the bee illustrated in [link].       They are usually found in pairs and the number of tubules varies with the species of insect. 
+
+1828. The first two reactions occur in the mitochondria and the last three reactions occur in the cytosol.         Urea concentration in the blood, called blood urea nitrogen or BUN, is used as an indicator of kidney function.       
+
+1831.         The environment consists of numerous pathogens, which are agents, usually microorganisms, that cause diseases in their hosts.       A host is the organism that is invaded and often harmed by a pathogen. 
+
+1834. The innate immune system must respond accordingly: by identifying the extracellular pathogen and/or by identifying host cells that have already been infected.         When a pathogen enters the body, cells in the blood and lymph detect the specific pathogen-associated molecular patterns (PAMPs) on the pathogen’s surface.       PAMPs are carbohydrate, polypeptide, and nucleic acid “signatures” that are expressed by viruses, bacteria, and parasites but which differ from molecules on host cells. 
+
+1837. PRRs are molecules on macrophages and dendritic cells which are in contact with the external environment.         A monocyte is a type of white blood cell that circulates in the blood and lymph and differentiates into macrophages after it moves into infected tissue.       Dendritic cells bind molecular signatures of pathogens and promote pathogen engulfment and destruction. 
+
+1843. Neutrophils and eosinophils are particularly important leukocytes that engulf large pathogens, such as bacteria and fungi.         A mast cell is a leukocyte that produces inflammatory molecules, such as histamine, in response to large pathogens.       A basophil is a leukocyte that, like a neutrophil, releases chemicals to stimulate the inflammatory response as illustrated in [link]. 
+
+1846. Lymphocytes are leukocytes that are histologically identifiable by their large, darkly staining nuclei; they are small cells with very little cytoplasm, as shown in [link].         Infected cells are identified and destroyed by natural killer (NK) cells, lymphocytes that can kill cells infected with viruses or tumor cells (abnormal cells that uncontrollably divide and invade other tissue).       T cells and B cells of the adaptive immune system also are classified as lymphocytes. 
+
+1849. MHC II molecules are found mainly on cells containing antigens (“non-self proteins”) and on lymphocytes.         MHC II molecules interact with helper T-cells to trigger the appropriate immune response, which may include the inflammatory response.Lymphocytes, such as NK cells, are characterized by their large nuclei that actively absorb Wright stain and therefore appear dark colored under a microscope.       "> 
+
+1852.         An array of approximately 20 types of soluble proteins, called a complement system, functions to destroy extracellular pathogens.       Cells of the liver and macrophages synthesize complement proteins continuously; these proteins are abundant in the blood serum and are capable of responding immediately to infecting microorganisms. 
+
+1855. In fact, without information from the innate immune system, the adaptive response could not be mobilized.         There are two types of adaptive responses: the cell-mediated immune response, which is carried out by T cells, and the humoral immune response, which is controlled by activated B cells and antibodies.       Activated T cells and B cells that are specific to molecular structures on the pathogen proliferate and attack the invading pathogen. 
+
+1858. Antigen fragments will then be transported to the surface of the APC, where they will serve as an indicator to other immune cells.         Dendritic cells are immune cells that process antigen material; they are present in the skin (Langerhans cells) and the lining of the nose, lungs, stomach, and intestines.       Sometimes a dendritic cell presents on the surface of other cells to induce an immune response, thus functioning as an antigen-presenting cell. 
+
+1861. Naïve CD4+ cells bind APCs via their antigen-embedded MHC II molecules and are stimulated to become helper T (TH) lymphocytes, cells that go on to stimulate B cells (or cytotoxic T cells) directly or secrete cytokines to inform more and various target cells about the pathogenic threat.         In contrast, CD8+ cells engage antigen-embedded MHC I molecules on APCs and are stimulated to become cytotoxic T lymphocytes (CTLs), which directly kill infected cells by apoptosis and emit cytokines to amplify the immune response.       The two populations of T cells have different mechanisms of immune protection, but both bind MHC molecules via their antigen receptors called T cell receptors (TCRs). 
+
+1864. Plasma cells and CTLs are collectively called effector cells: they represent differentiated versions of their naïve counterparts, and they are involved in bringing about the immune defense of killing pathogens and infected host cells. 
+
+1867. Immune tolerance is crucial for maintaining mucosal homeostasis given the tremendous number of foreign substances (such as food proteins) that APCs of the oral cavity, pharynx, and gastrointestinal mucosa encounter.         Immune tolerance is brought about by specialized APCs in the liver, lymph nodes, small intestine, and lung that present harmless antigens to an exceptionally diverse population of regulatory T (Treg) cells, specialized lymphocytes that suppress local inflammation and inhibit the secretion of stimulatory immune factors.       The combined result of Treg cells is to prevent immunologic activation and inflammation in undesired tissue compartments and to allow the immune system to focus on pathogens instead. 
+
+1870. The majority of cells in the blood are erythrocytes (red blood cells).         Lymph is a watery fluid that bathes tissues and organs with protective white blood cells and does not contain erythrocytes.       Cells of the immune system can travel between the distinct lymphatic and blood circulatory systems, which are separated by interstitial space, by a process called extravasation (passing through to surrounding tissue). 
+
+1873. Not all antibodies bind with the same strength, specificity, and stability.         In fact, antibodies exhibit different affinities (attraction) depending on the molecular complementarity between antigen and antibody molecules, as illustrated in [link].       An antibody with a higher affinity for a particular antigen would bind more strongly and stably, and thus would be expected to present a more challenging defense against the pathogen corresponding to the specific antigen. 
+
+1876. Once the afferent arterioles are constricted, blood flow into the nephrons stops.         These hormones go one step further and trigger the renin-angiotensin-aldosterone system.       
+
+1879. Renin acts on angiotensinogen, which is made in the liver and converts it to angiotensin I.         Angiotensin converting enzyme (ACE) converts angiotensin I to angiotensin II.       Angiotensin II raises blood pressure by constricting blood vessels. 
+
+1882.         The atrial natriuretic peptide (ANP) lowers blood pressure by acting as a vasodilator.       It is released by cells in the atrium of the heart in response to high blood pressure and in patients with sleep apnea. 
+
+1885.         The immune reaction that results from immediate hypersensitivities in which an antibody-mediated immune response occurs within minutes of exposure to a harmless antigen is called an allergy.       In the United States, 20 percent of the population exhibits symptoms of allergy or asthma, whereas 55 percent test positive against one or more allergens. 
+
+1888. Both methods have advantages and disadvantages.         Asexual reproduction produces offspring that are genetically identical to the parent because the offspring are all clones of the original parent.       A single individual can produce offspring asexually and large numbers of offspring can be produced quickly. 
+
+1891.         BuddingBudding is a form of asexual reproduction that results from the outgrowth of a part of a cell or body region leading to a separation from the original organism into two individuals.       Budding occurs commonly in some invertebrate animals such as corals and hydras. 
+
+1894.         Hermaphroditism occurs in animals where one individual has both male and female reproductive parts.       Invertebrates such as earthworms, slugs, tapeworms and snails, shown in [link], are often hermaphroditic. 
+
+1897.         In ovoviparity, fertilized eggs are retained in the female, but the embryo obtains its nourishment from the egg’s yolk and the young are fully developed when they are hatched.       This occurs in some bony fish (like the guppy Lebistes reticulatus), some sharks, some lizards, some snakes (such as the garter snake Thamnophis sirtalis), some vipers, and some invertebrate animals (like the Madagascar hissing cockroach Gromphadorhina portentosa). 
+
+1900. Vertebrates have similar structures, with a few differences.         Non-mammals, such as birds and reptiles, have a common body opening, called a cloaca, for the digestive, excretory and reproductive systems.       Coupling between birds usually involves positioning the cloaca openings opposite each other for transfer of sperm. 
+
+1903.         Sperm mature in seminiferous tubules that are coiled inside the testes, as illustrated in [link].       The walls of the seminiferous tubules are made up of the developing sperm cells, with the least developed sperm at the periphery of the tubule and the fully developed sperm in the lumen. 
+
+1906.         The penis, illustrated in [link], is an organ that drains urine from the renal bladder and functions as a copulatory organ during intercourse.       The penis contains three tubes of erectile tissue running through the length of the organ. 
+
+1909. The mons pubis is a round, fatty area that overlies the pubic symphysis.         The clitoris is a structure with erectile tissue that contains a large number of sensory nerves and serves as a source of stimulation during intercourse.       The labia majora are a pair of elongated folds of tissue that run posterior from the mons pubis and enclose the other components of the vulva. 
+
+1912.         Internal female reproductive structures include ovaries, oviducts, the uterus, and the vagina, shown in [link].       The pair of ovaries is held in place in the abdominal cavity by a system of ligaments. 
+
+1915. Meiosis produces haploid cells with half of each pair of chromosomes normally found in diploid cells.         The production of sperm is called spermatogenesis and the production of eggs is called oogenesis.       
+
+1918. At the onset of puberty, the hypothalamus causes the release of FSH and LH into the male system for the first time.         FSH enters the testes and stimulates the Sertoli cells to begin facilitating spermatogenesis using negative feedback, as illustrated in [link].       LH also enters the testes and stimulates the interstitial cells of Leydig to make and release testosterone into the testes and the blood. 
+
+1921. A negative feedback system occurs in the male with rising levels of testosterone acting on the hypothalamus and anterior pituitary to inhibit the release of GnRH, FSH, and LH.         The Sertoli cells produce the hormone inhibin, which is released into the blood when the sperm count is too high.       This inhibits the release of GnRH and FSH, which will cause spermatogenesis to slow down. 
+
+1927. To ensure that the offspring has only one complete diploid set of chromosomes, only one sperm must fuse with one egg.         In mammals, the egg is protected by a layer of extracellular matrix consisting mainly of glycoproteins called the zona pellucida.       When a sperm binds to the zona pellucida, a series of biochemical events, called the acrosomal reactions, take place. 
+
+1930.         Cleavage can take place in two ways: holoblastic (total) cleavage or meroblastic (partial) cleavage.       The type of cleavage depends on the amount of yolk in the eggs. 
+
+1933. The cells in the blastula rearrange themselves spatially to form three layers of cells.         This process is called gastrulation.       During gastrulation, the blastula folds upon itself to form the three layers of cells. 
+
+1939. Gastrulation leads to the formation of the three germ layers that give rise, during further development, to the different organs in the animal body.         This process is called organogenesis.       Organogenesis is characterized by rapid and precise movements of the cells within the embryo. 
+
+1942.         Ecology is the study of the interactions of living organisms with their environment.       One core goal of ecology is to understand the distribution and abundance of living things in the physical environment. 
+
+1945. Ecosystem ecology is an extension of organismal, population, and community ecology.         The ecosystem is composed of all the biotic components (living things) in an area along with the abiotic components (non-living things) of that area.       Some of the abiotic components include air, water, and soil. 
+
+1948. No species exists everywhere; for example, the Venus flytrap is endemic to a small area in North and South Carolina.         An endemic species is one which is naturally found only in a specific geographic area that is usually restricted in size.       Other species are generalists: species which live in a wide variety of geographic areas; the raccoon, for example, is native to most of North and Central America. 
+
+1957. All of the ocean’s open water is referred to as the pelagic realm (or zone).         The benthic realm (or zone) extends along the ocean bottom from the shoreline to the deepest parts of the ocean floor.       Within the pelagic realm is the photic zone, which is the portion of the ocean that light can penetrate (approximately 200 m or 650 ft). 
+
+1960.         The intertidal zone, which is the zone between high and low tide, is the oceanic region that is closest to land ([link]).       Generally, most people think of this portion of the ocean as a sandy beach. 
+
+1963. Phytoplankton and floating Sargassum (a type of free-floating marine seaweed) provide a habitat for some sea life found in the neritic zone.         Zooplankton, protists, small fishes, and shrimp are found in the neritic zone and are the base of the food chain for most of the world’s fisheries.Beyond the neritic zone is the open ocean area known as the oceanic zone ([link]).       Within the oceanic zone there is thermal stratification where warm and cold waters mix because of ocean currents. 
+
+1966. Watch this National Oceanic and Atmospheric Administration (NOAA) video to see marine ecologist Dr. Peter Etnoyer discusses his research on coral organisms.It is estimated that more than 4,000 fish species inhabit coral reefs.         These fishes can feed on coral, the cryptofauna (invertebrates found within the calcium carbonate substrate of the coral reefs), or the seaweed and algae that are associated with the coral.       In addition, some fish species inhabit the boundaries of a coral reef; these species include predators, herbivores, or planktivores. 
+
+1969. Humans rely on freshwater biomes to provide aquatic resources for drinking water, crop irrigation, sanitation, and industry.         These various roles and human benefits are referred to as ecosystem services.       Lakes and ponds are found in terrestrial landscapes and are, therefore, connected with abiotic and biotic factors influencing these terrestrial biomes. 
+
+1972. The source water is usually cold, low in nutrients, and clear.         The channel (the width of the river or stream) is narrower than at any other place along the length of the river or stream.       Because of this, the current is often faster here than at any other point of the river or stream. 
+
+1975.         Climate refers to the long-term, predictable atmospheric conditions of a specific area.       The climate of a biome is characterized by having consistent temperature and annual rainfall ranges. 
+
+1978. The variation in the sun’s intensity is the second natural factor responsible for climate change.         Solar intensity is the amount of solar power or energy the sun emits in a given amount of time.       There is a direct relationship between solar intensity and temperature. 
+
+1981. The more greenhouse gases there are in the atmosphere, the more thermal energy is reflected back to the Earth’s surface.         Greenhouse gases absorb and emit radiation and are an important factor in the greenhouse effect: the warming of Earth due to carbon dioxide and other greenhouse gases in the atmosphere.Evidence supports the relationship between atmospheric concentrations of carbon dioxide and temperature: as carbon dioxide rises, global temperature rises.       Since 1950, the concentration of atmospheric carbon dioxide has increased from about 280 ppm to 382 ppm in 2006. 
+
+1990.         Another tool used by population ecologists is a survivorship curve, which is a graph of the number of individuals surviving at each age interval plotted versus time (usually with data compiled from a life table).       These curves allow us to compare the life histories of different populations ([link]). 
+
+1993. After 1 day and 24 of these cycles, the population would have increased from 1000 to more than 16 billion.         When the population size, N, is plotted over time, a J-shaped growth curve is produced ([link]).The bacteria example is not representative of the real world where resources are limited.       Furthermore, some bacteria will die during the experiment and thus not reproduce, lowering the growth rate. 
+
+1996. Obviously, a bacterium can reproduce more rapidly and have a higher intrinsic rate of growth than a human.         The maximal growth rate for a species is its biotic potential, or rmax, thus changing the equation to:       
+
+1999. This model also allows for the population of a negative population growth, or a population decline.         This occurs when the number of individuals in the population exceeds the carrying capacity (because the value of (K-N)/K is negative).A graph of this equation yields an S-shaped curve ([link]), and it is a more realistic model of population growth than exponential growth.       There are three different sections to an S-shaped curve. 
+
+2008. All species have an ecological niche in the ecosystem, which describes how they acquire the resources they need and how they interact with other species in the community.         The competitive exclusion principle states that two species cannot occupy the same niche in a habitat.       In other words, different species cannot coexist in a community if they are competing for all the same resources. 
+
+2011.         A second type of symbiotic relationship is called mutualism, where two species benefit from their interaction.       Some scientists believe that these are the only true examples of symbiosis. 
+
+2014.         Foundation species are considered the “base” or “bedrock” of a community, having the greatest influence on its overall structure.       They are usually the primary producers: organisms that bring most of the energy into the community. 
+
+2023.         Behavior is the change in activity of an organism in response to a stimulus.       Behavioral biology is the study of the biological and evolutionary bases for such changes. 
+
+2026.         One goal of behavioral biology is to dissect out the innate behaviors, which have a strong genetic component and are largely independent of environmental influences, from the learned behaviors, which result from environmental conditioning.       Innate behavior, or instinct, is important because there is no risk of an incorrect behavior being learned. 
+
+2029.         A similar, but more directed version of kinesis is taxis: the directed movement towards or away from a stimulus.       This movement can be in response to light (phototaxis), chemical signals (chemotaxis), or gravity (geotaxis) and can be directed toward (positive) or away (negative) from the source of the stimulus. 
+
+2032.         Foraging is the act of searching for and exploiting food resources.       Feeding behaviors that maximize energy gain and minimize energy expenditure are called optimal foraging behaviors, and these are favored by natural section. 
+
+2035.         Aggressive displays are also common in the animal kingdom.       An example is when a dog bares its teeth when it wants another dog to back down. 
+
+2041.         In polyandrous mating systems, one female mates with many males.       These types of systems are much rarer than monogamous and polygynous mating systems. 
+
+2044.         Conditioned behaviors are types of associative learning, where a stimulus becomes associated with a consequence.       During operant conditioning, the behavioral response is modified by its consequences, with regards to its form, strength, or frequency. 
+
+2047. Some primates, including humans, are able to learn by imitating the behavior of others and by taking instructions.         The development of complex language by humans has made cognitive learning, the manipulation of information using the mind, the most prominent method of human learning.       In fact, that is how students are learning right now by reading this book. 
+
+2050.         Fecundity is the potential reproductive capacity of an individual within a population.       In other words, fecundity describes how many offspring could ideally be produced if an individual has as many offspring as possible, repeating the reproductive cycle as soon as possible after the birth of the offspring. 
+
+2053. Additionally, populations do not usually exist in isolation.         They engage in interspecific competition: that is, they share the environment with other species, competing with them for the same resources.       These factors are also important to understanding how a specific population will grow. 
+
+2056.          In contrast, r-selected species  have a large number of small offspring (hence their r designation ([link]).       This strategy is often employed in unpredictable or changing environments. 
+
+2059.         Equilibrium is the steady state of an ecosystem where all organisms are in balance with their environment and with each other.       In ecology, two parameters are used to measure changes in ecosystems: resistance and resilience. 
+
+2065. In many ecosystems, the bottom of the food chain consists of photosynthetic organisms (plants and/or phytoplankton), which are called primary producers.         The organisms that consume the primary producers are herbivores: the primary consumers.       Secondary consumers are usually carnivores that eat the primary consumers. 
+
+2071. A grazing food web (such as the Lake Ontario food web in [link]) has plants or other photosynthetic organisms at its base, followed by herbivores and various carnivores.         A detrital food web consists of a base of organisms that feed on decaying organic matter (dead organisms), called decomposers or detritivores.       These organisms are usually bacteria or fungi that recycle organic material back into the biotic part of the ecosystem as they themselves are consumed by other organisms. 
+
+2074. For these reasons, scientists study ecosystems under more controlled conditions.         Experimental systems usually involve either partitioning a part of a natural ecosystem that can be used for experiments, termed a mesocosm, or by re-creating an ecosystem entirely in an indoor or outdoor laboratory environment, which is referred to as a microcosm.       A major limitation to these approaches is that removing individual organisms from their natural ecosystem or altering a natural ecosystem through partitioning may change the dynamics of the ecosystem. 
+
+2080. For example, in the English Channel ecosystem the primary producers account for a biomass of 4 g/m2 (grams per meter squared), while the primary consumers exhibit a biomass of 21 g/m2.The productivity of the primary producers is especially important in any ecosystem because these organisms bring energy to other living organisms by photoautotrophy or chemoautotrophy.         The rate at which photosynthetic primary producers incorporate energy from the sun is called gross primary productivity.       An example of gross primary productivity is shown in the compartment diagram of energy flow within the Silver Springs aquatic ecosystem as shown ([link]). 
+
+2089. [link] illustrates the average time that an individual water molecule may spend in the Earth’s major water reservoirs.         Residence time is a measure of the average time an individual water molecule stays in a particular reservoir.       A large amount of the Earth’s water is locked in place in these reservoirs as ice, beneath the ground, and in the ocean, and, thus, is unavailable for short-term cycling (only surface water can evaporate). 
+
+2098. The Nile perch was introduced in 1963, but lay low until the 1980s when its populations began to surge.         The Nile perch population grew by consuming cichlids, driving species after species to the point of extinction (the disappearance of a species).       In fact, there were several factors that played a role in the extinction of perhaps 200 cichlid species in Lake Victoria: the Nile perch, declining lake water quality due to agriculture and land clearing on the shores of Lake Victoria, and increased fishing pressure. 
+
+2101.         It is also useful to define ecosystem diversity, meaning the number of different ecosystems on the planet or in a given geographic area ([link]).       Whole ecosystems can disappear even if some of the species might survive by adapting to other ecosystems. 
+
+2104. In 1988, British environmentalist Norman Myers developed a conservation concept to identify areas rich in species and at significant risk for species loss: biodiversity hotspots.         Biodiversity hotspots are geographical areas that contain high numbers of endemic species.       The purpose of the concept was to identify important locations on the planet for conservation efforts, a kind of conservation triage. 
+
+2107. A second approach to estimating present-time extinction rates is to correlate species loss with habitat loss by measuring forest-area loss and understanding species-area relationships.         The species-area relationship is the rate at which new species are seen when the area surveyed is increased.       Studies have shown that the number of species present increases as the size of the island increases. 
+
+2110.         View a brief video discussing the role of marine ecosystems in supporting human welfare and the decline of ocean ecosystems.Bush meat is the generic term used for wild animals killed for food.       Hunting is practiced throughout the world, but hunting practices, particularly in equatorial Africa and parts of Asia, are believed to threaten several species with extinction. 
+
+2113.         Early evidence suggests that another fungal pathogen, Geomyces destructans, introduced from Europe is responsible for white-nose syndrome, which infects cave-hibernating bats in eastern North America and has spread from a point of origin in western New York State ([link]).       The disease has decimated bat populations and threatens extinction of species already listed as endangered: the Indiana bat, Myotis sodalis, and potentially the Virginia big-eared bat, Corynorhinus townsendii virginianus. 
+

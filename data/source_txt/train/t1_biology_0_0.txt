@@ -1,0 +1,178 @@
+2. It becomes clear from this definition that the application of the scientific method plays a major role in science.         The scientific method is a method of research with defined steps that include experiments and careful observation.       
+
+8. In deductive reason, the pattern of thinking moves in the opposite direction as compared to inductive reasoning.         Deductive reasoning is a form of logical thinking that uses a general principle or law to forecast specific results.       From those general principles, a scientist can extrapolate and predict the specific results that would be valid as long as the general principles are valid. 
+
+11. Each experiment will have one or more variables and one or more controls.         A variable is any part of the experiment that can vary or change during the experiment.       The control group contains every feature of the experimental group except it is not given the manipulation that is hypothesized about. 
+
+14.         In contrast, applied science or “technology,” aims to use science to solve real-world problems, making it possible, for example, to improve a crop yield, find a cure for a particular disease, or save animals threatened by a natural disaster ([link]).       In applied science, the problem is usually defined for the researcher. 
+
+17. This structure is sometimes called the “IMRaD” format.         There are usually acknowledgment and reference sections as well as an abstract (a concise summary) at the beginning of the paper.       There might be additional sections depending on the type of paper and the journal where it will be published; for example, some review papers require an outline. 
+
+20.         The materials and methods section includes a complete and accurate description of the substances used, and the method and techniques used by the researchers to gather data.       The description should be thorough enough to allow another researcher to repeat the experiment and obtain similar results, but it does not have to be verbose. 
+
+23.         Finally, the conclusion section summarizes the importance of the experimental findings.       While the scientific paper almost certainly answered one or more scientific questions that were stated, any good research should lead to more questions. 
+
+26. Living things are highly organized and structured, following a hierarchy that can be examined on a scale from small to large.         The atom is the smallest and most fundamental unit of matter.       It consists of a nucleus surrounded by electrons. 
+
+32.         In larger organisms, cells combine to make tissues, which are groups of similar cells carrying out similar or related functions.       Organs are collections of tissues grouped together performing a common function. 
+
+35. For instance, the circulatory system transports blood through the body and to and from the lungs; it includes organs such as the heart and blood vessels.         Organisms are individual living entities.       For example, each tree in a forest is an organism. 
+
+38. The forest itself is an ecosystem.         An ecosystem consists of all the living things in a particular area together with the abiotic, non-living parts of that environment such as nitrogen in the soil or rain water.       At the highest level of organization ([link]), the biosphere is the collection of all ecosystems, and it represents the zones of life on earth. 
+
+44.          Another field of biological study, neurobiology, studies the biology of the nervous system, and although it is considered a branch of biology, it is also recognized as an interdisciplinary field of study known as neuroscience.       Because of its interdisciplinary nature, this subdiscipline studies different functions of the nervous system using molecular, cellular, developmental, medical, and computational approaches. 
+
+47. At its most fundamental level, life is made up of matter.         Matter is any substance that occupies space and has mass.       Elements are unique forms of matter with specific chemical and physical properties that cannot be broken down into smaller substances by ordinary chemical reactions. 
+
+53. Atoms of each element contain a characteristic number of protons and electrons.         The number of protons determines an element’s atomic number and is used to distinguish one element from another.       The number of neutrons is variable, resulting in isotopes, which are different forms of the same atom that vary only in the number of neutrons they possess. 
+
+56.         IsotopesIsotopes are different forms of an element that have the same number of protons but a different number of neutrons.       Some elements—such as carbon, potassium, and uranium—have naturally occurring isotopes. 
+
+59. The properties of elements are responsible for their physical state at room temperature: they may be gases, solids, or liquids.         Elements also have specific chemical reactivity, the ability to combine and to chemically bond with each other.       
+
+62. The innermost shell has a maximum of two electrons but the next two electron shells can each have a maximum of eight electrons.         This is known as the octet rule, which states, with the exception of the innermost shell, that atoms are more stable energetically when they have eight electrons in their valence shell, the outermost electron shell.       Examples of some neutral atoms and their electron configurations are shown in [link]. 
+
+65. Electron OrbitalsAlthough useful to explain the reactivity and chemical bonding of certain elements, the Bohr model of the atom does not accurately reflect how electrons are spatially distributed surrounding the nucleus.         They do not circle the nucleus like the earth orbits the sun, but are found in electron orbitals.       These relatively complex shapes result from the fact that electrons behave not just like particles, but also like waves. 
+
+71.          Even though all of the reactants and products of this reaction are molecules (each atom remains bonded to at least one other atom), in this reaction only hydrogen peroxide and water are representatives of compounds: they contain atoms of more than one type of element.       Molecular oxygen, on the other hand, as shown in [link],consists of two doubly bonded oxygen atoms and is not classified as a compound but as a homonuclear molecule.The oxygen atoms in an O2 molecule are joined by a double bond. 
+
+74. In reversible reactions, reactants are turned into products, but when the concentration of product goes beyond a certain threshold (characteristic of the particular reaction), some of these products will be converted back into reactants; at this point, the designations of products and reactants are reversed.         This back and forth continues until a certain relative balance between reactants and products occurs—a state called equilibrium.       These situations of reversible reactions are often denoted by a chemical equation with a double headed arrow pointing towards both the reactants and products. 
+
+77. Negative ions are formed by gaining electrons and are called anions.         Anions are designated by their elemental name being altered to end in “-ide”: the anion of chlorine is called chloride, and the anion of sulfur is called sulfide, for example.       
+
+80.         Certain salts are referred to in physiology as electrolytes (including sodium, potassium, and calcium), ions necessary for nerve impulse conduction, muscle contractions and water balance.       Many sports drinks and dietary supplements provide these ions to replace those lost from the body via sweating during exercise. 
+
+83. This occurs because the nucleus of the oxygen atom is more attractive to the electrons of the hydrogen atoms than the hydrogen nucleus is to the oxygen’s electrons.         Thus oxygen has a higher electronegativity than hydrogen and the shared electrons spend more time in the vicinity of the oxygen nucleus than they do near the nucleus of the hydrogen atoms, giving the atoms of oxygen and hydrogen slightly negative and positive charges, respectively.       Another way of stating this is that the probability of finding a shared electron near an oxygen nucleus is more likely than finding it near a hydrogen nucleus. 
+
+86. Individual hydrogen bonds are weak and easily broken; however, they occur in very large numbers in water and in organic polymers, creating a major force in combination.         Hydrogen bonds are also responsible for zipping together the DNA double helix.Like hydrogen bonds, van der Waals interactions are weak attractions or interactions between molecules.       Van der Waals attractions can occur between any two or more molecules and are dependent on slight fluctuations of the electron densities, which are not always symmetrical around an atom. 
+
+89. Water’s high heat capacity is a property caused by hydrogen bonding among water molecules.         Water has the highest specific heat capacity of any liquids.       Specific heat is defined as the amount of heat one gram of a substance must absorb or lose to change its temperature by one degree Celsius. 
+
+92. Eventually, as water reaches its boiling point of 100° Celsius (212° Fahrenheit), the heat is able to break the hydrogen bonds between the water molecules, and the kinetic energy (motion) between the water molecules allows them to escape from the liquid as a gas.         Even when below its boiling point, water’s individual molecules acquire enough energy from other water molecules such that some surface water molecules can escape and vaporize: this process is known as evaporation.       
+
+95. Before it overflows, the water forms a dome-like shape above the rim of the glass.         This water can stay above the glass because of the property of cohesion.       In cohesion, water molecules are attracted to each other (because of hydrogen bonding), keeping the molecules together at the liquid-gas (water-air) interface, although there is no more room in the glass. 
+
+98. This is because the water molecules are attracted to the charged glass walls of the capillary more than they are to each other and therefore adhere to it.         This type of adhesion is called capillary action, and is illustrated in [link].       
+
+101. An acid is a substance that increases the concentration of hydrogen ions (H+) in a solution, usually by having one of its hydrogen atoms dissociate.         A base provides either hydroxide ions (OH–) or other negatively charged ions that combine with hydrogen ions, reducing their concentration in the solution and thereby raising the pH.       In cases where the base releases hydroxide ions, these ions bind to free hydrogen ions, generating new water molecules. 
+
+107. So far, the hydrocarbons we have discussed have been aliphatic hydrocarbons, which consist of linear chains of carbon atoms.         Another type of hydrocarbon, aromatic hydrocarbons, consists of closed rings of carbon atoms.       Ring structures are found in hydrocarbons, sometimes with the presence of double bonds, which can be seen by comparing the structure of cyclohexane to benzene in [link]. 
+
+110. Structural isomers (like butane and isobutene shown in [link] a) differ in the placement of their covalent bonds: both molecules have four carbons and ten hydrogens (C4H10), but the different arrangement of the atoms within the molecules leads to differences in their chemical properties.         For example, due to their different chemical properties, butane is suited for use as a fuel for cigarette lighters and torches, whereas isobutene is suited for use as a refrigerant and a propellant in spray cans.Geometric isomers, on the other hand, have similar placements of their covalent bonds but differ in how these bonds are made to the surrounding atoms, especially in carbon-to-carbon double bonds.       In the simple molecule butene (C4H8), the two methyl groups (CH3) can be on either side of the double covalent bond central to the molecule, as illustrated in [link] b. 
+
+113. This carbon backbone is formed by chains and/or rings of carbon atoms with the occasional substitution of an element such as nitrogen or oxygen.         Molecules with other elements in their carbon backbone are substituted hydrocarbons.       
+
+116. Most macromolecules are made from single subunits, or building blocks, called monomers.         The monomers combine with each other using covalent bonds to form larger molecules known as polymers.       In doing so, monomers release water molecules as byproducts. 
+
+119. Carbohydrates are, in fact, an essential part of our diet; grains, fruits, and vegetables are all natural sources of carbohydrates.         Carbohydrates provide energy to the body, particularly through glucose, a simple sugar that is a component of starch and an ingredient in many staple foods.       Carbohydrates also have other important functions in humans, animals, and plants. 
+
+122.         Disaccharides (di- = “two”) form when two monosaccharides undergo a dehydration reaction (also known as a condensation reaction or dehydration synthesis).       During this process, the hydroxyl group of one monosaccharide combines with the hydrogen of another monosaccharide, releasing a molecule of water and forming a covalent bond. 
+
+125.         Glycogen is the storage form of glucose in humans and other vertebrates and is made up of monomers of glucose.       Glycogen is the animal equivalent of starch and is a highly branched molecule usually stored in liver and muscle cells. 
+
+131.         When the hydrocarbon chain contains a double bond, the fatty acid is said to be unsaturated.       Oleic acid is an example of an unsaturated fatty acid ([link]). 
+
+134.         Wax covers the feathers of some aquatic birds and the leaf surfaces of some plants.       Because of the hydrophobic nature of waxes, they prevent water from sticking on the surface ([link]). 
+
+137.         Proteins are one of the most abundant organic molecules in living systems and have the most diverse range of functions of all macromolecules.       Proteins may be structural, regulatory, contractile, or protective; they may serve in transport, storage, or membranes; or they may be toxins or enzymes. 
+
+140. Protein shape is critical to its function, and this shape is maintained by many different types of chemical bonds.         Changes in temperature, pH, and exposure to chemicals may lead to permanent changes in the shape of the protein, leading to loss of function, known as denaturation.       All proteins are made up of different arrangements of the same 20 types of amino acids. 
+
+143.         The unique sequence of amino acids in a polypeptide chain is its primary structure.       For example, the pancreatic hormone insulin has two polypeptide chains, A and B, and they are linked together by disulfide bonds. 
+
+146.         The unique three-dimensional structure of a polypeptide is its tertiary structure ([link]).       This structure is in part due to chemical interactions at work on the polypeptide chain. 
+
+149.          Nucleic acids are the most important macromolecules for the continuity of life.       They carry the genetic blueprint of a cell and carry instructions for the functioning of the cell. 
+
+152.          DNA and RNA are made up of monomers known as nucleotides.       The nucleotides combine with each other to form a polynucleotide, DNA or RNA. 
+
+158. The rRNA ensures the proper alignment of the mRNA and the ribosomes; the rRNA of the ribosome also has an enzymatic activity (peptidyl transferase) and catalyzes the formation of the peptide bonds between two aligned amino acids.         Transfer RNA (tRNA) is one of the smallest of the four types of RNA, usually 70–90 nucleotides long.       It carries the correct amino acid to the site of protein synthesis. 
+
+164.         A prokaryote is a simple, mostly single-celled (unicellular) organism that lacks a nucleus, or any other membrane-bound organelle.       We will shortly come to see that this is significantly different in eukaryotes. 
+
+170. Typically, the nucleus is the most prominent organelle in a cell ( [link]).         The nucleus (plural = nuclei) houses the cell’s DNA and directs the synthesis of ribosomes and proteins.       Let’s look at it in more detail ( [link]). 
+
+173. Chromatin and ChromosomesTo understand chromatin, it is helpful to first consider chromosomes.         Chromosomes are structures within the nucleus that are made up of DNA, the hereditary material.       You may remember that in prokaryotes, DNA is organized into a single circular chromosome. 
+
+176.         Ribosomes are the cellular structures responsible for protein synthesis.       When viewed through an electron microscope, ribosomes appear either as clusters (polyribosomes) or single, tiny dots that float freely in the cytoplasm. 
+
+179.         Vesicles and vacuoles are membrane-bound sacs that function in storage and transport.       Other than the fact that vacuoles are somewhat larger than vesicles, there is a very subtle distinction between them: The membranes of vesicles can fuse with either the plasma membrane or other membrane systems within the cell. 
+
+188.         Intermediate filaments have no role in cell movement.       Their function is purely structural. 
+
+191. When present, the cell has just one flagellum or a few flagella.         When cilia (singular = cilium) are present, however, many of them extend along the entire surface of the plasma membrane.       They are short, hair-like structures that are used to move entire cells (such as paramecia) or substances along the outer surface of the cell (for example, the cilia of cells lining the Fallopian tubes that move the ovum toward the uterus, or cilia lining the cells of the respiratory tract that trap particulate matter and move it toward your nostrils. 
+
+194.         A tight junction is a watertight seal between two adjacent animal cells ([link]).       The cells are held tightly against each other by proteins (predominantly two proteins called claudins and occludins).Tight junctions form watertight connections between adjacent animal cells. 
+
+197.         The explanation proposed by Singer and Nicolson is called the fluid mosaic model.       The model has evolved somewhat over time, but it still best accounts for the structure and functions of the plasma membrane as we now understand them. 
+
+200. The hydrophilic or “water-loving” areas of these molecules (which look like a collection of balls in an artist’s rendition of the model) ([link]) are in contact with the aqueous fluid both inside and outside the cell.         Hydrophobic, or water-hating molecules, tend to be non-polar.       They interact with other non-polar molecules in chemical reactions, but generally do not interact with polar molecules. 
+
+203.         Peripheral proteins are found on the exterior and interior surfaces of membranes, attached either to integral proteins or to phospholipids.       Peripheral proteins, along with integral proteins, may serve as enzymes, as structural attachments for the fibers of the cytoskeleton, or as part of the cell’s recognition sites. 
+
+206. In passive transport, substances move from an area of higher concentration to an area of lower concentration.         A physical space in which there is a range of concentrations of a single substance is said to have a concentration gradient.       
+
+209.         Facilitated transportIn facilitated transport, also called facilitated diffusion, materials diffuse across the plasma membrane with the help of membrane proteins.       A concentration gradient exists that would allow these materials to diffuse into the cell without expending cellular energy. 
+
+212. Passage through the channel allows polar compounds to avoid the nonpolar central layer of the plasma membrane that would otherwise slow or prevent their entry into the cell.         Aquaporins are channel proteins that allow water to pass through the membrane at a very high rate.       
+
+215. Imagine a beaker with a semipermeable membrane separating the two sides or halves ([link]).         On both sides of the membrane the water level is the same, but there are different concentrations of a dissolved substance, or solute, that cannot cross the membrane (otherwise the concentrations on each side would be balanced by the solute crossing the membrane).       If the volume of the solution on both sides of the membrane is the same, but the concentrations of solute are different, then there are different amounts of water, the solvent, on either side of the membrane. 
+
+218. Three terms—hypotonic, isotonic, and hypertonic—are used to relate the osmolarity of a cell to the osmolarity of the extracellular fluid that contains the cells.         In a hypotonic situation, the extracellular fluid has lower osmolarity than the fluid inside the cell, and water enters the cell.       (In living systems, the point of reference is always the cytoplasm, so the prefix hypo- means that the extracellular fluid has a lower concentration of solutes, or a lower osmolarity, than the cell cytoplasm.) 
+
+221. However, the cell membrane detaches from the wall and constricts the cytoplasm.         This is called plasmolysis.       Plants lose turgor pressure in this condition and wilt ([link]).The turgor pressure within a plant cell depends on the tonicity of the solution that it is bathed in. 
+
+224. This energy is harvested from ATP generated through the cell’s metabolism.         Active transport mechanisms, collectively called pumps, work against electrochemical gradients.       Small substances constantly pass through plasma membranes. 
+
+227.         An important membrane adaption for active transport is the presence of specific carrier proteins or pumps to facilitate movement: there are three types of these proteins or transporters ([link]).       A uniporter carries one specific ion or molecule. 
+
+230. A symporter carries two different ions or molecules, both in the same direction.         An antiporter also carries two different ions or molecules, but in different directions.       All of these transporters can also transport small, uncharged organic molecules like glucose. 
+
+233.         In preparation for phagocytosis, a portion of the inward-facing surface of the plasma membrane becomes coated with a protein called clathrin, which stabilizes this section of the membrane.       The coated portion of the membrane then extends from the body of the cell and surrounds the particle, eventually enclosing it. 
+
+236. A variation of pinocytosis is called potocytosis.         This process uses a coating protein, called caveolin, on the cytoplasmic side of the plasma membrane, which performs a similar function to clathrin.       The cavities in the plasma membrane that form the vacuoles have membrane receptors and lipid rafts in addition to caveolin. 
+
+239.         Scientists use the term bioenergetics to discuss the concept of energy flow ([link]) through living systems, such as cells.       Cellular processes such as the building and breaking down of complex molecules occur through stepwise chemical reactions. 
+
+242. The breakdown of sugars illustrates how a single molecule of glucose can store enough energy to make a great deal of ATP, 36 to 38 molecules.         This is a catabolic pathway.       Catabolic pathways involve the degradation (or breakdown) of complex molecules into simpler ones. 
+
+245. The more energy that is lost by a system to its surroundings, the less ordered and more random the system is.         Scientists refer to the measure of randomness or disorder within a system as entropy.       High entropy means high disorder and low energy ([link]). 
+
+248. This is because these bonds can release energy when broken.         The type of potential energy that exists within chemical bonds, and is released when those bonds are broken, is called chemical energy ([link]).       Chemical energy is responsible for providing living cells with energy from food. 
+
+251. A negative ∆G  also means that the products of the reaction have less free energy than the reactants, because they gave off some free energy during the reaction.         Reactions that have a negative ∆G  and consequently release free energy are called exergonic reactions.       Think: exergonic means energy is exiting the system. 
+
+254. A small energy input is required to achieve this contorted state.         This contorted state is called the transition state, and it is a high-energy, unstable state.       For this reason, reactant molecules don’t last long in their transition state, but very quickly proceed to the next steps of the chemical reaction. 
+
+257. However, not all bonds within this molecule exist in a particularly high-energy state.         Both bonds that link the phosphates are equally high-energy bonds (phosphoanhydride bonds)  that, when broken, release sufficient energy to power a variety of cellular reactions and processes.       These high-energy bonds are the bonds between the second and third (or beta and gamma) phosphate groups and between the first and second phosphate groups. 
+
+260. However, increasing or decreasing the temperature outside of an optimal range can affect chemical bonds within the active site in such a way that they are less well suited to bind substrates.         High temperatures will eventually cause enzymes, like other biological molecules, to denature, a process that changes the natural properties of a substance.       Likewise, the pH of the local environment can also affect enzyme function. 
+
+263. Some inhibitor molecules bind to enzymes in a location where their binding induces a conformational change that reduces the affinity of the enzyme for its substrate.         This type of inhibition is called allosteric inhibition ([link]).       Most allosterically regulated enzymes are made up of more than one polypeptide, meaning that they have more than one protein subunit. 
+
+266. An oxidation reaction strips an electron from an atom in a compound, and the addition of this electron to another compound is a reduction reaction.         Because oxidation and reduction usually occur together, these pairs of reactions are called oxidation reduction reactions, or redox reactions.Electrons and Energy       
+
+269. A phosphate group is removed from an intermediate reactant in the pathway, and the free energy of the reaction is used to add the third phosphate to an available ADP molecule, producing ATP ([link]).         This very direct method of phosphorylation is called substrate-level phosphorylation.       
+
+272. You have read that nearly all of the energy used by living cells comes to them in the bonds of the sugar, glucose.         Glycolysis is the first step in the breakdown of glucose to extract energy for cellular metabolism.       Nearly all living organisms carry out glycolysis as part of their metabolism. 
+
+275. In the second step of glycolysis, an isomerase converts glucose-6-phosphate into one of its isomers, fructose-6-phosphate.         An isomerase is an enzyme that catalyzes the conversion of a molecule into one of its isomers.       (This change from phosphoglucose to phosphofructose allows the eventual split of the sugar into two three-carbon molecules. 
+
+278. In the presence of oxygen, acetyl CoA delivers its acetyl group to a four-carbon molecule, oxaloacetate, to form citrate, a six-carbon molecule with three carboxyl groups; this pathway will harvest the remainder of the extractable energy from what began as a glucose molecule.         This single pathway is called by different names: the citric acid cycle (for the first intermediate formed—citric acid, or citrate—when acetate joins to the oxaloacetate), the TCA cycle (since citric acid or citrate and isocitrate are tricarboxylic acids), and the Krebs cycle, after Hans Krebs, who first identified the steps in the pathway in the 1930s in pigeon flight muscles.       
+
+281. The rough endoplasmic reticulum (RER) is so named because the ribosomes attached to its cytoplasmic surface give it a studded appearance when viewed through an electron microscope ([link]). 
+
+284. FMN, which is derived from vitamin B2, also called riboflavin, is one of several prosthetic groups or co-factors in the electron transport chain.         A prosthetic group is a non-protein molecule required for the activity of a protein.       Prosthetic groups are organic or inorganic, non-peptide molecules bound to a protein that facilitate its function; prosthetic groups include co-enzymes, which are the prosthetic groups of enzymes. 
+
+287. Some living systems use an organic molecule as the final electron acceptor.         Processes that use an organic molecule to regenerate NAD+ from NADH are collectively referred to as fermentation.       In contrast, some living systems use an inorganic molecule as a final electron acceptor. 
+
+290. Because they use light to manufacture their own food, they are called photoautotrophs (literally, “self-feeders using light”).         Other organisms, such as animals, fungi, and most other bacteria, are termed heterotrophs (“other feeders”), because they must rely on the sugars produced by photosynthetic organisms for their energy needs.       A third very interesting group of bacteria synthesize sugars, not by using sunlight’s energy, but by extracting energy from inorganic chemical compounds; hence, they are referred to as chemoautotrophs. 
+
+293. The process of photosynthesis occurs in a middle layer called the mesophyll.         The gas exchange of carbon dioxide and oxygen occurs through small, regulated openings called stomata (singular: stoma), which also play roles in the regulation of gas exchange and water balance.       The stomata are typically located on the underside of the leaf, which helps to minimize water loss. 
+
+296. Within the chloroplast are stacked, disc-shaped structures called thylakoids.         Embedded in the thylakoid membrane is chlorophyll, a pigment (molecule that absorbs light) responsible for the initial interaction between light and plant material, and numerous proteins that make up the electron transport chain.       The thylakoid membrane encloses an internal space called the thylakoid lumen. 
+
+299. Photosynthesis takes place in two sequential stages: the light-dependent reactions and the light independent-reactions.         In the light-dependent reactions, energy from sunlight is absorbed by chlorophyll and that energy is converted into stored chemical energy.       In the light-independent reactions, the chemical energy harvested during the light-dependent reactions drive the assembly of sugar molecules from carbon dioxide. 
+
+302. Scientists differentiate the various types of radiant energy from the sun within the electromagnetic spectrum.         The electromagnetic spectrum is the range of all possible frequencies of radiation ([link]).       The difference between wavelengths relates to the amount of energy carried by them. 
+

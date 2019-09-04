@@ -1,0 +1,202 @@
+305.         Each type of pigment can be identified by the specific pattern of wavelengths it absorbs from visible light, which is the absorption spectrum.       The graph in [link] shows the absorption spectra for chlorophyll a, chlorophyll b, and a type of carotenoid pigment called β-carotene (which absorbs blue and green light). 
+
+308.         Both photosystems have the same basic structure; a number of antenna proteins to which the chlorophyll molecules are bound surround the reaction center where the photochemistry takes place.       Each photosystem is serviced by the light-harvesting complex, which passes energy from sunlight to the reaction center; it consists of multiple antenna proteins that contain a mixture of 300–400 chlorophyll a and b molecules as well as other pigments like carotenoids. 
+
+311. The reaction center contains a pair of chlorophyll a molecules with a special property.         Those two chlorophylls can undergo oxidation upon excitation; they can actually give up an electron in a process called a photoact.       It is at this step in the reaction center, this step in photosynthesis, that light energy is converted into an excited electron. 
+
+314. Because the electrons have lost energy prior to their arrival at PSI, they must be re-energized by PSI, hence, another photon is absorbed by the PSI antenna.         That energy is relayed to the PSI reaction center (called P700).       P700 is oxidized and sends a high-energy electron to NADP+ to form NADPH. 
+
+317. That is a reduction reaction because it involves the gain of electrons by 3-PGA.         Recall that a reduction is the gain of an electron by an atom or molecule.       Six molecules of both ATP and NADPH are used. 
+
+320. An easy way to remember the distinction is by understanding the Latin origin of the prefixes: inter- means "between" (for example, intersecting lines are those that cross each other) and intra- means "inside" (like intravenous).Chemical signals are released by signaling cells in the form of small, usually volatile or soluble molecules called ligands.         A ligand is a molecule that binds another specific molecule, in some cases, delivering a signal in the process.       Ligands can thus be thought of as signaling molecules. 
+
+323. The junction between nerve cells where signal transmission occurs is called a synapse.         A synaptic signal is a chemical signal that travels between nerve cells.       Signals within the nerve cells are propagated by fast-moving electrical impulses. 
+
+326.         Signals from distant cells are called endocrine signals, and they originate from endocrine cells.       (In the body, many endocrine cells are located in endocrine glands, such as the thyroid gland, the hypothalamus, and the pituitary gland.) 
+
+329.         Internal receptors, also known as intracellular or cytoplasmic receptors, are found in the cytoplasm of the cell and respond to hydrophobic ligand molecules that are able to travel across the plasma membrane.       Once inside the cell, many of these molecules bind to proteins that act as regulators of mRNA synthesis (transcription) to mediate gene expression. 
+
+332.         Ion channel-linked receptors bind a ligand and open a channel through the membrane that allows specific ions to pass through.       To form a channel, this type of cell-surface receptor has an extensive membrane-spanning region. 
+
+335. Once a ligand binds to a receptor, the signal is transmitted through the membrane and into the cytoplasm.         Continuation of a signal in this manner is called signal transduction.       Signal transduction only occurs with cell-surface receptors because internal receptors are able to interact directly with DNA in the nucleus to initiate protein synthesis. 
+
+338.         After the ligand binds to the cell-surface receptor, the activation of the receptor’s intracellular components sets off a chain of events that is called a signaling pathway or a signaling cascade.       In a signaling pathway, second messengers, enzymes, and activated proteins interact with specific proteins, which are in turn activated in a chain reaction that eventually leads to a change in the cell’s environment ([link]). 
+
+341.         Second messengers are small molecules that propagate a signal after it has been initiated by the binding of the signaling molecule to the receptor.       These molecules help to spread a signal through the cytoplasm by altering the behavior of certain cellular proteins. 
+
+344.         Present in small concentrations in the plasma membrane, inositol phospholipids are lipids that can also be converted into second messengers.       Because these molecules are membrane components, they are located near membrane-bound receptors and can easily interact with them. 
+
+347. Cells do not normally divide unless they are stimulated by signals from other cells.         The ligands that promote cell growth are called growth factors.       Most growth factors bind to cell-surface receptors that are linked to tyrosine kinases. 
+
+350. For example, phosphatases are enzymes that remove the phosphate group attached to proteins by kinases in a process called dephosphorylation.         Cyclic AMP (cAMP) is degraded into AMP by phosphodiesterase, and the release of calcium stores is reversed by the Ca2+ pumps that are located in the external and internal membranes of the cell.       
+
+353. Quorum sensing uses autoinducers as signaling molecules.         Autoinducers are signaling molecules secreted by bacteria to communicate with other bacteria of the same kind.       The secreted autoinducers can be small, hydrophobic molecules such as acyl-homoserine lactone, (AHL) or larger peptide-based molecules; each type of molecule has a different mode of action. 
+
+356. Each species of eukaryotes has a characteristic number of chromosomes in the nuclei of its cells.         Human body cells have 46 chromosomes, while human gametes (sperm or eggs) have 23 chromosomes each.       A typical body cell, or somatic cell, contains two matched sets of chromosomes, a configuration known as diploid. 
+
+359.         Matched pairs of chromosomes in a diploid organism are called homologous (“same knowledge”) chromosomes.       Homologous chromosomes are the same length and have specific nucleotide segments called genes in exactly the same location, or locus. 
+
+362. The DNA-histone complex is called chromatin.         The beadlike, histone DNA complex is called a nucleosome, and DNA connecting the nucleosomes is called linker DNA.       A DNA molecule in this form is about seven times shorter than the double helix without the histones, and the beads are about 10 nm in diameter, in contrast with the 2-nm diameter of a DNA double helix. 
+
+365.         The cell cycle is an ordered series of events involving cell growth and cell division that produces two new daughter cells.       Cells on the path to cell division proceed through a series of precisely timed and carefully regulated stages of growth, DNA replication, and division that produces two identical (clone) cells. 
+
+368.         The first stage of interphase is called the G1 phase (first gap) because, from a microscopic aspect, little change is visible.       However, during the G1 stage, the cell is quite active at the biochemical level. 
+
+371. The two centrosomes will give rise to the mitotic spindle, the apparatus that orchestrates the movement of chromosomes during mitosis.         At the center of each animal cell, the centrosomes of animal cells are associated with a pair of rod-like objects, the centrioles, which are at right angles to each other.       Centrioles help organize cell division. 
+
+374.         Karyokinesis, also known as mitosis, is divided into a series of phases—prophase, prometaphase, metaphase, anaphase, and telophase—that result in the division of the cell nucleus ([link]).       Karyokinesis is also called mitosis. 
+
+377.         During prometaphase, the “first change phase,” many processes that were begun in prophase continue to advance.       The remnants of the nuclear envelope fragment. 
+
+380.         During anaphase, the “upward phase,” the cohesin proteins degrade, and the sister chromatids separate at the centromere.       Each chromatid, now called a chromosome, is pulled rapidly toward the centrosome to which its microtubule is attached. 
+
+383. The actin filaments pull the equator of the cell inward, forming a fissure.         This fissure, or “crack,” is called the cleavage furrow.       The furrow deepens as the actin ring contracts, and eventually the membrane is cleaved in two ([link]).In plant cells, a new cell wall must form between the daughter cells. 
+
+386. Cells in G0 phase are not actively preparing to divide.         The cell is in a quiescent (inactive) stage that occurs when cells exit the cell cycle.       Some cells enter G0 temporarily until an external signal triggers the onset of G1. 
+
+389. Tumor Suppressor GenesLike proto-oncogenes, many of the negative cell cycle regulatory proteins were discovered in cells that had become cancerous.         Tumor suppressor genes are segments of DNA that code for negative regulator proteins, the type of regulators that, when activated, can prevent the cell from undergoing uncontrolled division.       The collective function of the best-understood tumor suppressor gene proteins, Rb, p53, and p21, is to put up a roadblock to cell cycle progression until certain events are completed. 
+
+392.         The best understood negative regulatory molecules are retinoblastoma protein (Rb), p53, and p21.       Retinoblastoma proteins are a  group of tumor-suppressor proteins common in many cells. 
+
+395. After the chromosomes have cleared the midpoint of the elongated cell, cytoplasmic separation begins.         The formation of a ring composed of repeating units of a protein called FtsZ directs the partition between the nucleoids.       Formation of the FtsZ ring triggers the accumulation of other proteins that work together to recruit new membrane and cell wall materials to the site. 
+
+398. Most animals and plants are diploid, containing two sets of chromosomes.         In each somatic cell of the organism (all cells of a multicellular organism except the gametes or reproductive cells), the nucleus contains two copies of each chromosome, called homologous chromosomes.       Somatic cells are sometimes referred to as “body” cells. 
+
+401. Because the events that occur during each of the division stages are analogous to the events of mitosis, the same stage names are assigned.         However, because there are two rounds of division, the major process and the stages are designated with a “I” or a “II.” Thus, meiosis I is the first round of meiotic division and consists of prophase I, prometaphase I, and so on.       Meiosis II, in which the second round of meiotic division takes place, includes prophase II, prometaphase II, and so on. 
+
+404. In mitosis, homologous chromosomes line up end-to-end so that when they divide, each daughter cell receives a sister chromatid from both members of the homologous pair.         The synaptonemal complex, a lattice of proteins between the homologous chromosomes, first forms at specific locations and then spreads to cover the entire length of the chromosomes.       The tight pairing of the homologous chromosomes is called synapsis. 
+
+407.         Located at intervals along the synaptonemal complex are large protein assemblies called recombination nodules.       These assemblies mark the points of later chiasmata and mediate the multistep process of crossover—or genetic recombination—between the non-sister chromatids. 
+
+410.         In some species, cells enter a brief interphase, or interkinesis, before entering meiosis II.       Interkinesis lacks an S phase, so chromosomes are not duplicated. 
+
+413. Fertilization, the joining of two haploid gametes, restores the diploid condition.         There are three main categories of life cycles in multicellular organisms: diploid-dominant, in which the multicellular diploid stage is the most obvious life stage, such as with most animals including humans; haploid-dominant, in which the multicellular haploid stage is the most obvious life stage, such as with all fungi and some algae; and alternation of generations, in which the two stages are apparent to different degrees depending on the group, as with plants and some algae.       
+
+416. Fertilization between the gametes forms a diploid zygote.         The zygote will undergo many rounds of mitosis and give rise to a diploid multicellular plant called a sporophyte.       Specialized cells of the sporophyte will undergo meiosis and produce haploid spores. 
+
+419. Offspring appear to be a “blend” of their parents’ traits when we look at characteristics that exhibit continuous variation.         The blending theory of inheritance asserted that the original parental traits were lost or absorbed by the blending in the offspring, but we now know that this is not the case.       Mendel was the first researcher to see it. 
+
+422.         Plants used in first-generation crosses were called P0, or parental generation one, plants ([link]).       Mendel collected the seeds belonging to the P0 plants that resulted from each cross and grew them the following season. 
+
+425. In his 1865 publication, Mendel reported the results of his crosses involving seven different characteristics, each with two contrasting traits.         A trait is defined as a variation in the physical appearance of a heritable characteristic.       The characteristics included plant height, seed texture, seed color, flower color, pea pod size, pea pod color, and flower position. 
+
+428. Dominant traits are those that are inherited unchanged in a hybridization.         Recessive traits become latent, or disappear, in the offspring of a hybridization.       The recessive trait does, however, reappear in the progeny of the hybrid offspring. 
+
+431. For cases in which a single gene controls a single characteristic, a diploid organism has two genetic copies that may or may not encode the same version of that characteristic.         Gene variants that arise by mutation and exist at the same relative locations on homologous chromosomes are called alleles.       Mendel examined the inheritance of genes with just two allele forms, but it is common to encounter more than two alleles for any given gene in a natural population. 
+
+434. The P1 plants that Mendel used in his experiments were each homozygous for the trait he was studying.         Diploid organisms that are homozygous at a given gene, or locus, have two identical alleles for that gene on their homologous chromosomes.       Mendel’s parental pea plants always bred true because both of the gametes produced carried the same trait. 
+
+437. The dominant seed color is yellow; therefore, the parental genotypes were YY for the plants with yellow seeds and yy for the plants with green seeds, respectively.         A Punnett square, devised by the British geneticist Reginald Punnett, can be drawn that applies the rules of probability to predict the possible outcomes of a genetic cross or mating and their expected frequencies.       To prepare a Punnett square, all possible combinations of the parental alleles are listed along the top (for one parent) and side (for the other parent) of a grid, representing their meiotic segregation into haploid gametes. 
+
+440. (Note that different genotypic abbreviations are used for Mendelian extensions to distinguish these patterns from simple dominance and recessiveness.)         This pattern of inheritance is described as incomplete dominance, denoting the expression of two contrasting alleles such that the individual displays an intermediate phenotype.       The allele for red flowers is incompletely dominant over the allele for white flowers. 
+
+443. Note that when many alleles exist for the same gene, the convention is to denote the most common phenotype or genotype among wild animals as the wild type (often abbreviated “+”); this is considered the standard or norm.         All other phenotypes or genotypes are considered variants of this standard, meaning that they deviate from the wild type.       The variant may be recessive or dominant to the wild-type allele. 
+
+446. Because of the location of the eye-color gene, reciprocal crosses do not produce the same offspring ratios.         Males are said to be hemizygous, because they have only one allele for any X-linked characteristic.       Hemizygosity makes the descriptions of dominance and recessiveness irrelevant for XY males. 
+
+449.          Mendel’s law of dominance states that in a heterozygote, one trait will conceal the presence of another trait for the same characteristic.       Rather than both alleles contributing to a phenotype, the dominant allele will be expressed exclusively. 
+
+452. Mendel’s law of independent assortment states that genes do not influence each other with regard to the sorting of alleles into gametes, and every possible combination of alleles for every gene is equally likely to occur.         The independent assortment of genes can be illustrated by the dihybrid cross, a cross between two true-breeding parents that express different traits for two characteristics.       Consider the characteristics of seed color and seed texture for two pea plants, one that has green, wrinkled seeds (yyrr) and another that has yellow, round seeds (YYRR). 
+
+455. That same year, Walter Sutton observed the separation of chromosomes into daughter cells during meiosis ([link]).         Together, these observations led to the development of the Chromosomal Theory of Inheritance, which identified chromosomes as the genetic material responsible for Mendelian inheritance.       
+
+458. Because they correspond to new allele combinations, the genotypes Ab and aB are nonparental types that result from homologous recombination during meiosis.         Parental types are progeny that exhibit the same allelic combination as their parents.       Morgan and his colleagues, however, found that when such heterozygous individuals were test crossed to a homozygous recessive parent (AaBb × aabb), both parental and nonparental cases occurred. 
+
+461. The isolation and microscopic observation of chromosomes forms the basis of cytogenetics and is the primary method by which clinicians detect chromosomal abnormalities in humans.         A karyotype is the number and appearance of chromosomes, and includes their length, banding pattern, and centromere position.       To obtain a view of an individual’s karyotype, cytologists photograph the chromosomes and then cut and paste each chromosome into a chart, or karyogram, also known as an ideogram ([link]). 
+
+464. For instance, Jacobsen Syndrome—which involves distinctive facial features as well as heart and bleeding defects—is identified by a deletion on chromosome 11.         Finally, the karyotype can pinpoint translocations, which occur when a segment of genetic material breaks from one chromosome and reattaches to another chromosome or to a different part of the same chromosome.       Translocations are implicated in certain cancers, including chronic myelogenous leukemia. 
+
+467. An individual with the appropriate number of chromosomes for their species is called euploid; in humans, euploidy corresponds to 22 pairs of autosomes and one pair of sex chromosomes.         An individual with an error in chromosome number is described as aneuploid, a term that includes monosomy (loss of one chromosome) or trisomy (gain of an extraneous chromosome).       Monosomic human zygotes missing any one copy of an autosome invariably fail to develop to birth because they lack essential genes. 
+
+470.         A chromosome inversion is the detachment, 180° rotation, and reinsertion of part of a chromosome.       Inversions may occur in nature as a result of mechanical shear, or from the action of transposable elements (special DNA sequences capable of facilitating the rearrangement of chromosome segments with the help of enzymes that cut and paste DNA sequences). 
+
+473. A half century later, British bacteriologist Frederick Griffith was perhaps the first person to show that hereditary information could be transferred from one cell to another “horizontally,” rather than by descent.         In 1928, he reported the first demonstration of bacterial transformation, a process in which external DNA is taken up by a cell, thereby changing morphology and physiology.       He was working with Streptococcus pneumoniae, the bacterium that causes pneumonia. 
+
+476. ATP hydrolysis is required for this process.         As the DNA opens up, Y-shaped structures called replication forks are formed.       Two replication forks are formed at the origin of replication and these get extended bi- directionally as replication proceeds. 
+
+479. Another enzyme, RNA primase, synthesizes an RNA primer that is about five to ten nucleotides long and complementary to the DNA.         Because this sequence primes the DNA synthesis, it is appropriately called the primer.       DNA polymerase can now extend this RNA primer, adding nucleotides one by one that are complementary to the template strand ([link]). 
+
+482. Okazaki fragments are named after the Japanese scientist who first discovered them.         The strand with the Okazaki fragments is known as the lagging strand.       
+
+485. The primers are removed by the exonuclease activity of DNA pol I, and the gaps are filled in by deoxyribonucleotides.         The nicks that remain between the newly synthesized DNA (that replaced the RNA primer) and the previously synthesized DNA are sealed by the enzyme DNA ligase that catalyzes the formation of phosphodiester linkage between the 3'-OH end of one nucleotide and the 5' phosphate end of the other fragment.       
+
+488.         In another type of repair mechanism, nucleotide excision repair, enzymes replace incorrect bases by making a cut on both the 3' and 5' ends of the incorrect base ([link]).       The segment of DNA is removed and replaced with the correctly paired nucleotides by the action of DNA pol. 
+
+491. Induced mutations are those that result from an exposure to chemicals, UV rays, x-rays, or some other environmental agent.         Spontaneous mutations occur without any exposure to any environmental agent; they are a result of natural reactions taking place within the body.       
+
+494. These can be of two types, either transitions or transversions.         Transition substitution refers to a purine or pyrimidine being replaced by a base of the same kind; for example, a purine such as adenine may be replaced by the purine guanine.       Transversion substitution refers to a purine being replaced by a pyrimidine, or vice versa; for example, cytosine, a pyrimidine, is replaced by adenine, a purine. 
+
+497. The discovery of the enzyme telomerase ([link]) helped in the understanding of how chromosome ends are maintained.         The telomerase enzyme contains a catalytic part and a built-in RNA template.       It attaches to the end of the chromosome, and complementary bases to the RNA template are added on the 3' end of the DNA strand. 
+
+500. In contrast, there are 64 possible nucleotide triplets (43), which is far more than the number of amino acids.         Scientists theorized that amino acids were encoded by nucleotide triplets and that the genetic code was degenerate.       In other words, a given amino acid could be encoded by more than one nucleotide triplet. 
+
+503. In addition to instructing the addition of a specific amino acid to a polypeptide chain, three of the 64 codons terminate protein synthesis and release the polypeptide from the translation machinery.         These triplets are called nonsense codons, or stop codons.       Another codon, AUG, also has a special function. 
+
+506. The region of unwinding is called a transcription bubble. Transcription always proceeds from the same DNA strand for each gene, which is called the template strand.         The mRNA product is complementary to the template strand and is almost identical to the other DNA strand, called the nontemplate strand.       The only difference is that in mRNA, all of the T nucleotides are replaced with U nucleotides. 
+
+509. Nucleotides preceding the initiation site are given negative numbers and are designated upstream.         Conversely, nucleotides following the initiation site are denoted with “+” numbering and are called downstream nucleotides.       
+
+512.         A promoter is a DNA sequence onto which the transcription machinery binds and initiates transcription.       In most cases, promoters exist upstream of the genes they regulate. 
+
+515.         Rho-independent termination is controlled by specific sequences in the DNA template strand.       As the polymerase nears the end of the gene being transcribed, it encounters a region rich in C–G nucleotides. 
+
+518. These pseudogenes are copied from mRNA and incorporated into the chromosome.         For example, the mouse thymidine kinase promoter also has a conserved CAAT box (GGCCAATCT) at approximately -80.       This sequence is essential and is involved in binding transcription factors. 
+
+521. For polynucleotide synthesis to occur, the transcription machinery needs to move histones out of the way every time it encounters a nucleosome.         This is accomplished by a special protein complex called FACT, which stands for “facilitates chromatin transcription.” This complex pulls histones away from the DNA template as the polymerase moves along it.       Once the pre-mRNA is synthesized, the FACT complex replaces the histones to recreate the nucleosomes. 
+
+524. .         The initiator tRNA interacts with the start codon AUG (or rarely, GUG), links to a formylated methionine called fMet, and can also bind IF-2.       Formylated methionine is inserted by 
+
+527. Peptide bonds form between the amino group of the amino acid attached to the A-site tRNA and the carboxyl group of the amino acid attached to the P-site tRNA.         The formation of each peptide bond is catalyzed by peptidyl transferase, an RNA-based enzyme that is integrated into the 50S ribosomal subunit.       The energy for each peptide bond formation is derived from GTP hydrolysis, which is catalyzed by a separate elongation factor. 
+
+530.         While the pre-mRNA is still being synthesized, a 7-methylguanosine cap is added to the 5' end of the growing transcript by a phosphate linkage.       This moiety (functional group) protects the nascent mRNA from degradation. 
+
+533. If the process errs by even a single nucleotide, the reading frame of the rejoined exons would shift, and the resulting protein would be dysfunctional.         The process of removing introns and reconnecting exons is called splicing ([link]).       Introns are removed and degraded while the pre-mRNA is still in the nucleus. 
+
+536. The regulation of gene expression can occur at all stages of the process ([link]).         Regulation may occur when the DNA is uncoiled and loosened from nucleosomes to bind transcription factors (epigenetic level), when the RNA is transcribed (transcriptional level), when the RNA is processed and exported to the cytoplasm after it is transcribed (post-transcriptional level), when the RNA is translated into protein (translational level), or after the protein has been made (post-translational level).       
+
+539. coli need amino acids to survive.         Tryptophan is one such amino acid that E.       coli can ingest from the environment. 
+
+542. A DNA sequence called the operator sequence is encoded between the promoter region and the first trp coding gene.         This operator contains the DNA code to which the repressor protein can bind.       When tryptophan is present in the cell, two tryptophan molecules bind to the trp repressor, which changes shape to bind to the trp operator. 
+
+545. coli.         When glucose levels decline in the cell, accumulating cAMP binds to the positive regulator catabolite activator protein (CAP), a protein that binds to the promoters of operons that control the processing of alternative sugars.       When cAMP binds to CAP, the complex binds to the promoter region of the genes that are needed to use the alternate sugar sources ([link]). 
+
+548. If a gene is to be transcribed, the histone proteins and DNA are modified surrounding the chromosomal region encoding that gene.         This opens the chromosomal region to allow access for RNA polymerase and other proteins, called transcription factors, to bind to the promoter region, located just upstream of the gene, and initiate transcription.       If a gene is to remain turned off, or silenced, the histone proteins and DNA have different modifications that signal a closed chromosomal configuration. 
+
+551. In some eukaryotic genes, there are regions that help increase or enhance transcription.         These regions, called enhancers, are not necessarily close to the genes they enhance.       They can be located upstream of a gene, within the coding region of the gene, downstream of a gene, or may be thousands of nucleotides away. 
+
+554. If the RNA is stable, it will be detected for longer periods of time in the cytoplasm.Binding of proteins to the RNA can influence its stability.         Proteins, called RNA-binding proteins, or RBPs, can bind to the regions of the RNA just upstream or downstream of the protein-coding region.       These regions in the RNA that are not translated into protein are called the untranslated regions, or UTRs. 
+
+557. In addition to RBPs that bind to and control (increase or decrease) RNA stability, other elements called microRNAs can bind to the RNA molecule.         These microRNAs, or miRNAs, are short RNA molecules that are only 21–24 nucleotides in length.       The miRNAs are made in the nucleus as longer pre-miRNAs. 
+
+560. Like transcription, translation is controlled by proteins that bind and initiate the process.         In translation, the complex that assembles to start the process is referred to as the initiation complex.       The first protein to bind to the RNA to initiate translation is the eukaryotic initiation factor-2 (eIF-2). 
+
+563. The eIF-2 protein is active when it binds to the high-energy molecule guanosine triphosphate (GTP).         GTP provides the energy to start the reaction by giving up a phosphate and becoming guanosine diphosphate (GDP).       The eIF-2 protein bound to GTP binds to the small 40S ribosomal subunit. 
+
+566. Ubiquitin acts like a flag indicating that the protein lifespan is complete.         These proteins are moved to the proteasome, an organelle that functions to remove proteins, to be degraded ([link]).       One way to control gene expression, therefore, is to alter the longevity of the protein. 
+
+569.         Biotechnology is the use of biological agents for technological advancement.       Biotechnology was used for breeding livestock and crops long before the scientific basis of these techniques was understood. 
+
+572. Because nucleic acids are negatively charged ions at neutral or basic pH in an aqueous environment, they can be mobilized by an electric field.         Gel electrophoresis is a technique used to separate molecules on the basis of size, using this charge.       The nucleic acids can be separated as whole chromosomes or fragments. 
+
+575. Gel electrophoresis separates the nucleic acid fragments according to their size.         The fragments in the gel are then transferred onto a nylon membrane in a procedure called blotting ([link]).       The nucleic acid fragments that are bound to the surface of the membrane can then be probed with specific radioactively or fluorescently labeled probe sequences. 
+
+578.         Plasmids occur naturally in bacterial populations (such as Escherichia coli) and have genes that can contribute favorable traits to the organism, such as antibiotic resistance (the ability to be unaffected by antibiotics).       Plasmids have been repurposed and engineered as vectors for molecular cloning and the large-scale production of important reagents, such as insulin and human growth hormone. 
+
+581.         Plasmids with foreign DNA inserted into them are called recombinant DNA molecules because they are created artificially and do not occur in nature.       They are also called chimeric molecules because the origin of different parts of the molecules can be traced back to different species of biological organisms or even to chemical synthesis. 
+
+584.         Reproductive cloning is a method used to make a clone or an identical copy of an entire multicellular organism.       Most multicellular organisms undergo reproduction by sexual means, which involves genetic hybridization of two individuals (parents), making it impossible for generation of an identical copy or a clone of either parent. 
+
+587. The organism that receives the recombinant DNA is called a genetically modified organism (GMO).         If the foreign DNA that is introduced comes from a different species, the host organism is called transgenic.       Bacteria, plants, and animals have been genetically modified since the early 1970s for academic, medical, agricultural, and industrial purposes. 
+
+590.         Gene therapy is a genetic engineering technique used to cure disease.       In its simplest form, it involves the introduction of a good gene at a random location in the genome to aid the cure of a disease that is caused by a mutated gene. 
+
+593. Genomics is the study of entire genomes, including the complete set of genes, their nucleotide sequence and organization, and their interactions within a species and with other species.         Genome mapping is the process of finding the locations of genes on each chromosome.       The maps created by genome mapping are comparable to the maps that we use to navigate streets. 
+
+596. Physical maps present the intimate details of smaller regions of the chromosomes (similar to a detailed road map).         A physical map is a representation of the physical distance, in nucleotides, between genes or genetic markers.       Both genetic linkage maps and physical maps are required to build a complete picture of the genome. 
+
+599.         Some genetic markers used in generating genetic maps are restriction fragment length polymorphisms (RFLP), variable number of tandem repeats (VNTRs), microsatellite polymorphisms, and the single nucleotide polymorphisms (SNPs).       RFLPs (sometimes pronounced “rif-lips”) are detected when the DNA of an individual is cut with a restriction endonuclease that recognizes specific sequences in the DNA to generate a series of DNA fragments, which are then analyzed by gel electrophoresis. 
+
+602. This technique overcomes the limitation of genetic mapping and is not affected by increased or decreased recombination frequency.         Sequence mapping resulted from DNA sequencing technology that allowed for the creation of detailed physical maps with distances measured in terms of the number of base pairs.       The creation of genomic libraries and complementary DNA (cDNA) libraries (collections of cloned sequences or all DNA from a genome) has sped up the process of physical mapping. 
+
+605. Although there have been significant advances in the medical sciences in recent years, doctors are still confounded by some diseases, and they are using whole-genome sequencing to get to the bottom of the problem.         Whole-genome sequencing is a process that determines the DNA sequence of an entire genome.       Whole-genome sequencing is a brute-force approach to problem solving when there is a genetic basis at the core of a disease. 
+

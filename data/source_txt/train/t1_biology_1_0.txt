@@ -1,0 +1,182 @@
+0. What is biology?         In simple terms, biology is the study of living organisms and their interactions with one another and their environments.       This is a very broad definition because the scope of biology is vast. 
+
+3. The steps of the scientific method will be examined in detail later, but one of the most important aspects of this method is the testing of hypotheses by means of repeatable experiments.         A hypothesis is a suggested explanation for an event, which can be tested.       Although using the scientific method is inherent to science, it is inadequate in determining what science is. 
+
+6. For some experts, the natural sciences are astronomy, biology, chemistry, earth science, and physics.         Other scholars choose to divide natural sciences into life sciences, which study living things and include biology, and physical sciences, which study nonliving matter and include astronomy, geology, physics, and chemistry.       Some disciplines such as biophysics and biochemistry build on both life and physical sciences and are interdisciplinary. 
+
+9. Both types of logical thinking are related to the two main pathways of scientific study: descriptive science and hypothesis-based science.         Descriptive (or discovery) science, which is usually inductive, aims to observe, explore, and discover, while hypothesis-based science, which is usually deductive, begins with a specific question or problem and a potential answer or solution that can be tested.       The boundary between these two forms of study is often blurred, and most scientific endeavors combine both approaches. 
+
+12. A variable is any part of the experiment that can vary or change during the experiment.         The control group contains every feature of the experimental group except it is not given the manipulation that is hypothesized about.       Therefore, if the results of the experimental group differ from the control group, the difference must be due to the hypothesized manipulation, rather than some outside factor. 
+
+21. Some journals require a results section followed by a discussion section, but it is more common to combine both.         If the journal does not allow the combination of both sections, the results section simply narrates the findings without any further interpretation.       The results are presented by means of tables or graphs, but no duplicate information should be presented. 
+
+24. Review articles do not follow the IMRAD format because they do not present original scientific findings, or primary literature; instead, they summarize and comment on findings that were published as primary literature and typically include extensive reference sections. 
+
+30. Examples of organelles include mitochondria and chloroplasts, which carry out indispensable functions: mitochondria produce energy to power the cell, while chloroplasts enable green plants to utilize the energy in sunlight to make sugars.         All living things are made of cells; the cell itself is the smallest fundamental unit of structure and function in living organisms.       (This requirement is why viruses are not considered living: they are not made of cells. 
+
+33. In larger organisms, cells combine to make tissues, which are groups of similar cells carrying out similar or related functions.         Organs are collections of tissues grouped together performing a common function.       Organs are present not only in animals but also in plants. 
+
+36.         All the individuals of a species living within a specific area are collectively called a population.       For example, a forest may include many pine trees. 
+
+39. An ecosystem consists of all the living things in a particular area together with the abiotic, non-living parts of that environment such as nitrogen in the soil or rain water.         At the highest level of organization ([link]), the biosphere is the collection of all ecosystems, and it represents the zones of life on earth.       It includes land, water, and even the atmosphere to a certain extent.Art ConnectionThe biological levels of organization of living things are shown. 
+
+42. Biologists may pursue one of those subdisciplines and work in a more focused field.         For instance, molecular biology and biochemistry study biological processes at the molecular and chemical level, including interactions among molecules such as DNA, RNA, and proteins, as well as the way they are regulated.       Microbiology, the study of microorganisms, is the study of the structure and function of single-celled organisms. 
+
+45.         Paleontology, another branch of biology, uses fossils to study life’s history ([link]).       Zoology and botany are the study of animals and plants, respectively. 
+
+48. Matter is any substance that occupies space and has mass.         Elements are unique forms of matter with specific chemical and physical properties that cannot be broken down into smaller substances by ordinary chemical reactions.       There are 118 elements, but only 92 occur naturally. 
+
+51. Although similar in mass, protons and neutrons differ in their electric charge.         A proton is positively charged whereas a neutron is uncharged.       Therefore, the number of neutrons in an atom contributes significantly to its mass, but not to its charge. 
+
+54. The number of neutrons is variable, resulting in isotopes, which are different forms of the same atom that vary only in the number of neutrons they possess.         Together, the number of protons and the number of neutrons determine an element’s mass number, as illustrated in [link].       Note that the small contribution of mass from electrons is disregarded in calculating the mass number. 
+
+57. These two alternate forms of carbon are isotopes.         Some isotopes may emit neutrons, protons, and electrons, and attain a more stable atomic configuration (lower level of potential energy); these are radioactive isotopes, or radioisotopes.       Radioactive decay (carbon-14 decaying to eventually become nitrogen-14) describes the energy loss that occurs when an unstable atom’s nucleus releases radiation.Evolution Connection 
+
+66. Two electrons fill the 1s orbital, and the third electron then fills the 2s orbital.         Its electron configuration is 1s22s1.       Neon (Ne), on the other hand, has a total of ten electrons: two are in its innermost 1s orbital and eight fill its second shell (two each in the 2s and three p orbitals); thus, it is an inert gas and energetically stable as a single atom that will rarely form a chemical bond with other atoms. 
+
+69. Chemical reactions occur when two or more atoms bond together to form molecules or when bonded atoms are broken apart.         The substances used in the beginning of a chemical reaction are called the reactants (usually found on the left side of a chemical equation), and the substances found at the end of the reaction are known as the products (usually found on the right side of a chemical equation).       An arrow is typically drawn between the reactants and products to indicate the direction of the chemical reaction; this direction is not always a “one-way street.” For the creation of the water molecule shown above, the chemical equation would be: 
+
+72. Some chemical reactions, such as the one shown above, can proceed in one direction until the reactants are all used up.         The equations that describe these reactions contain a unidirectional arrow and are irreversible.       Reversible reactions are those that can go in either direction. 
+
+75. To return to the example of excess hydrogen ions in the blood, the formation of carbonic acid will be the major direction of the reaction.         However, the carbonic acid can also leave the body as carbon dioxide gas (via exhalation) instead of being converted back to bicarbonate ion, thus driving the reaction to the right by the chemical law known as law of mass action.       These reactions are important for maintaining the homeostasis of our blood. 
+
+81.         Covalent Bonds and Other Bonds and InteractionsAnother way the octet rule can be satisfied is by the sharing of electrons between atoms to form covalent bonds.       These bonds are stronger and much more common than ionic bonds in the molecules of living organisms. 
+
+87. Water also attracts or is attracted to other polar molecules and ions.         A polar substance that interacts readily with or dissolves in water is referred to as hydrophilic (hydro- = “water”; -philic = “loving”).       In contrast, non-polar molecules such as oils and fats do not interact well with water, as shown in [link] and separate from it rather than dissolve in it, as we see in salad dressings containing oil and vinegar (an acidic water solution). 
+
+90. Specific heat is defined as the amount of heat one gram of a substance must absorb or lose to change its temperature by one degree Celsius.         For water, this amount is one calorie.       It therefore takes water a long time to heat and long time to cool. 
+
+93. Since water is a polar molecule with slightly positive and slightly negative charges, ions and polar molecules can readily dissolve in it.         Therefore, water is referred to as a solvent, a substance capable of dissolving other polar molecules and ionic compounds.       The charges associated with these molecules will form hydrogen bonds with water, surrounding the particle with water molecules. 
+
+96.         Cohesion allows for the development of surface tension, the capacity of a substance to withstand being ruptured when placed under tension or stress.       This is also why water forms droplets when placed on a dry surface rather than being flattened out by gravity. 
+
+99.          litmus or pH paper, filter paper that has been treated with a natural water-soluble dye so it can be used as a pH indicator, to test how much acid (acidity) or base (alkalinity) exists in a solution.       You might have even used some to test whether the water in a swimming pool is properly treated. 
+
+102.         The pH scale is, as previously mentioned, an inverse logarithm and ranges from 0 to 14 ([link]).       Anything below 7.0 (ranging from 0.0 to 6.9) is acidic, and anything above 7.0 (from 7.1 to 14.0) is alkaline. 
+
+105.         Hydrocarbons are organic molecules consisting entirely of carbon and hydrogen, such as methane (CH4) described above.       We often use hydrocarbons in our daily lives as fuels—like the propane in a gas grill or the butane in a lighter. 
+
+108. The three-dimensional placement of atoms and chemical bonds within organic molecules is central to understanding their chemistry.         Molecules that share the same chemical formula but differ in the placement (structure) of their atoms and/or chemical bonds are known as isomers.       Structural isomers (like butane and isobutene shown in [link] a) differ in the placement of their covalent bonds: both molecules have four carbons and ten hydrogens (C4H10), but the different arrangement of the atoms within the molecules leads to differences in their chemical properties. 
+
+111.         Enantiomers are molecules that share the same chemical structure and chemical bonds but differ in the three-dimensional placement of atoms so that they are mirror images.       As shown in [link], an amino acid alanine example, the two structures are non-superimposable. 
+
+114.         As you’ve learned, biological macromolecules are large molecules, necessary for life, that are built from smaller organic molecules.       There are four major classes of biological macromolecules (carbohydrates, lipids, proteins, and nucleic acids); each is an important cell component and performs a wide array of functions. 
+
+117. In doing so, monomers release water molecules as byproducts.         This type of reaction is known as dehydration synthesis, which means “to put together while losing water.”       
+
+123. During this process, the hydroxyl group of one monosaccharide combines with the hydrogen of another monosaccharide, releasing a molecule of water and forming a covalent bond.         A covalent bond formed between a carbohydrate molecule and another molecule (in this case, between two monosaccharides) is known as a glycosidic bond ([link]).       Glycosidic bonds (also called glycosidic linkages) can be of the alpha or the beta type. 
+
+129. The three fatty acids in the triacylglycerol may be similar or dissimilar.         Fats are also called triacylglycerols or triglycerides because of their chemical structure.       Some fatty acids have common names that specify their origin. 
+
+132. Cis and trans indicate the configuration of the molecule around the double bond.         If hydrogens are present in the same plane, it is referred to as a cis fat; if the hydrogen atoms are on two different planes, it is referred to as a trans fat.       The cis double bond causes a bend or a “kink” that prevents the fatty acids from packing tightly, keeping them liquid at room temperature ([link]). 
+
+135.         Phospholipids are major constituents of the plasma membrane, the outermost layer of animal cells.       Like fats, they are composed of fatty acid chains attached to a glycerol or sphingosine backbone. 
+
+138.         Enzymes, which are produced by living cells, are catalysts in biochemical reactions (like digestion) and are usually complex or conjugated proteins.       Each enzyme is specific for the substrate (a reactant that binds to an enzyme) it acts on. 
+
+144.         The local folding of the polypeptide in some regions gives rise to the secondary structure of the protein.       The most common are the α-helix and β-pleated sheet structures ([link]). 
+
+147.         In nature, some proteins are formed from several polypeptides, also known as subunits, and the interaction of these subunits forms the quaternary structure.       Weak interactions between the subunits help to stabilize the overall structure. 
+
+150.          The two main types of nucleic acids are deoxyribonucleic acid (DNA) and ribonucleic acid (RNA).       DNA is the genetic material found in all living organisms, ranging from single-celled bacteria to multicellular mammals. 
+
+153. DNA and RNA are made up of monomers known as nucleotides.         The nucleotides combine with each other to form a polynucleotide, DNA or RNA.       Each nucleotide is made up of three components: a nitrogenous base, a pentose (five-carbon) sugar, and a phosphate group ([link]). 
+
+156. The carbon atoms of the sugar molecule are numbered as 1′, 2′, 3′, 4′, and 5′ (1′ is read as “one prime”).         The phosphate residue is attached to the hydroxyl group of the 5′ carbon of one sugar and the hydroxyl group of the 3′ carbon of the sugar of the next nucleotide, which forms a 5′–3′ phosphodiester linkage.       The phosphodiester linkage is not formed by simple dehydration reaction like the other linkages connecting monomers in macromolecules: its formation involves the removal of two phosphate groups. 
+
+159. As you have learned, information flow in an organism takes place from DNA to RNA to protein.         DNA dictates the structure of mRNA in a process known as transcription, and RNA dictates the structure of protein in a process known as translation.       This is known as the Central Dogma of Life, which holds true for all organisms; however, exceptions to the rule occur in connection with viral infections. 
+
+162.         In contrast to light microscopes, electron microscopes ([link]b) use a beam of electrons instead of a beam of light.       Not only does this allow for higher magnification and, thus, more detail ([link]), it also provides higher resolving power. 
+
+165. We will shortly come to see that this is significantly different in eukaryotes.         Prokaryotic DNA is found in a central part of the cell: the nucleoid ([link]).This figure shows the generalized structure of a prokaryotic cell.       All prokaryotes have chromosomal DNA localized in a nucleoid, ribosomes, a cell membrane, and a cell wall. 
+
+168.         The cytoplasm is the entire region of a cell between the plasma membrane and the nuclear envelope (a structure to be discussed shortly).       It is made up of organelles suspended in the gel-like cytosol, the cytoskeleton, and various chemicals ( [link]). 
+
+171.          The nuclear envelope is a double-membrane structure that constitutes the outermost portion of the nucleus ( [link]).       Both the inner and outer membranes of the nuclear envelope are phospholipid bilayers. 
+
+174. When the cell is in the growth and maintenance phases of its life cycle, proteins are attached to chromosomes, and they resemble an unwound, jumbled bunch of threads.         These unwound protein-chromosome complexes are called chromatin ( [link]); chromatin describes the material that makes up the chromosomes both when condensed and decondensed.       
+
+177.         Mitochondria (singular = mitochondrion) are often called the “powerhouses” or “energy factories” of a cell because they are responsible for making adenosine triphosphate (ATP), the cell’s main energy-carrying molecule.       ATP represents the short-term stored energy of the cell. 
+
+180.         The centrosome is a microtubule-organizing center found near the nuclei of animal cells.       It contains a pair of centrioles, two structures that lie perpendicular to each other ( [link]). 
+
+183. Like the mitochondria, chloroplasts have their own DNA and ribosomes, but chloroplasts have an entirely different function.         Chloroplasts are plant cell organelles that carry out photosynthesis.       Photosynthesis is the series of reactions that use carbon dioxide, water, and light energy to make glucose and oxygen. 
+
+186. Within the cytoplasm, there would still be ions and organic molecules, plus a network of protein fibers that help maintain the shape of the cell, secure some organelles in specific positions, allow cytoplasm and vesicles to move within the cell, and enable cells within multicellular organisms to move.         Collectively, this network of protein fibers is known as the cytoskeleton.       There are three types of fibers within the cytoskeleton: microfilaments, intermediate filaments, and microtubules ([link]). 
+
+189. The walls of the microtubule are made of polymerized dimers of α-tubulin and β-tubulin, two globular proteins ([link]).         With a diameter of about 25 nm, microtubules are the widest components of the cytoskeleton.       They help the cell resist compression, provide a track along which vesicles move through the cell, and pull replicated chromosomes to opposite ends of a dividing cell. 
+
+192. Collagen fibers are interwoven with carbohydrate-containing protein molecules called proteoglycans.         Collectively, these materials are called the extracellular matrix ([link]).       Not only does the extracellular matrix hold the cells together to form a tissue, but it also allows the cells within the tissue to communicate with each other. 
+
+195.         Also found only in animal cells are desmosomes, which act like spot welds between adjacent epithelial cells ([link]).       Short proteins called cadherins in the plasma membrane connect to intermediate filaments to create desmosomes. 
+
+198. The plasma membrane of human red blood cells is 30 percent lipid.         Carbohydrates are present only on the exterior surface of the plasma membrane and are attached to proteins, forming glycoproteins, or attached to lipids, forming glycolipids.       
+
+201. The head can form hydrogen bonds, but the tail cannot.         A molecule with this arrangement of a positively or negatively charged area and an uncharged, or non-polar, area is referred to as amphiphilic or “dual-loving.”       
+
+204. Plasma membranes must allow certain substances to enter and leave a cell, and prevent some harmful materials from entering and some essential materials from leaving.         In other words, plasma membranes are selectively permeable—they allow some substances to pass through, but not others.       If they were to lose this selectivity, the cell would no longer be able to sustain itself, and it would be destroyed. 
+
+207.         Diffusion is a passive process of transport.       A single substance tends to move from an area of high concentration to an area of low concentration until the concentration is equal across a space. 
+
+210.          The integral proteins involved in facilitated transport are collectively referred to as transport proteins, and they function as either channels for the material or carriers.       In both cases, they are transmembrane proteins. 
+
+213.          Another type of protein embedded in the plasma membrane is a carrier protein.       This aptly named protein binds a substance and, in doing so, triggers a change of its own shape, moving the bound molecule from the outside of the cell to its interior ([link]); depending on the gradient, the material may move in the opposite direction. 
+
+216.         Tonicity describes how an extracellular solution can change the volume of a cell by affecting osmosis.       A solution's tonicity often directly correlates with the osmolarity of the solution. 
+
+219.          As for a hypertonic solution, the prefix hyper- refers to the extracellular fluid having a higher osmolarity than the cell’s cytoplasm; therefore, the fluid contains less water than the cell does.       Because the cell has a relatively higher concentration of water, water will leave the cell. 
+
+222.         Active transport mechanisms require the use of the cell’s energy, usually in the form of adenosine triphosphate (ATP).       If a substance must move into the cell against its concentration gradient—that is, if the concentration of the substance inside the cell is greater than its concentration in the extracellular fluid (and vice versa)—the cell must use energy to move the substance. 
+
+225. Two mechanisms exist for the transport of small-molecular weight material and small molecules.         Primary active transport moves ions across a membrane and creates a difference in charge across that membrane, which is directly dependent on ATP.       Secondary active transport describes the movement of material that is due to the electrochemical gradient established by primary active transport that does not directly require ATP. 
+
+228. An important membrane adaption for active transport is the presence of specific carrier proteins or pumps to facilitate movement: there are three types of these proteins or transporters ([link]).         A uniporter carries one specific ion or molecule.       A symporter carries two different ions or molecules, both in the same direction. 
+
+231. This difference in charge is important in creating the conditions necessary for the secondary process.         The sodium-potassium pump is, therefore, an electrogenic pump (a pump that creates a charge imbalance), creating an electrical imbalance across the membrane and contributing to the membrane potential.       
+
+234.         A variation of endocytosis is called pinocytosis.       This literally means “cell drinking” and was named at a time when the assumption was that the cell was purposefully taking in extracellular fluid. 
+
+237.         In receptor-mediated endocytosis, as in phagocytosis, clathrin is attached to the cytoplasmic side of the plasma membrane.       If uptake of a compound is dependent on receptor-mediated endocytosis and the process is ineffective, the material will not be removed from the tissue fluids or blood. 
+
+240. Just as living things must continually consume food to replenish what has been used, cells must continually produce more energy to replenish that used by the many energy-requiring chemical reactions that constantly take place.         All of the chemical reactions that take place inside cells, including those that use energy and those that release energy, are the cell’s metabolism.       
+
+243.         Thermodynamics refers to the study of energy and energy transfer involving physical matter.       The matter and its environment relevant to a particular case of energy transfer are classified as a system, and everything outside of that system is called the surroundings. 
+
+246. However, a wrecking ball that is not in motion is incapable of performing work.         Energy associated with objects in motion is called kinetic energy.       A speeding bullet, a walking person, the rapid movement of molecules in the air (which produces heat), and electromagnetic radiation like light all have kinetic energy. 
+
+249. How can the energy released from one reaction be compared to that of another reaction?         A measurement of free energy is used to quantitate these energy transfers.       Free energy is called Gibbs free energy (abbreviated with the letter G) after Josiah Willard Gibbs, the scientist who developed the measurement. 
+
+252. Thus, the products of these reactions can be thought of as energy-storing molecules.         These chemical reactions are called endergonic reactions, and they are non-spontaneous.       An endergonic reaction will not take place on its own without the addition of free energy. 
+
+255. The source of the activation energy needed to push reactions forward is typically heat energy from the surroundings.         Heat energy (the total bond energy of reactants or products in a chemical reaction) speeds up the motion of molecules, increasing the frequency and force with which they collide; it also moves atoms and bonds within the molecule slightly, helping them reach their transition state.       For this reason, heating up a system will cause chemical reactants within that system to react more frequently. 
+
+258.         The chemical reactants to which an enzyme binds are the enzyme’s substrates.       There may be one or more substrates, depending on the particular chemical reaction. 
+
+261. This model asserted that the enzyme and substrate fit together perfectly in one instantaneous step.         However, current research supports a more refined view called induced fit ([link]).       The induced-fit model expands upon the lock-and-key model by describing a more dynamic interaction between enzyme and substrate. 
+
+264. Many enzymes don’t work optimally, or even at all, unless bound to other specific non-protein helper molecules, either temporarily through ionic or hydrogen bonds or permanently through stronger covalent bonds.         Two types of helper molecules are cofactors and coenzymes.       Binding to these molecules promotes optimal conformation and function for their respective enzymes. 
+
+267. This repulsion makes the ADP and ATP molecules inherently unstable.         The release of one or two phosphate groups from ATP, a process called dephosphorylation, releases energy.       
+
+270. Most of the ATP generated during glucose catabolism, however, is derived from a much more complex process, chemiosmosis, which takes place in mitochondria ([link]) within a eukaryotic cell or the plasma membrane of a prokaryotic cell.         Chemiosmosis, a process of ATP production in cellular metabolism, is used to generate 90 percent of the ATP made during glucose catabolism and is also the method used in the light reactions of photosynthesis to harness the energy of sunlight.       The production of ATP using the process of chemiosmosis is called oxidative phosphorylation because of the involvement of oxygen in the process. 
+
+273. Nearly all living organisms carry out glycolysis as part of their metabolism.         The process does not use oxygen and is therefore anaerobic.       Glycolysis takes place in the cytoplasm of both prokaryotic and eukaryotic cells. 
+
+276. If the cell cannot catabolize the pyruvate molecules further, it will harvest only two ATP molecules from one molecule of glucose.         Mature mammalian red blood cells are not capable of aerobic respiration—the process in which organisms convert energy in the presence of oxygen—and glycolysis is their sole source of ATP.       If glycolysis is interrupted, these cells lose their ability to maintain their sodium-potassium pumps, and eventually, they die. 
+
+279. As the protein passes along  the Golgi’s cisternae, it is further modified by the addition of more carbohydrates.         After its synthesis is complete, it exits as integral membrane protein of the vesicle that bud from the Golgi’s trans face and when the vesicle fuses with the cell membrane the protein becomes integral portion  of that cell membrane.       (credit: modification of work by Magnus Manske) 
+
+282.         The smooth endoplasmic reticulum (SER) is continuous with the RER but has few or no ribosomes on its cytoplasmic surface ([link]).       Functions of the SER include synthesis of carbohydrates, lipids, and steroid hormones; detoxification of medications and poisons; and storage of calcium ions. 
+
+285. Complex II directly receives FADH2, which does not pass through complex I.         The compound connecting the first and second complexes to the third is ubiquinone (Q).       The Q molecule is lipid soluble and freely moves through the hydrophobic core of the membrane. 
+
+288. In contrast, some living systems use an inorganic molecule as a final electron acceptor.         Both methods are called anaerobic cellular respiration in which organisms convert energy for their use in the absence of oxygen.       
+
+291. Other organisms, such as animals, fungi, and most other bacteria, are termed heterotrophs (“other feeders”), because they must rely on the sugars produced by photosynthetic organisms for their energy needs.         A third very interesting group of bacteria synthesize sugars, not by using sunlight’s energy, but by extracting energy from inorganic chemical compounds; hence, they are referred to as chemoautotrophs.       
+
+294. The stomata are typically located on the underside of the leaf, which helps to minimize water loss.         Each stoma is flanked by guard cells that regulate the opening and closing of the stomata by swelling or shrinking in response to osmotic changes.In all autotrophic eukaryotes, photosynthesis takes place inside an organelle called a chloroplast.       For plants, chloroplast-containing cells exist in the mesophyll. 
+
+297. Embedded in the thylakoid membrane is chlorophyll, a pigment (molecule that absorbs light) responsible for the initial interaction between light and plant material, and numerous proteins that make up the electron transport chain.         The thylakoid membrane encloses an internal space called the thylakoid lumen.       As shown in [link], a stack of thylakoids is called a granum, and the liquid-filled space surrounding the granum is called stroma or “bed” (not to be confused with stoma or “mouth,” an opening on the leaf epidermis).Art Connection 
+
+300. In the light-dependent reactions, energy from sunlight is absorbed by chlorophyll and that energy is converted into stored chemical energy.         In the light-independent reactions, the chemical energy harvested during the light-dependent reactions drive the assembly of sugar molecules from carbon dioxide.       Therefore, although the light-independent reactions do not use light as a reactant, they require the products of the light-dependent reactions to function. 
+

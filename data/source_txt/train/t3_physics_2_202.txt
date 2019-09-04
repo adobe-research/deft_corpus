@@ -1,0 +1,34 @@
+3246. The pion must then be captured and, thus, cannot be directly observed because that would amount to a permanent violation of mass-energy conservation.         Such particles (like the pion above) are called virtual particles, because they cannot be directly observed but their effects can be directly observed.       Realizing all this, Yukawa used the information on the range of the strong nuclear force to estimate the mass of the pion, the particle that carries it. 
+
+3249. He shared the 1965 Nobel Prize with Julian Schwinger and S. I. Tomonaga for work in QED with its deep implications for particle physics.Why is it that particles called gluons are listed as the carrier particles for the strong nuclear force when, in The Yukawa Particle and the Heisenberg Uncertainty Principle Revisited, we saw that pions apparently carry that force?         The answer is that pions are exchanged but they have a substructure and, as we explore it, we find that the strong force is actually related to the indirectly observed but more fundamental gluons.       In fact, all the carrier particles are thought to be fundamental in the sense that they have no substructure. 
+
+3252. The division between mesons and baryons is actually based on their observed decay modes and is not strictly associated with their masses.         Mesons are hadrons that can decay to leptons and leave no hadrons, which implies that mesons are not conserved in number.       Baryons are hadrons that always decay to another baryon. 
+
+3258. Originally, three quark types—or flavors—were proposed to account for the then-known mesons and baryons.         These quark flavors are named up (u), down (d), and strange (s).       All quarks have half-integral spin and are thus fermions. 
+
+3261.          What’s Color got to do with it?—A Whiter Shade of PaleAs mentioned and shown in [link], quarks carry another quantum number, which we call color.       Of course, it is not the color we sense with visible light, but its properties are analogous to those of three primary and three secondary colors. 
+
+3267. It is beyond the scope of this text to go into more detail on the types of quark and gluon interactions that underlie the observable particles, but the theory (quantum chromodynamics or QCD) is very self-consistent.         So successful have QCD and the electroweak theory been that, taken together, they are called the Standard Model.       Advances in knowledge are expected to modify, but not overthrow, the Standard Model of particle physics and forces. 
+
+3270. And the nature of the universe has implications for unexplored regions of particle physics.         Cosmology is the study of the character and evolution of the universe.       What are the major characteristics of the universe as we know them today? 
+
+3273. "002"`K} {}.         The detection of what is now called the cosmic microwave background (CMBR) was so important (generally considered as important as Hubble’s detection that the galactic red shift is proportional to distance) that virtually every scientist has accepted the expansion of the universe as fact.       Penzias and Wilson shared the 1978 Nobel Prize in Physics for their discovery. 
+
+3276. After this time, the forces become distinct in almost all interactions—they are no longer unified or symmetric.         This transition from GUT to electroweak is an example of spontaneous symmetry breaking, in which conditions spontaneously evolved to a point where the forces were no longer unified, breaking that symmetry.       This is analogous to a phase transition in the universe, and a clever proposal by American physicist Alan Guth in the early 1980s ties it to the smoothness of the CMBR. 
+
+3282. It is interesting that several prominent physicists who worked on the concept, including Einstein, firmly believed that nature would find a way to prohibit such objects.Black holes are difficult to observe directly, because they are small and no light comes directly from them.         In fact, no light comes from inside the event horizon, which is defined to be at a distance from the object at which the escape velocity is exactly the speed of light.       The radius of the event horizon is known as the Schwarzschild radius RSRS size 12{R rSub { size 8{S} } } {} and is given by 
+
+3288. This, until recently, was a question of whether there is enough gravitation to stop the expansion of the universe.         In the past few years, it has become a question of the combination of gravitation and what is called the cosmological constant. The cosmological constant was invented by Einstein to prohibit the expansion or contraction of the universe.       At the time he developed general relativity, Einstein considered that an illogical possibility. 
+
+3291. This means that if you travel far enough in any direction, you will return to your starting point, analogous to circumnavigating the Earth.         In between these two is a flat (zero curvature) universe.       The recent discovery of the cosmological constant has shown the universe is very close to flat, and will expand forever. 
+
+3294. We have noted in Particles, Patterns, and Conservation Laws that there are three flavors of neutrinos (νeνe size 12{ν rSub { size 8{e} } } {}, vμvμ size 12{v rSub { size 8{μ} } } {}, and vτvτ size 12{v rSub { size 8{τ} } } {}) and that the weak interaction could change quark flavor.         It should also change neutrino flavor—that is, any type of neutrino could change spontaneously into any other, a process called neutrino oscillations.       However, this can occur only if neutrinos have a mass. 
+
+3300.          The characteristic sound of a motorcycle buzzing by is an example of the Doppler effect.       The high-pitch scream shifts dramatically to a lower-pitch roar as the motorcycle passes by a stationary observer. 
+
+3303. Sonic booms are one example of a broader phenomenon called bow wakes.         A bow wake, such as the one in [link], is created when the wave source moves faster than the wave propagation speed.       Water waves spread out in circles from the point where created, and the bow wake is the familiar V-shaped wake trailing the source. 
+
+3306. Energies produced by Van de Graaffs are insufficient to produce new particles, but they have been instrumental in exploring several aspects of the nucleus.         Another, equally famous, early accelerator is the cyclotron, invented in 1930 by the American physicist, E. O. Lawrence (1901–1958).       For a visual representation with more detail, see [link]. 
+
+3309. One solution to this problem is to have head-on collisions between particles moving in opposite directions.         Colliding beams are made to meet head-on at points where massive detectors are located.       Since the total incoming momentum is zero, it is possible to create particles with momenta and kinetic energies near zero. 
+

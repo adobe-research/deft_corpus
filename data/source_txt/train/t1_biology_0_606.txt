@@ -1,0 +1,162 @@
+1820.         Earthworms (annelids) have slightly more evolved excretory structures called nephridia, illustrated in [link]b.       A pair of nephridia is present on each segment of the earthworm. 
+
+1826. Mammals, including humans, produce urea, whereas reptiles and many terrestrial invertebrates produce uric acid.         Animals that secrete urea as the primary nitrogenous waste material are called ureotelic animals.       
+
+1829.         Birds, reptiles, and most terrestrial arthropods convert toxic ammonia to uric acid or the closely related compound guanine (guano) instead of urea.       Mammals also form some uric acid during breakdown of nucleic acids. 
+
+1844. A mast cell is a leukocyte that produces inflammatory molecules, such as histamine, in response to large pathogens.         A basophil is a leukocyte that, like a neutrophil, releases chemicals to stimulate the inflammatory response as illustrated in [link].       Basophils are also involved in allergy and hypersensitivity responses and induce specific types of inflammatory responses. 
+
+1850. NK cells are always active; an interaction with normal, intact MHC I molecules on a healthy cell disables the killing sequence, and the NK cell moves on.         After the NK cell detects an infected or tumor cell, its cytoplasm secretes granules comprised of perforin, a destructive protein that creates a pore in the target cell.       Granzymes are released along with the perforin in the immunological synapse. 
+
+1856.         An antigen is a foreign or “non-self” macromolecule that reacts with cells of the immune system.       Not all antigens will provoke a response. 
+
+1859. Any individual may possess a population of T and B cells that together express a near limitless variety of antigen receptors that are capable of recognizing virtually any infecting pathogen.         T and B cells are activated when they recognize small components of antigens, called epitopes, presented by APCs, illustrated in [link].       Note that recognition occurs at a specific epitope rather than on the entire antigen; for this reason, epitopes are known as “antigenic determinants.” In the absence of information from APCs, T and B cells remain inactive, or naïve, and are unable to prepare an immune response. 
+
+1862. When stimulated by the TH2 pathway, naïve B cells differentiate into antibody-secreting plasma cells.         A plasma cell is an immune cell that secrets antibodies; these cells arise from B cells that were stimulated by antigens.       Similar to T cells, naïve B cells initially are coated in thousands of B cell receptors (BCRs), which are membrane-bound forms of Ig (immunoglobulin, or an antibody). 
+
+1865. Mucosal immunity is formed by mucosa-associated lymphoid tissue, which functions independently of the systemic immune system, and which has its own innate and adaptive components.         Mucosa-associated lymphoid tissue (MALT), illustrated in [link], is a collection of lymphatic tissue that combines with epithelial tissue lining the mucosa throughout the body.       This tissue functions as the immune barrier and response in areas of the body with direct contact to the external environment. 
+
+1868. The combined result of Treg cells is to prevent immunologic activation and inflammation in undesired tissue compartments and to allow the immune system to focus on pathogens instead.         In addition to promoting immune tolerance of harmless antigens, other subsets of Treg cells are involved in the prevention of the autoimmune response, which is an inappropriate immune response to host cells or self-antigens.       Another Treg class suppresses immune responses to harmful pathogens after the infection has cleared to minimize host cell damage induced by inflammation and cell lysis. 
+
+1871.         An antibody, also known as an immunoglobulin (Ig), is a protein that is produced by plasma cells after stimulation by an antigen.       Antibodies are the functional basis of humoral immunity. 
+
+1877.         The renin-angiotensin-aldosterone system, illustrated in [link] proceeds through several steps to produce angiotensin II, which acts to stabilize blood pressure and volume.       Renin (secreted by a part of the juxtaglomerular complex) is produced by the granular cells of the afferent and efferent arterioles. 
+
+1880. It also triggers the release of the mineralocorticoid aldosterone from the adrenal cortex, which in turn stimulates the renal tubules to reabsorb more sodium.         Angiotensin II also triggers the release of anti-diuretic hormone (ADH) from the hypothalamus, leading to water retention in the kidneys.       It acts directly on the nephrons and decreases glomerular filtration rate. 
+
+1883. Failures, insufficiencies, or delays at any level of the immune response can allow pathogens or tumor cells to gain a foothold and replicate or proliferate to high enough levels that the immune system becomes overwhelmed.         Immunodeficiency is the failure, insufficiency, or delay in the response of the immune system, which may be acquired or inherited.       Immunodeficiency can be acquired as a result of infection with certain pathogens (such as HIV), chemical exposure (including certain medical treatments), malnutrition, or possibly by extreme stress. 
+
+1886.         Autoimmunity is a type of hypersensitivity to self antigens that affects approximately five percent of the population.       Most types of autoimmunity involve the humoral immune response. 
+
+1889.         During sexual reproduction the genetic material of two individuals is combined to produce genetically diverse offspring that differ from their parents.       The genetic diversity of sexually produced offspring is thought to give species a better chance of surviving in an unpredictable or changing environment. 
+
+1895. Sexual reproduction starts with the combination of a sperm and an egg in a process called fertilization.         This can occur either inside (internal fertilization) or outside (external fertilization) the body of the female.       Humans provide an example of the former whereas seahorse reproduction is an example of the latter. 
+
+1901.         In the male reproductive system, the scrotum houses the testicles or testes (singular: testis), including providing passage for blood vessels, nerves, and muscles related to testicular function.       The testes are a pair of male reproductive organs that produce sperm and some reproductive hormones. 
+
+1907.         The walnut-shaped prostate gland surrounds the urethra, the connection to the urinary bladder.       It has a series of short ducts that directly connect to the urethra. 
+
+1910. The clitoris is a structure with erectile tissue that contains a large number of sensory nerves and serves as a source of stimulation during intercourse.         The labia majora are a pair of elongated folds of tissue that run posterior from the mons pubis and enclose the other components of the vulva.       The labia majora derive from the same tissue that produces the scrotum in a male. 
+
+1913.         The oviducts, or fallopian tubes, extend from the uterus in the lower abdominal cavity to the ovaries, but they are not in contact with the ovaries.       The lateral ends of the oviducts flare out into a trumpet-like structure and have a fringe of finger-like projections called fimbriae, illustrated in [link]b. 
+
+1919. FSH enters the testes and stimulates the Sertoli cells to begin facilitating spermatogenesis using negative feedback, as illustrated in [link].         LH also enters the testes and stimulates the interstitial cells of Leydig to make and release testosterone into the testes and the blood.       
+
+1925. Just prior to the middle of the cycle (approximately day 14), the high level of estrogen causes FSH and especially LH to rise rapidly, then fall.         The spike in LH causes ovulation: the most mature follicle, like that shown in [link], ruptures and releases its egg.       The follicles that did not rupture degenerate and their eggs are lost. 
+
+1928. In mammals, the egg is protected by a layer of extracellular matrix consisting mainly of glycoproteins called the zona pellucida.         When a sperm binds to the zona pellucida, a series of biochemical events, called the acrosomal reactions, take place.       In placental mammals, the acrosome contains digestive enzymes that initiate the degradation of the glycoprotein matrix protecting the egg and allowing the sperm plasma membrane to fuse with the egg plasma membrane, as illustrated in [link]b. 
+
+1931.         In mammals, the blastula forms the blastocyst in the next stage of development.       Here the cells in the blastula arrange themselves in two layers: the inner cell mass, and an outer layer called the trophoblast. 
+
+1934. Pregnancy begins with the fertilization of an egg and continues through to the birth of the individual.         The length of time of gestation varies among animals, but is very similar among the great apes: human gestation is 266 days, while chimpanzee gestation is 237 days, a gorilla’s is 257 days, and orangutan gestation is 260 days long.       The fox has a 57-day gestation. 
+
+1937. The prevention of a pregnancy comes under the terms contraception or birth control.         Strictly speaking, contraception refers to preventing the sperm and egg from joining.       Both terms are, however, frequently used interchangeably. 
+
+1940.         The neural plate undergoes a series of cell movements where it rolls up and forms a tube called the neural tube, as illustrated in [link].       In further development, the neural tube will give rise to the brain and the spinal cord. 
+
+1943. A population is a group of interbreeding organisms that are members of the same species living in the same area at the same time.         (Organisms that are all members of the same species are called conspecifics.)       A population is identified, in part, by where it lives, and its area of population may have natural or artificial boundaries: natural boundaries might be rivers, mountains, or deserts, while examples of artificial boundaries include mowed grass, manmade structures, or roads. 
+
+1946. Many abiotic forces influence where life can exist and the types of organisms found in different parts of the biosphere.         The abiotic factors influence the distribution of biomes: large areas of land with similar climate, flora, and fauna.       
+
+1949. Many organisms sink to the bottom of the ocean when they die in the open water; when this occurs, the energy found in that living organism is sequestered for some time unless ocean upwelling occurs.         Ocean upwelling is the rising of deep ocean waters that occurs when prevailing winds blow along surface waters near a coastline ([link]).       As the wind pushes ocean waters offshore, water from the bottom of the ocean moves up to replace this water. 
+
+1958. The benthic realm (or zone) extends along the ocean bottom from the shoreline to the deepest parts of the ocean floor.         Within the pelagic realm is the photic zone, which is the portion of the ocean that light can penetrate (approximately 200 m or 650 ft).       At depths greater than 200 m, light cannot penetrate; thus, this is referred to as the aphotic zone. 
+
+1961.         The neritic zone ([link]) extends from the intertidal zone to depths of about 200 m (or 650 ft) at the edge of the continental shelf.       Since light can penetrate this depth, photosynthesis can occur in the neritic zone. 
+
+1964.         The deepest part of the ocean is the abyssal zone, which is at depths of 4000 m or greater.       The abyssal zone ([link]) is very cold and has very high pressure, high oxygen content, and low nutrient content. 
+
+1967. These fishes can feed on coral, the cryptofauna (invertebrates found within the calcium carbonate substrate of the coral reefs), or the seaweed and algae that are associated with the coral.         In addition, some fish species inhabit the boundaries of a coral reef; these species include predators, herbivores, or planktivores.       Predators are animal species that hunt and are carnivores or “flesh eaters.” Herbivores eat plant material, and planktivores eat plankton. 
+
+1973. Wetlands are different from lakes because wetlands are shallow bodies of water whereas lakes vary in depth.         Emergent vegetation consists of wetland plants that are rooted in the soil but have portions of leaves, stems, and flowers extending above the water’s surface.       There are several types of wetlands including marshes, swamps, bogs, mudflats, and salt marshes ([link]). 
+
+1976. Climate does not address the amount of rain that fell on one particular day in a biome or the colder-than-average temperatures that occurred on one day.         In contrast, weather refers to the conditions of the atmosphere during a short period of time.       Weather forecasts are usually made for 48-hour cycles. 
+
+1979. This occurred in 1783 when volcanos in Iceland erupted and caused the release of large volumes of sulfuric oxide.         This led to haze-effect cooling, a global phenomenon that occurs when dust, ash, or other suspended particles block out sunlight and trigger lower global temperatures as a result; haze-effect cooling usually extends for one or more years.       In Europe and North America, haze-effect cooling produced some of the lowest average winter temperatures on record in 1783 and 1784. 
+
+1982. Another source of methane is the melting of clathrates.         Clathrates are frozen chunks of ice and methane found at the bottom of the ocean.       When water warms, these chunks of ice melt and methane is released. 
+
+1985. The study of any population usually begins by determining how many individuals of a particular species exist, and how closely associated they are with each other.         Within a particular habitat, a population can be characterized by its population size (N), the total number of individuals, and its population density, the number of individuals within a specific area or volume.       Population size and density are the two main characteristics used to describe and understand populations. 
+
+1988. In addition to measuring simple density, further information about a population can be obtained by looking at the distribution of the individuals.         Species dispersion patterns (or distribution patterns) show the spatial relationship between members of a population within a habitat at a particular point in time.       In other words, they show whether members of the species live close together or far apart, and what patterns are evident when they are spaced apart. 
+
+1991. Malthus published a book in 1798 stating that populations with unlimited natural resources grow very rapidly, and then population growth decreases as resources become depleted.         This accelerating pattern of increasing population size is called exponential growth.       
+
+1997. The successful ones will survive to pass on their own characteristics and traits (which we know now are transferred by genes) to the next generation at a greater rate (natural selection).         To model the reality of limited resources, population ecologists developed the logistic growth model.       
+
+2000. In the real world, phenotypic variation among individuals within a population means that some individuals will be better adapted to their environment than others.         The resulting competition between population members of the same species for resources is termed intraspecific competition (intra- = “within”; -specific = “species”).       Intraspecific competition for resources may not affect populations that are well below their carrying capacity—resources are plentiful and all individuals can obtain what they need. 
+
+2003. In another example, the chameleon can change its color to match its surroundings ([link]b).         Both of these are examples of camouflage, or avoiding detection by blending in with the background.       
+
+2009.         SymbiosisSymbiotic relationships, or symbioses (plural), are close interactions between individuals of different species over an extended period of time which impact the abundance and distribution of the associating populations.       Most scientists accept this definition, but some restrict the term to only those species that are mutualistic, where both individuals benefit from the interaction. 
+
+2012.         A parasite is an organism that lives in or on another living organism and derives nutrients from it.       In this relationship, the parasite benefits, but the organism being fed upon, the host is harmed. 
+
+2015. The area in question could be a habitat, a biome, or the entire biosphere.         Species richness is the term that is used to describe the number of species living in a habitat or biome.       Species richness varies across the globe ([link]). 
+
+2018.         Keystone SpeciesA keystone species is one whose presence is key to maintaining biodiversity within an ecosystem and to upholding an ecological community’s structure.       The intertidal sea star, Pisaster ochraceus, of the northwestern United States is a keystone species ([link]). 
+
+2021. On the Big Island, approximately 32 acres of land is added each year.         First, weathering and other natural forces break down the substrate enough for the establishment of certain hearty plants and lichens with few soil requirements, known as pioneer species ([link]).       These species help to further break down the mineral rich lava into soil where other, less hardy species will grow and eventually replace the pioneer species. 
+
+2024. Behavior is the change in activity of an organism in response to a stimulus.         Behavioral biology is the study of the biological and evolutionary bases for such changes.       The idea that behaviors evolved as a result of the pressures of natural selection is not new. 
+
+2027. Innate or instinctual behaviors rely on response to stimuli.         The simplest example of this is a reflex action, an involuntary and rapid response to stimulus.       To test the “knee-jerk” reflex, a doctor taps the patellar tendon below the kneecap with a rubber hammer. 
+
+2030.         A fixed action pattern is a series of movements elicited by a stimulus such that even when the stimulus is removed, the pattern goes on to completion.       An example of such a behavior occurs in the three-spined stickleback, a small freshwater fish ([link]). 
+
+2033.         Communication within a SpeciesAnimals communicate with each other using stimuli known as signals.       An example of this is seen in the three-spined stickleback, where the visual signal of a red region in the lower half of a fish signals males to become aggressive and signals females to mate. 
+
+2036.         Distraction displays are seen in birds and some fish.       They are designed to attract a predator away from the nest that contains their young. 
+
+2039.         In monogamous systems, one male and one female are paired for at least one breeding season.       In some animals, such as the gray wolf, these associations can last much longer, even a lifetime. 
+
+2042.         Habituation is a simple form of learning in which an animal stops responding to a stimulus after a period of repeated exposure.       This is a form of non-associative learning, as the stimulus is not associated with any punishment or reward. 
+
+2045.         In classical conditioning, a response called the conditioned response is associated with a stimulus that it had previously not been associated with, the conditioned stimulus.       The response to the original, unconditioned stimulus is called the unconditioned response. 
+
+2048.         A species’ life history describes the series of events over its lifetime, such as how resources are allocated for growth, maintenance, and reproduction.       Life history traits affect the life table of an organism. 
+
+2051. Single versus Multiple Reproductive EventsSome life history traits, such as fecundity, timing of reproduction, and parental care, can be grouped together into general strategies that are used by multiple species.         Semelparity occurs when a species reproduces only once during its lifetime and then dies.       Such species use most of their resource budget during a single reproductive event, sacrificing their health to the point that they do not survive. 
+
+2054. Nature regulates population growth in a variety of ways.         These are grouped into density-dependent factors, in which the density of the population at a given time affects growth rate and mortality, and density-independent factors, which influence mortality in a population regardless of population density.       Note that in the former, the effect of the factor on the population depends on the density of the population at onset. 
+
+2057. Furthermore, the theory ignored the age-specific mortality of the populations which scientists now know is very important.         New demographic-based models of life history evolution have been developed which incorporate many ecological concepts included in r- and K-selection theory as well as population age structure and mortality factors.       
+
+2060. In ecology, two parameters are used to measure changes in ecosystems: resistance and resilience.         The ability of an ecosystem to remain at equilibrium in spite of disturbances is called resistance.       The speed at which an ecosystem recovers equilibrium after being disturbed, called its resilience. 
+
+2063. There is a single path through the chain.         Each organism in a food chain occupies what is called a trophic level.       Depending on their role as producers or consumers, species or groups of species can be assigned to various trophic levels. 
+
+2066. The organisms that consume the primary producers are herbivores: the primary consumers.         Secondary consumers are usually carnivores that eat the primary consumers.       Tertiary consumers are carnivores that eat other carnivores. 
+
+2069. A holistic model—which accounts for all the interactions between different species and their complex interconnected relationships with each other and with the environment—is a more accurate and descriptive model for ecosystems.         A food web is a graphic representation of a holistic, non-linear web of primary producers, primary consumers, and higher-level consumers used to describe ecosystem structure and dynamics ([link]).       
+
+2072.         The study of the changes in ecosystem structure caused by changes in the environment (disturbances) or by internal forces is called ecosystem dynamics.       Ecosystems are characterized using a variety of research methodologies. 
+
+2075. Three basic types of ecosystem modeling are routinely used in research and ecosystem management: a conceptual model, an analytical model, and a simulation model.         A conceptual model is an ecosystem model that consists of flow charts to show interactions of different compartments of the living and nonliving components of the ecosystem.       A conceptual model describes ecosystem structure and dynamics and shows how environmental disturbances affect the ecosystem; however, its ability to predict the effects of these disturbances is limited. 
+
+2078.         Chemoautotrophs are primarily bacteria that are found in rare ecosystems where sunlight is not available, such as in those associated with dark caves or hydrothermal vents at the bottom of the ocean ([link]).       Many chemoautotrophs in hydrothermal vents use hydrogen sulfide (H2S), which is released from the vents as a source of chemical energy. 
+
+2081. In this ecosystem, the total energy accumulated by the primary producers (gross primary productivity) was shown to be 20,810 kcal/m2/yr.Because all organisms need to use some of this energy for their own functions (like respiration and resulting metabolic heat loss) scientists often refer to the net primary productivity of an ecosystem.         Net primary productivity is the energy that remains in the primary producers after accounting for the organisms’ respiration and heat loss.       The net productivity is then available to the primary consumers at the next trophic level. 
+
+2084. Net consumer productivity is the energy content available to the organisms of the next trophic level.         Assimilation is the biomass (energy content generated per unit area) of the present trophic level after accounting for the energy lost due to incomplete ingestion of food, energy used for respiration, and energy lost as waste.       Incomplete ingestion refers to the fact that some consumers eat only a part of their food. 
+
+2087. Geologic processes, such as weathering, erosion, water drainage, and the subduction of the continental plates, all play a role in this recycling of materials.         Because geology and chemistry have major roles in the study of this process, the recycling of inorganic matter between living organisms and their environment is called a biogeochemical cycle.       
+
+2090. Fossil fuels are considered a non-renewable resource because their use far exceeds their rate of formation.         A non-renewable resource, such as fossil fuel, is either regenerated very slowly or not at all.       Another way for carbon to enter the atmosphere is from land (including land beneath the surface of the ocean) by the eruption of volcanoes and other geothermal systems. 
+
+2093.         A dead zone is an area within a freshwater or marine ecosystem where large areas are depleted of their normal flora and fauna; these zones can be caused by eutrophication, oil spills, dumping of toxic chemicals, and other human activities.       The number of dead zones has been increasing for several years, and more than 400 of these zones were present as of 2008. 
+
+2096.         Traditionally, ecologists have measured biodiversity, a general term for the variety present in the biosphere, by taking into account both the number of species and their commonness.       Biodiversity can be estimated at a number of levels of organization of living things. 
+
+2099.         Genetic diversity is one of those alternate concepts.       Genetic diversity or variation is the raw material for adaptation in a species. 
+
+2102. All of these species were found only in Lake Victoria; therefore, the 500 species of cichlids were endemic.         Endemic species are found in only one location.       Endemics with highly restricted distributions are particularly vulnerable to extinction. 
+
+2105. The Pleistocene Extinction is one of the lesser extinctions, and a recent one.         It is well known that the North American, and to some degree Eurasian, megafauna, or large animals, disappeared toward the end of the last glaciation period.       The extinction appears to have happened in a relatively restricted time period of 10,000–12,000 years ago. 
+
+2108. Contemporary societies that live close to the land often have a broad knowledge of the medicinal uses of plants growing in their area.         Most plants produce secondary plant compounds, which are toxins used to protect the plant from insects and other animals that eat them, but some of which also work as medication.       For centuries in Europe, older knowledge about the medical uses of plants was compiled in herbals—books that identified plants and their uses. 
+
+2111.         Exotic species are species that have been intentionally or unintentionally introduced by humans into an ecosystem in which they did not evolve.       Such introductions likely occur frequently as natural phenomena. 
+
+2114. The technology of molecular genetics and data processing and storage are maturing to the point where cataloguing the planet’s species in an accessible way is close to feasible.         DNA barcoding is one molecular genetic method, which takes advantage of rapid evolution in a mitochondrial gene present in eukaryotes, excepting the plants, to identify species using the sequence of portions of the gene.       Plants may be barcoded using a combination of chloroplast genes. 
+

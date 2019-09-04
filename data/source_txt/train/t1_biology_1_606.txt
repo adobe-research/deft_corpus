@@ -1,0 +1,186 @@
+1818. This allows for exchange of chemical messengers between the different cell types.         For example, the DCT ascending limb of the loop of Henle has masses of cells called macula densa, which are in contact with cells of the afferent arterioles called juxtaglomerular cells.       Together, the macula densa and juxtaglomerular cells form the juxtaglomerular complex (JGC). 
+
+1821. They are similar to flame cells in that they have a tubule with cilia.         Excretion occurs through a pore called the nephridiopore.       They are more evolved than the flame cells in that they have a system for tubular reabsorption by a capillary network before excretion. 
+
+1824. Excess nitrogen is excreted from the body.         Nitrogenous wastes tend to form toxic ammonia, which raises the pH of body fluids.       The formation of ammonia itself requires energy in the form of ATP and large quantities of water to dilute it out of a biological system. 
+
+1827.         The urea cycle is the primary mechanism by which mammals convert ammonia to urea.       Urea is made in the liver and excreted in urine. 
+
+1833. The immune system comprises both innate and adaptive immune responses.         Innate immunity occurs naturally because of genetic factors or physiology; it is not induced by infection or vaccination but works to reduce the workload for the adaptive immune response.       Both the innate and adaptive levels of the immune response involve secreted proteins, receptor-mediated signaling, and intricate cell-to-cell communication. 
+
+1836. A macrophage is a large phagocytic cell that engulfs foreign particles and pathogens.         Macrophages recognize PAMPs via complementary pattern recognition receptors (PRRs).       PRRs are molecules on macrophages and dendritic cells which are in contact with the external environment. 
+
+1839. A second class of early-acting cytokines is interferons, which are released by infected cells as a warning to nearby uninfected cells.         One of the functions of an interferon is to inhibit viral replication.       They also have other important functions, such as tumor surveillance. 
+
+1842. Neutrophils have a nucleus with two to five lobes, and they contain organelles, called lysosomes, that digest engulfed pathogens.         An eosinophil is a leukocyte that works with other eosinophils to surround a parasite; it is involved in the allergic response and in protection against helminthes (parasitic worms).       
+
+1845.         Lymphocytes are leukocytes that are histologically identifiable by their large, darkly staining nuclei; they are small cells with very little cytoplasm, as shown in [link].       Infected cells are identified and destroyed by natural killer (NK) cells, lymphocytes that can kill cells infected with viruses or tumor cells (abnormal cells that uncontrollably divide and invade other tissue). 
+
+1848. T cells are lymphocytes that mature in the thymus gland, and B cells are lymphocytes that mature in the bone marrow.         NK cells identify intracellular infections, especially from viruses, by the altered expression of major histocompatibility class (MHC) I molecules on the surface of infected cells.       MHC I molecules are proteins on the surfaces of all nucleated cells, thus they are scarce on red blood cells and platelets which are non-nucleated. 
+
+1851. Granzymes are released along with the perforin in the immunological synapse.         A granzyme is a protease that digests cellular proteins and induces the target cell to undergo programmed cell death, or apoptosis.       Phagocytic cells then digest the cell debris left behind. 
+
+1854. The adaptive, or acquired, immune response takes days or even weeks to become established—much longer than the innate response; however, adaptive immunity is more specific to pathogens and has memory.         Adaptive immunity is an immunity that occurs after exposure to an antigen either from a pathogen or a vaccination.       This part of the immune system is activated when the innate immune response is insufficient to control an infection. 
+
+1857. The innate immune system contains cells that detect potentially harmful antigens, and then inform the adaptive immune response about the presence of these antigens.         An antigen-presenting cell (APC) is an immune cell that detects, engulfs, and informs the adaptive immune response about an infection.       When a pathogen is detected, these APCs will phagocytose the pathogen and digest it to form many different fragments of the antigen. 
+
+1860. These molecules are important because they regulate how a T cell will interact with and respond to an APC.         Naïve CD4+ cells bind APCs via their antigen-embedded MHC II molecules and are stimulated to become helper T (TH) lymphocytes, cells that go on to stimulate B cells (or cytotoxic T cells) directly or secrete cytokines to inform more and various target cells about the pathogenic threat.       In contrast, CD8+ cells engage antigen-embedded MHC I molecules on APCs and are stimulated to become cytotoxic T lymphocytes (CTLs), which directly kill infected cells by apoptosis and emit cytokines to amplify the immune response. 
+
+1863. When a TH2 cell detects that a B cell is bound to a relevant antigen, it secretes specific cytokines that induce the B cell to proliferate rapidly, which makes thousands of identical (clonal) copies of it, and then it synthesizes and secretes antibodies with the same antigen recognition pattern as the BCRs.         The activation of B cells corresponding to one specific BCR variant and the dramatic proliferation of that variant is known as clonal selection.       This phenomenon drastically, but briefly, changes the proportions of BCR variants expressed by the immune system, and shifts the balance toward BCRs specific to the infecting pathogen. 
+
+1866.         The immune system has to be regulated to prevent wasteful, unnecessary responses to harmless substances, and more importantly so that it does not attack “self.” The acquired ability to prevent an unnecessary or harmful immune response to a detected foreign substance known not to cause disease is described as immune tolerance.       Immune tolerance is crucial for maintaining mucosal homeostasis given the tremendous number of foreign substances (such as food proteins) that APCs of the oral cavity, pharynx, and gastrointestinal mucosa encounter. 
+
+1869.         A memory cell is an antigen-specific B or T lymphocyte that does not differentiate into effector cells during the primary immune response, but that can immediately become effector cells upon re-exposure to the same pathogen.       During the primary immune response, memory cells do not respond to antigens and do not contribute to host defenses. 
+
+1872. For instance, a person who has recently produced a successful immune response against a particular disease agent can donate blood to a nonimmune recipient and confer temporary immunity through antibodies in the donor’s blood serum.         This phenomenon is called passive immunity; it also occurs naturally during breastfeeding, which makes breastfed infants highly resistant to infections during the first few months of life.       
+
+1875. Because an epitope corresponds to such a small region (the surface area of about four to six amino acids), it is possible for different macromolecules to exhibit the same molecular identities and orientations over short regions.         Cross reactivity describes when an antibody binds not to the antigen that elicited its synthesis and secretion, but to a different antigen.       
+
+1878. Thus, the kidneys control blood pressure and volume directly.         Renin acts on angiotensinogen, which is made in the liver and converts it to angiotensin I.       Angiotensin converting enzyme (ACE) converts angiotensin I to angiotensin II. 
+
+1881.         As previously discussed, antidiuretic hormone or ADH (also called vasopressin), as the name suggests, helps the body conserve water when body fluid volume, especially that of blood, is low.       It is formed by the hypothalamus and is stored and released from the posterior pituitary. 
+
+1884.         Maladaptive immune responses toward harmless foreign substances or self antigens that occur after tissue sensitization are termed hypersensitivities.       The types of hypersensitivities include immediate, delayed, and autoimmunity. 
+
+1887. Most types of autoimmunity involve the humoral immune response.         Antibodies that inappropriately mark self components as foreign are termed autoantibodies.       In patients with the autoimmune disease myasthenia gravis, muscle cell receptors that induce contraction in response to acetylcholine are targeted by antibodies. 
+
+1890.         Fission, also called binary fission, occurs in prokaryotic microorganisms and in some invertebrate, multi-celled organisms.       After a period of growth, an organism splits into two separate organisms. 
+
+1893.         Parthenogenesis is a form of asexual reproduction where an egg develops into a complete individual without being fertilized.       The resulting offspring can be either haploid or diploid, depending on the process and the species. 
+
+1896. There are three ways that offspring are produced following internal fertilization.         In oviparity, fertilized eggs are laid outside the female’s body and develop there, receiving nourishment from the yolk that is a part of the egg.       This occurs in most bony fish, many reptiles, some cartilaginous fish, most amphibians, two mammals, and all birds. 
+
+1899. When they are released from the ovary, they travel to the uterine tubes for fertilization.         Some insects have a specialized sac, called a spermatheca, which stores sperm for later use, sometimes up to a year.       Fertilization can be timed with environmental or food conditions that are optimal for offspring survival. 
+
+1902. In the male reproductive system, the scrotum houses the testicles or testes (singular: testis), including providing passage for blood vessels, nerves, and muscles related to testicular function.         The testes are a pair of male reproductive organs that produce sperm and some reproductive hormones.       Each testis is approximately 2.5 by 3.8 cm (1.5 by 1 in) in size and divided into wedge-shaped lobules by connective tissue called septa. 
+
+1905. These are the seminal vesicles, the prostate gland, and the bulbourethral gland, all of which are illustrated in [link].         The seminal vesicles are a pair of glands that lie along the posterior border of the urinary bladder.       The glands make a solution that is thick, yellowish, and alkaline. 
+
+1908.         The bulbourethral gland, or Cowper’s gland, releases its secretion prior to the release of the bulk of the semen.       It neutralizes any acid residue in the urethra left over from urine. 
+
+1911. The labia majora derive from the same tissue that produces the scrotum in a male.         The labia minora are thin folds of tissue centrally located within the labia majora.       These labia protect the openings to the vagina and urethra. 
+
+1914.         The vagina is a muscular tube that serves several purposes.       It allows menstrual flow to leave the body. 
+
+1917. When the reproductive hormone is required, the hypothalamus sends a gonadotropin-releasing hormone (GnRH) to the anterior pituitary.         This causes the release of follicle stimulating hormone (FSH) and luteinizing hormone (LH) from the anterior pituitary into the blood.       Note that the body must reach puberty in order for the adrenals to release the hormones that must be present for GnRH to be produced. 
+
+1920.         Testosterone, the hormone responsible for the secondary sexual characteristics that develop in the male during adolescence, stimulates spermatogenesis.       These secondary sex characteristics include a deepening of the voice, the growth of facial, axillary, and pubic hair, and the beginnings of the sex drive. 
+
+1923. These include breast development, flaring of the hips, and a shorter period necessary for bone maturation.         Progesterone assists in endometrial re-growth and inhibition of FSH and LH release.       
+
+1926. As women approach their mid-40s to mid-50s, their ovaries begin to lose their sensitivity to FSH and LH.         Menstrual periods become less frequent and finally cease; this is menopause.       There are still eggs and potential follicles on the ovaries, but without the stimulation of FSH and LH, they will not produce a viable egg to be released. 
+
+1932. In mammals, the blastula forms the blastocyst in the next stage of development.         Here the cells in the blastula arrange themselves in two layers: the inner cell mass, and an outer layer called the trophoblast.       The inner cell mass is also known as the embryoblast and this mass of cells will go on to form the embryo. 
+
+1935. The outer layers of the zygote (blastocyst) grow into the endometrium by digesting the endometrial cells, and wound healing of the endometrium closes up the blastocyst into the tissue.         Another layer of the blastocyst, the chorion, begins releasing a hormone called human beta chorionic gonadotropin (β-HCG) which makes its way to the corpus luteum and keeps that structure active.       This ensures adequate levels of progesterone that will maintain the endometrium of the uterus for the support of the developing embryo. 
+
+1938.         Infertility is the inability to conceive a child or carry a child to birth.       About 75 percent of causes of infertility can be identified; these include diseases, such as sexually transmitted diseases that can cause scarring of the reproductive tubes in either men or women, or developmental problems frequently related to abnormal hormone levels in one of the individuals. 
+
+1941. The mesoderm that lies on either side of the vertebrate neural tube will develop into the various connective tissues of the animal body.         A spatial pattern of gene expression reorganizes the mesoderm into groups of cells called somites with spaces between them.       The somites, illustrated in [link] will further develop into the ribs, lungs, and segmental (spine) muscle. 
+
+1944. Questions about conspecific interactions often focus on competition among members of the same species for a limited resource.         Ecologists also study interactions among various species; members of different species are called heterospecifics.       Examples of heterospecific interactions include predation, parasitism, herbivory, competition, and pollination. 
+
+1947.         Biogeography is the study of the geographic distribution of living things and the abiotic factors that affect their distribution.       Abiotic factors such as temperature and rainfall vary based mainly on latitude and elevation. 
+
+1950. The nutrients at the bottom of lakes are recycled twice each year: in the spring and fall turnover.         The spring and fall turnover is a seasonal process that recycles nutrients and oxygen from the bottom of a freshwater ecosystem to the top of a body of water ([link]).       These turnovers are caused by the formation of a thermocline: a layer of water with a temperature that is significantly different from that of the surrounding layers. 
+
+1953. Net primary productivity is an estimation of all of the organic matter available as food; it is calculated as the total amount of carbon fixed per year minus the amount that is oxidized during cellular respiration.         In terrestrial environments, net primary productivity is estimated by measuring the aboveground biomass per unit area, which is the total mass of living plants, excluding roots.       This means that a large percentage of plant biomass which exists underground is not included in this measurement. 
+
+1956. The ocean is categorized by several areas or zones ([link]).         All of the ocean’s open water is referred to as the pelagic realm (or zone).       The benthic realm (or zone) extends along the ocean bottom from the shoreline to the deepest parts of the ocean floor. 
+
+1959. Within the pelagic realm is the photic zone, which is the portion of the ocean that light can penetrate (approximately 200 m or 650 ft).         At depths greater than 200 m, light cannot penetrate; thus, this is referred to as the aphotic zone.       The majority of the ocean is aphotic and lacks sufficient light for photosynthesis. 
+
+1962. The water here contains silt and is well-oxygenated, low in pressure, and stable in temperature.         Phytoplankton and floating Sargassum (a type of free-floating marine seaweed) provide a habitat for some sea life found in the neritic zone.       Zooplankton, protists, small fishes, and shrimp are found in the neritic zone and are the base of the food chain for most of the world’s fisheries.Beyond the neritic zone is the open ocean area known as the oceanic zone ([link]). 
+
+1965.         Coral reefs are ocean ridges formed by marine invertebrates living in warm shallow waters within the photic zone of the ocean.       They are found within 30˚ north and south of the equator. 
+
+1968.         Estuaries are biomes that occur where a source of fresh water, such as a river, meets the ocean.       Therefore, both fresh water and salt water are found in the same vicinity; mixing results in a diluted (brackish) saltwater. 
+
+1971. Abiotic features of rivers and streams vary along the length of the river or stream.         Streams begin at a point of origin referred to as source water.       The source water is usually cold, low in nutrients, and clear. 
+
+1974. Scientists who study climate have noted a series of marked changes that have gradually become increasingly evident during the last sixty years.         Global climate change is the term used to describe altered global weather patterns, including a worldwide increase in temperature, due largely to rising levels of atmospheric carbon dioxide.       
+
+1977. The first of these is the Milankovitch cycles.         The Milankovitch cycles describe the effects of slight changes in the Earth’s orbit on Earth’s climate.       The length of the Milankovitch cycles ranges between 19,000 and 100,000 years. 
+
+1983. Populations consist all of the species living within a specific area, and populations fluctuate based on a number of factors: seasonal and yearly changes in the environment, natural disasters such as forest fires and volcanic eruptions, and competition for resources between and within species.         The statistical study of population dynamics, demography, uses a series of mathematical tools to investigate how populations respond to changes in their biotic and abiotic environments.       Many of these tools were originally designed to study human populations. 
+
+1986. A variety of methods can be used to sample populations to determine their size and density.         For immobile organisms such as plants, or for very small and slow-moving organisms, a quadrat may be used ([link]).       A quadrat is a way of marking off square areas within a habitat, either by staking out an area with sticks and string, or by the use of a wood, plastic, or metal square placed on the ground. 
+
+1992. After the third hour, there should be 8000 bacteria in the flask, an increase of 4000 organisms.         The important concept of exponential growth is that the population growth rate—the number of organisms added in each reproductive generation—is accelerating; that is, it is increasing at a greater and greater rate.       After 1 day and 24 of these cycles, the population would have increased from 1000 to more than 16 billion. 
+
+1995.          The value “r” can be positive, meaning the population is increasing in size; or negative, meaning the population is decreasing in size; or zero, where the population’s size is unchanging, a condition known as zero population growth.       A further refinement of the formula recognizes that different species have inherent differences in their intrinsic rate of increase (often thought of as the potential for reproduction), even under ideal conditions. 
+
+1998. Eventually, the growth rate will plateau or level off ([link]).         This population size, which represents the maximum population size that a particular environment can support, is called the carrying capacity, or K.The formula we use to calculate logistic growth adds the carrying capacity as a moderating force in the growth rate.       The expression “K – N” is indicative of how many individuals may be added to a population at a given stage, and “K – N” divided by “K” is the fraction of the carrying capacity available for further growth. 
+
+2001. The age structure of a population is an important factor in population dynamics.         Age structure is the proportion of a population at different age ranges.       Age structure allows better prediction of population growth, plus the ability to associate this growth with the level of economic development in the region. 
+
+2004. Predators that ignore this coloration and eat the organisms will experience their unpleasant taste or presence of toxic chemicals and learn not to eat them in the future.         This type of defensive mechanism is called aposematic coloration, or warning coloration ([link]).       
+
+2010.         A commensal relationship occurs when one species benefits from the close, prolonged interaction, while the other neither benefits nor is harmed.       Birds nesting in trees provide an example of a commensal relationship ([link]). 
+
+2013. A parasite is an organism that lives in or on another living organism and derives nutrients from it.         In this relationship, the parasite benefits, but the organism being fed upon, the host is harmed.       The host is usually weakened by the parasite as it siphons resources the host would normally use to maintain itself. 
+
+2016. Other factors influence species richness as well.         For example, the study of island biogeography attempts to explain the relatively high species richness found in certain isolated island chains, including the Galápagos Islands that inspired the young Darwin.       Relative species abundance is the number of individuals in a species relative to the total number of individuals in all species within a habitat, ecosystem, or biome. 
+
+2019. Community dynamics are the changes in community structure and composition over time.         Sometimes these changes are induced by environmental disturbances such as volcanoes, earthquakes, storms, fires, and climate change.       Communities with a stable structure are said to be at equilibrium. 
+
+2022. Eventually, over 150 years, the forest will reach its equilibrium point where species composition is no longer changing and resembles the community before the fire.         This equilibrium state is referred to as the climax community, which will remain stable until the next disturbance.       
+
+2025. The idea that behaviors evolved as a result of the pressures of natural selection is not new.         Animal behavior has been studied for decades, by biologists in the science of ethology, by psychologists in the science of comparative psychology, and by scientists of many disciplines in the study of neurobiology.       Although there is overlap between these disciplines, scientists in these behavioral fields take different approaches. 
+
+2028.         Another activity or movement of innate behavior is kinesis, or the undirected movement in response to a stimulus.       Orthokinesis is the increased or decreased speed of movement of an organism in response to a stimulus. 
+
+2031.         Migration is the long-range seasonal movement of animals.       It is an evolved, adapted response to variation in resource availability, and it is a common phenomenon found in all major groups of animals. 
+
+2034.         Courtship displays are a series of ritualized visual behaviors (signals) designed to attract and convince a member of the opposite sex to mate.       These displays are ubiquitous in the animal kingdom. 
+
+2037. Thus, it is of fitness benefit for the worker to maintain the queen without having any direct chance of passing on its genes due to its sterility.         The lowering of individual fitness to enhance the reproductive fitness of a relative and thus one’s inclusive fitness evolves through kin selection.       This phenomenon can explain many superficially altruistic behaviors seen in animals. 
+
+2040.         Polygynous mating refers to one male mating with multiple females.       In these situations, the female must be responsible for most of the parental care as the single male is not capable of providing care to that many offspring. 
+
+2043.         ImprintingImprinting is a type of learning that occurs at a particular age or a life stage that is rapid and independent of the species involved.       Hatchling ducks recognize the first adult they see, their mother, and make a bond with her. 
+
+2046.         In operant conditioning, the conditioned behavior is gradually modified by its consequences as the animal responds to the stimulus.       A major proponent of such conditioning was psychologist B.F. Skinner, the inventor of the Skinner box. 
+
+2049. Furthermore, some animals must expend energy caring for their offspring.         Thus, all species have an energy budget: they must balance energy intake with their use of energy for metabolism, reproduction, parental care, and energy storage (such as bears building up body fat for winter hibernation).Parental Care and Fecundity       
+
+2052.         Iteroparity describes species that reproduce repeatedly during their lives.       Some animals are able to mate only once per year, but survive multiple mating seasons. 
+
+2055.          K-selected species are species selected by stable, predictable environments.       Populations of K-selected species tend to exist close to their carrying capacity (hence the term K-selected) where intraspecific competition is high. 
+
+2058.         An ecosystem is a community of living organisms and their interactions with their abiotic (non-living) environment.       Ecosystems can be small, such as the tide pools found near the rocky shores of many oceans, or large, such as the Amazon Rainforest in Brazil ([link]).A (a) tidal pool ecosystem in Matinicus Island in Maine is a small ecosystem, while the (b) Amazon Rainforest in Brazil is a large ecosystem. 
+
+2064.         In many ecosystems, the bottom of the food chain consists of photosynthetic organisms (plants and/or phytoplankton), which are called primary producers.       The organisms that consume the primary producers are herbivores: the primary consumers. 
+
+2067. Secondary consumers are usually carnivores that eat the primary consumers.         Tertiary consumers are carnivores that eat other carnivores.       Higher-level consumers feed on the next lower tropic levels, and so on, up to the organisms at the top of the food chain: the apex consumers. 
+
+2070. When you are ready to create a simulation, in the upper-right corner of the Interactive Labs box, click OPEN SIMULATOR.Two general types of food webs are often shown interacting within a single ecosystem.         A grazing food web (such as the Lake Ontario food web in [link]) has plants or other photosynthetic organisms at its base, followed by herbivores and various carnivores.       A detrital food web consists of a base of organisms that feed on decaying organic matter (dead organisms), called decomposers or detritivores. 
+
+2073.         A holistic ecosystem model attempts to quantify the composition, interaction, and dynamics of entire ecosystems; it is the most representative of the ecosystem in its natural state.       A food web is an example of a holistic ecosystem model. 
+
+2076. Analytical and simulation models, in contrast, are mathematical methods of describing ecosystems that are indeed capable of predicting the effects of potential environmental changes without direct experimentation, although with some limitations as to accuracy.         An analytical model is an ecosystem model that is created using simple mathematical formulas to predict the effects of environmental disturbances on ecosystem structure and dynamics.       A simulation model is an ecosystem model that is created using complex computer algorithms to holistically model ecosystems and to predict the effects of environmental disturbances on ecosystem structure and dynamics. 
+
+2079. Productivity within Trophic LevelsProductivity within an ecosystem can be defined as the percentage of energy entering the ecosystem incorporated into biomass in a particular trophic level.         Biomass is the total mass, in a unit area at the time of measurement, of living or previously living organisms within a trophic level.       Ecosystems have characteristic amounts of biomass at each trophic level. 
+
+2082. Another main parameter that is important in characterizing energy flow within an ecosystem is the net production efficiency.         Net production efficiency (NPE) allows ecologists to quantify how efficiently organisms of a particular trophic level incorporate the energy they receive into biomass; it is calculated using the following formula:       
+
+2085. The structure of ecosystems can be visualized with ecological pyramids, which were first described by the pioneering studies of Charles Elton in the 1920s.         Ecological pyramids show the relative amounts of various parameters (such as number of organisms, energy, and biomass) across trophic levels.       
+
+2088. Water contains hydrogen and oxygen, which is essential to all living processes.         The hydrosphere is the area of the Earth where water movement and storage occurs: as liquid water on the surface and beneath the surface or frozen (rivers, lakes, oceans, groundwater, polar ice caps, and glaciers), and as water vapor in the atmosphere.       Carbon is found in all organic macromolecules and is an important constituent of fossil fuels. 
+
+2091. Another way for carbon to enter the atmosphere is from land (including land beneath the surface of the ocean) by the eruption of volcanoes and other geothermal systems.         Carbon sediments from the ocean floor are taken deep within the Earth by the process of subduction: the movement of one tectonic plate beneath another.       Carbon is released as carbon dioxide when a volcano erupts or from volcanic hydrothermal vents. 
+
+2094. Atmospheric sulfur is found in the form of sulfur dioxide (SO2), and as rain falls through the atmosphere, sulfur is dissolved in the form of weak sulfuric acid (H2SO4).         Sulfur can also fall directly from the atmosphere in a process called fallout.       Also, the weathering of sulfur-containing rocks releases sulfur into the soil. 
+
+2097. The biologists studying cichlids in the 1980s discovered hundreds of cichlid species representing a variety of specializations to particular habitat types and specific feeding strategies: eating plankton floating in the water, scraping and then eating algae from rocks, eating insect larvae from the bottom, and eating the eggs of other species of cichlid.         The cichlids of Lake Victoria are the product of an adaptive radiation.       An adaptive radiation is a rapid (less than three million years in the case of the Lake Victoria cichlids) branching through speciation of a phylogenetic tree into many closely related species; typically, the species “radiate” into different habitats and niches. 
+
+2100. Many genes code for proteins, which in turn carry out the metabolic processes that keep organisms alive and reproducing.         Genetic diversity can be measured as chemical diversity in that different species produce a variety of chemicals in their cells, both the proteins as well as the products and byproducts of metabolism.       This chemical diversity has potential benefit for humans as a source of pharmaceuticals, so it provides one way to measure diversity that is important to human health and welfare. 
+
+2103. It is not entirely clear how greater energy input could translate into more species.         The complexity of tropical ecosystems may promote speciation by increasing the heterogeneity, or number of ecological niches, in the tropics relative to higher latitudes.       The greater heterogeneity provides more opportunities for coevolution, specialization, and perhaps greater selection pressures leading to population differentiation. 
+
+2106.         Estimates of extinction rates are hampered by the fact that most extinctions are probably happening without observation.       The extinction of a bird or mammal is likely to be noticed by humans, especially if it has been hunted or used in some other way. 
+
+2109. Most fisheries are managed as a common (shared) resource even when the fishing territory lies within a country’s territorial waters.         Common resources are subject to an economic pressure known as the tragedy of the commons in which essentially no fisher has a motivation to exercise restraint in harvesting a fishery when it is not owned by that fisher.       The natural outcome of harvests of resources held in common is their overexploitation. 
+
+2112.         It now appears that the global decline in amphibian species recognized in the 1990s is, in some part, caused by the fungus Batrachochytrium dendrobatidis, which causes the disease chytridiomycosis ([link]).       There is evidence that the fungus is native to Africa and may have been spread throughout the world by transport of a commonly used laboratory and pet species: the African clawed toad (Xenopus laevis). 
+

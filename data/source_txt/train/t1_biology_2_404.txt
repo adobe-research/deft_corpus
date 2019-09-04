@@ -1,0 +1,190 @@
+1213. Soil particles that are 0.1 to 2 mm in diameter are sand.         Soil particles between 0.002 and 0.1 mm are called silt, and even smaller particles, less than 0.002 mm in diameter, are called clay.       Some soils have no dominant particle size and contain a mixture of sand, silt, and humus; these soils are called loams. 
+
+1219. Animals and microorganisms can produce pores and crevices, and plant roots can penetrate into crevices to produce more fragmentation.         Plant secretions promote the development of microorganisms around the root, in an area known as the rhizosphere.       Additionally, leaves and other material that fall from plants decompose and contribute to soil composition. 
+
+1222. In this area, rainwater percolates through the soil and carries materials from the surface.         The B horizon is an accumulation of mostly fine material that has moved downward, resulting in a dense layer in the soil.       In some soils, the B horizon contains nodules or a layer of calcium carbonate. 
+
+1225. Soil bacteria, collectively called rhizobia, symbiotically interact with legume roots to form specialized structures called nodules, in which nitrogen fixation takes place.         This process entails the reduction of atmospheric nitrogen to ammonia, by means of the enzyme nitrogenase.       Therefore, using rhizobia is a natural and environmentally friendly way to fertilize plants, as opposed to chemical fertilization that uses a nonrenewable resource, such as natural gas. 
+
+1228.         A symbiont is a plant in a symbiotic relationship, with special adaptations such as mycorrhizae or nodule formation.       Fungi also form symbiotic associations with cyanobacteria and green algae (called lichens). 
+
+1231. Plants have two distinct stages in their lifecycle: the gametophyte stage and the sporophyte stage.         The haploid gametophyte produces the male and female gametes by mitosis in distinct multicellular structures.       Fusion of the male and females gametes forms the diploid zygote, which develops into the sporophyte. 
+
+1234. The third whorl contains the male reproductive structures and is known as the androecium.         The androecium has stamens with anthers that contain the microsporangia.       The innermost group of structures in the flower is the gynoecium, or the female reproductive component(s). 
+
+1237.         Each pollen grain has two coverings: the exine (thicker, outer layer) and the intine ([link]).       The exine contains sporopollenin, a complex waterproofing substance supplied by the tapetal cells. 
+
+1240. During the second phase, megagametogenesis, the surviving haploid megaspore undergoes mitosis to produce an eight-nucleate, seven-cell female gametophyte, also known as the megagametophyte or embryo sac.         Two of the nuclei—the polar nuclei—move to the equator and fuse, forming a single, diploid central cell.       This central cell later fuses with a sperm to form the triploid endosperm. 
+
+1243. The ovule wall will become part of the fruit.         The integuments, while protecting the megasporangium, do not enclose it completely, but leave an opening called the micropyle.       The micropyle allows the pollen tube to enter the female gametophyte for fertilization. 
+
+1246.         In angiosperms, pollination is defined as the placement or transfer of pollen from the anther to the stigma of the same flower or another flower.       In gymnosperms, pollination involves pollen transfer from the male cone to the female cone. 
+
+1249. They visit flowers that are open during the day, are brightly colored, have a strong aroma or scent, and have a tubular shape, typically with the presence of a nectar guide.         A nectar guide includes regions on the flower petals that are visible only to bees, and not to humans; it helps to guide bees to the center of the flower, thus making the pollination process more efficient.       The pollen sticks to the bees’ fuzzy hair, and when the bee visits another flower, some of the pollen is transferred to the second flower. 
+
+1252. After fertilization, the zygote divides to form two cells: the upper cell, or terminal cell, and the lower, or basal, cell.         The division of the basal cell gives rise to the suspensor, which eventually makes connection with the maternal tissue.       The suspensor provides a route for nutrition to be transported from the mother plant to the growing embryo. 
+
+1255. Food reserves are stored in the large endosperm.         Upon germination, enzymes are secreted by the aleurone, a single layer of cells just inside the seed coat that surrounds the endosperm and embryo.       The enzymes degrade the stored carbohydrates, proteins and lipids, the products of which are absorbed by the scutellum and transported via a vasculature strand to the developing embryo. 
+
+1258. The seed, along with the ovule, is protected by a seed coat that is formed from the integuments of the ovule sac.         In dicots, the seed coat is further divided into an outer coat known as the testa and inner coat known as the tegmen.       
+
+1261. In monocots, the hypocotyl does not show above ground because monocots do not exhibit stem elongation.         The part of the embryonic axis that projects above the cotyledons is known as the epicotyl.       The plumule is composed of the epicotyl, young leaves, and the shoot apical meristem.Upon germination in dicot seeds, the epicotyl is shaped like a hook with the plumule pointing downwards. 
+
+1264. As the seed germinates, the primary root emerges, protected by the root-tip covering: the coleorhiza.         Next, the primary shoot emerges, protected by the coleoptile: the covering of the shoot tip.       Upon exposure to light (i.e. 
+
+1270. An aggregate fruit is one that develops from more than one carpel, but all are in the same flower: the mature carpels fuse together to form the entire fruit, as seen in the raspberry.         Multiple fruit develops from an inflorescence or a cluster of flowers.       An example is the pineapple, where the flowers fuse together to form the fruit. 
+
+1273. Fruits generally have three parts: the exocarp (the outermost skin or covering), the mesocarp (middle part of the fruit), and the endocarp (the inner part of the fruit).         Together, all three are known as the pericarp.       The mesocarp is usually the fleshy, edible part of the fruit; however, in some fruits, such as the almond, the endocarp is the edible part. 
+
+1276. In grafting, two plant species are used; part of the stem of the desirable plant is grafted onto a rooted plant called the stock.         The part that is grafted or attached is called the scion.       Both are cut at an oblique angle (any angle other than a right angle), placed in close contact with each other, and are then held together [link]. 
+
+1279.         Micropropagation (also called plant tissue culture) is a method of propagating a large number of plants from a single plant in a short time under laboratory conditions [link].       This method allows propagation of rare, endangered species that may be difficult to grow under natural conditions, are economically important, or are in demand as disease-free plants. 
+
+1282.         The aging of a plant and all the associated processes is known as senescence, which is marked by several complex biochemical changes.       One of the characteristics of senescence is the breakdown of chloroplasts, which is characterized by the yellowing of leaves. 
+
+1285. This is fused to the animal’s epidermis.         Ingrowths of the exoskeleton, called apodemes, function as attachment sites for muscles, similar to tendons in more advanced animals ([link]).       In order to grow, the animal must first synthesize a new exoskeleton underneath the old one and then shed or molt the original covering. 
+
+1288. Carbohydrates and proteins contain about 4.5 to 5 kcal/g, and fat contains about 9 kcal/g.         Metabolic rate is estimated as the basal metabolic rate (BMR) in endothermic animals at rest and as the standard metabolic rate (SMR) in ectotherms.       Human males have a BMR of 1600 to 1800 kcal/day, and human females have a BMR of 1300 to 1500 kcal/day. 
+
+1291. Torpor can be used by animals for long periods, such as entering a state of hibernation during the winter months, in which case it enables them to maintain a reduced body temperature.         During hibernation, ground squirrels can achieve an abdominal temperature of 0° C (32° F), while a bear’s internal temperature is maintained higher at about 37° C (99° F).If torpor occurs during the summer months with high temperatures and little water, it is called estivation.       Some desert animals use this to survive the harshest months of the year. 
+
+1294. A midsagittal plane divides the body exactly in the middle, making two equal right and left halves.         A frontal plane (also called a coronal plane) separates the front from the back.       A transverse plane (or, horizontal plane) divides the animal into upper and lower portions. 
+
+1297. The dorsal cavity contains the cranial and the vertebral (or spinal) cavities.         The ventral cavity contains the thoracic cavity, which in turn contains the pleural cavity around the lungs and the pericardial cavity, which surrounds the heart.       The ventral cavity also contains the abdominopelvic cavity, which can be separated into the abdominal and the pelvic cavities. 
+
+1300.         Squamous epithelial cells are generally round, flat, and have a small, centrally located nucleus.       The cell outline is slightly irregular, and cells fit together to form a covering or lining. 
+
+1303. The nuclei are arranged at different levels in the layer of cells, making it appear as though there is more than one layer, as seen in [link].         This is called pseudostratified, columnar epithelia.       This cellular covering has cilia at the apical, or free, surface of the cells. 
+
+1306. Some tissues have specialized cells that are not found in the others.         The matrix in connective tissues gives the tissue its density.       When a connective tissue has a high concentration of cells or fibers, it has proportionally a less dense matrix. 
+
+1309.         Cartilage is a connective tissue with a large amount of the matrix and variable amounts of fibers.       The cells, called chondrocytes, make the matrix and fibers of the tissue. 
+
+1312. Compact bone is found in the shaft (or diaphysis) of a long bone and the surface of the flat bones, while spongy bone is found in the end (or epiphysis) of a long bone.         Compact bone is organized into subunits called osteons, as illustrated in [link].       A blood vessel and a nerve are found in the center of the structure within the Haversian canal, with radiating circles of lacunae around it known as lamellae. 
+
+1315. These changes might be in the level of glucose or calcium in blood or in external temperatures.         Homeostasis means to maintain dynamic equilibrium in the body.       It is dynamic because it is constantly adjusting to the changes that the body’s systems encounter. 
+
+1318.         Positive Feedback LoopA positive feedback loop maintains the direction of the stimulus, possibly accelerating it.       Few examples of positive feedback loops exist in animal bodies, but one is found in the cascade of chemical reactions that result in blood clotting, or coagulation. 
+
+1321.         Neural Control of ThermoregulationThe nervous system is important to thermoregulation, as illustrated in [link].       The processes of homeostasis and temperature control are centered in the hypothalamus of the advanced animal brain. 
+
+1327.         As the word monogastric suggests, this type of digestive system consists of one (“mono”) stomach chamber (“gastric”).       Humans and many animals have a monogastric digestive system as illustrated in [link]ab. 
+
+1330. Saliva also contains immunoglobulins and lysozymes, which have antibacterial action to reduce tooth decay by inhibiting growth of some bacteria.         Saliva also contains an enzyme called salivary amylase that begins the process of converting starches in the food into a disaccharide called maltose.       Another enzyme called lipase is produced by the cells in the tongue. 
+
+1333.         The esophagus is a tubular organ that connects the mouth to the stomach.       The chewed and softened food passes through the esophagus after being swallowed. 
+
+1336. A large part of digestion occurs in the stomach, shown in [link].         The stomach is a saclike organ that secretes gastric digestive juices.       The pH in the stomach is between 1.5 and 2.5. 
+
+1348.         The liver is the largest internal organ in humans and it plays a very important role in digestion of fats and detoxifying blood.       The liver produces bile, a digestive juice that is required for the breakdown of fatty components of the food in the duodenum. 
+
+1351. Essential NutrientsWhile the animal body can synthesize many of the molecules required for function from the organic precursors, there are some nutrients that need to be consumed from food.         These nutrients are termed essential nutrients, meaning they must be eaten, and the body cannot produce them.       
+
+1354. Food needs to be broken into smaller particles so that animals can harness the nutrients and organic molecules.         The first step in this process is ingestion.       Ingestion is the process of taking in food through the mouth. 
+
+1357. The enzyme pepsin plays an important role in the digestion of proteins by breaking down the intact protein to peptides, which are short chains of four to nine amino acids.         In the duodenum, other enzymes—trypsin, elastase, and chymotrypsin—act on the peptides reducing them to smaller peptides.       Trypsin elastase, carboxypeptidase, and chymotrypsin are produced by the pancreas and released into the duodenum where they act on the chyme. 
+
+1360. The response to food begins even before food enters the mouth.         The first phase of ingestion, called the cephalic phase, is controlled by the neural response to the stimulus provided by food.       All aspects—such as sight, sense, and smell—trigger the neural responses resulting in salivation and secretion of gastric juices. 
+
+1363. The endocrine system controls the response of the various glands in the body and the release of hormones at the appropriate times. 
+
+1366. In the duodenum, digestive secretions from the liver, pancreas, and gallbladder play an important role in digesting chyme during the intestinal phase.         In order to neutralize the acidic chyme, a hormone called secretin stimulates the pancreas to produce alkaline bicarbonate solution and deliver it to the duodenum.       Secretin acts in tandem with another hormone called cholecystokinin (CCK). 
+
+1369.         The nervous system is made up of neurons, specialized cells that can receive and transmit chemical or electrical signals, and glia, cells that provide support functions for the neurons by playing an information processing role that is complementary to neurons.       A neuron can be compared to an electrical wire—it transmits a signal from one place to another. 
+
+1372. The cell body contains a specialized structure, the axon hillock that integrates signals from multiple synapses and serves as a junction between the cell body and an axon.         An axon is a tube-like structure that propagates the integrated signal to specialized endings called axon terminals.       These terminals in turn synapse on other neurons, muscle, or target organs. 
+
+1375. There are several different types of glia with different functions, two of which are shown in [link].         Astrocytes, shown in [link]a make contact with both capillaries and neurons in the CNS.       They provide nutrients and other substances to neurons, regulate the concentrations of ions and chemicals in the extracellular fluid, and provide structural support for synapses. 
+
+1378. Microglia scavenge and degrade dead cells and protect the brain from invading microorganisms.         Oligodendrocytes, shown in [link]b form myelin sheaths around axons in the CNS.       One axon can be myelinated by several oligodendrocytes, and one oligodendrocyte can provide myelin for multiple neurons. 
+
+1381. Radial glia serve as scaffolds for developing neurons as they migrate to their end destinations.         Ependymal cells line fluid-filled ventricles of the brain and the central canal of the spinal cord.       They are involved in the production of cerebrospinal fluid, which serves as a cushion for the brain, moves the fluid between the spinal cord and the brain, and is a component for the choroid plexus.Glial cells support neurons and maintain their environment. 
+
+1384. When neurotransmitter molecules bind to receptors located on a neuron’s dendrites, ion channels open.         At excitatory synapses, this opening allows positive ions to enter the neuron and results in depolarization of the membrane—a decrease in the difference in voltage between the inside and outside of the neuron.       A stimulus from a sensory cell or another neuron depolarizes the target neuron to  its threshold potential (-55 mV). 
+
+1387. Flow of ions through these channels, particularly the Na+ channels, regenerates the action potential over and over again along the axon.         This ‘jumping’ of the action potential from one node to the next is called saltatory conduction.       If nodes of Ranvier were not present along an axon, the action potential would propagate very slowly since Na+ and K+ channels would have to continuously regenerate action potentials at every point along the axon instead of at specific points. 
+
+1390. Na+ enters the postsynaptic cell and causes the postsynaptic membrane to depolarize.         This depolarization is called an excitatory postsynaptic potential (EPSP) and makes the postsynaptic neuron more likely to fire an action potential.       Release of neurotransmitter at inhibitory synapses causes inhibitory postsynaptic potentials (IPSPs), a hyperpolarization of the presynaptic membrane. 
+
+1393.         Long-term potentiation (LTP) is a persistent strengthening of a synaptic connection.       LTP is based on the Hebbian principle: cells that fire together wire together. 
+
+1396. The central nervous system (CNS) is made up of the brain, a part of which is shown in [link] and spinal cord and is covered with three layers of protective coverings called meninges (from the Greek word for membrane).         The outermost layer is the dura mater (Latin for “hard mother”).       As the Latin suggests, the primary function for this thick layer is to protect the brain and spinal cord. 
+
+1399. The last layer is the pia mater (Latin for “soft mother”), which directly contacts and covers the brain and spinal cord like plastic wrap.         The space between the arachnoid and pia maters is filled with cerebrospinal fluid (CSF).       CSF is produced by a tissue called choroid plexus in fluid-filled compartments in the CNS called ventricles. 
+
+1402. The cortex is made up of two hemispheres—right and left—which are separated by a large sulcus.         A thick fiber bundle called the corpus callosum (Latin: “tough body”) connects the two hemispheres and allows information to be passed from one side to the other.       Although there are some brain functions that are localized more to one hemisphere than the other, the functions of the two hemispheres are largely redundant. 
+
+1405. Neurons in the parietal lobe are involved in speech and also reading.         Two of the parietal lobe’s main functions are processing somatosensation—touch sensations like pressure, pain, heat, cold—and processing proprioception—the sense of how parts of the body are oriented in space.       The parietal lobe contains a somatosensory map of the body similar to the motor cortex. 
+
+1408. The temporal lobe is located at the base of the brain by your ears and is primarily involved in processing and interpreting sounds.         It also contains the hippocampus (Greek for “seahorse”)—a structure that processes memory formation.       The hippocampus is illustrated in [link]. 
+
+1411.         Below the thalamus is the hypothalamus, shown in [link].       The hypothalamus controls the endocrine system by sending signals to the pituitary gland, a pea-sized endocrine gland that releases several different hormones that affect other glands as well as other cells. 
+
+1414. The two amygdala are important both for the sensation of fear and for recognizing fearful faces.         The cingulate gyrus helps regulate emotions and pain.       
+
+1417.         Connecting to the brainstem and extending down the body through the spinal column is the spinal cord, shown in [link].       The spinal cord is a thick bundle of nerve tissue that carries information about the body to the brain and from the brain to the body. 
+
+1420. Most preganglionic neurons in the sympathetic nervous system originate in the spinal cord, as illustrated in [link].         The axons of these neurons release acetylcholine on postganglionic neurons within sympathetic ganglia (the sympathetic ganglia form a chain that extends alongside the spinal cord).       The acetylcholine activates the postganglionic neurons. 
+
+1423.         Humans have 12 cranial nerves, nerves that emerge from or enter the skull (cranium), as opposed to the spinal nerves, which emerge from the vertebral column.       Each cranial nerve is accorded a name, which are detailed in [link]. 
+
+1426.         Alzheimer’s disease is the most common cause of dementia in the elderly.       In 2012, an estimated 5.4 million Americans suffered from Alzheimer’s disease, and payments for their care are estimated at $200 billion. 
+
+1429.         Attention Deficit Hyperactivity Disorder (ADHD)Approximately three to five percent of children and adults are affected by attention deficit/hyperactivity disorder (ADHD).       Like ASD, ADHD is more prevalent in males than females. 
+
+1432.         Estimates suggest that up to three percent of people in the United States will be diagnosed with epilepsy in their lifetime.       While there are several different types of epilepsy, all are characterized by recurrent seizures. 
+
+1435. This process is called sensory transduction.There are two broad types of cellular systems that perform sensory transduction.         In one, a neuron works with a sensory receptor, a cell, or cell process that is specialized to engage with and detect a specific stimulus.       Stimulation of the sensory receptor activates the associated afferent neuron, which carries information about the stimulus to the central nervous system. 
+
+1438. The most fundamental function of a sensory system is the translation of a sensory signal to an electrical signal in the nervous system.         This takes place at the sensory receptor, and the change in electrical potential that is produced is called the receptor potential.       How is sensory input, such as pressure on the skin, changed to a receptor potential? 
+
+1441. Mechanoreceptors in the skin are described as encapsulated (that is, surrounded by a capsule) or unencapsulated (a group that includes free nerve endings).         A free nerve ending, as its name implies, is an unencapsulated dendrite of a sensory neuron.       Free nerve endings are the most common nerve endings in skin, and they extend into the middle of the epidermis. 
+
+1444.         Deeper in the epidermis, near the base, are Ruffini endings, which are also known as bulbous corpuscles.       They are found in both glabrous and hairy skin. 
+
+1447. Once in the medulla, the neurons continue carrying the signals to the thalamus.Muscle spindles are stretch receptors that detect the amount of stretch, or lengthening of muscles.         Related to these are Golgi tendon organs, which are tension receptors that detect the force of muscle contraction.       Proprioceptive and kinesthetic signals come from limbs. 
+
+1450. Dogs detect up to about 40,000 Hz; cats, 60,000 Hz; bats, 100,000 Hz; and dolphins 150,000 Hz, and American shad (Alosa sapidissima), a fish, can hear 180,000 Hz.         Those frequencies above the human range are called ultrasound.Amplitude, or the dimension of a wave from peak to trough, in sound is heard as volume and is illustrated in [link].       The sound waves of louder sounds have greater amplitude than those of softer sounds. 
+
+1453. Interior to the tympanum is the middle ear.         The middle ear holds three small bones called the ossicles, which transfer energy from the moving tympanum to the inner ear.       The three ossicles are the malleus (also known as the hammer), the incus (the anvil), and stapes (the stirrup). 
+
+1456. The stapes transmits the vibrations to a thin diaphragm called the oval window, which is the outermost structure of the inner ear.         The structures of the inner ear are found in the labyrinth, a bony, hollow structure that is the most interior portion of the ear.       Here, the energy from the sound wave is transferred from the stapes through the flexible oval window and to the fluid of the cochlea. 
+
+1459. When the sound waves in the cochlear fluid contact the basilar membrane, it flexes back and forth in a wave-like fashion.         Above the basilar membrane is the tectorial membrane.       
+
+1462.         The fluid-filled semicircular canals are tubular loops set at oblique angles.       They are arranged in three spatial planes. 
+
+1465.         The photoreceptive cells of the eye, where transduction of light to nervous impulses occurs, are located in the retina (shown in [link]) on the inner surface of the back of the eye.       But light does not impinge on the retina unaltered. 
+
+1468. The lens is operated by muscles that stretch it flat or allow it to thicken, changing the focal length of light coming through it to focus it sharply on the retina.         With age comes the loss of the flexibility of the lens, and a form of farsightedness called presbyopia results.       Presbyopia occurs because the image focuses behind the retina. 
+
+1471.         There are two types of photoreceptors in the retina: rods and cones, named for their general appearance as illustrated in [link].       Rods are strongly photosensitive and are located in the outer edges of the retina. 
+
+1474.         Photoreceptors in the retina continuously undergo tonic activity.       That is, they are always slightly active even when not stimulated by light. 
+
+1477. Finally, there is the pathway from the retina to the suprachiasmatic nucleus (SCN) of the hypothalamus.         The SCN is a cluster of cells that is considered to be the body’s internal clock, which controls our circadian (day-long) cycle.       The SCN sends information to the pineal gland, which is important in sleep/wake patterns and annual cycles. 
+
+1480.         Odorants (odor molecules) enter the nose and dissolve in the olfactory epithelium, the mucosa at the back of the nasal cavity (as illustrated in [link]).       The olfactory epithelium is a collection of specialized olfactory receptors in the back of the nasal cavity that spans an area about 5 cm2 in humans. 
+
+1483.         Olfactory neurons are bipolar neurons (neurons with two processes from the cell body).       Each neuron has a single dendrite buried in the olfactory epithelium, and extending from this dendrite are 5 to 20 receptor-laden, hair-like cilia that trap odorant molecules. 
+
+1486. These are elongated cells with hair-like processes called microvilli at the tips that extend into the taste bud pore (illustrate in [link]).         Food molecules (tastants) are dissolved in saliva, and they bind with and stimulate the receptors on the microvilli.       The receptors for tastants are located across the outer portion and front of the tongue, outside of the middle area where the filiform papillae are most prominent. 
+
+1489. Chemically, these hormones are usually ketones or alcohols; their chemical names will end in “-ol” for alcohols or “-one” for ketones.         Examples of steroid hormones include estradiol, which is an estrogen, or female sex hormone,  and testosterone, which is an androgen, or male sex hormone.       These two hormones  are released by the female and male reproductive organs, respectively. 
+
+1492.         Hormones mediate changes in target cells by binding to specific hormone receptors.       In this way, even though hormones circulate throughout the body and come into contact with many different cell types, they only affect cells that possess the necessary receptors. 
+
+1495. Receptor binding alters cellular activity and results in an increase or decrease in normal body processes.         Depending on the location of the protein receptor on the target cell and the chemical structure of the hormone, hormones can mediate changes directly by binding to intracellular hormone receptors and modulating gene transcription, or indirectly by binding to cell surface receptors and stimulating signaling pathways.       
+
+1498. One very important second messenger is cyclic AMP (cAMP).         When a hormone binds to its membrane receptor, a G-protein that is associated with the receptor is activated; G-proteins are proteins separate from receptors that are found in the cell membrane.       When a hormone is not bound to the receptor, the G-protein is inactive and is bound to guanosine diphosphate, or GDP. 
+
+1501. The term “humoral” is derived from the term “humor,” which refers to bodily fluids such as blood.         A humoral stimulus refers to the control of hormone release in response to changes in extracellular fluids such as blood or the ion concentration in the blood.       For example, a rise in blood glucose levels triggers the pancreatic release of insulin. 
+
+1504. Because the neurons can regulate the release of hormones, the nervous and endocrine systems work in a coordinated manner to regulate the body's physiology.         Hypothalamic-Pituitary AxisThe hypothalamus in vertebrates integrates the endocrine and nervous systems.       The hypothalamus is an endocrine organ located in the diencephalon of the brain. 
+
+1507.         The anterior pituitary gland, or adenohypophysis, is surrounded by a capillary network that extends from the hypothalamus, down along the infundibulum, and to the anterior pituitary.       This capillary network is a part of the hypophyseal portal system that carries substances from the hypothalamus to the anterior pituitary and hormones from the anterior pituitary into the circulatory system. 
+
+1510.         The thyroid gland is located in the neck, just below the larynx and in front of the trachea, as shown in [link].       It is a butterfly-shaped gland with two lobes that are connected by the isthmus. 
+
+1513. Follicle cells are stimulated to release stored T3 and T4 by thyroid stimulating hormone (TSH), which is produced by the anterior pituitary.         These thyroid hormones increase the rates of mitochondrial ATP production.A third hormone, calcitonin, is produced by parafollicular cells of the thyroid either releasing hormones or inhibiting hormones.       Calcitonin release is not controlled by TSH, but instead is released when calcium ion concentrations in the blood rise. 
+

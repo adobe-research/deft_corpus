@@ -1,0 +1,176 @@
+2945. On a large scale, such as between the Earth and a person, the reverse is true.         Most objects are nearly electrically neutral, and so attractive and repulsive Coulomb forces nearly cancel.       Gravitational force on a large scale dominates interactions between large objects because it is always attractive, while Coulomb forces tend to cancel. 
+
+2948.          Drawings using lines to represent electric fields around charged objects are very useful in visualizing field strength and direction.       Since the electric field has both magnitude and direction, it is a vector. 
+
+2957.          A conductor placed in an electric field will be polarized.       [link] shows the result of placing a neutral conductor in an originally uniform electric field. 
+
+2960.          The familiar term voltage is the common name for potential difference.       Keep in mind that whenever a voltage is quoted, it is understood to be the potential difference between two points. 
+
+2963.          Van de Graaff generators (or Van de Graaffs) are not only spectacular devices used to demonstrate high voltage due to static electricity—they are also used for serious research.       The first was built by Robert Van de Graaff in 1931 (based on original suggestions by Lord Kelvin) for use in nuclear physics research. 
+
+2978. {}[link] shows the schematic for a simple circuit.         A simple circuit has a single voltage source and a single resistor.       The wires connecting the voltage source to the resistor can be assumed to have negligible resistance, or their resistance can be included in RR size 12{R} {}. 
+
+2981. [link] shows a schematic of a simple circuit with an AC voltage source.         The voltage between the terminals fluctuates as shown, with the AC voltage given by       
+
+2984. Electric power causes undesired heating effects whenever electric energy is converted to thermal energy at a rate faster than it can be safely dissipated.         A classic example of this is the short circuit, a low-resistance path between terminals of a voltage source.       An example of a short circuit is shown in [link]. 
+
+2987. Nerve conduction is a general term for electrical signals carried by nerve cells.         It is one aspect of bioelectricity, or electrical effects in and created by biological systems.       
+
+2990.          Most circuits have more than one component, called a resistor that limits the flow of charge in the circuit.       A measure of this limit on charge flow is called resistance. 
+
+2993. When are resistors in series?         Resistors are in series whenever the flow of charge, called the current, must flow through devices sequentially.       For example, if current flows through a person holding a screwdriver and into the Earth, then R1R1 size 12{R rSub { size 8{1} } } {} in [link](a) could be the resistance of the screwdriver’s shaft, R2R2 size 12{R rSub { size 8{2} } } {} the resistance of its handle, R3R3 size 12{R rSub { size 8{3} } } {} the person’s body resistance, and R4R4 size 12{R rSub { size 8{4} } } {} the resistance of her shoes.[link] shows resistors in series connected to a voltage source. 
+
+2996. A few voltage sources are shown in [link].         All such devices create a potential difference and can supply current if connected to a resistance.       On the small scale, the potential difference creates an electric field that exerts force on charges, causing current. 
+
+3005. )The two crucial characteristics of a given galvanometer are its resistance and current sensitivity.         Current sensitivity is the current that gives a full-scale deflection of the galvanometer’s needle, the maximum current that the instrument can measure.       For example, a galvanometer with a current sensitivity of 50 μA50 μA has a maximum deflection of its needle when 50 μA50 μA flows through it, reads half-scale when 25 μA25 μA size 12{2"5 "μA} {} flows through it, and so on.If such a galvanometer has a 25-Ω25-Ω size 12{2"5-" %OMEGA } {} resistance, then a voltage of only V=IR=50 μA25 Ω=1.25 mVV=IR=50 μA25 Ω=1.25 mV size 12{V= ital "IR"= left ("50" μA right ) left ("25"  %OMEGA  right )=1 "." 
+
+3008.          There is a variety of so-called ohmmeters that purport to measure resistance.       What the most common ohmmeters actually do is to apply a voltage to a resistance, measure the current, and calculate the resistance using Ohm’s law. 
+
+3014. Increased thermal motion at higher temperature can disrupt and randomize the orientation and the size of the domains.         There is a well-defined temperature for ferromagnetic materials, which is called the Curie temperature, above which they cannot be magnetized.       The Curie temperature for iron is 1043 K (770ºC)(770ºC) size 12{ \( "770"°C \) } {}, which is well above room temperature. 
+
+3017. A current loop always produces a magnetic dipole—that is, a magnetic field that acts like a north pole and south pole pair.         Since isolated north and south magnetic poles, called magnetic monopoles, are not observed, currents are used to explain all magnetic effects.       If magnetic monopoles did exist, then we would have to modify this underlying connection that all magnetism is due to electrical current. 
+
+3020. The pictorial representation of magnetic field lines is very useful in visualizing the strength and direction of the magnetic field.         As shown in [link], the direction of magnetic field lines  is defined to be the direction in which the north end of a compass needle points.       The magnetic field is traditionally called the B-field.Magnetic field lines are defined to have the direction that a small compass points when placed at a location. 
+
+3023.          Motors are the most common application of magnetic force on current-carrying wires.       Motors have loops of wire in a magnetic field. 
+
+3026. The magnetic field strength (magnitude) produced by a long straight current-carrying wire is found by experiment to be 
+
+3029. This results in a more complete law, called Ampere’s law, which relates magnetic field and current in a general way.         Ampere’s law in turn is a part of Maxwell’s equations, which give a complete theory of all electromagnetic phenomena.       Considerations of how Maxwell’s equations appear to different observers led to the modern theory of relativity, and the realization that electric and magnetic fields are different manifestations of the same thing. 
+
+3032. Only near the ends does it begin to weaken and change direction.         The field outside has similar complexities to flat loops and bar magnets, but the magnetic field strength inside a solenoid is simply       
+
+3035. These can be measured but with some difficulty since their strengths are about 10−610−6 size 12{"10" rSup { size 8{ - 6} } } {} to 10−810−8 size 12{"10" rSup { size 8{ - 8} } } {} less than the Earth’s magnetic field.         Recording of the heart’s magnetic field as it beats is called a magnetocardiogram (MCG), while measurements of the brain’s magnetic field is called a magnetoencephalogram (MEG).       Both give information that differs from that obtained by measuring the electric fields of these organs (ECGs and EEGs), but they are not yet of sufficient importance to make these difficult measurements common. 
+
+3038. The minus means that the emf creates a current I and magnetic field B that oppose the change in flux ΔΦΔΦ size 12{ΔΦ} {}—this is known as Lenz’s law.         The direction (given by the minus sign) of the emfis so important that it is called Lenz’s law after the Russian Heinrich Lenz (1804–1865), who, like Faraday and Henry,independently investigated aspects of induction.       Faraday was aware of the direction, but Lenz stated it so clearly that he is credited for its discovery. 
+
+3041. If motional emf can cause a current loop in the conductor, we refer to that current as an eddy current.         Eddy currents can produce significant drag, called magnetic damping, on the motion involved.       Consider the apparatus shown in [link], which swings a pendulum bob between the poles of a strong magnet. 
+
+3044. That is, when a motor is doing work and its shaft is turning, an emf is generated.         Lenz’s law tells us the emf opposes any change, so that the input emf that powers the motor will be opposed by the motor’s self-generated emf, called the back emf of the motor.       (See [link]. 
+
+3047. Some transformers even provide a variable output by allowing connection to be made at different points on the secondary coil.         A step-up transformer is one that increases voltage, whereas a step-down transformer decreases voltage.       Assuming, as we have, that resistance is negligible, the electrical power output of a transformer equals its input. 
+
+3050. This is not how power is distributed in practice.         Modern household and industrial wiring requires the three-wire system, shown schematically in [link], which has several safety features.       First is the familiar circuit breaker (or fuse) to prevent thermal overload. 
+
+3053.          Self-inductance, the effect of Faraday’s law of induction of a device on itself, also exists.       When, for example, current through a coil is increased, the magnetic field and flux also increase, inducing a counter emf, as required by Lenz’s law. 
+
+3056.          Many people confuse sound waves with radio waves, one type of electromagnetic (EM) wave.       However, sound and radio waves are completely different phenomena. 
+
+3059.          Magnetic field lines are continuous, having no beginning or end.       No magnetic monopoles are known to exist. 
+
+3062. The electric and magnetic fields produced by a long straight wire antenna are exactly in phase.         Note that they are perpendicular to one another and to the direction of propagation, making this a transverse wave.       
+
+3065.          The broad category of radio waves is defined to contain any electromagnetic wave produced by currents in wires and circuits.       Its name derives from their most common use as a carrier of audio information (i.e., radio). 
+
+3068. (See [link].)         A carrier wave having the basic frequency of the radio station, say 1530 kHz, is varied or modulated in amplitude by an audio signal.       The resulting wave has a constant frequency, but a varying amplitude. 
+
+3071. (The entire FM radio band lies between channels 88 MHz and 174 MHz.)         These TV channels are called VHF (for very high frequency).       Other channels called UHF (for ultra high frequency) utilize an even higher frequency range of 470 to 1000 MHz. 
+
+3074. Since they have high frequencies, their wavelengths are short compared with those of other radio waves—hence the name “microwave.” Microwaves can also be produced by atoms and molecules.         They are, for example, a component of electromagnetic radiation generated by thermal agitation.       The thermal motion of atoms and molecules in any object at a temperature above absolute zero causes them to emit and absorb radiation. 
+
+3077.          Visible light is the narrow segment of the electromagnetic spectrum to which the normal human eye responds.       Visible light is produced by vibrations and rotations of atoms and molecules, as well as by electronic transitions within atoms and molecules. 
+
+3080.          Anyone who has used a microwave oven knows there is energy in electromagnetic waves.       Sometimes this energy is obvious, such as in the warmth of the summer sun. 
+
+3083. Light may change direction when it encounters objects (such as a mirror) or in passing from one material to another (such as in passing from air to glass), but it then continues in a straight line or as a ray.         The word ray comes from mathematics and here means a straight line that originates at some point.       It is acceptable to visualize light rays as laser rays (or even science fiction depictions of ray guns).Ray 
+
+3086. In communications, it is used to transmit telephone, internet, and cable TV signals.         Fiber optics employs the transmission of light down fibers of plastic or glass.       Because the fibers are thin, light entering one is likely to strike the inside surface at an angle greater than the critical angle and, thus, be totally reflected (See [link].) 
+
+3089. What this implies is that white light is spread out according to wavelength in a rainbow.         Dispersion is defined as the spreading of white light into its full spectrum of wavelengths.       More technically, dispersion occurs whenever there is a process that changes the direction of light in a manner that depends on wavelength. 
+
+3092. [link] shows a concave lens and the effect it has on rays of light that enter it parallel to its axis (the path taken by ray 2 in the figure is the axis of the lens).         The concave lens is a diverging lens, because it causes the light rays to bend away (diverge) from its axis.       In this case, the lens has been shaped so that all light rays entering it parallel to its axis appear to originate from the same point, FF size 12{F} {}, defined to be the focal point of a diverging lens. 
+
+3095.          The image formed in [link] is a real image, meaning that it can be projected.       That is, light rays from one point on the object actually cross at the location of the image and can be projected onto a screen, a piece of film, or the retina of an eye, for example. 
+
+3098. When an optometrist identifies accommodation as a problem in elder people, it is most likely due to stiffening of the lens.         The lens of the eye changes with age in ways that tend to preserve the ability to see distant objects clearly but do not allow the eye to accommodate for close vision, a condition called presbyopia (literally, elder eye).       To correct this vision defect, we place a converging, positive power lens in front of the eye, such as found in reading glasses. 
+
+3101. The distance to the farthest object that can be seen clearly is called the far point of the eye (normally infinity).         Farsightedness, or hyperopia, is the inability to see close objects clearly while distant objects may be clear.       A farsighted eye does not converge sufficient rays from a close object to make the rays meet on the retina. 
+
+3104.          Laser vision correction has progressed rapidly in the last few years.       It is the latest and by far the most successful in a series of procedures that correct vision by reshaping the cornea. 
+
+3107. There are three types of cones, and each type is sensitive to different ranges of wavelengths, as illustrated in [link].         A simplified theory of color vision is that there are three primary colors corresponding to the three types of cones.       The thousands of other hues that we can distinguish among are created by various combinations of stimulations of the three types of cones. 
+
+3110. Each retinex forms an image that is compared with the others, and the eye-brain system thus can compare a candle-illuminated white table cloth with its generally reddish surroundings and determine that it is actually white.         This retinex theory of color vision is an example of modified theories of color vision that attempt to account for its subtleties.       One striking experiment performed by Land demonstrates that some type of image comparison may produce color vision. 
+
+3113. The initial stage of the project is the construction of the Australian Square Kilometre Array Pathfinder in Western Australia (see [link]).         The project will use cutting-edge technologies such as adaptive optics in which the lens or mirror is constructed from lots of carefully aligned tiny lenses and mirrors that can be manipulated using computers.       A range of rapidly changing distortions can be minimized by deforming or tilting the tiny lenses and mirrors. 
+
+3116. Furthermore, Young first passed light from a single source (the Sun) through a single slit to make the light somewhat coherent.         By coherent, we mean waves are in phase or have a definite phase relationship.       Incoherent means the waves have random phase relationships. 
+
+3119.          An interesting thing happens if you pass light through a large number of evenly spaced parallel slits, called a diffraction grating.       An interference pattern is created that is very similar to the one formed by a double slit (see [link]). 
+
+3125. To examine this further, consider the transverse waves in the ropes shown in [link].         The oscillations in one rope are in a vertical plane and are said to be vertically polarized.       Those in the other rope are in a horizontal plane and are horizontally polarized. 
+
+3128. Thinking of the molecules as many slits, analogous to those for the oscillating ropes, we can understand why only light with a specific polarization can get through.         The axis of a polarizing filter is the direction along which the filter passes the electric field of an EM wave (see [link]).The slender arrow represents a ray of unpolarized light.       The bold arrows represent the direction of polarization of the individual waves composing the ray. 
+
+3134. Not only are laws of physics simplest in inertial frames, but they should be the same in all inertial frames, since there is no preferred frame and no absolute motion.         Einstein incorporated these ideas into his first postulate of special relativity.First Postulate of Special Relativity       
+
+3137. Time dilation is the phenomenon of time passing slower for an observer who is moving relative to another observer. 
+
+3140. Rest energy is 
+
+3146. When light strikes materials, it can eject electrons from them.         This is called the photoelectric effect, meaning that light (photo) produces electricity.       One common use of the photoelectric effect is in light meters, such as those that adjust the automatic iris on various types of cameras. 
+
+3149. A curve like this is obtained by detecting many photons, and it is apparent that the maximum energy is unlikely.         This decelerating process produces radiation that is called bremsstrahlung (German for braking radiation).       The second feature is the existence of sharp peaks in the spectrum; these are called characteristic x rays, since they are characteristic of the anode material. 
+
+3152.          The range of photon energies for visible light from red to violet is 1.63 to 3.26 eV, respectively (left for this chapter’s Problems and Exercises to verify).       These energies are on the order of those between outer electron shells in atoms and molecules. 
+
+3155.          The quantum of EM radiation we call a photon has properties analogous to those of particles we can see, such as grains of sand.       A photon interacts as a unit in collisions or when absorbed, rather than as an extensive wave. 
+
+3158. After compiling enough data, you get a distribution related to the particle’s wavelength and diffraction pattern.         There is a certain probability of finding the particle at a given location, and the overall pattern is called a probability distribution.       Those who developed quantum mechanics devised equations that predicted the probability distribution in various circumstances. 
+
+3161. Another is what Democritus in particular believed—that there is a smallest unit that cannot be further subdivided.         Democritus called this the atom.       We now know that atoms themselves can be subdivided, but their identity is destroyed in the process, so the Greeks were correct in a respect. 
+
+3164.          Based on the size and mass of the nucleus revealed by his experiment, as well as the mass of electrons, Rutherford proposed the planetary model of the atom.       The planetary model of the atom pictures low-mass electrons orbiting a large-mass nucleus. 
+
+3167.          Double-slit interference (Wave Optics).       To obtain constructive interference for a double slit, the path length difference from two slits must be an integral multiple of the wavelength. 
+
+3170.          for the orbital energies of hydrogen-like atoms.       Here, E0E0 size 12{E rSub { size 8{0} } } {} is the ground-state energy n=1n=1 size 12{ left (n=1 right )} {} for hydrogen Z=1Z=1 size 12{ left (Z=1 right )} {} and is given byE0=2π2qe4mek2h2=13.6 eV.E0=2π2qe4mek2h2=13.6 eV.Thus, for hydrogen, 
+
+3173. Thus, typical x-ray photons act like rays when they encounter macroscopic objects, like teeth, and produce sharp shadows; however, since atoms are on the order of 0.1 nm in size, x rays can be used to detect the location, shape, and size of atoms and molecules.         The process is called x-ray diffraction, because it involves the diffraction and interference of x rays to produce patterns that can be analyzed for information about the structures that scattered the x rays.       Perhaps the most famous example of x-ray diffraction is the discovery of the double-helix structure of DNA in 1953 by an international team of scientists working at the Cavendish Laboratory—American James Watson, Englishman Francis Crick, and New Zealand–born Maurice Wilkins. 
+
+3176. Some of these may be in the visible range, such as for the scorpion in [link].         Fluorescence is defined to be any process in which an atom or molecule, excited by a photon of a given energy, and de-excites by emission of a lower-energy photon.Fluorescence can be induced by many types of energy input.       Fluorescent paint, dyes, and even soap residues in clothes make colors seem brighter in sunlight by converting some UV into visible light. 
+
+3179. This includes those electrons originally excited to the metastable state and those that fell into it from above.         It is possible to get a majority of the atoms into the metastable state, a condition called a population inversion.(a) Energy-level diagram for an atom showing the first few states, one of which is metastable.       (b) Massive energy input excites atoms to a variety of states. 
+
+3182.         The name hologram means “entire picture” (from the Greek holo, as in holistic), because the image is three-dimensional.       Holography is the process of producing holograms and, although they are recorded on photographic film, the process is quite different from normal photography. 
+
+3185. The new insight is that the direction of the orbital angular momentum is also quantized.         The fact that the orbital angular momentum can have only certain directions is called space quantization.       Like many aspects of quantum mechanics, this quantization of direction is totally unexpected. 
+
+3188. That is, no two electrons can be in the same state.         This statement is known as the Pauli exclusion principle, because it excludes electrons from being in the same state.       The Pauli exclusion principle is extremely powerful and very broadly applicable. 
+
+3191. The rays themselves are called nuclear radiation.         A nucleus that spontaneously destroys part of its mass to emit radiation is said to decay (a term also used to describe the emission of radiation by atoms in excited states).       A substance or object that emits nuclear radiation is said to be radioactive.Two types of experimental evidence imply that Becquerel’s rays originate deep in the heart (or nucleus) of an atom. 
+
+3194.          The range of radiation is defined to be the distance it can travel through a material.       Range is related to several factors, including the energy of the radiation, the material encountered, and the type of radiation (see [link]). 
+
+3197. Scintillator detectors are used in a variety of research and diagnostic applications.         Among these are the detection by satellite-mounted equipment of the radiation from distant galaxies, the analysis of radiation from a person indicating body burdens, and the detection of exotic particles in accelerator laboratories.Light from a scintillator is converted into electrical signals by devices such as the photomultiplier tube shown schematically in [link].       These tubes are based on the photoelectric effect, which is multiplied in stages into a cascade of electrons, hence the name photomultiplier. 
+
+3200. We have already identified protons as the particles that carry positive charge in the nuclei.         However, there are actually two types of particles in the nuclei—the proton and the neutron, referred to collectively as nucleons, the constituents of nuclei.       As its name implies, the neutron is a neutral particle (q=0q=0 size 12{q=0} {}) that has nearly the same mass and intrinsic spin as the proton. 
+
+3203.          Nuclear decay has provided an amazing window into the realm of the very small.       Nuclear decay gave the first indication of the connection between mass and energy, and it revealed the existence of two of the four basic forces in nature. 
+
+3206. The neutrino in β−β− size 12{β rSup { size 8{ - {}} } } {} decay is an electron’s antineutrino, given the symbol ν¯eν¯e, where νν is the Greek letter nu, and the subscript e means this neutrino is related to the electron.         The bar indicates this is a particle of antimatter.       (All particles have antimatter counterparts that are nearly identical except that they have the opposite charge. 
+
+3209.          Electron capture is the third type of beta decay.       Here, a nucleus captures an inner-shell electron and undergoes a nuclear reaction that has the same effect as β+β+ size 12{β rSup { size 8{+{}} } } {} decay. 
+
+3212. For an arbitrary time, not just a multiple of the half-life, the exponential relationship must be used.Radioactive dating is a clever use of naturally occurring radioactivity.         Its most famous application is carbon-14 dating.       Carbon-14 has a half-life of 5730 years and is produced in a nuclear reaction induced when solar neutrinos strike 14N14N size 12{"" lSup { size 8{"14"} } N} {} in the atmosphere. 
+
+3215. The probability of finding a particle is related to the square of its wave function, and so there is a small probability of finding the particle outside the barrier, which implies that the particle can tunnel through the barrier.         This process is called barrier penetration or quantum mechanical tunneling.       This concept was developed in theory by J. Robert Oppenheimer (who led the development of the first nuclear bombs during World War II) and was used by Gamow and others to describe αα size 12{α} {} decay. 
+
+3218. The compound is said to be tagged.         A tagged compound used for medical purposes is called a radiopharmaceutical.       Radiation detectors external to the body can determine the location and concentration of a radiopharmaceutical to yield medically useful information. 
+
+3221. These γγ rays have identical 0.511-MeV energies (the energy comes from the destruction of an electron or positron mass) and they move directly away from one another, allowing detectors to determine their point of origin accurately, as shown in [link].         The system is called positron emission tomography (PET).       It requires detectors on opposite sides to simultaneously (i.e., at the same time) detect photons of 0.511-MeV energy and utilizes computer imaging techniques similar to those in SPECT and CT scans. 
+
+3224. Under this assumption, any dose of radiation, no matter how small, involves a risk to human health.         This is called the linear hypothesis and it may be prudent, but it is  controversial.       There is some evidence that, unlike the immediate effects of radiation, the long-term effects are cumulative and there is little self-repair. 
+
+3227.          Therapeutic applications of ionizing radiation, called radiation therapy or radiotherapy, have existed since the discovery of x-rays and nuclear radioactivity.       Today, radiotherapy is used almost exclusively for cancer therapy, where it saves thousands of lives and improves the quality of life and longevity of many it cannot save. 
+
+3230. How does food irradiation work?         Ionization produces a random assortment of broken molecules and ions, some with unstable oxygen- or hydrogen-containing molecules known as free radicals.       These undergo rapid chemical reactions, producing perhaps four or five thousand different compounds called radiolytic products, some of which make cell function impossible by breaking cell membranes, fracturing DNA, and so on. 
+
+3233. These three factors—temperature, density, and time—complement one another, and so a deficiency in one can be compensated for by the others.         Ignition is defined to occur when the reactions produce enough energy to be self-sustaining after external energy input is cut off.       This goal, which must be reached before commercial plants can be a reality, has not been achieved. 
+
+3236. Huge power input heats the fuel, evaporating the confining pellet and crushing the fuel to high density with the expanding hot plasma produced.         This technique is called inertial confinement, because the fuel’s inertia prevents it from escaping before significant fusion can take place.       Higher densities have been reached than with tokamaks, but with smaller confinement times. 
+
+3239. Coulomb repulsion between the two ends then succeeds in fissioning the nucleus, which pops like a water drop into two large pieces and a few neutrons.         Neutron-induced fission can be written as       
+
+3242. To produce large power, reactors contain hundreds to thousands of critical masses, and the chain reaction easily becomes self-sustaining, a condition called criticality.         Neutron flux should be carefully regulated to avoid an exponential increase in fissions, a condition called supercriticality.       Control rods help prevent overheating, perhaps even a meltdown or explosive disassembly. 
+

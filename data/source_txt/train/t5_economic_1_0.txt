@@ -1,0 +1,192 @@
+4312.         Economics is the study of how humans make decisions in the face of scarcity.       These can be individual decisions, family decisions, business decisions or societal decisions. 
+
+4315. Many authors had written on economics in the centuries before Smith, but he was the first to address the subject in a comprehensive way.         In the first chapter, Smith introduces the division of labor, which means that the way a good or service is produced is divided into a number of tasks that are performed by different workers, instead of all the tasks being done by the same person.       
+
+4318. A similar pattern often operates within businesses.         In many cases, a business that focuses on one or a few products (sometimes called its “core competency”) is more successful than firms that try to make a wide range of products.       Third, specialization allows businesses to take advantage of economies of scale, which means that for many goods, as the level of production increases, the average cost of producing each individual unit declines. 
+
+4324. They analyze issues and problems with economic theories that are based on particular assumptions about human behavior, that are different than the assumptions an anthropologist or psychologist might use.         A theory is a simplified representation of how two or more variables interact with each other.       The purpose of a theory is to take a complex, real-world issue and simplify it down to its essentials. 
+
+4327. A good model to start with in economics is the circular flow diagram, which is shown in [link].         It pictures the economy as consisting of two groups—households and firms—that interact in two markets: the goods and services market in which firms sell and households buy and the labor market in which households sell labor to business firms or other employees.       
+
+4330. Although command economies have a very centralized structure for economic decisions, market economies have a very decentralized structure.         A market is an institution that brings together buyers and sellers of goods or services, who may be either individuals or businesses.       The New York Stock Exchange, shown in [link], is a prime example of market in which buyers and sellers are brought together. 
+
+4333. But the decisions of what will be produced and what prices will be charged are heavily regulated.         Heavily regulated economies often have underground economies, which are markets where the buyers and sellers make transactions without the government’s approval.       
+
+4339.         Economists use the term opportunity cost to indicate what must be given up to obtain something that is desired.       The idea behind opportunity cost is that the cost of one item is the lost opportunity to do or consume something else; in short, opportunity cost is the value of the next best alternative. 
+
+4342.         People desire goods and services for the satisfaction or utility those goods and services provide.       Utility, as we will see in the chapter on Consumer Choices, is subjective but that does not make it less real. 
+
+4345. Just as individuals cannot have everything they want and must instead make choices, society as a whole cannot have everything it might want, either.         This section of the chapter will explain the constraints faced by society, using a model called the production possibilities frontier (PPF).       There are more similarities than differences between individual choice and social choice. 
+
+4348.         This pattern is common enough that it has been given a name: the law of diminishing returns, which holds that as additional increments of resources are added to a certain purpose, the marginal benefit from those additional increments will decline.       When government spends a certain amount more on reducing crime, for example, the original gains in reducing crime could be relatively large. 
+
+4351.         Allocative efficiency means that the particular mix of goods a society produces represents the combination that society most desires.       How to determine what a society desires can be a controversial question, and is usually discussed in political science, sociology, and philosophy classes as well as in economics. 
+
+4354. Rather, it seeks to describe economic behavior as it actually exists.         Philosophers draw a distinction between positive statements, which describe the world as it is, and normative statements, which describe how the world should be.       For example, an economist could analyze a proposed subway system in a certain city. 
+
+4357. But even if the budget constraint or a PPF shifts, scarcity remains—just at a different level.         The second theme is tradeoffs.       As depicted in the budget constraint or the production possibilities frontier, it is necessary to give up some of one good to gain more of the other good. 
+
+4360.         Finally, the statistics introduced at the start of the chapter reveal information about intertemporal choices.       An economist might say that people choose not to get a college degree because they may have to borrow money to go to college, and the interest they have to pay on that loan in the future will affect their decisions today. 
+
+4363. Price elasticity is the ratio between the percentage change in the quantity demanded (Qd) or supplied (Qs) and the corresponding percent change in price.         The price elasticity of demand is the percentage change in the quantity demanded of a good or service divided by the percentage change in the price.       The price elasticity of supply is the percentage change in quantity supplied divided by the percentage change in price.Elasticities can be usefully divided into three broad categories: elastic, inelastic, and unitary. 
+
+4366. An elastic demand or elastic supply is one in which the elasticity is greater than one, indicating a high responsiveness to changes in price.         Elasticities that are less than one indicate low responsiveness to price changes and correspond to inelastic demand or inelastic supply.       Unitary elasticities indicate proportional responsiveness of either demand or supply, as summarized in [link]. 
+
+4369. Recall that the elasticity between these two points was 0.45.         Demand was inelastic between points A and B and elastic between points G and H. This shows us that price elasticity of demand changes at different points along a straight-line demand curve.       
+
+4372.         Zero elasticity or perfect inelasticity, as depicted in [link] refers to the extreme case in which a percentage change in price, no matter how large, results in zero change in quantity.       While a perfectly inelastic supply is an extreme example, goods with limited supply of inputs are likely to feature highly inelastic supply curves. 
+
+4375. The example of cigarette taxes showed that because demand is inelastic, taxes are not effective at reducing the equilibrium quantity of smoking, and they are mainly passed along to consumers in the form of higher prices.         The analysis, or manner, of how the burden of a tax is divided between consumers and producers is called tax incidence.       Typically, the incidence, or burden, of a tax falls both on the consumers and producers of the taxed good. 
+
+4378.         The cross-price elasticity of demand puts some meat on the bones of these ideas.       The term “cross-price” refers to the idea that the price of one good is affecting the quantity demanded of a different good. 
+
+4381. Let’s define what is meant by the firm.         A firm (or business) combines inputs of labor, capital, land, and raw or finished component materials to produce outputs.       If the firm is successful, the outputs are more valuable than the inputs. 
+
+4384. We can distinguish between two types of cost: explicit and implicit.         Explicit costs are out-of-pocket costs, that is, payments that are actually made.       Wages that a firm pays its employees or rent that a firm pays for its office are explicit costs. 
+
+4387. It means total revenue minus explicit costs—the difference between dollars brought in and dollars paid out.         Economic profit is total revenue minus total cost, including both explicit and implicit costs.       The difference is important because even though a business pays income taxes based on its accounting profit, whether or not it is economically successful depends on its economic profit. 
+
+4390.         Fixed costs are expenditures that do not change regardless of the level of production, at least not in the short term.       Whether you produce a lot or a little, the fixed costs are the same. 
+
+4393.          Average total cost (sometimes referred to simply as average cost) is total cost divided by the quantity of output.       Since the total cost of producing 40 haircuts is $320, the average total cost for producing each of 40 haircuts is $320/40, or $8 per haircut. 
+
+4396. Whatever the firm’s quantity of production, total revenue must exceed total costs if it is to earn a profit.         As explored in the chapter Choice in a World of Scarcity, fixed costs are often sunk costs that cannot be recouped.       In thinking about what to do next, sunk costs should typically be ignored, since this spending has already been made and cannot be changed. 
+
+4405.         What a buyer pays for a unit of the specific good or service is called price.       The total number of units purchased at that price is called the quantity demanded. 
+
+4408. An example from the market for gasoline can be shown in the form of a table or a graph.         A table that shows the quantity demanded at each price, such as [link], is called a demand schedule.       Price in this case is measured in dollars per gallon of gasoline. 
+
+4414. Like demand, supply can be illustrated using a table or a graph.         A supply schedule is a table, like [link], that shows the quantity supplied at a range of different prices.       Again, price is measured in dollars per gallon of gasoline and quantity supplied is measured in millions of gallons. 
+
+4417. The point where the supply curve (S) and the demand curve (D) cross, designated by point E in [link], is called the equilibrium.         The equilibrium price is the only price where the plans of consumers and the plans of producers agree—that is, where the amount of the product consumers want to buy (quantity demanded) is equal to the amount producers want to sell (quantity supplied).       This common quantity is called the equilibrium quantity. 
+
+4420.         When the price is below equilibrium, there is excess demand, or a shortage—that is, at the given price the quantity demanded, which has been stimulated by the lower price, now exceeds the quantity supplied, which had been depressed by the lower price.       In this situation, eager gasoline buyers mob the gas stations, only to find many stations running short of fuel. 
+
+4423. The assumption behind a demand curve or a supply curve is that no relevant economic factors, other than the product’s price, are changing.         Economists call this assumption ceteris paribus, a Latin phrase meaning “other things being equal.” Any given demand or supply curve is based on the ceteris paribus assumption that all else is held equal.       A demand curve or a supply curve is a relationship between two, and only two, variables when all other variables are kept constant. 
+
+4426. The proportion of elderly citizens in the United States population is rising.         It rose from 9.8% in 1970 to 12.6% in 2000, and will be a projected (by the U.S.       Census Bureau) 20% of the population by 2030. 
+
+4429. These changes in demand are shown as shifts in the curve.         Therefore, a shift in demand happens when a change in some economic factor (other than price) causes a different quantity to be demanded at every price.       The following Work It Out feature shows how this happens. 
+
+4432. For example, in 2014 the Manchurian Plain in Northeastern China, which produces most of the country's wheat, corn, and soybeans, experienced its most severe drought in 50 years.         A drought decreases the supply of agricultural products, which means that at any given price, a lower quantity will be supplied; conversely, especially good weather would shift the supply curve to the right.When a firm discovers a new technology that allows the firm to produce at a lower cost, the supply curve will shift to the right, as well.       For instance, in the 1960s a major scientific effort nicknamed the Green Revolution focused on breeding improved seeds for basic crops like wheat and rice. 
+
+4435. “Well, it is clear that a drought reduces supply, so I will shift back the supply curve, as in the shift from the original supply curve S0 to S1 shown on the diagram (called Shift 1).         So the equilibrium moves from E0 to E1, the equilibrium quantity is lower and the equilibrium price is higher.       Then, a higher price makes farmers more likely to supply the good, so the supply curve shifts right, as shown by the shift from S1 to S2, on the diagram (shown as Shift 2), so that the equilibrium now moves from E1 to E2. 
+
+4438. The most common way price supports work is that the government enters the market and buys up the product, adding to demand to keep prices higher than they otherwise would be.         According to the Common Agricultural Policy reform passed in 2013, the European Union (EU) will spend about 60 billion euros per year, or 67 billion dollars per year, or roughly 38% of the EU budget, on price supports for Europe’s farmers from 2014 to 2020.[link] illustrates the effects of a government program that assures a price above the equilibrium by focusing on the market for wheat in Europe.       In the absence of government intervention, the price would adjust so that the quantity supplied would equal the quantity demanded at the equilibrium point E0, with price P0 and quantity Q0. 
+
+4441. At that above-equilibrium salary, excess supply or a surplus results.         In a situation of excess supply in the labor market, with many applicants for every job opening, employers will have an incentive to offer lower wages than they otherwise would have.       Nurses’ salary will move down toward equilibrium.In contrast, if the salary is below the equilibrium at, say, $60,000 per year, then a situation of excess demand or a shortage arises. 
+
+4444. In mid-2009, the U.S. minimum wage was raised to $7.25 per hour.         Local political movements in a number of U.S. cities have pushed for a higher minimum wage, which they call a living wage.       Promoters of living wage laws maintain that the minimum wage is too low to ensure a reasonable standard of living. 
+
+4447. The laws of demand and supply continue to apply in the financial markets.         According to the law of demand, a higher rate of return (that is, a higher price) will decrease the quantity demanded.       As the interest rate rises, consumers will reduce the quantity that they borrow. 
+
+4450. Instead, each consumer reacts according to that person’s preferences and budget set, and each profit-seeking producer reacts to the impact on its expected profits.         The following Clear It Up feature examines the demand and supply models.       
+
+4453.         To understand how a household will make its choices, economists look at what consumers can afford, as shown in a budget constraint line, and the total utility or satisfaction derived from those choices.       In a budget constraint line, the quantity of one good is measured on the horizontal axis and the quantity of the other good is measured on the vertical axis. 
+
+4456. The most common pattern of total utility, as shown here, is that consuming additional goods leads to greater total utility, but at a decreasing rate.         The third column shows marginal utility, which is the additional utility provided by one additional unit of consumption.       This equation for marginal utility is:MU=change in total utilitychange in quantityMU=change in total utilitychange in quantityNotice that marginal utility diminishes as additional units are consumed, which means that each subsequent unit of a good consumed provides less additional utility. 
+
+4459.         This process of decision making suggests a rule to follow when maximizing utility.       Since the price of T-shirts is twice as high as the price of movies, to maximize utility the last T-shirt chosen needs to provide exactly twice the marginal utility (MU) of the last movie. 
+
+4462. How does this rise in income alter her utility-maximizing choice?         Kimberly will again consider the utility and marginal utility that she receives from concert tickets and overnight getaways and seek her utility-maximizing choice on the new budget line.       But how will her new choice relate to her original choice? 
+
+4465. This occurs for two reasons, and both effects can occur simultaneously.         The substitution effect occurs when a price changes and consumers have an incentive to consume less of the good with a relatively higher price and more of the good with a relatively lower price.       The income effect is that a higher price means, in effect, the buying power of income has been reduced (even though actual income has not changed), which leads to buying less of the good (when the good is normal). 
+
+4468. Again, let’s proceed with a concrete example.         The economic logic is precisely the same as in the case of a consumption choice budget constraint, but the labels are different on a labor-leisure budget constraint.       
+
+4471.         [link]  and [link] show Yelberton’s intertemporal budget constraint.       Yelberton’s choice involves comparing the utility of present consumption during his working life and future consumption after retirement. 
+
+4474. And what’s more, actions under these conditions are indeed predictable, if the underlying environment is better understood.         So, behavioral economics seeks to enrich the understanding of decision-making by integrating the insights of psychology into economics.       It does this by investigating how given dollar amounts can mean different things to individuals depending on the situation. 
+
+4477. Industries differ from one another in terms of how many sellers there are in a specific market, how easy or difficult it is for a new firm to enter, and the type of products that are sold.         This is referred to as the market structure of the industry.       In this chapter, we focus on perfect competition. 
+
+4480.         A perfectly competitive firm has only one major decision to make—namely, what quantity to produce.       To understand why this is so, consider a different way of writing out the basic definition of profit: 
+
+4483.         In this example, the marginal revenue and marginal cost curves cross at a price of $4 and a quantity of 80 produced.       If the farmer started out producing at a level of 60, and then experimented with increasing production to 70, marginal revenues from the increase in production would exceed marginal costs—and so profits would rise. 
+
+4486.         No perfectly competitive firm acting alone can affect the market price.       However, the combination of many firms entering or exiting the market will affect overall supply in the market. 
+
+4489.         For an increasing cost industry, as the market expands, the old and new firms experience increases in their costs of production, which makes the new zero-profit level intersect at a higher price than before.       Here companies may have to deal with limited inputs, such as skilled labor. 
+
+4492.         To explore what is meant by allocative efficiency, it is useful to walk through an example.       Begin by assuming that the market for wholesale flowers is perfectly competitive, and so P = MC. 
+
+4495. There are two types of monopoly, based on the types of barriers to entry they exploit.         One is natural monopoly, where the barriers to entry are something other than legal prohibition.       The other is legal monopoly, where laws prohibit (or severely limit) competition. 
+
+4498. Copyright Office.         A patent gives the inventor the exclusive legal right to make, use, or sell the invention for a limited time; in the United States, exclusive patent rights last for 20 years.       The idea is to provide limited monopoly power so that innovative firms can recoup their investment in R&D, but then to allow other firms to produce the product more cheaply once the patent expires. 
+
+4501. But in certain areas, like the invention of new software, it has been unclear whether patent or copyright protection should apply.         There is also a body of law known as trade secrets.       Even if a company does not have a patent on an invention, competing firms are not allowed to steal their secrets. 
+
+4504. Businesses have developed a number of schemes for creating barriers to entry by deterring potential competitors from entering the market.         One method is known as predatory pricing, in which a firm uses the threat of sharp price cuts to discourage competition.       Predatory pricing is a violation of U.S. antitrust law, but it is difficult to prove. 
+
+4507. For a perfect competitor, each additional unit sold brought a positive marginal revenue, because marginal revenue was equal to the given market price.         But a monopolist can sell a larger quantity and see a decline in total revenue.       When a monopolist increases sales by one unit, it gains some marginal revenue from selling that extra unit, but also loses some marginal revenue because every other unit must now be sold at a lower price. 
+
+4510. A perfectly competitive market has many firms selling identical products, who all act as price takers in the face of the competition.         If you recall, price takers are firms that have no market power.       They simply have to take the market price as given. 
+
+4513. Crew, and Nordstrom’s), plus 14 more stores that sold women’s specialty clothing (like Motherhood Maternity and Victoria’s Secret).         Most of the markets that consumers encounter at the retail level are monopolistically competitive.The other type of imperfectly competitive market is oligopoly.       Oligopolistic markets are those dominated by a small number of firms. 
+
+4516. Some intangible aspects may be promises like a guarantee of satisfaction or money back, a reputation for high quality, services like free delivery, or offering a loan to purchase the product.         Finally, product differentiation may occur in the minds of buyers.       For example, many people could not tell the difference in taste between common varieties of beer or cigarettes if they were blindfolded but, because of past habits and advertising, they have strong preferences for certain brands. 
+
+4519. Although the process by which a monopolistic competitor makes decisions about quantity and price is similar to the way in which a monopolist makes such decisions, two differences are worth remembering.         First, although both a monopolist and a monopolistic competitor face downward-sloping demand curves, the monopolist’s perceived demand curve is the market demand curve, while the perceived demand curve for a monopolistic competitor is based on the extent of its product differentiation and how many competitors it faces.       Second, a monopolist is surrounded by barriers to entry and need not fear entry, but a monopolistic competitor who earns profits must expect the entry of firms with similar, but differentiated, products. 
+
+4522. Thus, although a monopolistically competitive firm may earn positive economic profits in the short term, the process of new entry will drive down economic profits to zero in the long run.         Remember that zero economic profit is not equivalent to zero accounting profit.       A zero economic profit means the firm’s accounting profit is equal to what its resources could earn in their next best use. 
+
+4525. Rather, they are oligopolies.         Oligopoly arises when a small number of large firms have all or most of the sales in an industry.       Examples of oligopoly abound and include the auto industry, cable television, and commercial air travel. 
+
+4528. By acting together, oligopolistic firms can hold down industry output, charge a higher price, and divide up the profit among themselves.         When firms act together in this way to reduce output and keep prices high, it is called collusion.       A group of firms that have a formal agreement to collude to produce the monopoly output and sell at the monopoly price is called a cartel. 
+
+4531. The desire of businesses to avoid competing so that they can instead raise the prices that they charge and earn higher profits has been well understood by economists.         Adam Smith wrote in Wealth of Nations in 1776: “People of the same trade seldom meet together, even for merriment and diversion, but the conversation ends in a conspiracy against the public, or in some contrivance to raise prices.”       
+
+4534. Each oligopolist, however, must worry that while it is holding down output, other firms are taking advantage of the high price by raising output and earning higher profits.         [link] shows the prisoner’s dilemma for a two-firm oligopoly—known as a duopoly.       If Firms A and B both agree to hold down output, they are acting together as a monopoly and will each earn $1,000 in profits. 
+
+4537.         One example of the pressure these firms can exert on one another is the kinked demand curve, in which competing oligopoly firms commit to match price cuts, but not price increases.       This situation is shown in [link]. 
+
+4540.          A corporate merger occurs when two formerly separate firms combine to become a single firm.       When one firm purchases another, it is called an acquisition. 
+
+4543. In many cases, these large firms were organized in the legal form of a “trust,” in which a group of formerly independent firms were consolidated together by mergers and purchases, and a group of “trustees” then ran the companies as if they were a single firm.         Thus, when the U.S. government passed the Sherman Antitrust Act in 1890 to limit the power of these trusts, it was called an antitrust law.       In an early demonstration of the law’s power, the U.S. Supreme Court in 1911 upheld the government’s right to break up Standard Oil, which had controlled about 90% of the country’s oil refining, into 34 independent firms, including Exxon, Mobil, Amoco, and Chevron. 
+
+4546. Regulators have struggled for decades to measure the degree of monopoly power in an industry.         An early tool was the concentration ratio, which measures what share of the total sales in the industry are accounted for by the largest firms, typically the top four to eight firms.       For an explanation of how high market concentrations can create inefficiencies in an economy, refer to Monopoly.Say that the market for replacing broken automobile windshields in a certain city has 18 firms with the market shares shown in  [link], where the market share is each firm’s proportion of total sales in that market. 
+
+4549.         Defining a market is often controversial.       For example, Microsoft in the early 2000s had a dominant share of the software for computer operating systems. 
+
+4552.         Antitrust law includes rules against restrictive practices—practices that do not involve outright agreements to raise price or to reduce the quantity produced, but that might have the effect of reducing competition.       Antitrust cases involving restrictive practices are often controversial, because they delve into specific contracts or agreements between firms that are allowed in some cases but not in others.For example, if a product manufacturer is selling to a group of dealers who then sell to the general public it is illegal for the manufacturer to demand a minimum resale price maintenance agreement, which would require the dealers to sell for at least a certain minimum price. 
+
+4555.         Tying sales happen when a customer is required to buy one product only if the customer also buys a second product.       Tying sales are controversial because they force consumers to purchase a product that they may not actually want or need. 
+
+4558. All sides agreed that the capabilities of computer software that was compatible with Windows—both software produced by Microsoft and that produced by other companies—had expanded dramatically in the 1990s.         Having a monopoly or a near-monopoly is not necessarily illegal in and of itself, but in cases where one company controls a great deal of the market, antitrust regulators look at any allegations of restrictive practices with special care.       
+
+4561. The regulators will try to choose a point along the market demand curve that benefits both consumers and the broader social interest.         Point C illustrates one tempting choice: the regulator requires that the firm produce the quantity of output where marginal cost crosses the demand curve at an output of 8, and charge the price of 3.5, which is equal to marginal cost at that point.       This rule is appealing because it requires price to be set equal to marginal cost, which is what would occur in a perfectly competitive market, and it would assure consumers a higher quantity and lower price than at the monopoly choice A. 
+
+4564. Beginning in the 1970s, it became clear to policymakers of all political leanings that the existing price regulation was not working well.         The United States carried out a great policy experiment—the deregulation discussed in Monopoly—removing government controls over prices and quantities produced in airlines, railroads, trucking, intercity bus travel, natural gas, and bank interest rates.       The Clear it Up discusses the outcome of deregulation in one industry in particular—airlines.What are the results of airline deregulation? 
+
+4567. The collapse of the markets for these assets precipitated the financial crisis and led to the failure of Lehman Brothers, a major investment bank, numerous large commercial banks, such as Wachovia, and even the Federal National Mortgage Corporation (Fannie Mae), which had to be nationalized—that is, taken over by the federal government.         One response to the financial crisis was the Dodd-Frank Act, which attempted major reforms of the financial system.       The legislation’s purpose, as noted on dodd-frank.com is: 
+
+4570. The effect of a market exchange on a third party who is outside or “external” to the exchange is called an externality.         Because externalities that occur in market transactions affect other parties beyond those involved, they are sometimes called spillovers.Externalities can be negative or positive.       If you hate country music, then having it waft into your house every night would be a negative externality. 
+
+4573. Pollution is a negative externality.         Economists illustrate the social costs of production with a demand and supply diagram.       The social costs include the private costs of production incurred by the company and the external costs of pollution that are passed on to society. 
+
+4576. However, when the externality of pollution exists, the supply curve no longer represents all social costs.         Because externalities represent a case where markets no longer consider all social costs, but only some of them, economists commonly refer to externalities as an example of market failure.       When there is market failure, the private market fails to achieve efficient output, because either firms do not account for all costs incurred in the production of output and/or consumers do not account for all benefits obtained (a positive externality). 
+
+4579. In the same year, the Clean Air Act was enacted to address air pollution.         Just two years later, in 1972, Congress passed and the president signed the far-reaching Clean Water Act.       These command-and-control environmental laws, and their amendments and updates, have been largely responsible for America’s cleaner air and water in recent decades. 
+
+4582.         When a city or state government sets up a marketable permit program  (e.g.       cap-and-trade), it must start by determining the overall quantity of pollution it will allow as it tries to meet national pollution standards. 
+
+4585. However, it also found that a middle-range estimate of the health and other benefits from cleaner air was $22 trillion—about 44 times higher than the costs.         A more recent study by the EPA estimated that the environmental benefits to Americans from the Clean Air Act will exceed their costs by a margin of four to one.       The EPA estimated that “in 2010 the benefits of Clean Air Act programs will total about $110 billion. 
+
+4588. However, as the extent of environmental protection increases, the cheap and easy ways of reducing pollution begin to decrease, and more costly methods must be used.         The marginal cost curve rises.       Also, as environmental protection increases, the largest marginal benefits are achieved first, followed by reduced marginal benefits. 
+
+4591. However, low-income countries, with some understandable exasperation, point out that high-income countries do not have much moral standing to lecture them on the necessities of putting environmental protection ahead of economic growth.         After all, high-income countries have historically been the primary contributors to greenhouse warming by burning fossil fuels—and still are today.       It is hard to tell people who are living in a low-income country, where adequate diet, health care, and education are lacking, that they should sacrifice an improved quality of life for a cleaner environment. 
+
+4594.         Depending on their different income levels and political preferences, countries are likely to make different choices about allocative efficiency—that is, the choice between economic output and environmental protection along the production possibility frontier.       However, all countries should prefer to make a choice that shows productive efficiency—that is, the choice is somewhere on the production possibility frontier rather than inside it. 
+
+4597.         In certain cases, however, competition can discourage new technology, especially when other firms can quickly copy a new idea.       Consider a pharmaceutical firm deciding to develop a new drug. 
+
+4600. However, when a firm invests in new technology, the private benefits, or profits, that the firm receives are only a portion of the overall social benefits.         The social benefits of an innovation take into account the value of all the positive externalities of the new idea or product, whether enjoyed by other companies or society as a whole, as well as the private benefits received by the firm that developed the new technology.       As you learned in Environmental Protection and Negative Externalities, positive externalities are beneficial spillovers to a third party, or parties.Consider the example of the Big Drug Company, which is planning its R&D budget for the next year. 
+
+4603. Data in [link], from the U.S. Bureau of Labor Statistics’ Usual Weekly Earnings of Wage and Salary Workers, Third Quarter 2014, demonstrate that median weekly earnings are higher for workers who have completed more education.         While these rates of return will beat equivalent investments in Treasury bonds or savings accounts, the estimated returns to education go primarily to the individual worker, so these returns are private rates of return to education.       The first row is a header row and it labels the last three columns, 'Less than a High School Degree,' 'High School Degree, No College,' and 'Bachelor's Degree.' 
+
+4606. One way to increase new technology is to guarantee the innovator an exclusive right to that new product or process.         Intellectual property rights include patents, which give the inventor the exclusive legal right to make, use, or sell the invention for a limited time, and copyright laws, which give the author an exclusive legal right over works of literature, music, film/video, and pictures.       For example, if a pharmaceutical firm has a patent on a new drug, then no other firm can manufacture or sell that drug for twenty-one years, unless the firm with the patent grants permission. 
+
+4609. For example, United for Medical Research, a coalition of groups that seek funding for the National Institutes of Health, (which is supported by federal grants), states: “NIH-supported research added $69 billion to our GDP and supported seven million jobs in 2011 alone.” The United States remains the leading sponsor of medical-related research spending $117 billion in 2011.         Other institutions, such as the National Academy of Scientists and the National Academy of Engineers, receive federal grants for innovative projects.       The Agriculture and Food Research Initiative (AFRI) at the United States Department of Agriculture awards federal grants to projects that apply the best science to the most important agricultural problems, from food safety to childhood obesity. 
+
+4612. Instead, public goods have two defining characteristics: they are nonexcludable and nonrivalrous.         The first characteristic, that a public good is nonexcludable, means that it is costly or impossible to exclude someone from using the good.       If Larry buys a private good like a piece of pizza, then he can exclude others, like Lorna, from eating that pizza. 
+

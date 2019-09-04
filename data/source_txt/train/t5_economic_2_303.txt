@@ -1,0 +1,52 @@
+5222.         It matters because the support of farmers in high-income countries is devastating to the livelihoods of farmers in low-income countries.       Even when their climate and land are well-suited to products like cotton, rice, sugar, or milk, farmers in low-income countries find it difficult to compete. 
+
+5225. U.S. producers obtain a higher price so they sell a larger quantity of sugar.         The effects of a tariff on producers and consumers in the United States can be measured using two concepts developed in Demand, Supply, and Efficiency: consumer surplus and producer surplus.U.S.       Sugar Supply and Demand When there is free trade, the equilibrium is at point A. 
+
+5228. Lost sales translate into lost jobs.         The hidden opportunity cost of using protectionism to save jobs in one industry is jobs sacrificed in other industries.       This is why the United States International Trade Commission, in its study of barriers to trade, predicts that reducing trade barriers would not lead to an overall loss of jobs. 
+
+5231. Workers in many low-income countries around the world labor under conditions that would be illegal for a worker in the United States.         Workers in countries like China, Thailand, Brazil, South Africa, and Poland are often paid less than the United States minimum wage.       For example, in the United States, the minimum wage is $7.25 per hour; a typical wage in many low-income countries might be more like $7.25 per day, or often much less. 
+
+5234. Dumping refers to selling goods below their cost of production.         Anti-dumping laws block imports that are sold below the cost of production by imposing tariffs that increase the price of these imports to reflect their cost of production.       Since dumping is not allowed under the rules of the World Trade Organization (WTO), nations that believe they are on the receiving end of dumped goods can file a complaint with the WTO. 
+
+5237.         In general, high-income countries such as the United States, Canada, Japan, and the nations of the European Union have relatively strict environmental standards.       In contrast, middle- and low-income countries like Brazil, Nigeria, India, and China have lower environmental standards. 
+
+5240.         One final reason why economists often treat the national interest argument skeptically is that almost any product can be touted by lobbyists and politicians as vital to national security.       In 1954, the United States became worried that it was importing half of the wool required for military uniforms, so it declared wool and mohair to be “strategic materials” and began to give subsidies to wool and mohair farmers. 
+
+5243.         There are different types of economic integration across the globe, ranging from free trade agreements, in which participants allow each other’s imports without tariffs or quotas, to common markets, in which participants have a common external trade policy as well as free trade within the group, to full economic unions, in which, in addition to a common market, monetary and fiscal policies are coordinated.       Many nations belong both to the World Trade Organization and to regional trading agreements. 
+
+5246. Because of Technotron’s new technology—which in this case is importing goods from another county—other firms in this industry will lose money and lay off workers.         Just as it would have been inappropriate and ultimately foolish to respond to the disruptions of new scientific technology by trying to shut it down, it would be inappropriate and ultimately foolish to respond to the disruptions of international trade by trying to restrict trade.       
+
+5249.         To a mathematician or an economist, a variable is the name given to a quantity that may assume a range of values.       In the equation of a line presented above, x and y are the variables, with x on the horizontal axis and y on the vertical axis, and b and m representing factors that determine the shape of the line. 
+
+5252.         A negative slope means that two variables are negatively related; that is, when x increases, y decreases, or when x decreases, y increases.       Graphically, a negative slope means that, as the line on the line graph moves from left to right, the line falls. 
+
+5255. The data in [link] is displayed in [link] which shows the relationship between two variables: length and median weight for American baby boys and girls during the first three years of life.         (The median means that half of all babies weigh more than this and half weigh less.)       The line graph measures length in inches on the horizontal axis and weight in pounds on the vertical axis. 
+
+5258.         A bar graph uses the height of different bars to compare quantities.       [link] lists the 12 most populous countries in the world. 
+
+5261. For example, points A and B sit on the same indifference curve Um, which means that they provide Lilly with the same level of utility.         Thus, the marginal utility that Lilly would gain from, say, increasing her consumption of books from two to three must be equal to the marginal utility that she would lose if her consumption of doughnuts was cut from 120 to 84—so that her overall utility remains unchanged between points A and B.       Indeed, the slope along an indifference curve is referred to as the marginal rate of substitution, which is the rate at which a person is willing to trade one good for another so that utility will remain the same. 
+
+5264. This information provides the basis for the budget line shown in [link].         Along with the budget line are shown the three indifference curves from [link].       What is Lilly’s utility-maximizing choice? 
+
+5267. If oranges get cheaper, people fire up their juicing machines and ease off on other fruits and foods.         The income effect refers to how a change in the price of a good alters the effective buying power of one’s income.       If the price of a good that you have been buying falls, then in effect your buying power has risen—you are able to purchase more goods. 
+
+5270.         As explained in Financial Markets, the prices of stocks and bonds depend on future events.       The price of a bond depends on the future payments that the bond is expected to make, including both payments of interest and the repayment of the face value of the bond. 
+
+5273. All sales of the final goods and services that make up GDP will eventually end up as income for workers, for managers, and for investors and owners of firms.         The sum of all the income received for contributing resources to GDP is called national income (Y).       At some points in the discussion that follows, it will be useful to refer to real GDP as “national income.” Both axes are measured in real (inflation-adjusted) terms. 
+
+5276.         The final ingredient of the Keynesian cross or expenditure-output diagram is the aggregate expenditure schedule, which will show the total expenditures in the economy for each level of real GDP.       The intersection of the aggregate expenditure line with the 45-degree line—at point E0 in [link]—will show the equilibrium for the economy, because it is the point where aggregate expenditure is equal to output or real GDP. 
+
+5279. (Exactly how a situation of zero income and negative savings would work in practice is not important, because even low-income societies are not literally at zero income, so the point is hypothetical.)         This relationship between income and consumption, illustrated in [link] and [link], is called the consumption function.       
+
+5282.         All the components of aggregate demand—consumption, investment, government spending, and the trade balance—are now in place to build the Keynesian cross diagram.       [link] builds up an aggregate expenditure function, based on the numerical illustrations of C, I, G, X, and M that have been used throughout this text. 
+
+5285.         The meaning of “equilibrium” remains the same; that is, equilibrium is a point of balance where no incentive exists to shift away from that outcome.       To understand why the point of intersection between the aggregate expenditure function and the 45-degree line is a macroeconomic equilibrium, consider what would happen if an economy found itself to the right of the equilibrium point E, say point H in [link], where output is higher than the equilibrium. 
+
+5288. In this way, the original change in aggregate expenditures is actually spent more than once.         This is called the multiplier effect: An initial increase in spending, cycles repeatedly through the economy and has a larger impact than the initial dollar amount spent.       
+
+5291. The equilibrium price is $80 and the equilibrium quantity is 28 million.         To see the benefits to consumers, look at the segment of the demand curve above the equilibrium point and to the left.       This portion of the demand curve shows that at least some demanders would have been willing to pay more than $80 for a tablet. 
+
+5294. The amount that a seller is paid for a good minus the seller’s actual cost is called producer surplus.         In [link], producer surplus is the area labeled G—that is, the area between the market price and the segment of the supply curve below the equilibrium.The sum of consumer surplus and producer surplus is social surplus, also referred to as economic surplus or total surplus.       In [link], social surplus would be shown as the area F + G. Social surplus is larger at equilibrium quantity and price than it would be at any other quantity. 
+
+5297. The new consumer surplus is G, and the new producer surplus is H + I.         In effect, the price floor causes the area H to be transferred from consumer to producer surplus, but also causes a deadweight loss of J + K.       
+

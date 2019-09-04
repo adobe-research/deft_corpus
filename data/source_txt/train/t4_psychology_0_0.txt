@@ -1,0 +1,192 @@
+3313.         It’s easy to get confused about two fields that study the interaction of genes and the environment, such as the fields of evolutionary psychology and behavioral genetics.       How can we tell them apart? 
+
+3322. In this example, we will call the gene for cleft chin “B,” and the gene for smooth chin “b.” Cleft chin is a dominant trait, which means that having the dominant allele either from one parent (Bb) or both parents (BB) will always result in the phenotype associated with the dominant allele.         When someone has two copies of the same allele, they are said to be homozygous for that allele.       When someone has a combination of alleles for a given gene, they are said to be heterozygous. 
+
+3325.         (a) A Punnett square is a tool used to predict how genes will interact in the production of offspring.       The capital B represents the dominant allele, and the lowercase b represents the recessive allele. 
+
+3328. Most traits are polygenic: controlled by more than one gene.         Height is one example of a polygenic trait, as are skin color and weight.In this Punnett square, N represents the normal allele, and p represents the recessive allele that is associated with PKU.       If two individuals mate who are both heterozygous for the allele associated with PKU, their offspring have a 25% chance of expressing the PKU phenotype. 
+
+3331. Some disagree with this theory and argue that genes do not set a limit on a person’s potential.         Another perspective on the interaction between genes and the environment is the concept of genetic environmental correlation.       Stated simply, our genes influence our environment, and our environment influences the expression of our genes ([link]). 
+
+3337. Learning how the cells and organs (like the brain) function, help us understand the biological basis behind human psychology.         The nervous system is composed of two basic cell types: glial cells (also known as glia) and neurons.       Glial cells, which outnumber neurons ten to one, are traditionally thought to play a supportive role to neurons, both physically and metabolically. 
+
+3343. The nucleus of the neuron is located in the soma, or cell body.         The soma has branching extensions known as dendrites.       The neuron is a small information processor, and dendrites serve as input sites where signals are received from other neurons. 
+
+3346. Axons range in length from a fraction of an inch to several feet.         In some axons, glial cells form a fatty substance known as the myelin sheath, which coats the axon and acts as an insulator, increasing the speed at which the signal travels.       The myelin sheath is crucial for the normal operation of the neurons within the nervous system: the loss of the insulation it provides can be detrimental to normal function. 
+
+3349. We begin at the neuronal membrane.         The neuron exists in a fluid environment—it is surrounded by extracellular fluid and contains intracellular fluid (i.e., cytoplasm).       The neuronal membrane keeps these two fluids separate—a critical role because the electrical signal that passes through the neuron depends on the intra- and extracellular fluids being electrically different. 
+
+3352. Between signals, the neuron membrane’s potential is held in a state of readiness, called the resting potential.         Like a rubber band stretched out and waiting to spring into action, ions line up on either side of the cell membrane, ready to rush across the membrane when the neuron goes active and the membrane opens its gates (i.e., a sodium-potassium pump that allows movement of ions across the membrane).       Ions in high-concentration areas are ready to move to low-concentration areas, and positive ions are ready to move to areas with a negative charge.In the resting state, sodium (Na+) is at higher concentrations outside the cell, so it will tend to move into the cell. 
+
+3358.         There are several different types of neurotransmitters released by different neurons, and we can speak in broad terms about the kinds of functions associated with different neurotransmitters ([link]).       Much of what psychologists know about the functions of neurotransmitters comes from research on the effects of drugs in psychological disorders. 
+
+3361. Psychoactive drugs can act as agonists or antagonists for a given neurotransmitter system.         Agonists are chemicals that mimic a neurotransmitter at the receptor site and, thus, strengthen its effects.       An antagonist, on the other hand, blocks or impedes the normal activity of a neurotransmitter at the receptor. 
+
+3364.         The somatic nervous system is associated with activities traditionally thought of as conscious or voluntary.       It is involved in the relay of sensory and motor information to and from the CNS; therefore, it consists of motor neurons and sensory neurons. 
+
+3367. The two systems have complementary functions, operating in tandem to maintain the body’s homeostasis.         Homeostasis is a state of equilibrium, in which biological conditions (such as body temperature) are maintained at optimal levels.       
+
+3370.         The Spinal CordIt can be said that the spinal cord is what connects the brain to the outside world.       Because of it, the brain can act. 
+
+3373.         There is evidence of some specialization of function—referred to as lateralization—in each hemisphere, mainly regarding differences in language ability.       Beyond that, however, the differences that have been found have been minor. 
+
+3376. Lobes of the BrainThe four lobes of the brain are the frontal, parietal, temporal, and occipital lobes ([link]).         The frontal lobe is located in the forward part of the brain, extending back to a fissure known as the central sulcus.       The frontal lobe is involved in reasoning, motor control, emotion, and language. 
+
+3379. Gage's case occurred in the midst of a 19th century debate over localization—regarding whether certain areas of the brain are associated with particular functions.         On the basis of extremely limited information about Gage, the extent of his injury, and his life before and after the accident, scientists tended to find support for their own views, on whichever side of the debate they fell (Macmillan, 1999).(a) Phineas Gage holds the iron rod that penetrated his skull in an 1848 railroad construction accident.       (b) Gage’s prefrontal cortex was severely damaged in the left hemisphere. 
+
+3382.         The temporal lobe is located on the side of the head (temporal means “near the temples”), and is associated with hearing, memory, emotion, and some aspects of language.       The auditory cortex, the main area responsible for processing auditory information, is located within the temporal lobe. 
+
+3385.         The occipital lobe is located at the very back of the brain, and contains the primary visual cortex, which is responsible for interpreting incoming visual information.       The occipital cortex is organized retinotopically, which means there is a close relationship between the position of an object in a person’s visual field and the position of that object’s representation on the cortex. 
+
+3388.         The limbic system is involved in processing both emotion and memory.       Interestingly, the sense of smell projects directly to the limbic system; therefore, not surprisingly, smell can evoke emotional responses in ways that other sensory modalities cannot. 
+
+3391. The amygdala is involved in our experience of emotion and in tying emotional meaning to our memories.         The hypothalamus regulates a number of homeostatic processes, including the regulation of body temperature, appetite, and blood pressure.       The hypothalamus also serves as an interface between the nervous system and the endocrine system and in the regulation of sexual motivation and behavior. 
+
+3394. Midbrain and Hindbrain StructuresThe midbrain is comprised of structures located deep within the brain, between the forebrain and the hindbrain.         The reticular formation is centered in the midbrain, but it actually extends up into the forebrain and down into the hindbrain.       The reticular formation is important in regulating the sleep/wake cycle, arousal, alertness, and motor activity. 
+
+3397. It contains the medulla, pons, and cerebellum ([link]).         The medulla controls the automatic processes of the autonomic nervous system, such as breathing, blood pressure, and heart rate.       The word pons literally means “bridge,” and as the name suggests, the pons serves to connect the brain and spinal cord. 
+
+3400.          On February 25, 1990, a Florida woman named Terri Schiavo went into cardiac arrest, apparently triggered by a bulimic episode.       She was eventually revived, but her brain had been deprived of oxygen for a long time. 
+
+3403.         Positron emission tomography (PET) scans create pictures of the living, active brain ([link]).       An individual receiving a PET scan drinks or is injected with a mildly radioactive substance, called a tracer. 
+
+3406. In some situations, it is helpful to gain an understanding of the overall activity of a person’s brain, without needing information on the actual location of the activity.         Electroencephalography (EEG) serves this purpose by providing a measure of a brain’s electrical activity.       An array of electrodes is placed around a person’s head ([link]). 
+
+3409.         Located in the neck, the thyroid gland releases hormones that regulate growth, metabolism, and appetite.       In hyperthyroidism, or Grave’s disease, the thyroid secretes too much of the hormone thyroxine, causing agitation, bulging eyes, and weight loss. 
+
+3412. These pancreatic hormones are essential for maintaining stable levels of blood sugar throughout the day by lowering blood glucose levels (insulin) or raising them (glucagon).         People who suffer from diabetes do not produce enough insulin; therefore, they must take medications that stimulate or replace insulin production, and they must closely control the amount of sugars and carbohydrates they consume.The gonads secrete sexual hormones, which are important in reproduction, and mediate both sexual motivation and behavior.       The female gonads are the ovaries; the male gonads are the testes. 
+
+3415. Visit this website to see an example of a consent form.While the informed consent form should be as honest as possible in describing exactly what participants will be doing, sometimes deception is necessary to prevent participants’ knowledge of the exact research question from affecting the results of the study.         Deception involves purposely misleading experiment participants in order to maintain the integrity of the experiment, but not to the point where the deception could be considered harmful.       For example, if we are interested in how our opinion of someone is affected by their attire, we might use deception in describing the experiment to prevent that knowledge from affecting participants’ responses. 
+
+3418. Many psychologists conduct research involving animal subjects.         Often, these researchers use rodents ([link]) or birds as the subjects of their experiments—the APA estimates that 90% of all animal research in psychology uses these species (American Psychological Association, n.d.).       Because many basic processes in animals are sufficiently similar to those in humans, these animals are acceptable substitutes for research that would be considered unethical in human participants. 
+
+3421. We can measure correlation by calculating a statistic known as a correlation coefficient.         A correlation coefficient is a number from -1 to +1 that indicates the strength and direction of the relationship between variables.       The correlation coefficient is usually represented by the letter r. 
+
+3424. Correlational research is useful because it allows us to discover the strength and direction of relationships that exist between two variables.         However, correlation is limited because establishing the existence of a relationship tells us little about cause and effect.       While variables are sometimes correlated because one does cause the other, it could also be that some other factor, a confounding variable, is actually causing the systematic movement in our variables of interest. 
+
+3427. We also tend to make the mistake of illusory correlations, especially with unsystematic observations.         Illusory correlations, or false correlations, occur when people believe that relationships exist between two things when no such relationship exists.       One well-known illusory correlation is the supposed effect that the moon’s phases have on human behavior. 
+
+3430.         In order to conduct an experiment, a researcher must have a specific hypothesis to be tested.       As you’ve learned, hypotheses can be formulated either through direct observation of the real world or after careful review of previous research. 
+
+3433. Ideally, the people who observe and record the children’s behavior are unaware of who was assigned to the experimental or control group, in order to control for experimenter bias.         Experimenter bias refers to the possibility that a researcher’s expectations might skew the results of the study.       Remember, conducting an experiment requires a lot of planning, and the people involved in the research project have a vested interest in supporting their hypotheses. 
+
+3436. Because by doing so, we can control for both experimenter and participant expectations.         If you are familiar with the phrase placebo effect, you already have some idea as to why this is an important consideration.       The placebo effect occurs when people's expectations or beliefs influence or determine their experience in a given situation. 
+
+3439. Our study involves human participants so we need to determine who to include.         Participants are the subjects of psychological research, and as the name implies, individuals who are involved in psychological research actively participate in the process.       Often, psychological research projects rely on college students to serve as participants. 
+
+3442.         Random assignment is critical for sound experimental design.       With sufficiently large samples, random assignment makes it unlikely that there are systematic differences between the groups. 
+
+3445. Poorly conceived or executed studies can be weeded out, and even well-designed research can be improved by the revisions suggested.         Peer review also ensures that the research is described clearly enough to allow other scientists to replicate it, meaning they can repeat the experiment using different samples to determine reliability.       Sometimes replications involve additional measures that expand on the original finding. 
+
+3448.         In observational research, scientists are conducting a clinical or case study when they focus on one person or just a few individuals.       Indeed, some scientists spend their entire careers studying just 10–20 individuals. 
+
+3451. The information provided by these studies is invaluable in understanding how those animals organize socially and communicate with one another.         The anthropologist Jane Goodall, for example, spent nearly five decades observing the behavior of chimpanzees in Africa ([link]).       As an illustration of the types of concerns that a researcher might encounter in naturalistic observation, some scientists criticized Goodall for giving the chimps names instead of referring to them by numbers—using names was thought to undermine the emotional detachment required for the objectivity of the study (McKie, 2010). 
+
+3454. To protect against this type of bias, researchers should have clear criteria established for the types of behaviors recorded and how those behaviors should be classified.         In addition, researchers often compare observations of the same event by multiple observers, in order to test inter-rater reliability: a measure of reliability that assesses the consistency of observations by different observers.       
+
+3457. Instead, they use existing records to answer various research questions.         This type of research approach is known as archival research.       Archival research relies on looking at past records or data sets to look for interesting patterns or relationships. 
+
+3460. Even without significant life changes, some people may simply choose to discontinue their participation in the project.         As a result, the attrition rates, or reduction in the number of research participants due to dropouts, in longitudinal studies are quite high and increases over the course of a project.       For this reason, researchers using this approach typically recruit many participants fully expecting that a substantial number will drop out before the end. 
+
+3463. In the end, research is what makes the difference between facts and opinions.         Facts are observable realities, and opinions are personal judgments, conclusions, or attitudes that may or may not be accurate.       In the scientific community, facts can be established only using evidence collected through empirical research.THE PROCESS OF SCIENTIFIC RESEARCHScientific knowledge is advanced through a process known as the scientific method. 
+
+3466. We’ve stated that theories and hypotheses are ideas, but what sort of ideas are they, exactly?         A theory is a well-developed set of ideas that propose an explanation for observed phenomena.       Theories are repeatedly checked against the world, but they tend to be too complex to be tested all at once; instead, researchers create hypotheses to test specific aspects of a theory. 
+
+3469. A scientific hypothesis is also falsifiable, or capable of being shown to be incorrect.         Recall from the introductory chapter that Sigmund Freud had lots of interesting ideas to explain various human behaviors ([link]).       However, a major criticism of Freud’s theories is that many of his ideas are not falsifiable; for example, it is impossible to imagine empirical observations that would disprove the existence of the id, the ego, and the superego—the three elements of personality described in Freud’s theories. 
+
+3472. The scientific method is also a form of empiricism.         An empirical method for acquiring knowledge is one based on observation, including experimentation, rather than a method based only on forms of logical argument or previous authorities.       
+
+3475.         In some areas in psychology, it is common for individuals who have recently earned their PhD to seek out positions in postdoctoral training programs that are available before going on to serve as faculty.       In most cases, young scientists will complete one or two postdoctoral programs before applying for a full-time faculty position. 
+
+3478.         As the name suggests, biopsychology explores how our biology influences our behavior.       While biological psychology is a broad field, many biological psychologists want to understand how the structure and function of the nervous system is related to behavior ([link]). 
+
+3481. As mentioned in the previous section, the cognitive revolution created an impetus for psychologists to focus their attention on better understanding the mind and mental processes that underlie behavior.         Thus, cognitive psychology is the area of psychology that focuses on studying cognitions, or thoughts, and their relationship to our experiences and our actions.       Like biological psychology, cognitive psychology is broad in its scope and often involves collaborations among people from a diverse range of disciplinary backgrounds. 
+
+3484.         Personality psychology focuses on patterns of thoughts and behaviors that make each individual unique.       Several individuals (e.g., Freud and Maslow) that we have already discussed in our historical overview of psychology, and the American psychologist Gordon Allport, contributed to early theories of personality. 
+
+3487.         Social psychology focuses on how we interact with and relate to others.       Social psychologists conduct research on a wide variety of topics that include differences in how we explain our own behavior versus how we explain the behaviors of others, prejudice, and attraction, and how we resolve interpersonal conflicts. 
+
+3490.         Health psychology focuses on how health is affected by the interaction of biological, psychological, and sociocultural factors.       This particular approach is known as the biopsychosocial model ([link]). 
+
+3493.         Clinical psychology is the area of psychology that focuses on the diagnosis and treatment of psychological disorders and other problematic patterns of behavior.       As such, it is generally considered to be a more applied area within psychology; however, some clinicians are also actively engaged in scientific research. 
+
+3496.         Forensic psychology is a branch of psychology that deals questions of psychology as they arise in the context of the justice system.       For example, forensic psychologists (and forensic psychiatrists) will assess a person’s competency to stand trial, assess the state of mind of a defendant, act as consultants on child custody cases, consult on sentencing and treatment recommendations, and advise on issues such as eyewitness testimony and children’s testimony (American Board of Forensic Psychology, 2014). 
+
+3499. These experimental requirements were put in place to eliminate “interpretation” in the reporting of internal experiences and to counter the argument that there is no way to know that an individual is observing their mind or consciousness accurately, since it cannot be seen by any other person.         This attempt to understand the structure or characteristics of the mind was known as structuralism.       Wundt established his psychology laboratory at the University at Leipzig in 1879 ([link]). 
+
+3502.         Perhaps one of the most influential and well-known figures in psychology’s history was Sigmund Freud ([link]).       Freud (1856–1939) was an Austrian neurologist who was fascinated by patients suffering from “hysteria” and neurosis. 
+
+3505.         Early work in the field of behavior was conducted by the Russian physiologist Ivan Pavlov (1849–1936).       Pavlov studied a form of learning behavior called a conditioned reflex, in which an animal or human produced a reflex (unconscious) response to a stimulus and, over time, was conditioned to produce the response to a different stimulus that the experimenter associated with the original stimulus. 
+
+3508. Behaviorism has also led to research on environmental influences on human behavior.B.         F. Skinner (1904–1990) was an American psychologist ([link]).       Like Watson, Skinner was a behaviorist, and he concentrated on how behavior was affected by its consequences. 
+
+3511.         Abraham Maslow (1908–1970) was an American psychologist who is best known for proposing a hierarchy of human needs in motivating behavior ([link]).       Although this concept will be discussed in more detail in a later chapter, a brief overview will be provided here. 
+
+3514.          Consciousness describes our awareness of internal and external stimuli.       Awareness of internal stimuli includes feeling pain, hunger, thirst, sleepiness, and being aware of our thoughts and emotions. 
+
+3517.          Biological rhythms are internal rhythms of biological activity.       A woman’s menstrual cycle is an example of a biological rhythm—a recurring, cyclical pattern of bodily changes. 
+
+3520. In the brain, the hypothalamus, which lies above the pituitary gland, is a main center of homeostasis.         Homeostasis is the tendency to maintain a balance, or optimal level, within a biological system.       
+
+3523. One important regulator of sleep-wake cycles is the hormone melatonin.         The pineal gland, an endocrine structure located inside the brain that releases melatonin, is thought to be involved in the regulation of various biological rhythms and of the immune system during sleep (Hardeland, Pandi-Perumal, & Cardinali, 2006).       Melatonin release is stimulated by darkness and inhibited by light. 
+
+3526. Jet lag is a collection of symptoms that results from the mismatch between our internal circadian cycles and our environment.         These symptoms include fatigue, sluggishness, irritability, and insomnia (i.e., a consistent difficulty in falling or staying asleep for at least three nights a week over a month’s time) (Roth, 2007).       
+
+3529. As we grow older, we sleep less.         In fact, a meta-analysis, which is a study that combines the results of many related studies, conducted within the last decade indicates that by the time we are 65 years old, we average fewer than 7 hours of sleep per day (Ohayon, Carskadon, Guilleminault, & Vitiello, 2004).       As the amount of time we sleep varies over our lifespan, presumably the sleep debt would adjust accordingly. 
+
+3532. Sleep can be divided into two different general phases: REM sleep and non-REM (NREM) sleep.         Rapid eye movement (REM) sleep is characterized by darting movements of the eyes under closed eyelids.       Brain waves during REM sleep appear very similar to brain waves during wakefulness. 
+
+3535. In terms of brain wave activity, stage 1 sleep is associated with both alpha and theta waves.         The early portion of stage 1 sleep produces alpha waves, which are relatively low frequency (8–13Hz), high amplitude patterns of electrical activity (waves) that become synchronized ([link]).       This pattern of brain wave activity resembles that of someone who is very relaxed, yet awake. 
+
+3538. Theta waves still dominate the activity of the brain, but they are interrupted by brief bursts of activity known as sleep spindles ([link]).         A sleep spindle is a rapid burst of higher frequency brain waves that may be important for learning and memory (Fogel & Smith, 2011; Poe, Walsh, & Bjorness, 2010).       In addition, the appearance of K-complexes is often associated with stage 2 sleep. 
+
+3541. The meaning of dreams varies across different cultures and periods of time.         By the late 19th century, German psychiatrist Sigmund Freud had become convinced that dreams represented an opportunity to gain access to the unconscious.       By analyzing dreams, Freud thought people could increase self-awareness and gain valuable insight to help them deal with the problems they faced in their lives. 
+
+3544. The 20th century Swiss psychiatrist Carl Jung believed that dreams allowed us to tap into the collective unconscious.         The collective unconscious, as described by Jung, is a theoretical repository of information he believed to be shared by everyone.       According to Jung, certain symbols in dreams reflected universal archetypes with meanings that are similar for all people regardless of culture or location. 
+
+3547.          A parasomnia is one of a group of sleep disorders in which unwanted, disruptive motor activity and/or experiences during sleep play a role.       Parasomnias can occur in either REM or NREM phases of sleep. 
+
+3550.          A person with restless leg syndrome has uncomfortable sensations in the legs during periods of inactivity or when trying to fall asleep.       This discomfort is relieved by deliberately moving the legs, which, not surprisingly, contributes to difficulty in falling or staying asleep. 
+
+3553. There are two types of sleep apnea: obstructive sleep apnea and central sleep apnea.         Obstructive sleep apnea occurs when an individual’s airway becomes blocked during sleep, and air is prevented from entering the lungs.       In central sleep apnea, disruption in signals sent from the brain that regulate breathing cause periods of interrupted breathing (White, 2005).One of the most common treatments for sleep apnea involves the use of a special device during sleep. 
+
+3556.          SIDSIn sudden infant death syndrome (SIDS) an infant stops breathing during sleep and dies.       Infants younger than 12 months appear to be at the highest risk for SIDS, and boys have a greater risk than girls. 
+
+3559.          The fifth edition of the Diagnostic and Statistical Manual of Mental Disorders, Fifth Edition (DSM-5) is used by clinicians to diagnose individuals suffering from various psychological disorders.       Drug use disorders are addictive disorders, and the criteria for specific substance (drug) use disorders are described in DSM-5. 
+
+3562. In contrast, a person who has psychological dependence has an emotional, rather than physical, need for the drug and may use the drug to relieve psychological distress.         Tolerance is linked to physiological dependence, and it occurs when a person requires more and more drug to achieve effects previously experienced at lower doses.       Tolerance can cause the user to increase the amount of drug used to a dangerous level—even to the point of overdose and death. 
+
+3565.          Stimulants are drugs that tend to increase overall levels of neural activity.       Many of these drugs act as agonists of the dopamine neurotransmitter system. 
+
+3568.          While caffeine is generally considered a relatively safe drug, high blood levels of caffeine can result in insomnia, agitation, muscle twitching, nausea, irregular heartbeat, and even death (Reissig, Strain, & Griffiths, 2009; Wolt, Ganetsky, & Babu, 2012).       In 2012, Kromann and Nielson reported on a case study of a 40-year-old woman who suffered significant ill effects from her use of caffeine. 
+
+3571. Thus, opioid drugs, which mimic this endogenous painkilling mechanism, have an extremely high potential for abuse.         Natural opioids, called opiates, are derivatives of opium, which is a naturally occurring compound found in the poppy plant.       There are now several synthetic versions of opiate drugs (correctly called opioids) that have very potent painkilling effects, and they are often abused. 
+
+3574.          Codeine is an opioid with relatively low potency.       It is often prescribed for minor pain, and it is available over-the-counter in some other countries. 
+
+3577.          Meditation is the act of focusing on a single target (such as the breath or a repeated sound) to increase awareness of the moment.       While hypnosis is generally achieved through the interaction of a therapist and the person being treated, an individual can perform meditation alone. 
+
+3580. The sensitivity of a given sensory system to the relevant stimuli can be expressed as an absolute threshold.         Absolute threshold refers to the minimum amount of stimulus energy that must be present for the stimulus to be detected 50% of the time.       Another way to think about this is by asking how dim can a light be or how soft can a sound be and still be detected half of the time. 
+
+3583. While our sensory receptors are constantly collecting information from the environment, it is ultimately how we interpret that information that affects how we interact with the world.         Perception refers to the way sensory information is organized, interpreted, and consciously experienced.       Perception involves both bottom-up and top-down processing. 
+
+3586. In fact, we often don’t perceive stimuli that remain relatively constant over prolonged periods of time.         This is known as sensory adaptation.       Imagine entering a classroom with an old analog clock. 
+
+3589. The shared experiences of people within a given cultural context can have pronounced effects on perception.         For example, Marshall Segall, Donald Campbell, and Melville Herskovits (1963) published the results of a multinational study in which they demonstrated that individuals from Western cultures were more prone to experience certain types of visual illusions than individuals from non-Western cultures, and vice versa.       One such illusion that Westerners were more likely to experience was the Müller-Lyer illusion ([link]): The lines appear to be different lengths, but they are actually the same length. 
+
+3592. The amplitude of a wave is the height of a wave as measured from the highest point on the wave (peak or crest) to the lowest point on the wave (trough).         Wavelength refers to the length of a wave from one peak to the next.       
+
+3595. Like light waves, the physical properties of sound waves are associated with various aspects of our perception of sound.         The frequency of a sound wave is associated with our perception of that sound’s pitch.       High-frequency sound waves are perceived as high-pitched sounds, while low-frequency sound waves are perceived as low-pitched sounds. 
+
+3598.          The eye is the major sensory organ involved in vision ([link]).       Light waves are transmitted across the cornea and enter the eye through the pupil. 
+
+3601. When light levels are high, the pupil will constrict, or become smaller, to reduce the amount of light that enters the eye.         The pupil’s size is controlled by muscles that are connected to the iris, which is the colored portion of the eye.       
+
+3604. The fovea contains densely packed specialized photoreceptor cells ([link]).         These photoreceptor cells, known as cones, are light-detecting cells.       The cones are specialized types of photoreceptors that work best in bright light conditions. 
+
+3607. Rods and cones are connected (via several interneurons) to retinal ganglion cells.         Axons from the retinal ganglion cells converge and exit through the back of the eye to form the optic nerve.       The optic nerve carries visual information from the retina to the brain. 
+
+3610.          Normal-sighted individuals have three different types of cones that mediate color vision.       Each of these cone types is maximally sensitive to a slightly different wavelength of light. 
+
+3613. Another implication is that this leads to the experience of negative afterimages.         An afterimage describes the continuation of a visual sensation after removal of the stimulus.       For example, when you stare briefly at the sun and then look away from it, you may still perceive a spot of light although the stimulus (the sun) has been removed. 
+

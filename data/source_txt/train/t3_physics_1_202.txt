@@ -1,0 +1,36 @@
+3245.          Specifically for the strong nuclear force, Yukawa proposed that a previously unknown particle, now called a pion, is exchanged between nucleons, transmitting the force between them.       [link] illustrates how a pion would carry a force between a proton and a neutron. 
+
+3248. Feynman diagrams are not only a useful tool for visualizing interactions at the quantum mechanical level, they are also used to calculate details of interactions, such as their strengths and probability of occurring.         Feynman was one of the theorists who developed the field of quantum electrodynamics (QED), which is the quantum mechanics of electromagnetism.       QED has been spectacularly successful in describing electromagnetic interactions on the submicroscopic scale. 
+
+3251. Several hints related to an underlying substructure emerge from an examination of these particle characteristics.         Note that the carrier particles are called gauge bosons.       First mentioned in Patterns in Spectra Reveal More Quantization, a boson is a particle with zero or an integer value of intrinsic spin (such as s=0, 1, 2, ...s=0, 1, 2, ... size 12{s=0,`1,`2,` "." 
+
+3254. But baryons have B=+1B=+1 size 12{B"=+"1} {} if they are matter, and B=−1B=−1 size 12{B= - 1} {} if they are antimatter.         The conservation of total baryon number is a more general rule than first noted in nuclear physics, where it was observed that the total number of nucleons was always conserved in nuclear reactions and decays.       That rule in nuclear physics is just one consequence of the conservation of the total baryon number. 
+
+3263. Color is consistent with all observations and is now widely accepted.         Quark theory including color is called quantum chromodynamics (QCD), also named by Gell-Mann.       
+
+3269. Even more extreme are the energies and distances at which gravity is thought to unify with the other forces in a TOE.         Most speculative and least constrained by experiment are TOEs, one of which is called Superstring theory.       Superstrings are entities that are 10−35m10−35m size 12{"10" rSup { size 8{ - "35"} } `m} {} in scale and act like one-dimensional oscillating strings and are also proposed to underlie all particles, forces, and space itself.At the energy of GUTs, the carrier particles of the weak force would become massless and identical to gluons. 
+
+3272. He then found that all but the closest galaxies have a red shift in their hydrogen spectra that is proportional to their distance.         The explanation is that there is a cosmological red shift due to the expansion of space itself.       The photon wavelength is stretched in transit from the source to the observer. 
+
+3275. Before that time is the TOE epoch, but we have almost no idea as to the nature of the universe then, since we have no workable theory of quantum gravity.         We call the hypothetical unified force superforce.Now let us imagine starting at TOE and moving forward in time to see what type of universe is created from various events along the way.       As temperatures and average energies decrease with expansion, the universe reaches the stage where average particle separations are large enough to see differences between the strong and electroweak forces (at about 10−35s10−35s size 12{"10" rSup { size 8{ - "35"} } `s} {}). 
+
+3281. Black holesBlack holes are objects having such large gravitational fields that things can fall in, but nothing, not even light, can escape.         Bodies, like the Earth or the Sun, have what is called an escape velocity.       If an object moves straight up from the body, starting at the escape velocity, it will just be able to escape the gravity of the body. The greater the acceleration of gravity on the body, the greater is the escape velocity. 
+
+3284. Supporting this is the fact that very distant galaxies are more likely to have abnormally energetic cores.         Some of the moderately distant galaxies, and hence among the younger, are known as quasars and emit as much or more energy than a normal galaxy but from a region less than a light year across.       Quasar energy outputs may vary in times less than a year, so that the energy-emitting region must be less than a light year across. 
+
+3287. The motion of stars in galaxies and the motion of galaxies in clusters imply that there is about 10 times as much mass as in the luminous objects we can see.         The indirectly observed non-luminous matter is called dark matter.       Why is dark matter a problem? 
+
+3290. This means that you can in principle travel an unlimited distance in any direction.         A universe that is closed is called positively curved.       This means that if you travel far enough in any direction, you will return to your starting point, analogous to circumnavigating the Earth. 
+
+3293. Searches for dark matter in this form are particularly interested in galactic halos because of the huge amount of mass that seems to be there.         Such microlensing objects are thus called massive compact halo objects, or MACHOs.       To date, a few MACHOs have been observed, but not predominantly in galactic halos, nor in the numbers needed to explain dark matter. 
+
+3296. These are called weakly interacting massive particles, or WIMPs, and would also be chargeless, thus interacting negligibly with normal matter, except through gravitation.         One proposed group of WIMPs would have masses several orders of magnitude greater than nucleons and are sometimes called neutralinos.       Others are called axions and would have masses about 10−1010−10 size 12{"10" rSup { size 8{ - "10"} } } {} that of an electron mass. 
+
+3299.          Superconductors are materials with a resistivity of zero.       They are familiar to the general public because of their practical applications and have been mentioned at a number of points in the text. 
+
+3302. There is constructive interference along the lines shown (a cone in three dimensions) from similar sound waves arriving there simultaneously.         This superposition forms a disturbance called a sonic boom, a constructive interference of sound created by an object moving faster than sound.       Inside the cone, the interference is mostly destructive, and so the sound intensity there is much less than on the shock wave. 
+
+3305. An early accelerator is a relatively simple, large-scale version of the electron gun.         The Van de Graaff (named after the Dutch physicist), which you have likely seen in physics demonstrations, is a small version of the ones used for nuclear research since their invention for that purpose in 1932.       For more, see [link]. 
+
+3308. Still limited by achievable magnetic field strengths, synchrotrons need to be very large at very high energies, since the radius of a high-energy particle’s orbit is very large.         Radiation caused by a magnetic field accelerating a charged particle perpendicular to its velocity is called synchrotron radiation in honor of its importance in these machines.       Synchrotron radiation has a characteristic spectrum and polarization, and can be recognized in cosmic rays, implying large-scale magnetic fields acting on energetic and charged particles in deep space. 
+

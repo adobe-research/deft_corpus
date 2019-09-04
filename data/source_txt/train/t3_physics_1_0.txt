@@ -1,0 +1,192 @@
+2639.         In order to describe the motion of an object, you must first be able to describe its position—where it is at any particular time.       More precisely, you need to specify its position relative to a convenient reference frame. 
+
+2642. Note that the distance between two positions is not the same as the distance traveled between them.         Distance traveled is the total length of the path traveled between two positions.       Distance has no direction and, thus, no sign. 
+
+2645. The motion of falling objects, as covered in Problem-Solving Basics for One-Dimensional Kinematics, is a simple one-dimensional type of projectile motion in which there is no horizontal movement.         In this section, we consider two-dimensional projectile motion, such as that of a football or other object for which air resistance is negligible.The most important fact to remember here is that motions along perpendicular axes are independent and thus can be analyzed separately.       This fact was discussed in Kinematics in Two Dimensions: An Introduction, where vertical and horizontal motions were seen to be independent. 
+
+2648. When adding velocities, we have been careful to specify that the velocity is relative to some reference frame.         These velocities are called relative velocities.       For example, the velocity of an airplane relative to an air mass is different from its velocity relative to the ground. 
+
+2651. To understand this, we need a working definition of force.         Our intuitive definition of force—that is, a push or a pull—is a good place to start.       We know that a push or pull has both magnitude and direction (therefore, it is a vector quantity) and can vary considerably in each regard. 
+
+2654. Force is a push or pull that can be defined in terms of various standards, and it is a vector having both magnitude and direction. 
+
+2657.          Newton’s second law of motion is closely related to Newton’s first law of motion.       It mathematically states the cause and effect relationship between force and changes in motion. 
+
+2660. These will be discussed in more detail in later sections.         For now, we will define friction as a force that opposes the motion past each other of objects that are touching.       [link](b) shows how vectors representing the external forces add together to produce a net force, 
+
+2663. This means the rocket exerts a large backward force on the gas in the rocket combustion chamber, and the gas therefore exerts a large reaction force forward on the rocket.         This reaction force is called thrust.       It is a common misconception that rockets propel themselves by pushing on the ground or on the air behind them. 
+
+2666.          Weight (also called force of gravity) is a pervasive force that acts at all times and must be counteracted to keep an object from falling.       You definitely notice that you must support the weight of a heavy object by pushing up on it when you hold it stationary, as illustrated in [link](a). 
+
+2672. Eventually a large enough stress to the material will cause it to break or fracture.         Tensile strength is the breaking stress that will cause permanent deformation or fracture of a material.Hooke’s Law       
+
+2675. Calculate the centripetal acceleration of a point 7.50 cm from the axis of an ultracentrifuge spinning at 
+
+2678.          For ideal banking, the net external force equals the horizontal centripetal force in the absence of friction.       The components of the normal force N in the horizontal and vertical directions must equal the centripetal force and the weight of the car, respectively. 
+
+2681.          There are two major systems of units used in the world: SI units (also known as the metric system) and English units (also known as the customary or imperial system).       English units were historically used in nations once ruled by the British Empire and are still widely used in the United States. 
+
+2687.          SI units are part of the metric system.       The metric system is convenient for scientific and engineering calculations because the units are categorized by factors of 10. 
+
+2690. Scientists are continually trying to expand this body of knowledge and to perfect the expression of the laws that describe it.         Physics is concerned with describing the interactions of energy, matter, space, and time, and it is especially interested in what fundamental mechanisms underlie every phenomenon.       The concern for describing the basic phenomena in nature essentially defines the realm of physics.Physics aims to describe the function of everything around us, from the movement of tiny charged particles to the motion of people, cars, and spaceships. 
+
+2693. The kinetic theory of gases, on the other hand, is a model in which a gas is viewed as being composed of atoms and molecules.         Atoms and molecules are too small to be observed directly with our senses—thus, we picture them mentally to understand what our instruments tell us about the behavior of gases.A law uses concise language to describe a generalized pattern in nature that is supported by scientific evidence and repeated experiments.       Often, a law can be expressed in the form of a single mathematical equation. 
+
+2696.          Modern physics itself consists of the two revolutionary theories, relativity and quantum mechanics.       These theories deal with the very fast and the very small, respectively. 
+
+2699. It may be a number on a digital clock, a heartbeat, or the position of the Sun in the sky.         In physics, the definition of time is simple—time is change, or the interval over which change occurs.       It is impossible to know that time has passed unless something changes. 
+
+2705. Average Acceleration is the rate at which velocity changes, 
+
+2708. The force of gravity causes objects to fall toward the center of Earth.         The acceleration of free-falling objects is therefore called the acceleration due to gravity.       The acceleration due to gravity is constant, which means we can apply the kinematics equations to any falling object where air resistance and friction are negligible. 
+
+2711. Science is based on observation and experiment—that is, on measurements.         Accuracy is how close a measurement is to the correct value for that measurement.       For example, let us say that you are measuring the length of standard computer paper. 
+
+2714. How big is the uncertainty in something you calculate by multiplication or division?         If the measurements going into the calculation have small uncertainties (a few percent or less), then the method of adding percents can be used for multiplication or division.       This method says that the percent uncertainty in a quantity calculated by multiplication or division is the sum of the percent uncertainties in the items used to make the calculation. 
+
+2717. An understanding of acceleration, for example, is crucial to the study of force.         Our formal study of physics begins with kinematics which is defined as the study of motion without considering its causes.       The word “kinematics” comes from a Greek term meaning motion and is related to other English words such as “cinema” (movies) and “kinesiology” (the study of human motion). 
+
+2720.          A vector is a quantity that has magnitude and direction.       Displacement, velocity, acceleration, and force, for example, are all vectors. 
+
+2723. Note that in our example, we have only two vectors, so we have finished placing arrows tip to tail.Step 4. Draw an arrow from the tail of the first vector to the head of the last vector.         This is the resultant, or the sum, of the other vectors.       The head of the vector D meets the head of the vertical vector. 
+
+2726. This characteristic is true in every case and is an important characteristic of vectors.         Vector addition is commutative.       Vectors can be added in any order.A+B=B+A.A+B=B+A. size 12{"A+B=B+A"} {}(This is true for the addition of ordinary numbers as well—you get the same result whether you add 2+32+3 size 12{"2+3"} {} 
+
+2729.          The head-to-tail method of adding vectors involves drawing the first vector on a graph and then placing the tail of each subsequent vector at the head of the previous vector.       The resultant vector is then drawn from the tail of the first vector to the head of the final vector. 
+
+2732. Experience suggests that an object at rest will remain at rest if left alone, and that an object in motion tends to slow down and stop unless some effort is made to keep it moving.         What Newton’s first law of motion states, however, is the following:       
+
+2735. The property of a body to remain at rest or to remain in motion with constant velocity is called inertia.         Newton’s first law is often called the law of inertia.       As we know from experience, some objects have more inertia than others. 
+
+2741. As we will see, the basic forces are all thought to act through the exchange of microscopic carrier particles, and the characteristics of the basic forces are determined by the types of particles exchanged.         Action at a distance, such as the gravitational force of Earth on the Moon, is explained by the existence of a force field rather than by “physical contact.”       
+
+2744.          Friction is a force that is around us all the time that opposes relative motion between systems in contact but also allows us to move (which you have discovered if you have ever tried to walk on ice).       While a common force, the behavior of friction is actually very complicated and is still not completely understood. 
+
+2747. We will therefore study not only motion along curves, but also the forces that cause it, including gravitational forces.         In some ways, this chapter is a continuation of Dynamics: Newton's Laws of Motion as we study more applications of Newton’s laws of motion.This chapter deals with the simplest form of curved motion, uniform circular motion, motion in a circular path at constant speed.       Studying this topic illustrates most concepts associated with rotational motion and leads to the study of many new topics we group under the name rotation. 
+
+2750. You take the merry-go-round to be your frame of reference because you rotate together.         In that non-inertial frame, you feel a fictitious force, named centrifugal force (not to be confused with centripetal force), trying to throw you off.       You must hang on tightly to counteract the centrifugal force. 
+
+2753. The bodies we are dealing with tend to be large.         To simplify the situation we assume that the body acts as if its entire mass is concentrated at one specific point called the center of mass (CM), which will be further explored in Linear Momentum and Collisions.       For two bodies having masses mm size 12{m} {} and MM size 12{M} {} with a distance rr size 12{r} {} between their centers of mass, the equation for Newton’s universal law of gravitation isF=GmMr2,F=GmMr2, size 12{F=G {  { ital "mM"}  over  {r rSup { size 8{2} } } } } {}where FF size 12{F} {} is the magnitude of the gravitational force and GG size 12{G} {} is a proportionality factor called the gravitational constant. 
+
+2756. Energy is characterized by its many forms and the fact that it is conserved.         We can loosely define energy as the ability to do work, admitting that in some circumstances not all energy is available to do work.       Because of the association of energy with work, we begin the chapter with a discussion of work. 
+
+2759.          This expression is called the work-energy theorem, and it actually applies in general (even for forces that vary in direction and magnitude), although we have derived it for the special case of a constant force parallel to the displacement.       The theorem implies that the net work on a system equals the change in the quantity 12mv212mv2 size 12{ {  {1}  over  {2} }  ital "mv" rSup { size 8{2} } } {}. 
+
+2762. where i and f denote initial and final values.         This equation is a form of the work-energy theorem for conservative forces; it is known as the conservation of mechanical energy principle.       Remember that this applies to the extent that all the forces are conservative, so that friction is negligible. 
+
+2765. Law of Conservation of EnergyEnergy, as we have noted, is conserved, making it one of the most important physical quantities in nature.         The law of conservation of energy can be stated as follows:Total energy is constant in any process.       It may change in form or be transferred from one system to another, but the total remains the same.We have explored some forms of energy and some ways it can be transferred from one system to another. 
+
+2768. Most energy sources on Earth are in fact stored energy from the energy we receive from the Sun.         We sometimes refer to this as radiant energy, or electromagnetic radiation, which includes visible light, infrared, and ultraviolet radiation.       Nuclear energy comes from processes that convert measurable amounts of mass into energy. 
+
+2771.          The rate at which the body uses food energy to sustain life and to do different activities is called the metabolic rate.       The total energy conversion rate of a person at rest is called the basal metabolic rate (BMR) and is divided among various systems in the body, as shown in [link]. 
+
+2774. The fuel mix has changed over the years but now is dominated by oil, although natural gas and solar contributions are increasing.         Renewable forms of energy are those sources that cannot be used up, such as water, wind, solar, and biomass.       About 85% of our energy comes from nonrenewable fossil fuels—oil, natural gas, coal. 
+
+2777. The importance of momentum, unlike the importance of energy, was recognized early in the development of classical physics.         Momentum was deemed so important that it was called the “quantity of motion.” Newton actually stated his second law of motion in terms of momentum: The net external force equals the change in momentum of a system divided by the time over which it changes.       Using symbols, this law is 
+
+2780. [link] below illustrates how a particle scattering backward from another implies that its target is massive and dense.         Experiments seeking evidence that quarks make up protons (one type of particle that makes up nuclei) scattered high-energy electrons off of protons (nuclei of hydrogen atoms).       Electrons occasionally scattered straight backward in a manner that implied a very small and very dense particle makes up the proton—this observation is considered nearly direct evidence of quarks. 
+
+2783. An elastic collision is one that conserves internal kinetic energy. 
+
+2786. But the internal kinetic energy is zero after the collision.         A collision in which the objects stick together is sometimes called a perfectly inelastic collision because it reduces internal kinetic energy more than does any other type of inelastic collision.       In fact, such a collision reduces internal kinetic energy to the minimum it can have while still conserving momentum.Perfectly Inelastic Collision 
+
+2789.          A system is said to be in stable equilibrium if, when displaced from equilibrium, it experiences a net force or torque in a direction opposite to the direction of the displacement.       For example, a marble at the bottom of a bowl will experience a restoring force when displaced from its equilibrium position. 
+
+2792.          The first step is to determine whether or not the system is in static equilibrium.       This condition is always the case when the acceleration of the system is zero and accelerated rotation does not occur. 
+
+2795. Before we can consider the rotation of anything other than a point mass like the one in [link], we must extend the idea of rotational inertia to all types of objects.         To expand our concept of rotational inertia, we define the moment of inertia       
+
+2798.          These expressions are the law of conservation of angular momentum.       Conservation laws are as scarce as they are important. 
+
+2801.          Density, as you will see, is an important characteristic of substances.       It is crucial, for example, in determining whether an object sinks or floats in a fluid. 
+
+2804. Remarkably, the pressure is transmitted undiminished.         This phenomenon is called Pascal’s principle, because it was first clearly stated by the French philosopher and scientist Blaise Pascal (1623–1662): A change in pressure applied to an enclosed fluid is transmitted undiminished to all portions of the fluid and to the walls of its container.       
+
+2807. This means that the upward force on the bottom of an object in a fluid is greater than the downward force on the top of the object.         There is a net upward, or buoyant force on any object in any fluid.       (See [link].) 
+
+2810.          Attractive forces between molecules of the same type are called cohesive forces.       Liquids can, for example, be held in open containers because cohesive forces hold the molecules together. 
+
+2813.          One important phenomenon related to the relative strength of cohesive and adhesive forces is capillary action—the tendency of a fluid to be raised or suppressed in a narrow tube, or capillary tube.       This action causes blood to be drawn into a small-diameter tube when the tube touches a drop. 
+
+2816.          The shape of the eye is maintained by fluid pressure, called intraocular pressure, which is normally in the range of 12.0 to 24.0 mm Hg.       When the circulation of fluid in the eye is blocked, it can lead to a buildup in pressure, a condition called glaucoma. 
+
+2819. How does the body regulate blood flow?         The physics of fluids in motion—fluid dynamics—allows us to answer these and many other questions.       
+
+2822. [link] shows both types of flow.         Laminar flow is characterized by the smooth flow of the fluid in layers that do not mix.       Turbulent flow, or turbulence, is characterized by eddies and swirls that mix layers of fluid together. 
+
+2825. Q=(P2−P1)πr48ηl.Q=(P2−P1)πr48ηl. size 12{Q= {  { \( P rSub { size 8{2} }  - P rSub { size 8{1} }  \) πr rSup { size 8{4} } }  over  {8ηl} } } {}This equation describes laminar flow through a tube.         It is sometimes called Poiseuille’s law for laminar flow, or simply Poiseuille’s law.       
+
+2828. This motion is called a random walk and is illustrated in [link].         Diffusion is the movement of substances due to random thermal molecular motion.       Fluids, like fish fumes or odors entering ice cubes, can even diffuse through solids. 
+
+2831. When you soak a swollen ankle in Epsom salt, the water moves out of your body into the lower-concentration region in the salt.         Similarly, dialysis is the transport of any other molecule through a semipermeable membrane due to its concentration difference.       Both osmosis and dialysis are used by the kidneys to cleanse the blood. 
+
+2834. Heat transfer is maintained by temperature differences.         Manifestations of heat transfer—the movement of heat energy from one place or material to another—are apparent throughout the universe.       Heat from beneath Earth’s surface is brought to the surface in flows of incandescent lava. 
+
+2837. } {}The Kelvin scale is the temperature scale that is commonly used in science.         It is an absolute temperature scale defined to have 0 K at the lowest possible temperature, called absolute zero.       The official temperature unit on this scale is the kelvin, which is abbreviated K, and is not accompanied by a degree sign. 
+
+2840. Thermal expansion joints like these in the Auckland Harbour Bridge in New Zealand allow bridges to change length without buckling.         (credit: Ingolfson, Wikimedia Commons)The expansion of alcohol in a thermometer is one of many commonly encountered examples of thermal expansion, the change in size or volume of a given mass with temperature.       Hot air rises because its volume increases, which causes the hot air’s density to be smaller than the density of surrounding air, causing a buoyant (upward) force on the hot air. 
+
+2843. Moles and Avogadro’s NumberIt is sometimes convenient to work with a unit other than molecules when measuring the amount of substance.         A mole (abbreviated mol) is defined to be the amount of a substance that contains as many atoms or molecules as there are atoms in exactly 12 grams (0.012 kg) of carbon-12.       The actual number of atoms or molecules in one mole is called Avogadro’s number(NA)(NA) size 12{ \( N rSub { size 8{A} }  \) } {}, in recognition of Italian scientist Amedeo Avogadro (1776–1856). 
+
+2846. 0°C} {}.         Critical pressure is the minimum pressure needed for liquid to exist at the critical temperature.       [link] lists representative critical temperatures and pressures.PVPV size 12{ ital "PV"} {} diagrams. 
+
+2849.          Vapor pressure is defined as the pressure at which a gas coexists with its solid or liquid phase.       Vapor pressure is created by faster molecules that break away from the liquid or solid and enter the gas phase. 
+
+2852.          When we say humidity, we really mean relative humidity.       Relative humidity tells us how much water vapor is in the air compared with the maximum possible. 
+
+2855. We define percent relative humidity as the ratio of vapor density to saturation vapor density, or 
+
+2858.          Sublimation is the transition from solid to vapor phase.       You may have noticed that snow can disappear into thin air without a trace of liquid water, or the disappearance of ice cubes in a freezer. 
+
+2861.          Heat transfer by radiation occurs when microwaves, infrared radiation, visible light, or another form of electromagnetic radiation is emitted or absorbed.       An obvious example is the warming of the Earth by the Sun. 
+
+2864. There is a negative feedback (one in which a change produces an effect that opposes that change) between clouds and heat transfer; greater temperatures evaporate more water to form more clouds, which reflect more radiation back into space, reducing the temperature.         The often mentioned greenhouse effect is directly related to the variation of the Earth’s emissivity with radiation type (see the figure given below).       The greenhouse effect is a natural phenomenon responsible for providing temperatures suitable for life on Earth. 
+
+2867. One of the most important things we can do with heat transfer is to use it to do work for us.         Such a device is called a heat engine.       Car engines and steam turbines that generate electricity are examples of heat engines. 
+
+2870. For comparison, both are shown starting from the same point A.         The upper curve ending at point B is an isothermal process—that is, one in which temperature is kept constant.       If the gas behaves like an ideal gas, as is often the case, and if no phase change occurs, then PV=nRTPV=nRT size 12{ ital "PV"= ital "nRT"} {}. 
+
+2873. The already familiar direction of heat transfer from hot to cold is the basis of our first version of the second law of thermodynamics. 
+
+2876. [link] illustrates the operation of the common four-stroke gasoline engine.         The four steps shown complete this heat engine’s cycle, bringing the gasoline-air mixture back to its original condition.The Otto cycle shown in [link](a) is used in four-stroke internal combustion engines, although in fact the true Otto cycle paths do not correspond exactly to the strokes of the engine.       
+
+2879. Stated in terms of reversible processes, the second law of thermodynamics has a third form: 
+
+2882. These are what we call macrostates.         A macrostate is an overall property of a system.       It does not specify the details of the system, such as the order in which heads and tails occur or which coins are heads or tails. 
+
+2885. What do an ocean buoy, a child in a swing, the cone inside a speaker, a guitar, atoms in a crystal, the motion of chest cavities, and the beating of hearts all have in common?         They all oscillate—-that is, they move back and forth between two points.       Many systems oscillate, and they have certain characteristics in common. 
+
+2888. Each successive vibration of the string takes the same time as the previous one.         We define periodic motion to be a motion that repeats itself at regular time intervals, such as exhibited by the guitar string or by an object on a spring moving up and down.       The time to complete one oscillation remains constant and is called the period TT size 12{T} {}. 
+
+2891. [link] shows the displacement of a harmonic oscillator for different amounts of damping.         When we want to damp out oscillations, such as in the suspension of a car, we may want the system to return to equilibrium as quickly as possible Critical damping is defined as the condition in which the damping of an oscillator results in it returning as quickly as possible to its equilibrium position The critically damped system may overshoot the equilibrium position, but if it does, it will do so only once.       Critical damping is represented by Curve A in [link]. 
+
+2897. The most intuitive and easiest wave to imagine is the familiar water wave.         More precisely, a wave is a disturbance that propagates, or moves from the place it was created.       For water waves, the disturbance is in the surface of the water, perhaps created by a rock thrown into a pond or by a swimmer splashing the surface repeatedly. 
+
+2900. Such a wave is called a transverse wave or shear wave; in such a wave, the disturbance is perpendicular to the direction of propagation.         In contrast, in a longitudinal wave or compressional wave, the disturbance is parallel to the direction of propagation.       [link] shows an example of a longitudinal wave. 
+
+2903.          [link] shows two identical waves that arrive exactly out of phase—that is, precisely aligned crest to trough—producing pure destructive interference.       Because the disturbances are in the opposite direction for this superposition, the resulting amplitude is zero for pure destructive interference—the waves completely cancel. 
+
+2906. The fixed ends of strings must be nodes, too, because the string cannot move there.         The word antinode is used to denote the location of maximum amplitude in standing waves.       Standing waves on strings have a frequency that is related to the propagation speed vwvw size 12{v rSub { size 8{w} } } {} of the disturbance on the string. 
+
+2909. Because hearing is one of our most important senses, it is interesting to see how the physical properties of sound correspond to our perceptions of it.         Hearing is the perception of sound, just as vision is the perception of visible light.       But sound has important applications beyond hearing. 
+
+2912. Note that because only the ratio I2/I1I2/I1 is given (and not the actual intensities), this result is true for any intensities that differ by a factor of two.         For example, a 56.0 dB sound is twice as intense as a 53.0 dB sound, a 97.0 dB sound is half as intense as a 100 dB sound, and so on.It should be noted at this point that there is another decibel scale in use, called the sound pressure level, based on the ratio of the pressure amplitude to a reference pressure.       This scale is used particularly in applications where sound travels in water. 
+
+2915.          Interference microscopes enhance contrast between objects and background by superimposing a reference beam of light upon the light emerging from the sample.       Since light from the background and objects differ in phase, there will be different amounts of constructive and destructive interference, producing the desired contrast in final intensity. 
+
+2918. Apart from the UV microscope, the variations of microscopy discussed so far in this section are available as attachments to fairly standard microscopes or as slight variations.         The next level of sophistication is provided by commercial confocal microscopes, which use the extended focal region shown in [link](b) to obtain three-dimensional images rather than two-dimensional images.       Here, only a single plane or region of focus is identified; out-of-focus regions above and below this plane are subtracted out by a computer so the image quality is much better. 
+
+2921. We use specific terms for the resonances in any system.         The lowest resonant frequency is called the fundamental, while all higher resonant frequencies are called overtones.       All resonant frequencies are integral multiples of the fundamental, and they are collectively called harmonics. 
+
+2924. Normal human hearing encompasses frequencies from 20 to 20,000 Hz, an impressive range.         Sounds below 20 Hz are called infrasound, whereas those above 20,000 Hz are ultrasound.       Neither is perceived by the ear, although infrasound can sometimes be felt as vibrations. 
+
+2927. Very few measuring devices are capable of observations over a range of a trillion.         The perception of intensity is called loudness.       At a given frequency, it is possible to discern differences of about 1 dB, and a change of 3 dB is easily noticed. 
+
+2930.          Another major use of ultrasound in medical diagnostics is to detect motion and determine velocity through the Doppler shift of an echo, known as Doppler-shifted ultrasound.       This technique is used to monitor fetal heartbeat, measure blood velocity, and detect occlusions in blood vessels, for example. 
+
+2933.          How do we know there are two types of electric charge?       When various materials are rubbed together in controlled ways, certain combinations of materials always produce one type of charge on one material and the opposite type on the other. 
+
+2936. In fact, in all situations the total amount of charge is always constant.         This universally obeyed law of nature is called the law of conservation of charge.       
+
+2939. In other words, the total number of electrons is not equal to the total number of protons.Other substances, such as glass, do not allow charges to move through them.         These are called insulators.       Electrons and ions in insulators are bound in the structure and cannot move easily—as much as 10231023 size 12{"10" rSup { size 8{"23"} } } {} times more slowly than in conductors. 
+

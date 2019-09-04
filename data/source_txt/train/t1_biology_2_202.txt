@@ -1,0 +1,180 @@
+607. The chain termination method involves DNA replication of a single-stranded template with the use of a primer and a regular deoxynucleotide (dNTP), which is a monomer, or a single unit, of DNA.         The primer and dNTP are mixed with a small proportion of fluorescently labeled dideoxynucleotides (ddNTPs).       The ddNTPs are monomers that are missing a hydroxyl group (–OH) at the site at which another nucleotide usually attaches to form a chain ([link]). 
+
+610. This was sufficient for sequencing small genomes.         However, the desire to sequence larger genomes, such as that of a human, led to the development of double-barrel shotgun sequencing, more formally known as pairwise-end sequencing.       In pairwise-end sequencing, both ends of each fragment are analyzed for overlap. 
+
+613. Having entire genomes sequenced helps with the research efforts in these model organisms.         The process of attaching biological information to gene sequences is called genome annotation.       Annotation of gene sequences helps with basic experiments in molecular biology, such as designing PCR primers and RNA targets. 
+
+616. Although mRNA analysis is a step in the right direction, not all mRNAs are translated into proteins.         The study of the function of proteomes is called proteomics.       Proteomics complements genomics and is useful when scientists want to test their hypotheses that were based on genes. 
+
+619. Computer software is used to analyze the vast amount of data generated for proteomic analysis.Genomic- and proteomic-scale analyses are part of systems biology.         Systems biology is the study of whole biological systems (genomes and proteomes) based on interactions within the system.       The European Bioinformatics Institute and the Human Proteome Organization (HUPO) are developing and establishing effective tools to sort through the enormous pile of systems biology data. 
+
+625. For all of these reasons, pure culture is not always the best way to study microorganisms.         Metagenomics is the study of the collective genomes of multiple species that grow and interact in an environmental niche.       Metagenomics can be used to identify new species more rapidly and to analyze the effect of pollutants on the environment ([link]). 
+
+631. Over time, evolution led to changes in the shapes and sizes of these bones in different species, but they have maintained the same overall layout.         Scientists call these synonymous parts homologous structures.       
+
+634. Hybrids can be either less fit than the parents, more fit, or about the same.         Usually hybrids tend to be less fit; therefore, such reproduction diminishes over time, nudging the two species to diverge further in a process called reinforcement.       This term is used because the low success of the hybrids reinforces the original speciation. 
+
+640. Biologists have proposed mechanisms by which this could occur that fall into two broad categories.         Allopatric speciation (allo- = "other"; -patric = "homeland") involves geographic separation of populations from a parent species and subsequent evolution.       Sympatric speciation (sym- = "same"; -patric = "homeland") involves speciation occurring within a parent species remaining in one location. 
+
+643. Over time, the varied demands of their new lifestyles lead to multiple speciation events originating from a single species.         This is called adaptive radiation because many adaptations evolve from a single point of origin; thus, causing the species to radiate into several new ones.       Island archipelagos like the Hawaiian Islands provide an ideal context for adaptive radiation events because water surrounds each island which leads to geographical isolation for many organisms. 
+
+646. Given enough time, the genetic and phenotypic divergence between populations will affect characters that influence reproduction: if individuals of the two populations were to be brought together, mating would be less likely, but if mating occurred, offspring would be non-viable or infertile.         Many types of diverging characters may affect the reproductive isolation, the ability to interbreed, of the two populations.       
+
+649. Many organisms only reproduce at certain times of the year, often just annually.         Differences in breeding schedules, called temporal isolation, can act as a form of reproductive isolation.       For example, two species of frogs inhabit the same area, but one reproduces from January to March, whereas the other reproduces from March to May ([link]).These two related frog species exhibit temporal reproductive isolation. 
+
+652.         Other prezygotic barriers work when differences in their gamete cells (eggs and sperm) prevent fertilization from taking place; this is called a gametic barrier.       Similarly, in some cases closely related organisms try to mate, but their reproductive structures simply do not fit together. 
+
+655. In sum, the modern synthesis describes how evolutionary processes, such as natural selection, can affect a population’s genetic makeup, and, in turn, how this can result in the gradual evolution of populations and species.         The theory also connects this change of a population over time, called microevolution, with the processes that gave rise to new species and higher taxonomic groups with widely divergent characters, called macroevolution.       
+
+658. Some alleles will quickly become fixed in this way, meaning that every individual of the population will carry the allele, while detrimental mutations may be swiftly eliminated if derived from a dominant allele from the gene pool.         The gene pool is the sum of all the alleles in a population.       
+
+661. Populations with two or more variations of particular characteristics are called polymorphic.         The distribution of phenotypes among individuals, known as the population variation, is influenced by a number of factors, including the population’s genetic structure and the environment ([link]).       Understanding the sources of a phenotypic variation in a population is important for determining how a population will evolve in response to different evolutionary pressures. 
+
+664. When scientists are involved in the breeding of a species, such as with animals in zoos and nature preserves, they try to increase a population’s genetic variance to preserve as much of the phenotypic diversity as they can.         This also helps reduce the risks associated with inbreeding, the mating of closely related individuals, which can have the undesirable effect of bringing together deleterious recessive mutations that can cause abnormalities and susceptibility to disease.       For example, a disease that is caused by a rare, recessive allele might exist in a population, but it will only manifest itself when an individual carries two copies of the allele. 
+
+667.         Another way a population’s allele and genotype frequencies can change is genetic drift ([link]), which is simply the effect of chance.       By chance, some individuals will have more offspring than others—not due to an advantage conferred by some genetically-encoded trait, but just because one male happened to be in the right place at the right time (when the receptive female walked by) or because the other one happened to be in the wrong place at the wrong time (when a fox was hunting). 
+
+670. If individuals nonrandomly mate with their peers, the result can be a changing population.         There are many reasons nonrandom mating occurs.       One reason is simple mate choice; for example, female peahens may prefer peacocks with bigger, brighter tails. 
+
+673. Such geographical variation is seen between most populations and can be significant.         One type of geographic variation, called a cline, can be seen as populations of a given species vary gradually across an ecological gradient.       Species of warm-blooded animals, for example, tend to have larger bodies in the cooler climates closer to the earth’s poles, allowing them to better conserve heat. 
+
+676. However, it is not the absolute fitness of an individual that counts, but rather how it compares to the other organisms in the population.         This concept, called relative fitness, allows researchers to determine which individuals are contributing additional offspring to the next generation, and thus, how the population might evolve.       
+
+679. Sometimes two or more distinct phenotypes can each have their advantages and be selected for by natural selection, while the intermediate phenotypes are, on average, less fit.         Known as diversifying selection ([link]), this is seen in many populations of animals that have multiple male forms.       Large, dominant alpha males obtain mates by brute force, while small males can sneak in for furtive copulations with the females in an alpha male’s territory. 
+
+682. The speculation is that large tails carry risk, and only the best males survive that risk: the bigger the tail, the more fit the male.         This idea is known as the handicap principle.       
+
+685.         In scientific terms, the evolutionary history and relationship of an organism or group of organisms is called its phylogeny.       A phylogeny describes the relationships of an organism, such as from which organisms it is thought to have evolved, to which species it is most closely related, and so forth. 
+
+688. In a rooted tree, the branching indicates evolutionary relationships ([link]).         The point where a split occurs, called a branch point, represents where a single lineage evolved into a distinct new one.       A lineage that evolved early from the root and remains unbranched is called basal taxon. 
+
+691. When two lineages stem from the same branch point, they are called sister taxa.         A branch with more than two lineages is called a polytomy and serves to illustrate where scientists have not definitively determined all of the relationships.       It is important to note that although sister taxa and polytomy do share an ancestor, it does not mean that the groups of organisms split or evolved from each other. 
+
+694. For example, after the common beginning of all life, scientists divide organisms into three large categories called a domain: Bacteria, Archaea, and Eukarya.         Within each domain is a second category called a kingdom.       After kingdoms, the subsequent categories of increasing specificity are: phylum, class, order, family, genus, and species ([link]). 
+
+697. Therefore, the scientific name of the dog is Canis lupus.         The name at each level is also called a taxon.       In other words, dogs are in order Carnivora. 
+
+700. How do scientists construct phylogenetic trees?         After the homologous and analogous traits are sorted, scientists often organize the homologous traits using a system called cladistics.       This system sorts organisms into clades: groups of organisms that descended from a single ancestor. 
+
+703. Now consider the amniotic egg characteristic in the same figure.         Only some of the organisms in [link] have this trait, and to those that do, it is called a shared derived character because this trait derived at some point but does not include all of the ancestors in the tree.The tricky aspect to shared ancestral and shared derived characters is the fact that these terms are relative.       The same trait can be considered one or the other depending on the particular diagram being used. 
+
+706. More recently, a fourth mechanism of gene transfer between prokaryotes has been discovered.         Small, virus-like particles called gene transfer agents (GTAs) transfer random genomic segments from one species of prokaryote to another.       GTAs have been shown to be responsible for genetic changes, sometimes at a very high frequency compared to other evolutionary processes. 
+
+709. The nucleus-first hypothesis proposes that the nucleus evolved in prokaryotes first ([link]a), followed by a later fusion of the new eukaryote with bacteria that became mitochondria.         The mitochondria-first hypothesis proposes that mitochondria were first established in a prokaryotic host ([link]b), which subsequently acquired a nucleus, by fusion or other mechanisms, to become the first eukaryotic cell.       Most interestingly, the eukaryote-first hypothesis proposes that prokaryotes actually evolved from eukaryotes by losing genes and complexity ([link]c). 
+
+712.         Others have proposed abandoning any tree-like model of phylogeny in favor of a ring structure, the so-called “ring of life” ([link]); a phylogenetic model where all three domains of life evolved from a pool of primitive prokaryotes.       Lake, again using the conditioned reconstruction algorithm, proposes a ring-like model in which species of all three domains—Archaea, Bacteria, and Eukarya—evolved from a single pool of gene-swapping prokaryotes. 
+
+715. They therefore lack most of the components of cells, such as organelles, ribosomes, and the plasma membrane.         A virion consists of a nucleic acid core, an outer protein coating or capsid, and sometimes an outer envelope made of protein and phospholipid membranes derived from the host cell.       Viruses may also contain additional proteins, such as enzymes. 
+
+718.         Many viruses use some sort of glycoprotein to attach to their host cells via molecules on the cell called viral receptors ([link]).       For these viruses, attachment is a requirement for later penetration of the cell membrane, so they can complete their replication inside the cell. 
+
+721.         Group I viruses contain double-stranded DNA (dsDNA) as their genome.       Their mRNA is produced by transcription in much the same way as with cellular DNA. 
+
+724. The strands separate, and one of them is used as a template for the generation of mRNA using the RNA-dependent RNA polymerase encoded by the virus.         Group IV viruses have ssRNA as their genome with a positive polarity.       Positive polarity means that the genomic RNA can serve directly as mRNA. 
+
+727. Multiple, full-length RNA strands of negative polarity (complimentary to the positive-stranded genomic RNA) are formed from these intermediates, which may then serve as templates for the production of RNA with positive polarity, including both full-length genomic RNA and shorter viral mRNAs.         Group V viruses contain ssRNA genomes with a negative polarity, meaning that their sequence is complementary to the mRNA.       As with Group IV viruses, dsRNA intermediates are used to make copies of the genome and produce mRNA. 
+
+730. Viruses can infect only certain species of hosts and only certain cells within that host.         Cells that a virus may use to replicate are called permissive.       For most viruses, the molecular basis for this specificity is that a particular surface molecule known as the viral receptor must be found on the host cell surface for the virus to attach. 
+
+733. The symptoms of viral diseases result from the immune response to the virus, which attempts to control and eliminate the virus from the body, and from cell damage caused by the virus.         Many animal viruses, such as HIV (human immunodeficiency virus), leave the infected cells of the immune system by a process known as budding, where virions leave the cell individually.       During the budding process, the cell does not undergo lysis and is not immediately killed. 
+
+736. Bacteriophages are viruses that infect bacteria ([link]).         When infection of a cell by a bacteriophage results in the production of new virions, the infection is said to be productive.       If the virions are released by bursting the cell, the virus replicates by means of a lytic cycle ([link]). 
+
+739. For example, when a temperate bacteriophage infects a bacterial cell, it replicates by means of a lysogenic cycle ([link]), and the viral genome is incorporated into the genome of the host cell.         When the phage DNA is incorporated into the host cell genome, it is called a prophage.       An example of a lysogenic bacteriophage is the λ (lambda) virus, which also infects the E. 
+
+742. As you will learn in the next module, animal viruses are associated with a variety of human diseases.         Some of them follow the classic pattern of acute disease, where symptoms get increasingly worse for a short period followed by the elimination of the virus from the body by the immune system and eventual recovery from the infection.       Examples of acute viral diseases are the common cold and influenza. 
+
+745.         Some animal-infecting viruses, including the hepatitis C virus discussed above, are known as oncogenic viruses: They have the ability to cause cancer.       These viruses interfere with the normal regulation of the host cell cycle either by either introducing genes that stimulate unregulated cell growth (oncogenes) or by interfering with the expression of genes that inhibit cell growth. 
+
+748. One common symptom is hyperplasia, the abnormal proliferation of cells that causes the appearance of plant tumors known as galls.         Other viruses induce hypoplasia, or decreased cell growth, in the leaves of plants, causing thin, yellow areas to appear.       Still other viruses affect the plant by directly killing plant cells, a process known as cell necrosis. 
+
+751.         The danger of using live vaccines, which are usually more effective than killed vaccines, is the low but significant danger that these viruses will revert to their disease-causing form by back mutations.       Live vaccines are usually made by attenuating (weakening) the “wild-type” (disease-causing) virus by growing it in the laboratory in tissues or at temperatures different from what the virus is accustomed to in the host. 
+
+754. Another medical use for viruses relies on their specificity and ability to kill the cells they infect.         Oncolytic viruses are engineered in the laboratory specifically to attack and kill cancer cells.       A genetically modified adenovirus known as H101 has been used since 2005 in clinical trials in China to treat head and neck cancers. 
+
+757.         Prions, so-called because they are proteinaceous, are infectious particles—smaller than viruses—that contain no nucleic acids (neither DNA nor RNA).       Historically, the idea of an infectious agent that did not use nucleic acids was considered impossible, but pioneering work by Nobel Prize-winning biologist Stanley Prusiner has convinced the majority of biologists that such agents do indeed exist. 
+
+760. Some prokaryotes thrive in environments that are inhospitable for most living things.         Prokaryotes recycle nutrients—essential substances (such as carbon and nitrogen)—and they drive the evolution of new ecosystems, some of which are natural and others man-made.       Prokaryotes have been on Earth since long before multicellular life appeared. 
+
+763. Fossilized microbial mats represent the earliest record of life on Earth.         A stromatolite is a sedimentary structure formed when minerals are precipitated out of water by prokaryotes in a microbial mat ([link]).       Stromatolites form layered rocks made of carbonate or silicate. 
+
+769. For example, a soda lake is both salty and alkaline, so organisms that live in a soda lake must be both alkaliphiles and halophiles ([link]).         Other extremophiles, like radioresistant organisms, do not prefer an extreme environment (in this case, one with high levels of radiation), but have adapted to survive in it ([link]).       
+
+772. This model, however, does not reflect the true ecology of prokaryotes, most of which prefer to live in communities where they can interact.         A biofilm is a microbial community ([link]) held together in a gummy-textured matrix that consists primarily of polysaccharides secreted by the organisms, together with some proteins and nucleic acids.       Biofilms grow attached to surfaces. 
+
+775.         Bacterial cell walls contain peptidoglycan, composed of polysaccharide chains that are cross-linked by unusual peptides containing both L- and D-amino acids including D-glutamic acid and D-alanine.       Proteins normally have only L-amino acids; as a consequence, many of our antibiotics work by mimicking D-amino acids and therefore have specific effects on bacterial cell wall development. 
+
+778. Gram-positive organisms typically lack the outer membrane found in Gram-negative organisms ([link]).         Up to 90 percent of the cell wall in Gram-positive bacteria is composed of peptidoglycan, and most of the rest is composed of acidic substances called teichoic acids.       Teichoic acids may be covalently linked to lipids in the plasma membrane to form lipoteichoic acids. 
+
+781. If a nonpathogenic bacterium takes up DNA for a toxin gene from a pathogen and incorporates the new DNA into its own chromosome, it too may become pathogenic.         In transduction, bacteriophages, the viruses that infect bacteria, sometimes also move short pieces of chromosomal DNA from one bacterium to another.       Transduction results in a recombinant organism. 
+
+784. Prokaryotes can use different sources of energy to assemble macromolecules from smaller molecules.         Phototrophs (or phototrophic organisms) obtain their energy from sunlight.       Chemotrophs (or chemosynthetic organisms) obtain their energy from chemical compounds. 
+
+790. Nitrification in soils is carried out by bacteria belonging to the genera Nitrosomas, Nitrobacter, and Nitrospira.         The bacteria performs the reverse process, the reduction of nitrate from the soils to gaseous compounds such as N2O, NO, and N2, a process called denitrification.Art Connection       
+
+793. A pandemic is a widespread, usually worldwide, epidemic.         An endemic disease is a disease that is constantly present, usually at low incidence, in a population.       
+
+796. This definition also includes re-emerging diseases that were previously under control.         Approximately 75 percent of recently emerging infectious diseases affecting humans are zoonotic diseases, zoonoses, diseases that primarily infect animals and are transmitted to humans; some are of viral origin and some are of bacterial origin.       Brucellosis is an example of a prokaryotic zoonosis that is re-emerging in some regions, and necrotizing fasciitis (commonly known as flesh-eating bacteria) has been increasing in virulence for the last 80 years for unknown reasons.The map shows regions where bacterial diseases are emerging or reemerging. 
+
+802. coli serotype O157:H7.         A serotype is a strain of bacteria that carries a set of similar antigens on its cell surface, and there are often many different serotypes of a bacterial species.       Most E. 
+
+805.         According to the United Nations Convention on Biological Diversity, biotechnology is “any technological application that uses biological systems, living organisms, or derivatives thereof, to make or modify products or processes for specific use.       "1 The concept of “specific use” involves some sort of commercial application. 
+
+808. As cell biology developed in the twentieth century, it became clear that mitochondria were the organelles responsible for producing ATP using aerobic respiration.         In the 1960s, American biologist Lynn Margulis developed endosymbiotic theory, which states that eukaryotes may have been a product of one cell engulfing another, one living within another, and evolving over time until the separate cells were no longer recognizable as such.       In 1967, Margulis introduced new work on the theory and substantiated her findings through microbiological evidence. 
+
+814. A second Excavata subgroup, the parabasalids, also exhibits semi-functional mitochondria.         In parabasalids, these structures function anaerobically and are called hydrogenosomes because they produce hydrogen gas as a byproduct.       Parabasalids move with flagella and membrane rippling. 
+
+817.         Some dinoflagellates generate light, called bioluminescence, when they are jarred or stressed.       Large numbers of marine dinoflagellates (billions or trillions of cells per wave) can emit light and cause an entire breaking wave to twinkle or take on a brilliant blue color ([link]). 
+
+823. Some fungal organisms multiply only asexually, whereas others undergo both asexual reproduction and sexual reproduction with alternation of generations.         Most fungi produce a large number of spores, which are haploid cells that can undergo mitosis to form multicellular,  haploid individuals.       Like bacteria, fungi play an essential role in ecosystems because they are decomposers and participate in the cycling of nutrients by breaking down organic materials to simple molecules.Fungi often interact with other organisms, forming beneficial or mutualistic associations. 
+
+829. The vegetative stage consists of a tangle of slender thread-like structures called hyphae (singular, hypha), whereas the reproductive stage can be more conspicuous.         The mass of hyphae is a mycelium ([link]).       It can grow on a surface, in soil or decaying material, in a liquid, or even on living tissue. 
+
+832. They vary in their oxygen requirement.         Most fungi are obligate aerobes, requiring oxygen to survive.       Other species, such as the Chytridiomycota that reside in the rumen of cattle, are are obligate anaerobes, in that they only use anaerobic respiration because oxygen will disrupt their metabolism or kill them. 
+
+838. During sexual reproduction, two mating types are produced.         When both mating types are present in the same mycelium, it is called homothallic, or self-fertile.       Heterothallic mycelia require two different, but compatible, mycelia to reproduce sexually. 
+
+841. First, during plasmogamy (literally, “marriage or union of cytoplasm”), two haploid cells fuse, leading to a dikaryotic stage where two haploid nuclei coexist in a single cell.         During karyogamy (“nuclear marriage”), the haploid nuclei fuse to form a diploid zygote nucleus.       Finally, meiosis takes place in the gametangia (singular, gametangium) organs, in which gametes of different mating types are generated. 
+
+844. Two opposing mating strains (type + and type –) must be in close proximity for gametangia from the hyphae to be produced and fuse, leading to karyogamy.         The developing diploid zygospores have thick coats that protect them from desiccation and other hazards.       They may remain dormant until environmental conditions are favorable. 
+
+847.         The fungi in the Phylum Basidiomycota are easily recognizable under a light microscope by their club-shaped fruiting bodies called basidia (singular, basidium), which are the swollen terminal cell of a hypha.       The basidia, which are the reproductive organs of these fungi, are often contained within the familiar mushroom, commonly seen in fields after rain, on the supermarket shelves, and growing on your lawn ([link]). 
+
+850. Most members live on land, with a few aquatic exceptions.         They form visible mycelia with a fuzzy appearance and are commonly known as mold.Reproduction of the fungi in this group is strictly asexual and occurs mostly by production of asexual conidiospores ([link]).       Some hyphae may recombine and form heterokaryotic hyphae. 
+
+856. Fungi attack animals directly by colonizing and destroying tissues.         Mycotoxicosis is the poisoning of humans (and other animals) by foods contaminated by fungal toxins (mycotoxins).       Mycetismus describes the ingestion of preformed toxins in poisonous mushrooms. 
+
+859. There are a number of types of mycorrhizae.         Ectomycorrhizae (“outside” mycorrhiza) depend on fungi enveloping the roots in a sheath (called a mantle) and a Hartig net of hyphae that extends into the roots between cells ([link]).       The fungal partner can belong to the Ascomycota, Basidiomycota or Zygomycota. 
+
+862. Both the fungus and the alga participate in the formation of dispersal units for reproduction.         Lichens produce soredia, clusters of algal cells surrounded by mycelia.       Soredia are dispersed by wind and water and form new lichens. 
+
+865. The term “sporangia” literally means “spore in a vessel,” as it is a reproductive sac that contains spores [link].         Inside the multicellular sporangia, the diploid sporocytes, or mother cells, produce haploid spores by meiosis, where the 2n chromosome number is reduced to 1n (note that many plant sporophytes are polyploid: for example, durum wheat is tetraploid, bread wheat is hexaploid, and some ferns are 1000-ploid).       The spores are later released by the sporangia and disperse in the environment. 
+
+868. In contrast, heterosporous plants produce two morphologically different types of spores.         The male spores are called microspores, because of their smaller size, and develop into the male gametophyte; the comparatively larger megaspores develop into the female gametophyte.       Heterospory is observed in a few seedless vascular plants and in all seed plants. 
+
+871.         Gametangia (singular, gametangium) are structures observed on multicellular haploid gametophytes.       In the gametangia, precursor cells give rise to gametes by mitosis. 
+
+874.         Paleobotanists distinguish between extinct species, as fossils, and extant species, which are still living.       The extinct vascular plants, classified as zosterophylls and trimerophytes, most probably lacked true leaves and roots and formed low vegetation mats similar in size to modern-day mosses, although some trimetophytes could reach one meter in height. 
+
+877.         Liverworts (Hepaticophyta) are viewed as the plants most closely related to the ancestor that moved to land.       Liverworts have colonized every terrestrial habitat on Earth and diversified to more than 7000 existing species ([link]). 
+
+880.         More than 10,000 species of mosses have been catalogued.       Their habitats vary from the tundra, where they are the main vegetation, to the understory of tropical forests. 
+
+883. The slender seta (plural, setae), as seen in [link], contains tubular cells that transfer nutrients from the base of the sporophyte (the foot) to the sporangium or capsule. 
+
+886. The simplest arrangement of conductive cells shows a pattern of xylem at the center surrounded by phloem.         Xylem is the tissue responsible for the storage and long-distance transport of water and nutrients, as well as the transfer of water-soluble growth factors from the organs of synthesis to the target organs.       The tissue consists of conducting cells, known as tracheids, and supportive filler tissue, called parenchyma. 
+
+889. The existence of two types of morphology suggests that leaves evolved independently in several groups of plants.         The first type of leaf is the microphyll, or “little leaf,” which can be dated to 350 million years ago in the late Silurian.       A microphyll is small and has a simple vascular system. 
+
+892. In addition to photosynthesis, leaves play another role in the life of the plants.         Pine cones, mature fronds of ferns, and flowers are all sporophylls—leaves that were modified structurally to bear sporangia.       Strobili are cone-like structures that contain sporangia. 
+
+895.         Phylum Monilophyta: Class Equisetopsida (Horsetails)Horsetails, whisk ferns and ferns belong to the phylum Monilophyta, with horsetails placed in the Class Equisetopsida.       The single genus Equisetum is the survivor of a large group of plants, known as Arthrophyta, which produced large trees and entire swamp forests in the Carboniferous. 
+
+898. The stem may be buried underground as a rhizome, from which adventitious roots grow to absorb water and nutrients from the soil; or, they may grow above ground as a trunk in tree ferns ([link]).         Adventitious organs are those that grow in unusual places, such as roots growing from the side of a stem.       
+
+901. Sporophylls are specialized leaves that produce sporangia.         The term strobilus (plural = strobili) describes a tight arrangement of sporophylls around a central stalk, as seen in cones.       Some seeds are enveloped by sporophyte tissues upon maturation. 
+
+904. Like all gymnosperms, pines are heterosporous and generate two different types of spores: male microspores and female megaspores.         In the male cones, or staminate cones, the microsporocytes give rise to pollen grains by meiosis.       In the spring, large amounts of yellow pollen are released and carried by the wind. 
+
+907.         Conifers are the dominant phylum of gymnosperms, with the most variety of species ([link]).       Most are typically tall trees that usually bear scale-like or needle-like leaves. 
+
