@@ -1,0 +1,168 @@
+2943.          Through the work of scientists in the late 18th century, the main features of the electrostatic force—the existence of two types of charge, the observation that like charges repel, unlike charges attract, and the decrease of force with distance—were eventually refined, and expressed as a mathematical formula.       The mathematical formula for the electrostatic force is called Coulomb’s law after the French physicist Charles Coulomb (1736–1806), who performed experiments and first proposed a formula to calculate it. 
+
+2946. Contact forces, such as between a baseball and a bat, are explained on the small scale by the interaction of the charges in atoms and molecules in close proximity.         They interact through forces that include the Coulomb force.       Action at a distance is a force between objects that are not close enough for their atoms to “touch.” That is, they are separated by more than a few atomic diameters. 
+
+2952. Polarity of Water MoleculesThe best example of this charge screening is the water molecule, represented as H2OH2O.         Water is a strongly polar molecule.       Its 10 electrons (8 from the oxygen atom and 2 from the two hydrogen atoms) tend to remain closer to the oxygen nucleus than the hydrogen nuclei. 
+
+2958. What causes the electric field?         At around 100 km above the surface of Earth we have a layer of charged particles, called the ionosphere.       The ionosphere is responsible for a range of phenomena including the electric field surrounding Earth. 
+
+2961. On the submicroscopic scale, it is more convenient to define an energy unit called the electron volt (eV), which is the energy given to a fundamental charge accelerated through a potential difference of 1 V.  In equation form, 
+
+2964.          Most copy machines use an electrostatic process called xerography—a word coined from the Greek words xeros for dry and graphos for writing.       The heart of the process is shown in simplified form in [link].A selenium-coated aluminum drum is sprayed with positive charge from points on a device called a corotron. 
+
+2967.          Laser printers use the xerographic process to make high-quality images on paper, employing a laser to produce an image on the photoconducting drum as shown in [link].       In its most common application, the laser printer receives output from a computer, and it can achieve high-quality output because of the precision with which laser light can be controlled. 
+
+2970. While we use blue arrows to represent the magnitude and direction of the electric field, we use green lines to represent places where the electric potential is constant.         These are called equipotential lines in two dimensions, or equipotential surfaces in three dimensions.       The term equipotential is also used as a noun, referring to an equipotential line or surface. 
+
+2973.          A system composed of two identical, parallel conducting plates separated by a distance, as in [link], is called a parallel plate capacitor.       It is easy to see the relationship between the voltage and the stored charge for a parallel plate capacitor, as shown in [link]. 
+
+2976. (See [link].)         The SI unit for current is the ampere (A), named for the French physicist André-Marie Ampère (1775–1836).       Since I=ΔQ/ΔtI=ΔQ/Δt size 12{I = ΔQ/Δt} {}, we see that an ampere is one coulomb per second: 
+
+2979. Once the current is established, it is thus also a constant.         Direct current (DC) is the flow of electric charge in only one direction.       It is the steady state of a constant-voltage circuit. 
+
+2982. There are two known hazards of electricity—thermal and shock.         A thermal hazard is one where excessive electric power causes undesired thermal effects, such as starting a fire in the wall of a house.       A shock hazard occurs when electric current passes through a person. 
+
+2985. The interior of the body has a much lower resistance than dry skin because of all the ionic solutions and fluids it contains.         If skin resistance is bypassed, such as by an intravenous infusion, a catheter, or exposed pacemaker leads, a person is rendered microshock sensitive.       In this condition, currents about 1/1000 those listed in [link] produce similar effects. 
+
+2988. As discussed in Molecular Transport Phenomena: Diffusion, Osmosis, and Related Processes, free ions will diffuse from a region of high concentration to one of low concentration.         But the cell membrane is semipermeable, meaning that some ions may cross it while others cannot.       In its resting state, the cell membrane is permeable to K+K+ size 12{"K" rSup { size 8{+{}} } } {} and Cl-Cl- size 12{"Cl" rSup { size 8{ +- {}} } } {}, and impermeable to Na+Na+ size 12{"Na" rSup { size 8{+{}} } } {}. 
+
+2991. Most circuits have more than one component, called a resistor that limits the flow of charge in the circuit.         A measure of this limit on charge flow is called resistance.       The simplest combinations of resistors are the series and parallel connections illustrated in [link]. 
+
+2994.          [link] shows resistors in parallel, wired to a voltage source.       Resistors are in parallel when each resistor is connected directly to the voltage source by connecting wires having negligible resistance. 
+
+2997. On the small scale, the potential difference creates an electric field that exerts force on charges, causing current.         We thus use the name electromotive force, abbreviated emf.       
+
+3000.          Kirchhoff’s rules for circuit analysis are applications of conservation laws to circuits.       The first rule is the application of conservation of charge, while the second rule is the application of conservation of energy. 
+
+3003.         Voltmeters measure voltage, whereas ammeters measure current.       Some of the meters in automobile dashboards, digital cameras, cell phones, and tuner-amplifiers are voltmeters or ammeters. 
+
+3006. Voltmeters draw some extra current, whereas ammeters reduce current flow.         Null measurements balance voltages so that there is no current flowing through the measuring device and, therefore, no alteration of the circuit being measured.       
+
+3009.          The Wheatstone bridge is a null measurement device for calculating resistance by balancing potential drops in a circuit.       (See [link].) 
+
+3012. Other materials exhibit weak magnetic effects, which are detectable only with sensitive instruments.         Not only do ferromagnetic materials respond strongly to magnets (the way iron is attracted to magnets), they can also be magnetized themselves—that is, they can be induced to be magnetic or made into permanent magnets.An unmagnetized piece of iron is placed between two magnets, heated, and then cooled, or simply tapped when cold.       The iron becomes a permanent magnet with the poles aligned as shown: its south pole is adjacent to the north pole of the original magnet, and its north pole is adjacent to the south pole of the original magnet. 
+
+3015. This was the first significant evidence that the movement of charges had any connection with magnets.         Electromagnetism is the use of electric current to make magnets.       These temporarily induced magnets are called electromagnets. 
+
+3018. His ability to think deeply and clearly about action at a distance, particularly for gravitational, electric, and magnetic forces, later enabled him to create his revolutionary theory of relativity.         Since magnetic forces act at a distance, we define a magnetic field to represent magnetic forces.       The pictorial representation of magnetic field lines is very useful in visualizing the strength and direction of the magnetic field. 
+
+3021. As shown in [link], the direction of magnetic field lines  is defined to be the direction in which the north end of a compass needle points.         The magnetic field is traditionally called the B-field.Magnetic field lines are defined to have the direction that a small compass points when placed at a location.       (a) If small compasses are used to map the magnetic field around a bar magnet, they will point in the directions shown: away from the north pole of the magnet, toward the south pole of the magnet. 
+
+3024.          Meters, such as those in analog fuel gauges on a car, are another common application of magnetic torque on a current-carrying loop.       [link] shows that a meter is very similar in construction to a motor. 
+
+3027. The magnetic field of a long straight wire has more implications than you might at first suspect.         Each segment of current produces a magnetic field like that of a long straight wire, and the total field of any shape current is the vector sum of the fields due to each segment. The formal statement of the direction and magnitude of the field due to each segment is called the Biot-Savart law.       Integral calculus is needed to sum the field for an arbitrary shape current. 
+
+3030. RHR-2 can be used to give the direction of the field near the loop, but mapping with compasses and the rules about field lines given in Magnetic Fields and Magnetic Field Lines are needed for more detail.         There is a simple formula for the magnetic field strength at the center of a circular loop.       It is 
+
+3033.          Magnetic resonance imaging (MRI) is one of the most useful and rapidly growing medical imaging tools.       It non-invasively produces two-dimensional and three-dimensional images of the body that provide important medical information with none of the hazards of x-rays. 
+
+3036. In 1831, some 12 years after Oersted’s discovery, the English scientist Michael Faraday (1791–1862) and the American scientist Joseph Henry (1797–1878) independently demonstrated that magnetic fields can produce currents.         The basic process of generating emfs (electromotive force) and, hence, currents with magnetic fields is known as induction; this process is also called magnetic induction to distinguish it from charging by induction, which utilizes the Coulomb force.Today, currents induced by magnetic fields are essential to our technological society.       The ubiquitous generator—found in automobiles, on bicycles, in nuclear power plants, and so on—uses magnetism to generate current. 
+
+3039.         Most of us have seen dramatizations in which medical personnel use a defibrillator to pass an electric current through a patient’s heart to get it to beat normally.       (Review [link].) 
+
+3042.          Electric generators induce an emf by rotating a coil in a magnetic field, as briefly discussed in Induced Emf and Magnetic Flux.       We will now explore generators in more detail. 
+
+3048. Electricity has two hazards.         A thermal hazard occurs when there is electrical overheating.       A shock hazard occurs when electric current passes through a person. 
+
+3051. Is there a useful physical quantity related to how “effective” a given device is?         The answer is yes, and that physical quantity is called inductance.       
+
+3054. where LL size 12{L} {} is the self-inductance of the device.         A device that exhibits significant self-inductance is called an inductor, and given the symbol in [link].       "> 
+
+3057. (See [link].)         Although he died young, Maxwell not only formulated a complete electromagnetic theory, represented by Maxwell’s equations, he also developed the kinetic theory of gases and made significant contributions to the understanding of color vision and the nature of Saturn’s rings.       
+
+3066.          Extremely low frequency (ELF) radio waves of about 1 kHz are used to communicate with submerged submarines.       The ability of radio waves to penetrate salt water is related to their wavelength (much like ultrasound penetrating tissue)—the longer the wavelength, the farther they penetrate. 
+
+3069. FM radio waves are also used for commercial radio transmission, but in the frequency range of 88 to 108 MHz.         FM stands for frequency modulation, another method of carrying information.       (See [link].) 
+
+3072. These TV channels are called VHF (for very high frequency).         Other channels called UHF (for ultra high frequency) utilize an even higher frequency range of 470 to 1000 MHz.       
+
+3075.          Radar is a common application of microwaves that was first developed in World War II.       By detecting and timing microwave echoes, radar systems can determine the distance to objects as diverse as clouds and aircraft. 
+
+3081.          Electromagnetic waves can bring energy into a system by virtue of their electric and magnetic fields.       These fields can exert forces and move charges in the system and, thus, do work on them. 
+
+3084. Since light moves in straight lines, changing directions when it interacts with materials, it is described by geometry and simple trigonometry.         This part of optics, where the ray aspect of light dominates, is therefore called geometric optics.       There are two laws that govern how light changes direction when it interacts with matter. 
+
+3087. Bundles of fibers can be used to transmit an image without a lens, as illustrated in [link].         The output of a device called an endoscope is shown in [link](b).       Endoscopes are used to explore the body through various orifices or minor incisions. 
+
+3090. (The axis is defined to be a line normal to the lens at its center, as shown in [link].)         Such a lens is called a converging (or convex) lens for the converging effect it has on light rays.       An expanded view of the path of one ray through the lens is shown, to illustrate how the ray changes direction both as it enters and as it leaves the lens. 
+
+3096. The image is on the same side of the lens as the object and is farther away from the lens than the object.         This image, like all case 2 images, cannot be projected and, hence, is called a virtual image.       Light rays only appear to originate at a virtual image; they do not actually pass through that location in space. 
+
+3099. [link] illustrates two common vision defects.         Nearsightedness, or myopia, is the inability to see distant objects clearly while close objects are clear.       The eye overconverges the nearly parallel rays from a distant object, and the rays cross in front of the retina. 
+
+3102. Less diverging rays from a distant object can be converged for a clear image.         The distance to the closest object that can be seen clearly is called the near point of the eye (normally 25 cm).(a) The nearsighted (myopic) eye converges rays from a distant object in front of the retina; thus, they are diverging when they strike the retina, producing a blurry image.       This can be caused by the lens of the eye being too powerful or the length of the eye being too great. 
+
+3111. Microscopes were first developed in the early 1600s by eyeglass makers in The Netherlands and Denmark.         The simplest compound microscope is constructed from two convex lenses as shown schematically in [link].       The first lens is called the objective lens, and has typical magnification values from 5×5×  to 100×100×. 
+
+3114. The Dutch scientist Christiaan Huygens (1629–1695) developed a useful technique for determining in detail how and where waves propagate.         Starting from some known position, Huygens’s principle states that:Every point on a wavefront is a source of wavelets that spread out in the forward direction at the same speed as the wave itself.       The new wavefront is a line tangent to all of the wavelets. 
+
+3117. By coherent, we mean waves are in phase or have a definite phase relationship.         Incoherent means the waves have random phase relationships.       Why did Young then pass the light through a double slit? 
+
+3120. The accepted criterion for determining the diffraction limit to resolution based on this angle was developed by Lord Rayleigh in the 19th century.         The Rayleigh criterion for the diffraction limit to resolution states that two images are just resolvable when the center of the diffraction pattern of one is directly over the first minimum of the diffraction pattern of the other.       See [link](b). 
+
+3123. (This is not the same type of polarization as that discussed for the separation of charges.)         Waves having such a direction are said to be polarized.       For an EM wave, we define the direction of polarization to be the direction parallel to the electric field. 
+
+3126. The oscillations in one rope are in a vertical plane and are said to be vertically polarized.         Those in the other rope are in a horizontal plane and are horizontally polarized.       If a vertical slit is placed on the first rope, the waves pass through. 
+
+3129. Many crystals and solutions rotate the plane of polarization of light passing through them.         Such substances are said to be optically active.       Examples include sugar water, insulin, and collagen (see [link]). 
+
+3135. The Michelson-Morley experiment demonstrated that the speed of light in a vacuum is independent of the motion of the Earth about the Sun. 
+
+3141. Relativistic kinetic energy is 
+
+3144. An ideal radiator is one that has an emissivity of 1 at all wavelengths and, thus, is jet black.         Ideal radiators are therefore called blackbodies, and their EM radiation is called blackbody radiation.       It was discussed that the total intensity of the radiation varies as T4,T4, size 12{T rSup { size 8{4} } } {} the fourth power of the absolute temperature of the body, and that the peak of the spectrum shifts to shorter wavelengths at higher temperatures. 
+
+3150. This decelerating process produces radiation that is called bremsstrahlung (German for braking radiation).         The second feature is the existence of sharp peaks in the spectrum; these are called characteristic x rays, since they are characteristic of the anode material.       Characteristic x rays come from atomic excitations unique to a given type of anode material. 
+
+3156. There is also no doubt that it behaves as particles—photons with discrete energy.         We call this twofold nature the particle-wave duality, meaning that EM radiation has both particle and wave properties.       This so-called duality is simply a term for properties of the photon analogous to phenomena we can observe directly, on a macroscopic scale. 
+
+3159.          There is another form of Heisenberg’s uncertainty principle for simultaneous measurements of energy and time.       In equation form,ΔEΔt≥h4π,ΔEΔt≥h4π, size 12{ΔE Δt  >=   {  {h}  over  {4π} } } {}where ΔEΔE size 12{ΔE} {} is the uncertainty in energy and ΔtΔt size 12{Δt} {} is the uncertainty in time. 
+
+3168.          [link] shows an energy-level diagram, a convenient way to display energy states.       In the present discussion, we take these to be the allowed energy levels of the electron. 
+
+3174. In the fluorescence process, an atom is excited to a level several steps above its ground state by the absorption of a relatively high-energy UV photon.         This is called atomic excitation.       Once it is excited, the atom can de-excite in several ways, one of which is to re-emit a photon of the same energy as excited it, a single step back to the ground state. 
+
+3177. These energy levels are inhibited and are slow in de-exciting because their quantum numbers differ greatly from those of available lower levels.         Although these level lifetimes are short in human terms, they are many orders of magnitude longer than is typical and, thus, are said to be metastable, meaning relatively stable.       Phosphorescence is the de-excitation of a metastable state. 
+
+3180. This photon finds another atom in the metastable state and stimulates it to decay, emitting a second photon of the same wavelength and in phase with the first, and so on.         Stimulated emission is the emission of electromagnetic radiation in the form of photons of a given frequency, triggered by photons of the same frequency.       For example, an excited atom, with an electron in an energy orbit higher than normal, releases a photon of a specific frequency when the electron drops back to a lower energy orbit. 
+
+3183. The name hologram means “entire picture” (from the Greek holo, as in holistic), because the image is three-dimensional.         Holography is the process of producing holograms and, although they are recorded on photographic film, the process is quite different from normal photography.       Holography uses light interference or wave optics, whereas normal photography uses geometric optics. 
+
+3186. Detailed treatment of space quantization began to explain some complexities of atomic spectra, but certain patterns seemed to be caused by something else.         As mentioned, spectral lines are actually closely spaced doublets, a characteristic called fine structure, as shown in [link].       The doublet changes when a magnetic field is applied, implying that whatever causes the doublet interacts with a magnetic field. 
+
+3189. It was soon evident that Becquerel’s rays originate in the nuclei of the atoms and have other unique characteristics.         The emission of these rays is called nuclear radioactivity or simply radioactivity.       The rays themselves are called nuclear radiation. 
+
+3195.          Another very common radiation detector is the Geiger tube.       The clicking and buzzing sound we hear in dramatizations and documentaries, as well as in our own physics labs, is usually an audio output of events detected by a Geiger counter. 
+
+3198.          Solid-state radiation detectors convert ionization produced in a semiconductor (like those found in computer chips) directly into an electrical signal.       Semiconductors can be constructed that do not conduct current in one particular direction. 
+
+3201. 5" MeV/"c rSup { size 8{2} } } {}All properties of a nucleus are determined by the number of protons and neutrons it has.         A specific combination of protons and neutrons is called a nuclide and is a unique nucleus.       The following notation is used to represent a particular nuclide: 
+
+3204. Unstable nuclides decay (that is, they are radioactive), eventually producing a stable nuclide after many decays.         We call the original nuclide the parent and its decay products the daughters.       Some radioactive nuclides decay in a single step to a stable nucleus. 
+
+3207. Certain nuclides decay by the emission of a positive electron.         This is antielectron or positron decay (see [link]).       
+
+3210.          Gamma decay is the simplest form of nuclear decay—it is the emission of energetic photons by nuclei left in an excited state by some earlier process.       Protons and neutrons in an excited nucleus are in higher orbitals, and they fall to lower levels by photon emission (analogous to electrons in excited atoms). 
+
+3213. R=ΔNΔtR=ΔNΔt size 12{R= {  {ΔN}  over  {Δt} } } {}where ΔNΔN size 12{ΔN} {} is the number of decays that occur in time ΔtΔt size 12{Δt} {}.         The SI unit for activity is one decay per second and is given the name becquerel (Bq) in honor of the discoverer of radioactivity.       That is,1Bq=1 decay/s.1Bq=1 decay/s. size 12{1" Bq"="1 decay/s"} {}Activity RR size 12{R} {} is often expressed in other units, such as decays per minute or decays per year. 
+
+3216. Experiments have shown that the more energetic the αα size 12{α} {} decay of a particular nuclide is, the shorter is its half-life.         Tunneling explains this in the following manner: For the decay to be more energetic, the nucleons must have more energy in the nucleus and should be able to ascend a little closer to the rim.       The barrier is therefore not as thick for more energetic decay, and the exponential decrease of the wave function inside the barrier is not as great. 
+
+3219. 99mTc99mTc.         Technetium-99m can be attached to many compounds to allow the imaging of the skeleton, heart, lungs, kidneys, etc.[link] shows one of the simpler methods of imaging the concentration of nuclear activity, employing a device called an Anger camera or gamma camera.       A piece of lead with holes bored through it collimates γγ size 12{γ} {} rays emerging from the patient, allowing detectors to receive γγ size 12{γ} {} rays from specific directions only. 
+
+3222. Concentrated damage is more difficult for biological organisms to repair than damage that is spread out, so short-range particles have greater biological effects.         The relative biological effectiveness (RBE) or quality factor (QF) is given in [link] for several types of ionizing radiation—the effect of the radiation is directly proportional to the RBE.       A dose unit more closely related to effects in biological tissue is called the roentgen equivalent man or rem and is defined to be the dose in rads multiplied by the relative biological effectiveness.rem=rad×RBErem=rad×RBE 
+
+3225. Certain researchers even claim that low doses are beneficial.         Hormesis is a term used to describe generally favorable biological responses to low exposures of toxins or radiation.       Such low levels may help certain repair mechanisms to develop or enable cells to adapt to the effects of the low exposures. 
+
+3228. The central problem in radiotherapy is to make the dose for cancer cells as high as possible while limiting the dose for normal cells.         The ratio of abnormal cells killed to normal cells killed is called the therapeutic ratio, and all radiotherapy techniques are designed to enhance this ratio.       Radiation can be concentrated in cancerous tissue by a number of techniques. 
+
+3231. Ionization produces a random assortment of broken molecules and ions, some with unstable oxygen- or hydrogen-containing molecules known as free radicals.         These undergo rapid chemical reactions, producing perhaps four or five thousand different compounds called radiolytic products, some of which make cell function impossible by breaking cell membranes, fracturing DNA, and so on.       How safe is the food afterward? 
+
+3234. This goal, which must be reached before commercial plants can be a reality, has not been achieved.         Another milestone, called break-even, occurs when the fusion power produced equals the heating power input.       Break-even has nearly been reached and gives hope that ignition and commercial plants may become a reality in a few decades.Two techniques have shown considerable promise. 
+
+3237.          Nuclear fission is a reaction in which a nucleus is split (or fissured).       Controlled fission is a reality, whereas controlled fusion is a hope for the future. 
+
+3240. We can enhance the number of fissions produced by neutrons by having a large amount of fissionable material.         The minimum amount necessary for self-sustained fission of a given nuclide is called its critical mass.       Some nuclides, such as 
+
+3243. ).         Reactors designed specifically to make plutonium are called breeder reactors.       They seem to be inherently more hazardous than conventional reactors, but it remains unknown whether their hazards can be made economically acceptable. 
+

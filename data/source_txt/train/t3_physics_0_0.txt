@@ -1,0 +1,192 @@
+2641. Although displacement is described in terms of direction, distance is not.         Distance is defined to be the magnitude or size of displacement between two positions.       Note that the distance between two positions is not the same as the distance traveled between them. 
+
+2644. Projectile motion is the motion of an object thrown or projected into the air, subject to only the acceleration of gravity.         The object is called a projectile, and its path is called its trajectory.       The motion of falling objects, as covered in Problem-Solving Basics for One-Dimensional Kinematics, is a simple one-dimensional type of projectile motion in which there is no horizontal movement. 
+
+2647. In this module, we first re-examine how to add velocities and then consider certain aspects of what relative velocity means.How do we add velocities?         Velocity is a vector (it has both magnitude and direction); the rules of vector addition discussed in Vector Addition and Subtraction: Graphical Methods and Vector Addition and Subtraction: Analytical Methods apply to the addition of velocities, just as they do for any other vectors.       In one-dimensional motion, the addition of velocities is simple—they add like ordinary numbers. 
+
+2653.          Section SummaryDynamics is the study of how forces affect the motion of objects.       
+
+2656. External forces are any outside forces that act on a body.         A free-body diagram is a drawing of all external forces acting on a body.       
+
+2659. What do we mean by an external force?         An intuitive notion of external is correct—an external force acts from outside the system of interest.       For example, in [link](a) the system of interest is the wagon plus the child in it. 
+
+2662. Numerous common experiences, such as stubbing a toe or throwing a ball, confirm this.         It is precisely stated in Newton’s third law of motion.       Newton’s Third Law of Motion 
+
+2665.          A thrust is a reaction force that pushes a body forward in response to a backward force.       Rockets, airplanes, and cars are pushed forward by a thrust reaction force. 
+
+2668. In Earth’s frame this looks like a westward force on the satellite, or it can be interpreted as a violation of Newton’s first law (the law of inertia).         An inertial frame of reference is one in which all forces are real and, equivalently, one in which Newton’s laws have the simple forms given in this chapter.Earth’s rotation is slow enough that Earth is nearly an inertial frame.       You ordinarily must perform precise experiments to observe fictitious forces and the slight departures from Newton’s laws, such as the effect just described. 
+
+2671. If a bulldozer pushes a car into a wall, the car will not move but it will noticeably change shape.         A change in shape due to the application of a force is a deformation.       Even very small forces are known to cause some deformation. 
+
+2674. {}Recall that the direction of acac size 12{a rSub { size 8{c} } } {} is toward the center.         You may use whichever expression is more convenient, as illustrated in examples below.A centrifuge (see [link]b) is a rotating device used to separate specimens of different densities.       High centripetal acceleration significantly decreases the time it takes for separation to occur, and makes separation possible with small samples. 
+
+2677.          Let us now consider banked curves, where the slope of the road helps you negotiate the curve.       See [link]. 
+
+2680.          Measurements of physical quantities are expressed in terms of units, which are standardized values.       For example, the length of a race, which is a physical quantity, can be expressed in units of meters (for sprinters) or kilometers (for distance runners). 
+
+2683. (Note that electric current will not be introduced until much later in this text.)         All other physical quantities, such as force and electric charge, can be expressed as algebraic combinations of length, mass, time, and current (for example, speed is length divided by time); these units are called derived units.       
+
+2686.          The SI unit for mass is the kilogram (abbreviated kg); it is defined to be the mass of a platinum-iridium cylinder kept with the old meter standard at the International Bureau of Weights and Measures near Paris.       Exact replicas of the standard kilogram are also kept at the United States’ National Institute of Standards and Technology, or NIST, located in Gaithersburg, Maryland outside of Washington D.C., and at other locations around the world. 
+
+2689.          Next, we need to determine a conversion factor relating meters to kilometers.       A conversion factor is a ratio expressing how many of one unit are equal to another unit. 
+
+2692. For example, models can help physicists analyze a scenario and perform a calculation, or they can be used to represent a situation in the form of a computer simulation.         A theory is an explanation for patterns in nature that is supported by scientific evidence and verified multiple times by various groups of researchers.       Some theories include models to help visualize phenomena, whereas others do not. 
+
+2695. (See [link], [link], and [link].)         Physics as it developed from the Renaissance to the end of the 19th century is called classical physics.       It was transformed into modern physics by revolutionary discoveries made starting at the beginning of the 20th century. 
+
+2698. Relativity must be used whenever an object is traveling at greater than about 1% of the speed of light or experiences a strong gravitational field such as that near the Sun.         Quantum mechanics must be used for objects smaller than can be seen with a microscope.       The combination of these two theories is relativistic quantum mechanics, and it describes the behavior of small objects traveling at high speeds or experiencing a strong gravitational field. 
+
+2701.          Instantaneous speed is the magnitude of instantaneous velocity.       For example, suppose the airplane passenger at one instant had an instantaneous velocity of −3.0 m/s (the minus meaning toward the rear of the plane). 
+
+2704. The accelerator in a car can in fact cause it to speed up.         The greater the acceleration, the greater the change in velocity over a given time.       The formal definition of acceleration is consistent with these notions, but more inclusive. 
+
+2707. Air resistance opposes the motion of an object through the air, while friction between objects—such as between clothes and a laundry chute or between a stone and a pool into which it is dropped—also opposes motion between them.         For the ideal situations of these first few chapters, an object falling without air resistance or friction is defined to be in free-fall.       
+
+2710. The fact that the straight-line distance (10.3 blocks) in [link] is less than the total distance walked (14 blocks) is one example of a general characteristic of vectors.         (Recall that vectors are quantities that have both magnitude and direction.       ) 
+
+2713.          The degree of accuracy and precision of a measuring system are related to the uncertainty in the measurements.       Uncertainty is a quantitative measure of how much your measured values deviate from a standard or expected value. 
+
+2716.          On many occasions, physicists, other scientists, and engineers need to make approximations or “guesstimates” for a particular quantity.       What is the distance to a certain destination? 
+
+2719. An arrow used to represent a vector has a length proportional to the vector’s magnitude (e.g., the larger the magnitude, the longer the length of the vector) and points in the same direction as the vector.Some physical quantities, like distance, either have no direction or none is specified.         A scalar is any quantity that has a magnitude, but no direction.       For example, a 20ºC20ºC temperature, the 250 kilocalories (250 Calories) of energy in a candy bar, a 90 km/h speed limit, a person’s 1.8 m height, and a distance of 2.0 m are all scalars—quantities with no specified direction. 
+
+2722. The head-to-tail method is a graphical way to add vectors, described in [link] below and in the steps following.         The tail of the vector is the starting point of the vector, and the head (or tip) of a vector is the final, pointed end of the arrow.Head-to-Tail Method: The head-to-tail method of graphically adding vectors is illustrated for the two displacements of the person walking in a city considered in [link].       (a) Draw a vector representing the displacement to the east. 
+
+2725. )Step 6.         To get the direction of the resultant, measure the angle it makes with the reference frame using a protractor.       (Note that in most calculations, we will use trigonometric relationships to determine this angle. 
+
+2728. We will need to take a single vector and find what other vectors added together produce it.         In most cases, this involves determining the perpendicular components of a single vector, for example the x- and y-components, or the north-south and east-west components.       
+
+2731. The study of motion is kinematics, but kinematics only describes the way objects move—their velocity and their acceleration.         Dynamics considers the forces that affect the motion of moving objects and systems.       Newton’s laws of motion are the foundation of dynamics. 
+
+2734.          The property of a body to remain at rest or to remain in motion with constant velocity is called inertia.       Newton’s first law is often called the law of inertia. 
+
+2737. A kilogram of one substance is equal in mass to a kilogram of another substance.         The quantities that might differ between them are volume and density.Section SummaryNewton’s first law of motion states that a body at rest remains at rest, or, if in motion, remains in motion at a constant velocity unless acted on by a net external force.       This is also known as the law of inertia. 
+
+2740. Mass is the quantity of matter in a substance. 
+
+2743. It is more satisfying philosophically to think of something physical actually moving between objects acting at a distance.         [link] lists the exchange or carrier particles, both observed and proposed, that carry the four forces.       But the real fruit of the particle-exchange proposal is that searches for Yukawa’s proposed particle found it and a number of others that were completely unexpected, stimulating yet more research. 
+
+2746. For example, friction slows a hockey puck sliding on ice.         But when objects are stationary, static friction can act between them; the static friction is usually greater than the kinetic friction between the objects.Kinetic Friction       
+
+2749. In such a frame of reference, Newton’s laws of motion take the form given in Dynamics: Newton's Laws of Motion The car is a non-inertial frame of reference because it is accelerated to the side.         The force to the left sensed by car passengers is a fictitious force having no physical origin.       There is nothing real pushing them left—the car, as well as the driver, is actually accelerating to the right.Let us now take a mental ride on a merry-go-round—specifically, a rapidly rotating playground merry-go-round. 
+
+2761. Potential energy can be stored in any elastic medium by deforming it.         Indeed, the general definition of potential energy is energy due to position, shape, or configuration.       For shape or position deformations, stored energy is PEs=12kx2PEs=12kx2 size 12{"PE" rSub { size 8{s} } = {  {1}  over  {2} }  ital "kx" rSup { size 8{2} } } {}, where kk size 12{k} {} is the force constant of the particular system and xx size 12{x} {} is its deformation. 
+
+2764. An important characteristic is that the work done by a nonconservative force adds or removes mechanical energy from a system.         Friction, for example, creates thermal energy that dissipates, removing energy from the system.       Furthermore, even if the thermal energy is retained or captured, it cannot be fully converted back to work, so it is lost or not recoverable in that sense as well.The amount of the happy face erased depends on the path taken by the eraser between points A and B, as does the work done against friction. 
+
+2770. Atoms and molecules inside all objects are in random motion.         This internal mechanical energy from the random motions is called thermal energy, because it is related to the temperature of the object.       These and all other forms of energy can be converted into one another and can do work. 
+
+2773.          Work done by a person is sometimes called useful work, which is work done on the outside world, such as lifting weights.       Useful work requires a force exerted through a distance on the outside world, and so it excludes internal work, such as that done by the heart when pumping blood. 
+
+2776. The scientific definition of linear momentum is consistent with most people’s intuitive understanding of momentum: a large, fast-moving object has greater momentum than a smaller, slower object.         Linear momentum is defined as the product of a system’s mass multiplied by its velocity.       In symbols, linear momentum is expressed as 
+
+2779. It can be similarly shown that total momentum is conserved for any isolated system, with any number of objects in it.         In equation form, the conservation of momentum principle for an isolated system is written       
+
+2782. An elastic collision is one that also conserves internal kinetic energy.         Internal kinetic energy is the sum of the kinetic energies of the objects in the system.       [link] illustrates an elastic collision in which internal kinetic energy and momentum are conserved.Truly elastic collisions can only be achieved with subatomic particles, such as electrons striking nuclei. 
+
+2785. We have seen that in an elastic collision, internal kinetic energy is conserved.         An inelastic collision is one in which the internal kinetic energy changes (it is not conserved).       This lack of conservation means that the forces between colliding objects may remove or add internal kinetic energy. 
+
+2788. The magnitude, direction, and point of application of the force are incorporated into the definition of the physical quantity called torque.         Torque is the rotational equivalent of a force.       It is a measure of the effectiveness of a force in changing or accelerating a rotation (changing the angular velocity over a period of time). 
+
+2791.          A system is in neutral equilibrium if its equilibrium is independent of displacements from its original position.       A marble on a flat horizontal surface is an example. 
+
+2794. We note that a=rαa=rα size 12{a=rα} {}, and we substitute this expression into F=maF=ma size 12{F= ital "ma"} {}, yielding F=mrα.F=mrα. size 12{F= ital "mr"α"."}         {}Recall that torque is the turning effectiveness of a force.       In this case, because FF size 12{"F"} {} is perpendicular to rr size 12{r} {}, torque is simply τ=Frτ=Fr size 12{τ=rα} {}. 
+
+2797.         This equation is the work-energy theorem for rotational motion only.       As you may recall, net work changes the kinetic energy of a system. 
+
+2800. The major distinction is that gases are easily compressed, whereas liquids are not.         We shall generally refer to both gases and liquids simply as fluids, and make a distinction between them only when they behave differently.PhET Explorations: States of Matter—Basics       
+
+2803.         Pressure is defined as force per unit area.       Can pressure be increased in a fluid by pushing directly on the fluid? 
+
+2806. The person making the measurement then slowly lowers the applied pressure and listens for blood flow to resume.         Blood pressure pulsates because of the pumping action of the heart, reaching a maximum, called systolic pressure, and a minimum, called diastolic pressure, with each heartbeat.       Systolic pressure is measured by noting the value of hh size 12{h} {} when blood flow first begins as cuff pressure is lowered. 
+
+2809. This is done by measuring the fraction of a floating object that is submerged—for example, with a hydrometer.         It is useful to define the ratio of the density of an object to a fluid (usually water) as specific gravity:       
+
+2812. Cohesive forces between molecules cause the surface of a liquid to contract to the smallest possible surface area.         This general effect is called surface tension.       Molecules on the surface are pulled inward by cohesive forces, reducing the surface area. 
+
+2815. This change produces no ill effects and, in fact, may be beneficial to the tone of the circulatory system.         Diastolic pressure can be an indicator of fluid balance.       When low, it may indicate that a person is hemorrhaging internally and needs a transfusion. 
+
+2818. Bladder pressure climbs steadily from zero to about 25 mm Hg as the bladder fills to its normal capacity of 500cm3500cm3 size 12{"500"`"cm" rSup { size 8{3} } } {}.         This pressure triggers the micturition reflex, which stimulates the feeling of needing to urinate.       What is more, it also causes muscles around the bladder to contract, raising the pressure to over 100 mm Hg, accentuating the sensation. 
+
+2821.          Situations in which fluid flows at a constant depth are so important that this equation is often called Bernoulli’s principle.       It is Bernoulli’s equation for fluids at constant depth. 
+
+2824. This equation is called Poiseuille’s law for resistance after the French scientist J. L. Poiseuille (1799–1869), who derived it in an attempt to understand the flow of blood, an often turbulent fluid. 
+
+2827. An interesting consequence of the increase in FVFV size 12{F rSub { size 8{V} } } {} with speed is that an object falling through a fluid will not continue to accelerate indefinitely (as it would if we neglect air resistance, for example).         Instead, viscous drag increases, slowing acceleration, until a critical speed, called the terminal speed, is reached and the acceleration of the object becomes zero.       Once this happens, the object continues to fall at constant speed (the terminal speed). 
+
+2830.         Osmosis is the transport of water through a semipermeable membrane from a region of high concentration to a region of low concentration.       Osmosis is driven by the imbalance in water concentration. 
+
+2833. This is not reverse osmosis, because there is no back pressure to cause it.         What is happening is called active transport, a process in which a living membrane expends energy to move substances across it.       Many living membranes move water and other substances by active transport. 
+
+2836. Only 100 Celsius degrees span the same range as 180 Fahrenheit degrees, thus one degree on the Celsius scale is 1.8 times larger than one degree on the Fahrenheit scale 180/100=9/5.180/100=9/5. size 12{"180"/"100"=9/5 "."         } {}The Kelvin scale is the temperature scale that is commonly used in science.       It is an absolute temperature scale defined to have 0 K at the lowest possible temperature, called absolute zero. 
+
+2839. Furthermore, experimentation has shown that if two systems, A and B, are in thermal equilibrium with each another, and B is in thermal equilibrium with a third system C, then A is also in thermal equilibrium with C. This conclusion may seem obvious, because all three have the same temperature, but it is basic to thermodynamics.         It is called the zeroth law of thermodynamics.The Zeroth Law of Thermodynamics       
+
+2842. The ideal gas law states that 
+
+2845. At lower temperatures, the curves begin to look less like hyperbolas—the gas is not behaving ideally and may even contain liquid.         There is a critical point—that is, a critical temperature—above which liquid cannot exist.       At sufficiently high pressure above the critical point, the gas will have the density of a liquid but will not condense. 
+
+2848.          All three curves on the phase diagram meet at a single point, the triple point, where all three phases exist in equilibrium.       For water, the triple point occurs at 273.16 K (0.01ºC)(0.01ºC) size 12{ \( 0 "." 
+
+2851. In a mixture of gases, the total pressure is the sum of partial pressures of the component gases, assuming ideal gas behavior and no chemical reactions between the components.         This law is known as Dalton’s law of partial pressures, after the English scientist John Dalton (1766–1844), who proposed it.       Dalton’s law is based on kinetic theory, where each gas creates its pressure by molecular collisions, independent of other gases present. 
+
+2854. The amount of water vapor in the air depends on temperature.         For example, relative humidity rises in the evening, as air temperature declines, sometimes reaching the dew point.       At the dew point temperature, relative humidity is 100%, and fog may result from the condensation of water droplets if they are small enough to stay in suspension. 
+
+2857. This realization helped establish the fact that heat is a form of energy.         James Prescott Joule (1818–1889) performed many experiments to establish the mechanical equivalent of heat—the work needed to produce the same effects as heat transfer.       In terms of the units used for these two terms, the best modern value for this equivalence is 
+
+2860.          Convection is the heat transfer by the macroscopic movement of a fluid.       This type of transfer takes place in a forced-air furnace and in weather systems, for example. 
+
+2863. The rate of heat transfer by emitted radiation is determined by the Stefan-Boltzmann law of radiation: 
+
+2866.          Human metabolism is the conversion of food into heat transfer, work, and stored fat.       Metabolism is an interesting example of the first law of thermodynamics in action. 
+
+2869. The area under the curve in that case is negative, because ΔVΔV size 12{ΔV} {} is negative.PVPV size 12{ ital "PV"} {} diagrams clearly illustrate that the work done depends on the path taken and not just the endpoints.         This path dependence is seen in [link](a), where more work is done in going from A to C by the path via point B than by the path via point D. The vertical paths, where volume is constant, are called isochoric processes.       Since volume is constant, ΔV=0ΔV=0 size 12{ΔV=0} {}, and no work is done in an isochoric process. 
+
+2872. Although irreversibility is seen in day-to-day life—a broken glass does not resume its original state, for instance—complete irreversibility is a statistical statement that cannot be seen during the lifetime of the universe.         More precisely, an irreversible process is one that depends on path.       If the process can go in only one direction, then the reverse path differs fundamentally and the process cannot be reversible. 
+
+2875.          The Second Law of Thermodynamics (second expression)It is impossible in any system for heat transfer from a reservoir to completely convert to work in a cyclical process in which the system returns to its initial state.A cyclical process brings a system, such as the gas in a cylinder, back to its original state at the end of every cycle.       Most heat engines, such as reciprocating piston engines and rotating turbines, use cyclical processes. 
+
+2878. The second law of thermodynamics can be restated in terms of the Carnot cycle, and so what Carnot actually discovered was this fundamental law.         Any heat engine employing the Carnot cycle is called a Carnot engine.What is crucial to the Carnot cycle—and, in fact, defines it—is that only reversible processes are used.       Irreversible processes involve dissipative factors, such as friction and turbulence. 
+
+2881. With respect to entropy, there are only two possibilities: entropy is constant for a reversible process, and it increases for an irreversible process.         There is a fourth version of the second law of thermodynamics stated in terms of entropy:       
+
+2884. Let us now imagine applying this approach to perhaps a small sample of gas.         Because counting microstates and macrostates involves statistics, this is called statistical analysis.       The macrostates of a gas correspond to its macroscopic properties, such as volume, temperature, and pressure; and its microstates correspond to the detailed description of the positions and velocities of its atoms. 
+
+2887. Consider, for example, plucking a plastic ruler to the left as shown in [link].         The deformation of the ruler creates a force in the opposite direction, known as a restoring force.       Once released, the restoring force causes the ruler to move back toward its stable equilibrium position, where the net force on it is zero. 
+
+2890. For small displacements, a pendulum is a simple harmonic oscillator.         A simple pendulum is defined to have an object that has a small mass, also known as the pendulum bob, which is suspended from a light wire or string, such as shown in [link].       Exploring the simple pendulum a bit further, we can discover the conditions under which it performs simple harmonic motion, and we can derive an interesting expression for its period. 
+
+2893. Such a system is underdamped; its displacement is represented by the curve in [link].         Curve B in [link] represents an overdamped system.       As with critical damping, it too may overshoot the equilibrium position, but will reach equilibrium over a longer period of time. 
+
+2896. The phenomenon of driving a system with a frequency equal to its natural frequency is called resonance.         A system being driven at its natural frequency is said to resonate.       As the driving frequency gets progressively higher than the resonant or natural frequency, the amplitude of the oscillations becomes smaller, until the oscillations nearly disappear and your finger simply moves up and down with little effect on the ball. 
+
+2899. The wave in [link] propagates in the horizontal direction while the surface is disturbed in the vertical direction.         Such a wave is called a transverse wave or shear wave; in such a wave, the disturbance is perpendicular to the direction of propagation.       In contrast, in a longitudinal wave or compressional wave, the disturbance is parallel to the direction of propagation. 
+
+2902. The crests of the two waves are precisely aligned, as are the troughs.         This superposition produces pure constructive interference.       Because the disturbances add, pure constructive interference produces a wave that has twice the amplitude of the individual waves, but has the same wavelength. 
+
+2905. [link] and [link] show three standing waves that can be created on a string that is fixed at both ends.         Nodes are the points where the string does not move; more generally, nodes are where the wave disturbance is zero in a standing wave.       The fixed ends of strings must be nodes, too, because the string cannot move there. 
+
+2908. The wave resulting from the superposition of two similar-frequency waves has a frequency that is the average of the two.         This wave fluctuates in amplitude, or beats, with a frequency called the beat frequency.       We can determine the beat frequency by adding two waves together mathematically. 
+
+2911. You can also directly sense the frequency of a sound.         Perception of frequency is called pitch.       The wavelength of sound is not directly sensed, but indirect evidence is found in the correlation of the size of musical instruments with their pitch. 
+
+2914. The lack of contrast makes image interpretation very difficult.         Contrast is the difference in intensity between objects and the background on which they are observed.       Stains (such as dyes, fluorophores, etc.) 
+
+2917.          A polarization microscope also enhances contrast by utilizing a wave characteristic of light.       Polarization microscopes are useful for objects that are optically active or birefringent, particularly if those characteristics vary from place to place in the object. 
+
+2920.          The standing wave formed in the tube has its maximum air displacement (an antinode) at the open end, where motion is unconstrained, and no displacement (a node) at the closed end, where air movement is halted.       The distance from a node to an antinode is one-fourth of a wavelength, and this equals the length of the tube; thus, λ=4Lλ=4L size 12{λ=4L} {}. 
+
+2923.          Hearing is the perception of sound.       (Perception is commonly defined to be awareness through the senses, a typically circular definition of higher-level processes in living organisms.) 
+
+2926. Pitch perception is directly related to frequency and is not greatly affected by other physical quantities such as intensity.         Musical notes are particular sounds that can be produced by most instruments and in Western music have particular names.       Combinations of notes constitute music. 
+
+2929. This is true for other perceptions of sound, such as music and noise.         We shall not delve further into them; rather, we will concentrate on the question of loudness perception.A unit called a phon is used to express loudness numerically.       Phons differ from decibels because the phon is a unit of loudness perception, whereas the decibel is a unit of physical intensity. 
+
+2932.          Atomic and molecular interactions, such as the forces of friction, cohesion, and adhesion, are now known to be manifestations of the electromagnetic force.       Static electricity is just one aspect of the electromagnetic force, which also includes moving electricity and magnetism. 
+
+2935. Today we have the advantage of knowing that normal matter is made of atoms, and that atoms contain positive and negative charges, usually in equal amounts.[link] shows a simple model of an atom with negative electrons orbiting its positive nucleus.         The nucleus is positive due to the presence of positively charged protons.       Nearly all charge in nature is due to electrons and protons, which are two of the three building blocks of most matter. 
+
+2938. These free electrons can move through the material much as air moves through loose sand.         Any substance that has free electrons and allows charge to move relatively freely through it is called a conductor.       The moving electrons may collide with fixed atoms and molecules, losing some energy, but they can move in a conductor. 
+
+2941. It is not necessary to transfer excess charge directly to an object in order to charge it.         [link] shows a method of induction wherein a charge is created in a nearby object, without direct contact.       Here we see two neutral metal spheres in contact with one another but insulated from the rest of the world. 
+

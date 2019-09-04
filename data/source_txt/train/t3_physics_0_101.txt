@@ -1,0 +1,182 @@
+2944. Through the work of scientists in the late 18th century, the main features of the electrostatic force—the existence of two types of charge, the observation that like charges repel, unlike charges attract, and the decrease of force with distance—were eventually refined, and expressed as a mathematical formula.         The mathematical formula for the electrostatic force is called Coulomb’s law after the French physicist Charles Coulomb (1736–1806), who performed experiments and first proposed a formula to calculate it.       
+
+2947. For example, a charged rubber comb attracts neutral bits of paper from a distance via the Coulomb force.         It is very useful to think of an object being surrounded in space by a force field.       The force field carries the force to another object (called a test object) some distance away. 
+
+2950. We pretend that there is a positive test charge, qq size 12{q} {}, at point O, which allows us to determine the direction of the fields E1E1 size 12{E rSub { size 8{1} } } {} and E2E2 size 12{E rSub { size 8{2} } } {}.         Once those fields are found, the total field can be determined using vector addition.Solution       
+
+2953. Its 10 electrons (8 from the oxygen atom and 2 from the two hydrogen atoms) tend to remain closer to the oxygen nucleus than the hydrogen nuclei.         This creates two centers of equal and opposite charges—what is called a dipole, as illustrated in [link].       The magnitude of the dipole is called the dipole moment.These two centers of charge will terminate some of the electric field lines coming from a free charge, as on a DNA molecule. 
+
+2956. Conductors contain free charges that move easily.         When excess charge is placed on a conductor or the conductor is put into a static electric field, charges in the conductor quickly respond to reach a steady state called electrostatic equilibrium.       
+
+2959.          Another device that makes use of some of these principles is a Faraday cage.       This is a metal shield that encloses a volume. 
+
+2962.          The study of electrostatics has proven useful in many areas.       This module covers just a few of the many applications of electrostatics. 
+
+2965. The heart of the process is shown in simplified form in [link].A selenium-coated aluminum drum is sprayed with positive charge from points on a device called a corotron.         Selenium is a substance with an interesting property—it is a photoconductor.       That is, selenium is an insulator when in the dark and a conductor when exposed to light. 
+
+2968.          The ink jet printer, commonly used to print computer-generated text and graphics, also employs electrostatics.       A nozzle makes a fine spray of tiny ink droplets, which are then given an electrostatic charge. 
+
+2971. This implies that a conductor is an equipotential surface in static situations. There can be no voltage difference across the surface of a conductor, or charges will flow.         One of the uses of this fact is that a conductor can be fixed at zero volts by connecting it to the earth with a good conductor—a process called grounding.       Grounding can be a useful safety tool. 
+
+2974. (Recall that E=V/dE=V/d size 12{E=V/d} {} for a parallel plate capacitor.)         Also shown in [link] are maximum electric field strengths in V/m, called dielectric strengths, for several materials.       These are the fields above which the material begins to break down and conduct. 
+
+2977. Ohm’s law (like Hooke’s law) is not universally valid.         The many substances for which Ohm’s law holds are called ohmic.       These include good conductors like copper and aluminum, and some poor conductors under certain circumstances. 
+
+2980. Most well-known applications, however, use a time-varying voltage source.         Alternating current (AC) is the flow of electric charge that periodically reverses direction.       If the source varies periodically, particularly sinusoidally, the circuit is known as an alternating current circuit. 
+
+2983. A thermal hazard is one where excessive electric power causes undesired thermal effects, such as starting a fire in the wall of a house.         A shock hazard occurs when electric current passes through a person.       Shocks range in severity from painful, but otherwise harmless, to heart-stopping lethality. 
+
+2986. The sheer number of nerve cells and the incredibly greater number of connections between them makes this system the subtle wonder that it is.         Nerve conduction is a general term for electrical signals carried by nerve cells.       It is one aspect of bioelectricity, or electrical effects in and created by biological systems. 
+
+2989.          An electrocardiogram (ECG) is a record of the voltages created by the wave of depolarization and subsequent repolarization in the heart.       Voltages between pairs of electrodes placed on the chest are vector components of the voltage wave on the heart. 
+
+2992.          When are resistors in series?       Resistors are in series whenever the flow of charge, called the current, must flow through devices sequentially. 
+
+2995.          The reason for the decrease in output voltage for depleted or overloaded batteries is that all voltage sources have two fundamental parts—a source of electrical energy and an internal resistance.       Let us examine both. 
+
+2998. These rules are special cases of the laws of conservation of charge and conservation of energy.         The rules are known as Kirchhoff’s rules, after their inventor Gustav Kirchhoff (1824–1887).This circuit cannot be reduced to a combination of series and parallel connections.       Kirchhoff’s rules, special applications of the laws of conservation of charge and energy, can be used to analyze it. 
+
+3004.          Analog meters have a needle that swivels to point at numbers on a scale, as opposed to digital meters, which have numerical readouts similar to a hand-held calculator.       The heart of most analog meters is a device called a galvanometer, denoted by G. Current flow through a galvanometer, IGIG size 12{I rSub { size 8{G} } } {}, produces a proportional needle deflection. 
+
+3010. If freely suspended, one pole will point toward the north.         The two poles are thus named the north magnetic pole and the south magnetic pole (or more properly, north-seeking and south-seeking poles, for the attractions in those directions).       
+
+3013. What happens on a microscopic scale is illustrated in [link].         The regions within the material called domains act like small bar magnets.       Within domains, the poles of individual atoms are aligned. 
+
+3016. Electromagnetism is the use of electric current to make magnets.         These temporarily induced magnets are called electromagnets.       Electromagnets are employed for everything from a wrecking yard crane that lifts scrapped cars to controlling the beam of a 90-km-circumference particle accelerator to the magnets in medical imaging machines (See [link]).Instrument for magnetic resonance imaging (MRI). 
+
+3019. Since magnetic forces act at a distance, we define a magnetic field to represent magnetic forces.         The pictorial representation of magnetic field lines is very useful in visualizing the strength and direction of the magnetic field.       As shown in [link], the direction of magnetic field lines  is defined to be the direction in which the north end of a compass needle points. 
+
+3025. The field around a long straight wire is found to be in circular loops.         The right hand rule 2 (RHR-2) emerges from this exploration and is valid for any current segment—point the thumb in the direction of the current, and the fingers curl in the direction of the magnetic field loops created by it.(a) Compasses placed near a long straight current-carrying wire indicate that field lines form circular loops centered on the wire.       (b) Right hand rule 2 states that, if the right hand thumb points in the direction of the current, the fingers curl in the direction of the field. 
+
+3028. Integral calculus is needed to sum the field for an arbitrary shape current.         This results in a more complete law, called Ampere’s law, which relates magnetic field and current in a general way.       Ampere’s law in turn is a part of Maxwell’s equations, which give a complete theory of all electromagnetic phenomena. 
+
+3031.          A solenoid is a long coil of wire (with many turns or loops, as opposed to a flat loop).       Because of its shape, the field inside a solenoid can be very uniform, and also very strong. 
+
+3034. It non-invasively produces two-dimensional and three-dimensional images of the body that provide important medical information with none of the hazards of x-rays.         MRI is based on an effect called nuclear magnetic resonance (NMR) in which an externally applied magnetic field interacts with the nuclei of certain atoms, particularly those of hydrogen (protons).       These nuclei possess their own small magnetic fields, similar to those of electrons and the current loops discussed earlier in this chapter.When placed in an external magnetic field, such nuclei experience a torque that pushes or aligns the nuclei into one of two new energy states—depending on the orientation of its spin (analogous to the N pole and S pole in a bar magnet). 
+
+3037.          This relationship is known as Faraday’s law of induction.       The units for emf are volts, as is usual. 
+
+3040. As discussed in Motional Emf, motional emf is induced when a conductor moves in a magnetic field or when a magnetic field moves relative to a conductor.         If motional emf can cause a current loop in the conductor, we refer to that current as an eddy current.       Eddy currents can produce significant drag, called magnetic damping, on the motion involved. 
+
+3043.          is the maximum (peak) emf.       Note that the frequency of the oscillation is f=ω/2πf=ω/2π size 12{f=ω/2π} {}, and the period is T=1/f=2π/ωT=1/f=2π/ω size 12{T=1/f=2π/ω} {}. [link] shows a graph of emf as a function of time, and it now seems reasonable that AC voltage is sinusoidal. 
+
+3046. This is known as the transformer equation, and it simply states that the ratio of the secondary to primary voltages in a transformer equals the ratio of the number of loops in their coils. 
+
+3049. A thermal hazard occurs when there is electrical overheating.         A shock hazard occurs when electric current passes through a person.       Both hazards have already been discussed. 
+
+3052.          Mutual inductance is the effect of Faraday’s law of induction for one device upon another, such as the primary coil in transmitting energy to the secondary in a transformer.       See [link], where simple coils induce emfs in one another.These coils can induce emfs in one another like an inefficient transformer. 
+
+3058.          Electric field lines originate on positive charges and terminate on negative charges.       The electric field is defined as the force per unit charge on a test charge, and the strength of the force is related to the electric constant ε0ε0 size 12{ε rSub { size 8{0} } } {}, also known as the permittivity of free space. 
+
+3061. As the process continues, the charge separation reverses and the field reaches its maximum downward value, returns to zero, and rises to its maximum upward value at the end of one complete cycle.         The outgoing wave has an amplitude proportional to the maximum separation of charge.       Its wavelengthλλ size 12{ left (λ right )} {} is proportional to the period of the oscillation and, hence, is smaller for short periods or high frequencies. 
+
+3064. The dimensions of the antenna are critical for determining the frequency of the radiated electromagnetic waves.         This is a resonant phenomenon and when we tune radios or TV, we vary electrical properties to achieve appropriate resonant conditions in the antenna.       
+
+3067. AM radio waves are used to carry commercial radio signals in the frequency range from 540 to 1600 kHz.         The abbreviation AM stands for amplitude modulation, which is the method for placing information on these waves.       (See [link].) 
+
+3070.          Television is also broadcast on electromagnetic waves.       Since the waves must carry a great deal of visual as well as audio information, each channel requires a larger range of frequencies than simple radio transmission. 
+
+3073.          Microwaves are the highest-frequency electromagnetic waves that can be produced by currents in macroscopic circuits and devices.       Microwave frequencies range from about 109Hz109Hz size 12{"10" rSup { size 8{9} } `"Hz"} {} to the highest practical LCLC size 12{ ital "LC"} {} resonance at nearly 1012Hz1012Hz size 12{"10" rSup { size 8{"12"} } `"Hz"} {}. 
+
+3076. The microwave and infrared regions of the electromagnetic spectrum overlap (see [link]).         Infrared radiation is generally produced by thermal motion and the vibration and rotation of atoms and molecules.       Electronic transitions in atoms and molecules can also produce infrared radiation. 
+
+3079. It was later found that these discharges created an invisible, penetrating form of very high frequency electromagnetic radiation.         This radiation was called an X-ray, because its identity and nature were unknown.       
+
+3091. Due to the lens’s shape, light is thus bent toward the axis at both surfaces.         The point at which the rays cross is defined to be the focal point F of the lens.       The distance from the center of the lens to its focal point is defined to be the focal lengthff size 12{f} {} of the lens. 
+
+3094. While ray tracing for complicated lenses, such as those found in sophisticated cameras, may require computer techniques, there is a set of simple rules for tracing rays through thin lenses.         A thin lens is defined to be one whose thickness allows rays to refract, as illustrated in [link], but does not allow properties such as dispersion and aberrations.       An ideal thin lens has two refracting surfaces but the lens is thin enough to assume that light rays bend only once. 
+
+3097. The eye manages this by varying the power (and focal length) of the lens to accommodate for objects at various distances.         The process of adjusting the eye’s focal length is called accommodation.       A person with normal (ideal) vision can see objects clearly at distances ranging from 25 cm to essentially infinity. 
+
+3100. More divergent rays from a close object are converged on the retina for a clear image.         The distance to the farthest object that can be seen clearly is called the far point of the eye (normally infinity).       Farsightedness, or hyperopia, is the inability to see close objects clearly while distant objects may be clear. 
+
+3103.         Another common vision defect is astigmatism, an unevenness or asymmetry in the focus of the eye.       For example, rays passing through a vertical region of the eye may focus closer than rays passing through a horizontal region, resulting in the image appearing elongated. 
+
+3106. This is true to an extent, but we find that color perception is even subtler than our eye’s response for various wavelengths of light.         The two major types of light-sensing cells (photoreceptors) in the retina are rods and cones.       Rods are more sensitive than cones by a factor of about 1000 and are solely responsible for peripheral vision as well as vision in very dark environments. 
+
+3109. One theory that takes various factors into account was advanced by Edwin Land (1909 – 1991), the creative founder of the Polaroid Corporation.         Land proposed, based partly on his many elegant experiments, that the three types of cones are organized into systems called retinexes.       Each retinex forms an image that is compared with the others, and the eye-brain system thus can compare a candle-illuminated white table cloth with its generally reddish surroundings and determine that it is actually white. 
+
+3112. Objectives arranged in this way are described as parfocal.         The second, the eyepiece, also referred to as the ocular, has several lenses which slide inside a cylindrical barrel.       The focusing ability is provided by the movement of both the objective lens and the eyepiece. 
+
+3118. 2,…(constructive). size 12{d`"sin"θ=mλ,`m=0,`1,`-1,`2,`-2,` dotslow } {}Similarly, to obtain destructive interference for a double slit, the path length difference must be a half-integral multiple of the wavelength, or 
+
+3121. The brightest colors are those that interfere constructively.         This interference is between light reflected from different surfaces of a thin film; thus, the effect is known as thin film interference.       As noticed before, interference effects are most prominent when light interacts with something having a size similar to its wavelength. 
+
+3124. Waves having such a direction are said to be polarized.         For an EM wave, we define the direction of polarization to be the direction parallel to the electric field.       Thus we can think of the electric field arrows as showing the direction of polarization, as in [link].An EM wave, such as light, is a transverse wave. 
+
+3127. The Sun and many other light sources produce waves that are randomly polarized (see [link]).         Such light is said to be unpolarized because it is composed of many waves with all possible directions of polarization.       Polaroid materials, invented by the founder of Polaroid Corporation, Edwin Land, act as a polarizing slit for light, allowing only polarization in one direction to pass through. 
+
+3130. Another interesting phenomenon associated with polarized light is the ability of some crystals to split an unpolarized beam of light into two.         Such crystals are said to be birefringent (see [link]).       Each of the separated rays has a specific polarization. 
+
+3133. An inertial frame of reference is a reference frame in which a body at rest remains at rest and a body in motion moves at a constant speed in a straight line unless acted on by an outside force. 
+
+3136. It was not until 1905, when Einstein published his first paper on special relativity, that the currently accepted conclusion was reached.         Based mostly on his analysis that the laws of electricity and magnetism would not allow another speed for light, and only slightly aware of the Michelson-Morley experiment, Einstein detailed his second postulate of special relativity.Second Postulate of Special Relativity       
+
+3139.          An observer of electromagnetic radiation sees relativistic Doppler effects if the source of the radiation is moving relative to the observer.       The wavelength of the radiation is longer (called a red shift) than that emitted by the source when the source moves away from the observer and shorter (called a blue shift) when the source moves toward the observer. 
+
+3142.          Atoms, molecules, and fundamental electron and proton charges are all examples of physical entities that are quantized—that is, they appear only in certain discrete values and do not have every conceivable value.       Quantized is the opposite of continuous. 
+
+3148.          Gamma rays, a form of nuclear and cosmic EM radiation, can have the highest frequencies and, hence, the highest photon energies in the EM spectrum.       For example, a γγ size 12{γ} {}-ray photon with f= 1021 
+
+3154. Not all molecules have this property.         Air, for example, is nearly transparent to many IR frequencies.Microwaves are the highest frequencies that can be produced by electronic circuits, although they are also produced naturally.       Thus microwaves are similar to IR but do not extend to as high frequencies. 
+
+3157. λ=hp(matter and photons),λ=hp(matter and photons), size 12{λ =  {  {h}  over  {p} } } {} where hh size 12{h} {} is Planck’s constant and pp size 12{p} {} is momentum.         This is defined to be the de Broglie wavelength.       (Note that we already have this for photons, from the equation p=h/λp=h/λ size 12{p = h/λ} {}.) 
+
+3160.          Particle-wave duality—the fact that all particles have wave properties—is one of the cornerstones of quantum mechanics.       We first came across it in the treatment of photons, those particles of EM radiation that exhibit both particle and wave properties, but not at the same time. 
+
+3163. The English scientist William Crookes, among others, continued to study what for some time were called Crookes tubes, wherein electrons are freed from atoms and molecules in the rarefied gas inside the tube and are accelerated from the cathode (negative) to the anode (positive) by the high potential.         These “cathode rays” collide with the gas atoms and molecules and excite them, resulting in the emission of electromagnetic (EM) radiation that makes the electrons’ path visible as a ray that spreads and fades as it moves away from the cathode.Gas discharge tubes today are most commonly called cathode-ray tubes, because the rays originate at the cathode.       Crookes showed that the electrons carry momentum (they can make a small paddle wheel rotate). 
+
+3166.          Hydrogen spectrum wavelength.       The Balmer series requires that nf=2nf=2 size 12{n rSub { size 8{f} } =2} {}. 
+
+3169. So, if a nucleus has ZZ size 12{Z} {} protons (Z=1Z=1 size 12{Z=1} {} for hydrogen, 2 for helium, etc.)         and only one electron, that atom is called a hydrogen-like atom.       The spectra of hydrogen-like ions are similar to hydrogen, but shifted to higher energy by the greater attractive force between the electron and nucleus. 
+
+3172. Each type of atom (or element) has its own characteristic electromagnetic spectrum.         X rays lie at the high-frequency end of an atom’s spectrum and are characteristic of the atom as well.       In this section, we explore characteristic x rays and some of their important applications.We have previously discussed x rays as a part of the electromagnetic spectrum in Photon Energies and the Electromagnetic Spectrum. 
+
+3175. Once it is excited, the atom can de-excite in several ways, one of which is to re-emit a photon of the same energy as excited it, a single step back to the ground state.         This is called atomic de-excitation.       All other paths of de-excitation involve smaller steps, in which lower-energy (longer wavelength) photons are emitted. 
+
+3178. Although these level lifetimes are short in human terms, they are many orders of magnitude longer than is typical and, thus, are said to be metastable, meaning relatively stable.         Phosphorescence is the de-excitation of a metastable state.       Glow-in-the-dark materials, such as luminous dials on some watches and clocks and on children’s toys and pajamas, are made of phosphorescent substances. 
+
+3181.         The name laser is an acronym for light amplification by stimulated emission of radiation, the process just described.       The process was proposed and developed following the advances in quantum physics. 
+
+3184. In order to explore the substructure of atoms (and knowing that magnetic fields affect moving charges), the Dutch physicist Hendrik Lorentz (1853–1930) suggested that his student Pieter Zeeman (1865–1943) study how spectra might be affected by magnetic fields.         What they found became known as the Zeeman effect, which involved spectral lines being split into two or more separate emission lines by an external magnetic field, as shown in [link].       For their discoveries, Zeeman and Lorentz shared the 1902 Nobel Prize in Physics. 
+
+3187. Physical characteristics that are quantized—such as energy, charge, and angular momentum—are of such importance that names and symbols are given to them.         The values of quantized entities are expressed in terms of quantum numbers, and the rules governing them are of the utmost importance in determining what nature is and does.       This section covers some of the more important quantum numbers and rules—all of which apply in chemistry, material science, and far beyond the realm of atomic physics, where they were first discovered. 
+
+3190. The emission of these rays is called nuclear radioactivity or simply radioactivity.         The rays themselves are called nuclear radiation.       A nucleus that spontaneously destroys part of its mass to emit radiation is said to decay (a term also used to describe the emission of radiation by atoms in excited states). 
+
+3193. Apart from αα size 12{α} {}, ββ size 12{β} {}, and γγ size 12{γ} {}, there are other forms of nuclear radiation as well, and these also produce ionization with similar effects.         We define ionizing radiation as any form of radiation that produces ionization whether nuclear in origin or not, since the effects and detection of the radiation are related to ionization.These dosimeters (literally, dose meters) are personal radiation monitors that detect the amount of radiation by the discharge of a rechargeable internal capacitor.       The amount of discharge is related to the amount of ionizing radiation encountered, a measurement of dose. 
+
+3196. The energy of the radiation is sufficient to excite atoms in a material that may fluoresce, such as the phosphor used by Rutherford’s group.         Materials called scintillators use a more complex collaborative process to convert radiation energy into light.       Scintillators may be liquid or solid, and they can be very efficient. 
+
+3199.          We have already identified protons as the particles that carry positive charge in the nuclei.       However, there are actually two types of particles in the nuclei—the proton and the neutron, referred to collectively as nucleons, the constituents of nuclei. 
+
+3202. Decay modes of nuclides out of the region of stability consistently produce nuclides closer to the region of stability.         There are more stable nuclei having certain numbers of protons and neutrons, called magic numbers.       Magic numbers indicate a shell structure for the nucleus in which closed shells are more stable. 
+
+3205.          There are actually three types of beta decay.       The first discovered was “ordinary” beta decay and is called β−β− size 12{β rSup { size 8{ - {}} } } {} decay or electron emission. 
+
+3208. Antielectrons are the antimatter counterpart to electrons, being nearly identical, having the same mass, spin, and so on, but having a positive charge and an electron family number of –1–1.         When a positron encounters an electron, there is a mutual annihilation in which all the mass of the antielectron-electron pair is converted into pure photon energy.       (The reaction, e++e−→γ+γe++e−→γ+γ size 12{e rSup { size 8{+{}} } +e rSup { size 8{-{}} }  rightarrow g+g} {}, conserves electron family number as well as all other conserved quantities.) 
+
+3211. This reduces it to N/1024N/1024 size 12{ {N} slash {"1024"} } {}.         For an arbitrary time, not just a multiple of the half-life, the exponential relationship must be used.Radioactive dating is a clever use of naturally occurring radioactivity.       Its most famous application is carbon-14 dating. 
+
+3214. We can therefore learn about nuclear forces by examining how tightly bound the nuclei are.         We define the binding energy (BE) of a nucleus to be the energy required to completely disassemble it into separate protons and neutrons.       We can determine the BE of a nucleus from its rest mass. 
+
+3217. Second, nuclear radiation depends on the nuclide and not on the chemical compound it is in, so that a radioactive nuclide can be put into a compound designed for specific purposes.         The compound is said to be tagged.       A tagged compound used for medical purposes is called a radiopharmaceutical. 
+
+3220. [link] shows a patient in a circular array of detectors that may be stationary or rotated, with detector output used by a computer to construct a detailed image.         This technique is called single-photon-emission computed tomography(SPECT) or sometimes simply SPET.       The spatial resolution of this technique is poor, about 1 cm, but the contrast (i.e. 
+
+3223. This is due to the body’s ability to partially repair the damage.         Any dose less than 100 mSv (10 rem) is called a low dose, 0.1 Sv to 1 Sv (10 to 100 rem) is called a moderate dose, and anything greater than 1 Sv (100 rem) is called a high dose.       There is no known way to determine after the fact if a person has been exposed to less than 10 mSv. 
+
+3226. To physically limit radiation doses, we use shielding, increase the distance from a source, and limit the time of exposure. 
+
+3229. Worldwide, it is also used to irradiate food, an application that promises to grow in the future.         Food irradiation is the treatment of food with ionizing radiation.       It is used to reduce pest infestation and to delay spoilage and prevent illness caused by microorganisms. 
+
+3232.          Nuclear fusion is a reaction in which two nuclei are combined, or fused, to form a larger nucleus.       We know that all nuclei have less mass than the sum of the masses of the protons and neutrons that form them. 
+
+3235. Break-even has nearly been reached and gives hope that ignition and commercial plants may become a reality in a few decades.Two techniques have shown considerable promise.         The first of these is called magnetic confinement and uses the property that charged particles have difficulty crossing magnetic field lines.       The tokamak, shown in [link], has shown particular promise. 
+
+3238. Being chargeless, even low-energy neutrons can strike a nucleus and be absorbed once they feel the attractive nuclear force.         Large nuclei are described by a liquid drop model with surface tension and oscillation modes, because the large number of nucleons act like atoms in a drop.       The neutron is attracted and thus, deposits energy, causing the nucleus to deform as a liquid drop. 
+
+3241. Control rods containing nuclides that very strongly absorb neutrons are used to adjust neutron flux.         To produce large power, reactors contain hundreds to thousands of critical masses, and the chain reaction easily becomes self-sustaining, a condition called criticality.       Neutron flux should be carefully regulated to avoid an exponential increase in fissions, a condition called supercriticality. 
+
+3244. Exploring the systematic behavior of their interactions has revealed even more about matter, forces, and energy.         Particle physics deals with the substructures of atoms and nuclei and is particularly aimed at finding those truly fundamental particles that have no further substructure.       Just as in atomic and nuclear physics, we have found a complex array of particles and properties with systematic characteristics analogous to the periodic table and the chart of nuclides. 
+

@@ -1,0 +1,198 @@
+3312.         This is precisely the situation that Charles Darwin describes in the theory of evolution by natural selection ([link]).       In simple terms, the theory states that organisms that are better suited for their environment will survive and reproduce, while those that are poorly suited for their environment will die off. 
+
+3315. During the egg's journey from the ovary through the fallopian tubes, to the uterus, a sperm may fertilize an egg.The egg and the sperm each contain 23 chromosomes.         Chromosomes are long strings of genetic material known as deoxyribonucleic acid (DNA).       DNA is a helix-shaped molecule made up of nucleotide base pairs. 
+
+3318. Therefore, each parent contributes half the genetic information carried by the offspring; the resulting physical characteristics of the offspring (called the phenotype) are determined by the interaction of genetic material supplied by the parents (called the genotype).         A person’s genotype is the genetic makeup of that individual.       Phenotype, on the other hand, refers to the individual’s inherited physical characteristics, which are a combination of genetic and environmental influences ([link]).(a) Genotype refers to the genetic makeup of an individual based on the genetic material (DNA) inherited from one’s parents. 
+
+3321. A characteristic like cleft chin, for example, is influenced by a single gene from each parent.         In this example, we will call the gene for cleft chin “B,” and the gene for smooth chin “b.” Cleft chin is a dominant trait, which means that having the dominant allele either from one parent (Bb) or both parents (BB) will always result in the phenotype associated with the dominant allele.       When someone has two copies of the same allele, they are said to be homozygous for that allele. 
+
+3330. Each of us represents a unique interaction between our genetic makeup and our environment; range of reaction is one way to describe this interaction.         Range of reaction asserts that our genes set the boundaries within which we can operate, and our environment interacts with the genes to determine where in that range we will fall.       For example, if an individual’s genetic makeup predisposes her to high levels of intellectual potential and she is reared in a rich, stimulating environment, then she will be more likely to achieve her full potential than if she were raised under conditions of significant deprivation. 
+
+3333. As mentioned earlier, gene expression is often influenced by environmental context in ways that are not entirely obvious.         For instance, identical twins share the same genetic information (identical twins develop from a single fertilized egg that split, so the genetic material is exactly the same in each; in contrast, fraternal twins develop from two different eggs fertilized by different sperm, so the genetic material varies as with non-twin siblings).       But even with identical genes, there remains an incredible amount of variability in how gene expression can unfold over the course of each twin’s life. 
+
+3336. In a study of people who were given up for adoption, adoptees whose biological mothers had schizophrenia and who had been raised in a disturbed family environment were much more likely to develop schizophrenia or another psychotic disorder than were any of the other groups in the study: 
+
+3339. Glial cells provide scaffolding on which the nervous system is built, help neurons line up closely with each other to allow neuronal communication, provide insulation to neurons, transport nutrients and waste products, and mediate immune responses.         Neurons, on the other hand, serve as interconnected information processors that are essential for all of the tasks of the nervous system.       This section briefly describes the structure and function of neurons. 
+
+3342.         The nucleus of the neuron is located in the soma, or cell body.       The soma has branching extensions known as dendrites. 
+
+3345. These signals are transmitted electrically across the soma and down a major extension from the soma known as the axon, which ends at multiple terminal buttons.         The terminal buttons contain synaptic vesicles that house neurotransmitters, the chemical messengers of the nervous system.       
+
+3348. Once neurotransmitters are released into the synapse, they travel across the small space and bind with corresponding receptors on the dendrite of an adjacent neuron.         Receptors, proteins on the cell surface where neurotransmitters attach, vary in shape, with different shapes “matching” different neurotransmitters.       
+
+3351.         Between signals, the neuron membrane’s potential is held in a state of readiness, called the resting potential.       Like a rubber band stretched out and waiting to spring into action, ions line up on either side of the cell membrane, ready to rush across the membrane when the neuron goes active and the membrane opens its gates (i.e., a sodium-potassium pump that allows movement of ions across the membrane). 
+
+3354.         This positive spike constitutes the action potential: the electrical signal that typically moves from the cell body down the axon to the axon terminals.       The electrical signal moves down the axon like a wave; at each point, some of the sodium ions that enter the cell diffuse to the next section of the axon, raising the charge past the threshold of excitation and triggering a new influx of sodium ions. 
+
+3357. The neurotransmitters travel across the synapse and bind to receptors on the dendrites of the adjacent neuron, and the process repeats itself in the new neuron (assuming the signal is sufficiently strong to trigger an action potential).         Once the signal is delivered, excess neurotransmitters in the synapse drift away, are broken down into inactive fragments, or are reabsorbed in a process known as reuptake.       Reuptake involves the neurotransmitter being pumped back into the neuron that released it, in order to clear the synapse ([link]). 
+
+3360. In this perspective, psychotropic medications can help improve the symptoms associated with these disorders.         Psychotropic medications are drugs that treat psychiatric symptoms by restoring neurotransmitter balance.       Acetylcholine is involved in muscle action and memory; it can increase arousal and enhance cognition. 
+
+3363.         The nervous system can be divided into two major subdivisions: the central nervous system (CNS) and the peripheral nervous system (PNS), shown in [link].       The CNS is comprised of the brain and spinal cord; the PNS connects the CNS to the rest of the body. 
+
+3366. It can be further subdivided into the sympathetic and parasympathetic divisions ([link]).         The sympathetic nervous system is involved in preparing the body for stress-related activities; the parasympathetic nervous system is associated with returning the body to routine, day-to-day operations.       The two systems have complementary functions, operating in tandem to maintain the body’s homeostasis. 
+
+3369. For example, think about how you feel when you have to stand up and give a presentation in front of a roomful of people, or right before taking a big test.         You are in no real physical danger in those situations, and yet you have evolved to respond to any perceived threat with the fight or flight response.       This kind of response is not nearly as adaptive in the modern world; in fact, we suffer negative health consequences when faced constantly with psychological threats that we can neither fight nor flee. 
+
+3372. These gyri and sulci form important landmarks that allow us to separate the brain into functional centers.         The most prominent sulcus, known as the longitudinal fissure, is the deep groove that separates the brain into two halves or hemispheres: the left hemisphere and the right hemisphere.       
+
+3375.         Forebrain StructuresThe two hemispheres of the cerebral cortex are part of the forebrain ([link]), which is the largest part of the brain.       The forebrain contains the cerebral cortex and a number of other structures that lie beneath the cortex (called subcortical structures): thalamus, hypothalamus, pituitary gland, and the limbic system (collection of structures). 
+
+3378.         Probably the most famous case of frontal lobe damage is that of a man by the name of Phineas Gage.       On September 13, 1848, Gage (age 25) was working as a railroad foreman in Vermont. 
+
+3381. The brain’s parietal lobe is located immediately behind the frontal lobe, and is involved in processing information from the body’s senses.         It contains the somatosensory cortex, which is essential for processing sensory information from across the body, such as touch, temperature, and pain.       The somatosensory cortex is organized topographically, which means that spatial relationships that exist in the body are maintained on the surface of the somatosensory cortex ([link]). 
+
+3384. The auditory cortex, the main area responsible for processing auditory information, is located within the temporal lobe.         Wernicke’s area, important for speech comprehension, is also located here.       Whereas individuals with damage to Broca’s area have difficulty producing language, those with damage to Wernicke’s area can produce sensible language, but they are unable to understand it ([link]). 
+
+3387. Other Areas of the ForebrainOther areas of the forebrain, located beneath the cerebral cortex, include the thalamus and the limbic system.         The thalamus is a sensory relay for the brain.       All of our senses, with the exception of smell, are routed through the thalamus before being directed to other areas of the brain for processing ([link]). 
+
+3390. The hippocampus is an essential structure for learning and memory.         The amygdala is involved in our experience of emotion and in tying emotional meaning to our memories.       The hypothalamus regulates a number of homeostatic processes, including the regulation of body temperature, appetite, and blood pressure. 
+
+3393.         Midbrain and Hindbrain StructuresThe midbrain is comprised of structures located deep within the brain, between the forebrain and the hindbrain.       The reticular formation is centered in the midbrain, but it actually extends up into the forebrain and down into the hindbrain. 
+
+3396.         The hindbrain is located at the back of the head and looks like an extension of the spinal cord.       It contains the medulla, pons, and cerebellum ([link]). 
+
+3399.         The cerebellum (Latin for “little brain”) receives messages from muscles, tendons, joints, and structures in our ear to control balance, coordination, movement, and motor skills.       The cerebellum is also thought to be an important area for processing some types of memories. 
+
+3402.         A computerized tomography (CT) scan involves taking a number of x-rays of a particular section of a person’s body or brain ([link]).       The x-rays pass through tissues of different densities at different rates, allowing a computer to construct an overall image of the area of the body being scanned. 
+
+3405. Tissues of different densities give off different signals, which a computer interprets and displays on a monitor.         Functional magnetic resonance imaging (fMRI) operates on the same principles, but it shows changes in brain activity over time by tracking blood flow and oxygen levels.       The fMRI provides more detailed images of the brain’s structure, as well as better accuracy in time, than is possible in PET scans ([link]). 
+
+3408.         Major GlandsThe pituitary gland descends from the hypothalamus at the base of the brain, and acts in close association with it.       The pituitary is often referred to as the “master gland” because its messenger hormones control all the other glands in the endocrine system, although it mostly carries out instructions from the hypothalamus. 
+
+3411. The adrenal glands sit atop our kidneys and secrete hormones involved in the stress response, such as epinephrine (adrenaline) and norepinephrine (noradrenaline).         The pancreas is an internal organ that secretes hormones that regulate blood sugar levels: insulin and glucagon.       These pancreatic hormones are essential for maintaining stable levels of blood sugar throughout the day by lowering blood glucose levels (insulin) or raising them (glucagon). 
+
+3414. For one, each participant must sign an informed consent form before they can participate in the experiment.         An informed consent form provides a written description of what participants can expect during the experiment, including potential risks and implications of the research.       It also lets participants know that their involvement is completely voluntary and can be discontinued without penalty at any time. 
+
+3417.         A participant in the Tuskegee Syphilis Study receives an injection.       "> 
+
+3420.         Correlation means that there is a relationship between two or more variables (such as ice cream consumption and crime), but this relationship does not necessarily imply cause and effect.       When two variables are correlated, it simply means that as one variable changes, so does the other. 
+
+3423. Put another way, it means that as one variable increases so does the other, and conversely, when one variable decreases so does the other.         A negative correlation means that the variables move in opposite directions.       If two variables are negatively correlated, a decrease in one variable is associated with an increase in the other and vice versa. 
+
+3426. Think back to our discussion of the research done by the American Cancer Society and how their research projects were some of the first demonstrations of the link between smoking and cancer.         It seems reasonable to assume that smoking causes cancer, but if we were limited to correlational research, we would be overstepping our bounds by making this assumption.       
+
+3429.         As you’ve learned, the only way to establish that there is a cause-and-effect relationship between two variables is to conduct a scientific experiment.       Experiment has a different meaning in the scientific context than in everyday life. 
+
+3432. We also need to precisely define, or operationalize, what is considered violent and nonviolent.         An operational definition is a description of how we will measure our variables, and it is important in allowing others understand exactly how and what a researcher measures in a particular experiment.       In operationalizing violent behavior, we might choose to count only physical acts like kicking or punching as instances of this behavior, or we also may choose to include angry verbal exchanges. 
+
+3435.         In a double-blind study, both the researchers and the participants are blind to group assignments.       Why would a researcher want to run a study where no one knows who is in which group? 
+
+3438. In our example of how violent television programs affect children’s display of violent behavior, the independent variable is the type of program—violent or nonviolent—viewed by participants in the study ([link]).         A dependent variable is what the researcher measures to see how much effect the independent variable had.       In our example, the dependent variable is the number of violent acts displayed by the experimental participants. 
+
+3441. Now that we have a sample, the next step of the experimental process is to split the participants into experimental and control groups through random assignment.         With random assignment, all participants have an equal chance of being assigned to either group.       There is statistical software that will randomly assign each of the fourth graders in the sample to either the experimental or the control group. 
+
+3444. The American Psychological Association (APA) publishes a manual detailing how to write a paper for submission to scientific journals.         Unlike an article that might be published in a magazine like Psychology Today, which targets a general audience with an interest in psychology, scientific journals generally publish peer-reviewed journal articles aimed at an audience of professionals and scholars who are actively involved in research themselves.       
+
+3447. This is where validity comes into play.         Validity refers to the extent to which a given instrument or tool accurately measures what it’s supposed to measure.       While any valid measure is by necessity reliable, the reverse is not necessarily true. 
+
+3450. We want our researcher to be inconspicuous—perhaps standing at one of the sinks pretending to put in contact lenses while secretly recording the relevant information.         This type of observational study is called naturalistic observation: observing behavior in its natural setting.       To better understand peer exclusion, Suzanne Fanger collaborated with colleagues at the University of Texas to observe the behavior of preschool children on a playground. 
+
+3453.         Another potential problem in observational research is observer bias.       Generally, people who act as observers are closely involved in the research project and may unconsciously skew their observations to fit their research goals or expectations. 
+
+3456.         Surveys allow researchers to gather data from larger samples than may be afforded by other research methods. A sample is a subset of individuals selected from a population, which is the overall group of individuals that the researchers are interested in.       Researchers study the sample and seek to generalize their findings to the population. 
+
+3459. Another approach is cross-sectional research.         In cross-sectional research, a researcher compares multiple segments of the population at the same time.       Using the dietary habits example above, the researcher might directly compare different groups of people by age. 
+
+3462. One of your responsibilities is to manage the state budget and determine how to best spend your constituents’ tax dollars.         As the new governor, you need to decide whether to continue funding the D.A.R.E. (Drug Abuse Resistance Education) program in public schools ([link]).       This program typically involves police officers coming into the classroom to educate students about the dangers of becoming involved with alcohol and other drugs. 
+
+3465. The types of reasoning within the circle are called deductive and inductive.         In deductive reasoning, ideas are tested against the empirical world; in inductive reasoning, empirical observations lead to new ideas ([link]).       These processes are inseparable, like inhaling and exhaling, but different research approaches place different emphasis on the deductive and inductive aspects. 
+
+3468.         A scientific hypothesis is also falsifiable, or capable of being shown to be incorrect.       Recall from the introductory chapter that Sigmund Freud had lots of interesting ideas to explain various human behaviors ([link]). 
+
+3471. The word psychology was coined at a time when the concepts of soul and mind were not as clearly distinguished (Green, 2001).         The root ology denotes scientific study of, and psychology refers to the scientific study of the mind.       Since science studies only observable phenomena and the mind is not directly observable, we expand this definition to the scientific study of mind and behavior.The scientific study of any aspect of the world uses the scientific method to acquire knowledge. 
+
+3474. Rather, philosophy in this context refers to many different disciplinary perspectives that would be housed in a traditional college of liberal arts and sciences.The requirements to earn a PhD vary from country to country and even from school to school, but usually, individuals earning this degree must complete a dissertation.         A dissertation is essentially a long research paper or bundled published articles describing research that was conducted as a part of the candidate’s doctoral training.       In the United States, a dissertation generally has to be defended before a committee of expert reviewers before the degree is conferred ([link]). 
+
+3477. Contemporary psychology is a diverse field that is influenced by all of the historical perspectives described in the preceding section.         Reflective of the discipline’s diversity is the diversity seen within the American Psychological Association (APA).       The APA is a professional organization representing psychologists in the United States. 
+
+3480.         Scientists interested in both physiological aspects of sensory systems as well as in the psychological experience of sensory information work within the area of sensation and perception ([link]).       As such, sensation and perception research is also quite interdisciplinary. 
+
+3483. Early developmental psychologists focused primarily on changes that occurred through reaching adulthood, providing enormous insight into the differences in physical, cognitive, and social capacities that exist between very young children and adults.         For instance, research by Jean Piaget ([link]) demonstrated that very young children do not demonstrate object permanence.       Object permanence refers to the understanding that physical things continue to exist, even if they are hidden from us. 
+
+3486. Personality traits are relatively consistent patterns of thought and behavior, and many have proposed that five trait dimensions are sufficient to capture the variations in personality seen across individuals.         These five dimensions are known as the “Big Five” or the Five Factor model, and include dimensions of conscientiousness, agreeableness, neuroticism, openness, and extraversion ([link]).       Each of these traits has been demonstrated to be relatively stable over the lifespan (e.g., Rantanen, Metsäpelto, Feldt, Pulkinnen, and Kokko, 2007; Soldz & Vaillant, 1999; McCrae & Costa, 2008) and is influenced by genetics (e.g., Jang, Livesly, and Vernon, 1996). 
+
+3489.         Industrial-Organizational psychology (I-O psychology) is a subfield of psychology that applies psychological theories, principles, and research findings in industrial and organizational settings.       I-O psychologists are often involved in issues related to personnel management, organizational structure, and workplace environment. 
+
+3492.         Researchers in sport and exercise psychology study the psychological aspects of sport performance, including motivation and performance anxiety, and the effects of sport on mental and emotional wellbeing.       Research is also conducted on similar topics as they relate to physical exercise in general. 
+
+3495. As mentioned earlier, both Freud and Rogers provided perspectives that have been influential in shaping how clinicians interact with people seeking psychotherapy.         While aspects of the psychoanalytic theory are still found among some of today’s therapists who are trained from a psychodynamic perspective, Roger’s ideas about client-centered therapy have been especially influential in shaping how many clinicians operate.       Furthermore, both behaviorism and the cognitive revolution have shaped clinical practice in the forms of behavioral therapy, cognitive therapy, and cognitive-behavioral therapy ([link]). 
+
+3498. Wundt viewed psychology as a scientific study of conscious experience, and he believed that the goal of psychology was to identify components of consciousness and how those components combined to result in our conscious experience.         Wundt used introspection (he called it “internal perception”), a process by which someone examines their own conscious experience as objectively as possible, making the human mind like any other aspect of nature that a scientist observed.       Wundt’s version of introspection used only very specific experimental conditions in which an external stimulus was designed to produce a scientifically observable (repeatable) experience of the mind (Danziger, 1980). 
+
+3501. Adaptation means that a trait of an organism has a function for the survival and reproduction of the individual, because it has been naturally selected.         As James saw it, psychology’s purpose was to study the function of behavior in the world, and as such, his perspective was known as functionalism.       Functionalism focused on how mental activities helped an organism fit into its environment. 
+
+3504. These men are credited with introducing psychologists in the United States to various Gestalt principles.         The word Gestalt roughly translates to “whole;” a major emphasis of Gestalt psychology deals with the fact that although a sensory experience can be broken down into individual parts, how those parts relate to each other as a whole is often what the individual responds to in perception.       For example, a song may be made up of individual notes played by different instruments, but the real nature of the song is perceived in the combinations of these notes as they form the melody, rhythm, and harmony. 
+
+3507. Because he believed that objective analysis of the mind was impossible, Watson preferred to focus directly on observable behavior and try to bring that behavior under control.         Watson was a major proponent of shifting the focus of psychology from the mind to behavior, and this approach of observing and controlling behavior came to be known as behaviorism.       A major object of study by behaviorists was learned behavior and its interaction with inborn qualities of the organism. 
+
+3510. Thus, humanism emerged.         Humanism is a perspective within psychology that emphasizes the potential for good that is innate to all humans.       Two of the most well-known proponents of humanistic psychology are Abraham Maslow and Carl Rogers (O’Hara, n.d.). 
+
+3513.         Culture has important impacts on individuals and social psychology, yet the effects of culture on psychology are under-studied.       There is a risk that psychological theories and data derived from white, American settings could be assumed to apply to individuals and social groups from other cultures and this is unlikely to be true (Betancourt & López, 1993). 
+
+3516. Sleep is a state marked by relatively low levels of physical activity and reduced sensory awareness that is distinct from periods of rest that occur during wakefulness.         Wakefulness is characterized by high levels of sensory awareness, thought, and behavior.       In between these extremes are states of consciousness related to daydreaming, intoxication as a result of alcohol or other drug use, meditative states, hypnotic states, and altered states of consciousness following sleep deprivation. 
+
+3519.          If we have biological rhythms, then is there some sort of biological clock?       In the brain, the hypothalamus, which lies above the pituitary gland, is a main center of homeostasis. 
+
+3522. For example, most people sleep during the night and are awake during the day.         One important regulator of sleep-wake cycles is the hormone melatonin.       The pineal gland, an endocrine structure located inside the brain that releases melatonin, is thought to be involved in the regulation of various biological rhythms and of the immune system during sleep (Hardeland, Pandi-Perumal, & Cardinali, 2006). 
+
+3525. When we do this, we often experience jet lag.         Jet lag is a collection of symptoms that results from the mismatch between our internal circadian cycles and our environment.       These symptoms include fatigue, sluggishness, irritability, and insomnia (i.e., a consistent difficulty in falling or staying asleep for at least three nights a week over a month’s time) (Roth, 2007). 
+
+3528. When people have difficulty getting sleep due to their work or the demands of day-to-day life, they accumulate a sleep debt.         A person with a sleep debt does not get sufficient sleep on a chronic basis.       The consequences of sleep debt include decreased levels of alertness and mental efficiency. 
+
+3531. One popular hypothesis of sleep incorporates the perspective of evolutionary psychology.         Evolutionary psychology is a discipline that studies how universal patterns of behavior and cognitive processes have evolved over time as a result of natural selection.       Variations and adaptations in cognition and behavior make individuals more or less successful in reproducing and passing their genes to their offspring. 
+
+3534. The first stage of NREM sleep is known as stage 1 sleep.         Stage 1 sleep is a transitional phase that occurs between wakefulness and sleep, the period during which we drift off to sleep.       During this time, there is a slowdown in both the rates of respiration and heartbeat. 
+
+3537.          As we move into stage 2 sleep, the body goes into a state of deep relaxation.       Theta waves still dominate the activity of the brain, but they are interrupted by brief bursts of activity known as sleep spindles ([link]). 
+
+3540.          Stage 3 and stage 4 of sleep are often referred to as deep sleep or slow-wave sleep because these stages are characterized by low frequency (up to 4 Hz), high amplitude delta waves ([link]).       During this time, an individual’s heart rate and respiration slow dramatically. 
+
+3543. Manifest content is the actual content, or storyline, of a dream.         Latent content, on the other hand, refers to the hidden meaning of a dream.       For instance, if a woman dreams about being chased by a snake, Freud might have argued that this represents the woman’s fear of sexual intimacy, with the snake serving as a symbol of a man’s penis. 
+
+3546. Some forms of psychotherapy, such as cognitive-behavioral therapy, can help sufferers of insomnia.         Cognitive-behavioral therapy is a type of psychotherapy that focuses on cognitive processes and problem behaviors.       The treatment of insomnia likely would include stress management techniques and changes in problematic behaviors that could contribute to insomnia (e.g., spending more waking time in bed). 
+
+3549.          REM sleep behavior disorder (RBD) occurs when the muscle paralysis associated with the REM sleep phase does not occur.       Individuals who suffer from RBD have high levels of physical activity during REM sleep, especially during disturbing dreams. 
+
+3552.         Sleep apnea is defined by episodes during which a sleeper’s breathing stops.       These episodes can last 10–20 seconds or longer and often are associated with brief periods of arousal. 
+
+3555. In central sleep apnea, disruption in signals sent from the brain that regulate breathing cause periods of interrupted breathing (White, 2005).One of the most common treatments for sleep apnea involves the use of a special device during sleep.         A continuous positive airway pressure (CPAP) device includes a mask that fits over the sleeper’s nose and mouth, which is connected to a pump that pumps air into the person’s airways, forcing them to remain open, as shown in [link].       Some newer CPAP masks are smaller and cover only the nose. 
+
+3558. Unlike the other sleep disorders described in this section, a person with narcolepsy cannot resist falling asleep at inopportune times.         These sleep episodes are often associated with cataplexy, which is a lack of muscle tone or muscle weakness, and in some cases involves complete paralysis of the voluntary muscles.       This is similar to the kind of paralysis experienced by healthy individuals during REM sleep (Burgess & Scammell, 2012; Hishikawa & Shimizu, 1995; Luppi et al., 2011). 
+
+3561. In individuals diagnosed with a substance use disorder, there is a compulsive pattern of drug use that is often associated with both physical and psychological dependence.Physical dependence involves changes in normal bodily functions—the user will experience withdrawal from the drug upon cessation of use.         In contrast, a person who has psychological dependence has an emotional, rather than physical, need for the drug and may use the drug to relieve psychological distress.       Tolerance is linked to physiological dependence, and it occurs when a person requires more and more drug to achieve effects previously experienced at lower doses. 
+
+3564. Ethanol, which we commonly refer to as alcohol, is in a class of psychoactive drugs known as depressants ([link]).         A depressant is a drug that tends to suppress central nervous system activity.       Other depressants include barbiturates and benzodiazepines. 
+
+3567.          The cocaine, amphetamine, cathinones, and MDMA users seek a euphoric high, feelings of intense elation and pleasure, especially in those users who take the drug via intravenous injection or smoking.       Repeated use of these stimulants can have significant adverse consequences. 
+
+3570.          An opioid is one of a category of drugs that includes heroin, morphine, methadone, and codeine.       Opioids have analgesic properties; that is, they decrease pain. 
+
+3573. Methadone is a synthetic opioid that is less euphorigenic than heroin and similar drugs.         Methadone clinics help people who previously struggled with opioid addiction manage withdrawal symptoms through the use of methadone.       Other drugs, including the opioid buprenorphine, have also been used to alleviate symptoms of opiate withdrawal. 
+
+3576.          Hypnosis is a state of extreme self-focus and attention in which minimal attention is given to external stimuli.       In the therapeutic setting, a clinician may use relaxation and suggestion in an attempt to alter the thoughts and perceptions of a patient. 
+
+3579. These cells relay messages, in the form of action potentials (as you learned when studying biopsychology), to the central nervous system.         The conversion from sensory stimulus energy to action potential is known as transduction.       
+
+3582. Sometimes, we are more interested in how much difference in stimuli is required to detect a difference between them.         This is known as the just noticeable difference (jnd) or difference threshold.       Unlike the absolute threshold, the difference threshold changes depending on the stimulus intensity. 
+
+3585. On the other hand, how we interpret those sensations is influenced by our available knowledge, our experiences, and our thoughts.         This is called top-down processing.       
+
+3588. If so, then you have experienced how motivation to detect a meaningful stimulus can shift our ability to discriminate between a true sensory stimulus and background noise.         The ability to identify a stimulus when it is embedded in a distracting background is called signal detection theory.       This might also explain why a mother is awakened by a quiet murmur from her baby but not by other sounds that occur while she is asleep. 
+
+3591. Two physical characteristics of a wave are amplitude and wavelength ([link]).         The amplitude of a wave is the height of a wave as measured from the highest point on the wave (peak or crest) to the lowest point on the wave (trough).       Wavelength refers to the length of a wave from one peak to the next. 
+
+3594.          The visible spectrum is the portion of the larger electromagnetic spectrum that we can see.       As [link] shows, the electromagnetic spectrum encompasses all of the electromagnetic radiation that occurs in our environment and includes gamma rays, x-rays, ultraviolet light, visible light, infrared light, microwaves, and radio waves. 
+
+3597. This is known as the timbre of a sound.         Timbre refers to a sound’s purity, and it is affected by the complex interplay of frequency, amplitude, and timing of sound waves.       
+
+3600. It serves as a barrier between the inner eye and the outside world, and it is involved in focusing light waves that enter the eye.         The pupil is the small opening in the eye through which light passes, and the size of the pupil can change as a function of light levels as well as emotional arousal.       When light levels are low, the pupil will become dilated, or expanded, to allow more light to enter the eye. 
+
+3603. The lens is attached to muscles that can change its shape to aid in focusing light that is reflected from near or far objects.         In a normal-sighted individual, the lens will focus images perfectly on a small indentation in the back of the eye known as the fovea, which is part of the retina, the light-sensitive lining of the eye.       The fovea contains densely packed specialized photoreceptor cells ([link]). 
+
+3606. While cones are concentrated in the fovea, where images tend to be focused, rods, another type of photoreceptor, are located throughout the remainder of the retina.         Rods are specialized photoreceptors that work well in low light conditions, and while they lack the spatial resolution and color function of the cones, they are involved in our vision in dimly lit environments as well as in our perception of movement on the periphery of our visual field.       
+
+3609.          The optic nerve from each eye merges just below the brain at a point called the optic chiasm.       As [link] shows, the optic chiasm is an X-shaped structure that sits just below the cerebral cortex at the front of the brain. 
+
+3612.          The trichromatic theory of color vision is not the only theory—another major theory of color vision is known as the opponent-process theory.       According to this theory, color is coded in opponent pairs: black-white, yellow-blue, and green-red. 
+
