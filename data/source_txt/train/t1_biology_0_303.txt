@@ -1,196 +1,98 @@
 911. The peduncle attaches the flower to the plant.         A whorl of sepals (collectively called the calyx) is located at the base of the peduncle and encloses the unopened floral bud.       Sepals are usually photosynthetic organs, although there are some exceptions. 
-
-914.         As illustrated in [link], styles, stigmas, and ovules constitute the female organ: the gynoecium or carpel.       Flower structure is very diverse, and carpels may be singular, multiple, or fused. 
-
+917. The ovary houses one or more ovules, each of which will develop into a seed upon fertilization.         The male reproductive organs, the stamens (collectively called the androecium), surround the central carpel.       Stamens are composed of a thin stalk called a filament and a sac-like structure called the anther. 
 920. The other sperm fuses with the 2n polar nuclei, forming a triploid cell that will develop into the endosperm, which is tissue that serves as a food reserve.         The zygote develops into an embryo with a radicle, or small root, and one (monocot) or two (dicot) leaf-like organs called cotyledons.       This difference in the number of embryonic leaves is the basis for the two major groups of angiosperms: the monocots and the eudicots. 
-
 923. Monocots include grasses and lilies, and eudicots or dicots form a polyphyletic group.         Basal angiosperms are a group of plants that are believed to have branched off before the separation into monocots and eudicots because they exhibit traits from both groups.       They are categorized separately in many classification schemes. 
-
 926.         Explore this website for additional information on pollinators.More than 80 percent of angiosperms depend on animals for pollination: the transfer of pollen from the anther to the stigma.       Consequently, plants have developed many adaptations to attract pollinators. 
-
 929. Efforts to preserve biodiversity take several lines of action, from preserving heirloom seeds to barcoding species.         Heirloom seeds come from plants that were traditionally grown in human populations, as opposed to the seeds used for large-scale agricultural production.       Barcoding is a technique in which one or more short gene sequences, taken from a well-characterized portion of the genome, are used to identify a species through DNA analysis. 
-
 932. The first reliable record of gymnosperms dates their appearance to the Pennsylvanian period, about 319 million years ago ([link]).         Gymnosperms were preceded by progymnosperms, the first naked seed plants, which arose about 380 million years ago.       Progymnosperms were a transitional group of plants that superficially resembled conifers (cone bearers) because they produced wood from the secondary growth of the vascular tissues; however, they still reproduced like ferns, releasing spores into the environment. 
-
 935. Seed ferns ([link]) produced their seeds along their branches without specialized structures.         What makes them the first true seed plants is that they developed structures called cupules to enclose and protect the ovule—the female gametophyte and associated tissues—which develops into a seed upon fertilization.       Seed plants resembling modern tree ferns became more numerous and diverse in the coal swamps of the Carboniferous period. 
-
-938. Following fertilization of the egg, the ovule grows into a seed.         The surrounding tissues of the ovary thicken, developing into a fruit that will protect the seed and often ensure its dispersal over a wide geographic range.       Not all fruits develop from an ovary; such structures are “false fruits.” Like flowers, fruit can vary tremendously in appearance, size, smell, and taste. 
-
+941. Three cell divisions transform the single-celled zygote into an eight-celled structure.         After further cell division and rearrangement of existing cells, a 6–32-celled hollow structure called a blastula is formed.       Next, the blastula undergoes further cell division and cellular rearrangement during a process called gastrulation. 
 944. Different cell layers (called germ layers) are formed during gastrulation.         These germ layers are programmed to develop into certain tissue types, organs, and organ systems during a process called organogenesis.       
-
-947.         Bilateral symmetry involves the division of the animal through a sagittal plane, resulting in two mirror image, right and left halves, such as those of a butterfly ([link]d), crab, or human body.       Animals with bilateral symmetry have a “head” and “tail” (anterior vs. posterior), front and back (dorsal vs. ventral), and right and left sides ([link]). 
-
+950.         Further subdivision of animals with three germ layers (triploblasts) results in the separation of animals that may develop an internal body cavity derived from mesoderm, called a coelom, and those that do not.       This epithelial cell-lined coelomic cavity represents a space, usually filled with fluid, which lies between the visceral organs and the body wall. 
 953. A third group of triploblasts has a slightly different coelom derived partly from mesoderm and partly from endoderm, which is found between the two layers.         Although still functional, these are considered false coeloms, and those animals are called pseudocoelomates.       The phylum Nematoda (roundworms) is an example of a pseudocoelomate. 
-
 956. The mouth or anus develops from a structure called the blastopore ([link]).         The blastopore is the indentation formed during the initial stages of gastrulation.       In later stages, a second opening forms, and these two openings will eventually give rise to the mouth and anus ([link]). 
-
 959. The earliest distinction between protostomes and deuterostomes is the type of cleavage undergone by the zygote.         Protostomes undergo spiral cleavage, meaning that the cells of one pole of the embryo are rotated, and thus misaligned, with respect to the cells of the opposite pole.       This is due to the oblique angle of the cleavage. 
-
 962. A cell does not have the ability to develop into any cell type.         In contrast, deuterostomes undergo indeterminate cleavage, in which cells are not yet pre-determined at this early stage to develop into specific cell types.       These cells are referred to as undifferentiated cells. 
-
 965. Ecdysozoa includes nematodes and arthropods; they are so named for a commonly found characteristic among the group: exoskeletal molting (termed ecdysis).         Lophotrochozoa is named for two structural features, each common to certain phyla within the clade.       Some lophotrochozoan phyla are characterized by a larval stage called trochophore larvae, and other phyla are characterized by the presence of a feeding structure called a lophophore. 
-
 968. The Cambrian Explosion of Animal LifeThe Cambrian period, occurring between approximately 542–488 million years ago, marks the most rapid evolution of new animal phyla and animal diversity in Earth’s history.         It is believed that most of the animal phyla in existence today had their origins during this time, often referred to as the Cambrian explosion ([link]).       Echinoderms, mollusks, worms, arthropods, and chordates arose during this period. 
-
 971. The invertebrates, or invertebrata, are animals that do not contain bony structures, such as the cranium and vertebrae.         The simplest of all the invertebrates are the Parazoans, which include only the phylum Porifera: the sponges ([link]).       Parazoans (“beside animals”) do not display tissue-level organization, although they do have specialized cells that perform specific functions. 
-
 974. While sponges (excluding the hexactinellids) do not exhibit tissue-layer organization, they do have different cell types that perform distinct functions.         Pinacocytes, which are epithelial-like cells, form the outermost layer of sponges and enclose a jelly-like substance called mesohyl.       Mesohyl is an extracellular matrix consisting of a collagen-like gel with suspended cells that perform various functions. 
-
 977. In some sponges, ostia are formed by porocytes, single tube-shaped cells that act as valves to regulate the flow of water into the spongocoel.         In other sponges, ostia are formed by folds in the body wall of the sponge.Choanocytes (“collar cells”) are present at various locations, depending on the type of sponge, but they always line the inner portions of some space through which water flows (the spongocoel in simple sponges, canals within the body wall in more complex sponges, and chambers scattered throughout the body in the most complex sponges).       Whereas pinacocytes line the outside of the sponge, choanocytes tend to line certain inner portions of the sponge body that surround the mesohyl. 
-
 980. An atypical type of asexual reproduction is found only in freshwater sponges and occurs through the formation of gemmules.         Gemmules are environmentally resistant structures produced by adult sponges wherein the typical sponge morphology is inverted.       In gemmules, an inner layer of amoebocytes is surrounded by a layer of collagen (spongin) that may be reinforced by spicules. 
-
 983.         Animals in this phylum display two distinct morphological body plans: polyp or “stalk” and medusa or “bell” ([link]).       An example of the polyp form is Hydra spp. 
-
 986.         The cnidarians perform extracellular digestion in which the food is taken into the gastrovascular cavity, enzymes are secreted into the cavity, and the cells lining the cavity absorb nutrients.       The gastrovascular cavity has only one opening that serves as both a mouth and an anus, which is termed an incomplete digestive system. 
-
 989. These forms may produce additional polyps by budding or may transform into the medusoid form.         The life cycle ([link]) of these animals can be described as polymorphic, because they exhibit both a medusal and polypoid body plan at some point in their life cycle.       
-
 992. Rotifers obtain food that is directed toward the mouth by the current created from the movement of the corona.         The food particles enter the mouth and travel to the mastax (pharynx with jaw-like structures).       Food then passes by digestive and salivary glands, and into the stomach, then onto the intestines. 
-
 995. Eggs and sperm are released into the water, and fertilization occurs externally.         The zygote then develops into a planuliform larva.       In some nemertine species, a pilidium larva may develop inside the young worm, from a series of imaginal discs. 
-
 998. Mollusk species that are exclusively aquatic have gills for respiration, whereas some terrestrial species have lungs for respiration.         Additionally, a tongue-like organ called a radula, which bears chitinous tooth-like ornamentation, is present in many species, and serves to shred or scrape food.       The mantle (also known as the pallium) is the dorsal epidermis in mollusks; shelled mollusks are specialized to secrete a chitinous and hard calcareous shell. 
-
 1001. Calcareous spines may be present on the girdle to offer protection from predators.         Respiration is facilitated by ctenidia (gills) that are present ventrally.       These animals possess a radula that is modified for scraping. 
-
 1004. The head is rudimentary and protrudes out of the posterior end of the shell.         These animals do not possess eyes, but they have a radula, as well as a foot modified into tentacles with a bulbous end, known as captaculae.       Captaculae serve to catch and manipulate prey. 
-
 1007. The overall body can be divided into head, body, and pygidium (or tail).         The clitellum is a reproductive structure that generates mucus that aids in sperm transfer and gives rise to a cocoon within which fertilization occurs; it appears as a fused band in the anterior third of the animal ([link]).       
-
 1010. The name derives from the word ecdysis, which refers to the shedding, or molting, of the exoskeleton.         The phyla in this group have a hard cuticle that covers their bodies, which must be periodically shed and replaced for them to increase in size.Phylum Nematoda includes more than 28,000 species with an estimated 16,000 being parasitic in nature.       The name Nematoda is derived from the Greek word “Nemos,” which means “thread” and includes roundworms. 
-
 1013. Crustaceans possess two pairs of antennae, mandibles as mouthparts, and biramous (“two branched”) appendages, which means that their legs are formed in two parts, as distinct from the uniramous (“one branched”) myriapods and hexapods ([link]). 
-
 1016.         Larval stages—nauplius and zoea—are seen in the early development of crustaceans.       A cypris larva is also seen in the early development of barnacles ([link]). 
-
 1019. These animals do not possess antennae.         The second pair of appendages is known as pedipalps.       In some species, like sea spiders, an additional pair of appendages, called ovigers, is present between the chelicerae and pedipalps. 
-
 1022. These buds, known as coelomic pouches, fuse to form the coelomic cavity, as they eventually separate from the endodermal layer.         The resultant coelom is termed an enterocoelom.       The archenteron develops into the alimentary canal, and a mouth opening is formed by invagination of ectoderm at the pole opposite the blastopore of the gastrula. 
-
 1025. Podocytes, cells specialized for ultrafiltration of bodily fluids, are present near the center of echinoderms.         These podocytes are connected by an internal system of canals to an opening called the madreporite.       
-
 1028.         The chordates are named for the notochord, which is a flexible, rod-shaped structure that is found in the embryonic stage of all chordates and in the adult stage of some chordate species.       It is located between the digestive tube and the nerve cord, and provides skeletal support through the length of the body. 
-
 1031. In tetrapods, the slits are modified into components of the ear and tonsils.         Tetrapod literally means “four-footed,” which refers to the phylogenetic history of various groups that evolved accordingly, even though some now possess fewer than two pairs of walking appendages.       Tetrapods include amphibians, reptiles, birds, and mammals. 
-
 1034.         Members of Cephalochordata possess a notochord, dorsal hollow nerve cord, pharyngeal slits, and a post-anal tail in the adult stage ([link]).       The notochord extends into the head, which gives the subphylum its name. 
-
 1037. A cranium is a bony, cartilaginous, or fibrous structure surrounding the brain, jaw, and facial bones ([link]).         Most bilaterally symmetrical animals have a head; of these, those that have a cranium compose the clade Craniata.       Craniata includes the hagfishes (Myxini), which have a cranium but lack a backbone, and all of the organisms called “vertebrates.”Craniata, including this fish (Dunkleosteus sp. 
-
 1040. A defining feature is the lack of paired lateral appendages (fins).         Some of the earliest jawless fishes were the ostracoderms (which translates to “shell-skin”).       Ostracoderms were vertebrate fishes encased in bony armor, unlike present-day jawless fishes, which lack bone in their scales. 
-
 1043.         The clade Petromyzontidae includes approximately 35–40 or more species of lampreys.       Lampreys are similar to hagfishes in size and shape; however, lampreys possess some vertebral elements. 
-
 1046.         The clade Chondrichthyes is diverse, consisting of sharks ([link]), rays, and skates, together with sawfishes and a few dozen species of fishes called chimaeras, or “ghost” sharks.” Chondrichthyes are jawed fishes that possess paired fins and a skeleton made of cartilage.       This clade arose approximately 370 million years ago in the early or middle Devonian. 
-
 1049.         Members of the clade Osteichthyes, also called bony fishes, are characterized by a bony skeleton.       The vast majority of present-day fishes belong to this group, which consists of approximately 30,000 species, making it the largest class of vertebrates in existence today. 
-
 1052. Amphibians are vertebrate tetrapods.         Amphibia includes frogs, salamanders, and caecilians.       The term amphibian loosely translates from the Greek as “dual life,” which is a reference to the metamorphosis that many frogs and salamanders undergo and their mixture of aquatic and terrestrial environments in their life cycle. 
-
 1055. Amphibia comprises an estimated 6,770 extant species that inhabit tropical and temperate regions around the world.         Amphibians can be divided into three clades: Urodela (“tailed-ones”), the salamanders; Anura (“tail-less ones”), the frogs; and Apoda (“legless ones”), the caecilians.       
-
 1058. The life cycle of frogs, as other amphibians, consists of two distinct stages: the larval stage followed by metamorphosis to an adult stage.         The larval stage of a frog, the tadpole, is often a filter-feeding herbivore.       Tadpoles usually have gills, a lateral line system, long-finned tails, and lack limbs. 
-
 1061. The chorion facilitates exchange of oxygen and carbon dioxide between the embryo and the egg’s external environment.         The amnion protects the embryo from mechanical shock and supports hydration.       The allantois stores nitrogenous wastes produced by the embryo and also facilitates respiration. 
-
 1064. Synapsids also include therapsids, which were mammal-like reptiles from which mammals evolved.         Sauropsids include reptiles and birds, and can be further divided into anapsids and diapsids.       The key differences between the synapsids, anapsids, and diapsids are the structures of the skull and the number of temporal fenestrae behind each eye ([link]). 
-
 1067. The diapsids diverged into two groups, the Archosauromorpha (“ancient lizard form”) and the Lepidosauromorpha (“scaly lizard form”) during the Mesozoic period ([link]).         The lepidosaurs include modern lizards, snakes, and tuataras.       The archosaurs include modern crocodiles and alligators, and the extinct pterosaurs (“winged lizard”) and dinosaurs (“terrible lizard”). 
-
 1070. Reptiles originated approximately 300 million years ago during the Carboniferous period.         One of the oldest known amniotes is Casineria, which had both amphibian and reptilian characteristics.       One of the earliest undisputed reptiles was Hylonomus. 
-
 1073.         Sphenodontia (“wedge tooth”) arose in the Mesozoic era and includes only one living genus, Tuatara, comprising two species that are found in New Zealand ([link]).       Tuataras measure up to 80 centimeters and weigh about 1 kilogram. 
-
 1076.         Mammals are vertebrates that possess hair and mammary glands.       Several other characteristics are distinctive to mammals, including certain features of the jaw, skeleton, integument, and internal anatomy. 
-
 1079. Sweat glands are located over most of the body surface in primates.         Apocrine glands, or scent glands, secrete substances that are used for chemical communication, such as in skunks.       Mammary glands produce milk that is used to feed newborns. 
-
 1082. These allow side-to-side movement of the jaw, making chewing possible, which is unique to mammals.         Most mammals have heterodont teeth, meaning that they have different types and shapes of teeth rather than just one type and shape of tooth.       Most mammals are diphyodonts, meaning that they have two sets of teeth in their lifetime: deciduous or “baby” teeth, and permanent teeth. 
-
 1085. There are three living species of monotremes: the platypus and two species of echidnas, or spiny anteaters.         The leathery-beaked platypus belongs to the family Ornithorhynchidae (“bird beak”), whereas echidnas belong to the family Tachyglossidae (“sticky tongue”) ([link]).       The platypus and one species of echidna are found in Australia, and the other species of echidna is found in New Guinea. 
-
 1088. Like mammals, which are also endothermic, birds have an insulating covering that keeps heat in the body: feathers.         Specialized feathers called down feathers are especially insulating, trapping air in spaces between each feather to decrease the rate of heat loss.       Certain parts of a bird’s body are covered in down feathers, and the base of other feathers have a downy portion, whereas newly hatched birds are covered in down. 
-
 1091. Primary feathers are located at the tip of the wing and provide thrust.         Secondary feathers are located closer to the body, attach to the forearm portion of the wing and provide lift.       Contour feathers are the feathers found on the body, and they help reduce drag produced by wind resistance during flight. 
-
 1094. Several modifications are found in birds to reduce body weight, including pneumatization of bones.         Pneumatic bones are bones that are hollow, rather than filled with tissue ([link]).       They contain air spaces that are sometimes connected to air sacs, and they have struts of bone to provide structural reinforcement. 
-
 1097.         During the Cretaceous period, a group known as the Enantiornithes was the dominant bird type ([link]).       Enantiornithes means “opposite birds,” which refers to the fact that certain bones of the feet are joined differently than the way the bones are joined in modern birds. 
-
 1100. All primate species possess adaptations for climbing trees, as they all descended from tree-dwellers.         This arboreal heritage of primates has resulted in hands and feet that are adapted for brachiation, or climbing and swinging through trees.       These adaptations include, but are not limited to: 1) a rotating shoulder joint, 2) a big toe that is widely separated from the other toes and thumbs, which are widely separated from fingers (except humans), which allow for gripping branches, 3) stereoscopic vision, two overlapping fields of vision from the eyes, which allows for the perception of depth and gauging distance. 
-
 1103. Prosimians include the bush babies of Africa, the lemurs of Madagascar, and the lorises, pottos, and tarsiers of Southeast Asia.         Anthropoids include monkeys, apes, and humans.       In general, prosimians tend to be nocturnal (in contrast to diurnal anthropoids) and exhibit a smaller size and smaller brain than anthropoids. 
-
 1106. New World monkeys are also called Platyrrhini—a reference to their broad noses ([link]).         Old World monkeys are called Catarrhini—a reference to their narrow noses.       There is still quite a bit of uncertainty about the origins of the New World monkeys. 
-
 1109.         The family Hominidae of order Primates includes the hominoids: the great apes ([link]).       Evidence from the fossil record and from a comparison of human and chimpanzee DNA suggests that humans and chimpanzees diverged from a common hominoid ancestor approximately 6 million years ago. 
-
 1112. Its brain size was 380–450 cubic centimeters, approximately the size of a modern chimpanzee brain.         It also had prognathic jaws, which is a relatively longer jaw than that of modern humans.       In the mid-1970s, the fossil of an adult female A. afarensis was found in the Afar region of Ethiopia and dated to 3.24 million years ago ([link]). 
-
 1115. The shoot system generally grows above ground, where it absorbs the light needed for photosynthesis.         The root system, which supports the plants and absorbs water and minerals, is usually underground.       [link] shows the organ systems of a typical plant. 
-
 1118. Meristematic tissue cells are either undifferentiated or incompletely differentiated, and they continue to divide and contribute to the growth of the plant.         In contrast, permanent tissue consists of plant cells that are no longer actively dividing.       
-
 1121. Lateral meristems facilitate growth in thickness or girth in a maturing plant.         Intercalary meristems occur only in monocots, at the bases of leaf blades and at nodes (the areas where leaves attach to a stem).       This tissue enables the monocot leaf blade to increase in length from the leaf base; for example, it allows lawn grass leaves to elongate even after repeated mowing. 
-
 1124. The xylem and phloem always lie adjacent to each other ([link]).         In stems, the xylem and the phloem form a structure called a vascular bundle; in roots, this is termed the vascular stele or vascular cylinder.This light micrograph shows a cross section of a squash (Curcurbita maxima) stem.       Each teardrop-shaped vascular bundle consists of large xylem vessels toward the inside and smaller phloem cells toward the outside. 
-
 1127. The stalk that extends from the stem to the base of the leaf is the petiole.         An axillary bud is usually found in the axil—the area between the base of a leaf and the stem—where it can give rise to a branch or a flower.       The apex (tip) of the shoot contains the apical meristem within the apical bud. 
-
 1130.         Collenchyma cells are elongated cells with unevenly thickened walls ([link]).       They provide structural support, mainly to the stem and leaves. 
-
 1133. The dermal tissue of the stem consists primarily of epidermis, a single layer of cells covering and protecting the underlying tissue.         Woody plants have a tough, waterproof outer layer of cork cells commonly known as bark, which further protects the plant from damage.       Epidermal cells are the most numerous and least differentiated of the cells in the epidermis. 
-
 1136. Trichomes are hair-like structures on the epidermal surface.         They help to reduce transpiration (the loss of water by aboveground plant parts), increase solar reflectance, and store compounds that defend the leaves against predation by herbivores.Openings called stomata (singular: stoma) allow a plant to take up carbon dioxide and release oxygen and water vapor.       The (a) colorized scanning-electron micrograph shows a closed stoma of a dicot. 
-
 1139. Phloem tissue is composed of sieve-tube cells, companion cells, phloem parenchyma, and phloem fibers.         A series of sieve-tube cells (also called sieve-tube elements) are arranged end to end to make up a long sieve tube, which transports organic substances such as sugars and amino acids.       The sugars flow from one sieve-tube cell to the next through perforated sieve plates, which are found at the end junctions between two cells. 
-
 1142. Some plants, especially those that are woody, also increase in thickness during their life span.         The increase in length of the shoot and the root is referred to as primary growth, and is the result of cell division in the shoot apical meristem.       Secondary growth is characterized by an increase in thickness or girth of the plant, and is caused by cell division in the lateral meristem. 
-
 1145. The periderm substitutes for the epidermis in mature plants.         In some plants, the periderm has many openings, known as lenticels, which allow the interior cells to exchange gases with the outside atmosphere ([link]).       This supplies oxygen to the living and metabolically active cells of the cortex, xylem and phloem. 
-
 1148. Corms contain stored food that enables some plants to survive the winter.         Stolons are stems that run almost parallel to the ground, or just below the surface, and can give rise to new plants at the nodes.       Runners are a type of stolon that runs above the ground and produces new clone plants at nodes at varying intervals: strawberries are an example. 
-
 1151. Tubers arise as swollen ends of stolons, and contain many adventitious or unusual buds (familiar to us as the “eyes” on potatoes).         A bulb, which functions as an underground storage unit, is a modification of a stem that has the appearance of enlarged fleshy leaves emerging from the stem or surrounding the base of the stem, as seen in the iris.       
-
 1154. Most roots are underground.         Some plants, however, also have adventitious roots, which emerge above the ground from the shoot.       
-
 1157. When the plant embryo emerges from the seed, the radicle of the embryo forms the root system.         The tip of the root is protected by the root cap, a structure exclusive to roots and unlike any other plant structure.       The root cap is continuously replaced because it gets damaged easily as the root pushes through soil. 
-
 1160. The vascular tissue in the root is arranged in the inner portion of the root, which is called the stele ([link]).         A layer of cells known as the endodermis separates the stele from the ground tissue in the outer portion of the root.       The endodermis is exclusive to roots, and serves as a checkpoint for materials entering the root’s vascular system. 
-
 1163.         Each leaf typically has a leaf blade called the lamina, which is also the widest part of the leaf.       Some leaves are attached to the plant stem by a petiole. 
-
 1166. Leaves that do not have a petiole and are directly attached to the plant stem are called sessile leaves.         Small green appendages usually found at the base of the petiole are known as stipules.       Most leaves have a midrib, which travels the length of the leaf and branches to each side to produce veins of vascular tissue. 
-
 1169. In an opposite leaf arrangement, two leaves arise at the same point, with the leaves connecting opposite each other along the branch.         If there are three or more leaves connected at a node, the leaf arrangement is classified as whorled.       
-
 1172. Each leaflet may have its own stalk, but is attached to the rachis.         A palmately compound leaf resembles the palm of a hand, with leaflets radiating outwards from one point Examples include the leaves of poison ivy, the buckeye tree, or the familiar houseplant Schefflera sp.       (common name “umbrella plant”). 
-
 1175.         Water potential is a measure of the potential energy in water.       Plant physiologists are not interested in the energy in any one particular aqueous system, but are very interested in water movement between two systems. 
-
 1178.         Transpiration—the loss of water vapor to the atmosphere through stomata—is a passive process, meaning that metabolic energy in the form of ATP is not required for water movement.       The energy driving transpiration is the difference in energy between the water in the soil and the water in the atmosphere. 
-
 1181. Structures that produce photosynthates for the growing plant are referred to as sources.         Sugars produced in sources, such as leaves, need to be delivered to growing parts of the plant via the phloem in a process called translocation.       The points of sugar delivery, such as roots, young shoots, and developing seeds, are called sinks. 
-
 1184. It allows plants to optimize their use of light and space.         Photoperiodism is the ability to use light to track time.       Plants can tell the time of day and time of year by sensing and using various wavelengths of sunlight. 
-
 1187.         The phytochromes are a family of chromoproteins with a linear tetrapyrrole chromophore, similar to the ringed tetrapyrrole light-absorbing head group of chlorophyll.       Phytochromes have two photo-interconvertible forms: Pr and Pfr. 
-
 1190. Gravitropism ensures that roots grow into the soil and that shoots grow toward sunlight.         Growth of the shoot apical tip upward is called negative gravitropism, whereas growth of the roots downward is called positive gravitropism.       
-
 1193. Apical dominance—the inhibition of lateral bud formation—is triggered by auxins produced in the apical meristem.         Flowering, fruit setting and ripening, and inhibition of abscission (leaf falling) are other plant responses under the direct or indirect control of auxins.       Auxins also act as a relay for the effects of the blue light and red/far-red responses. 
-
 1196.         The plant hormone abscisic acid (ABA) was first discovered as the agent that causes the abscission or dropping of cotton bolls.       However, more recent studies indicate that ABA plays only a minor role in the abscission process. 
-
 1199.         Oligosaccharins also play a role in plant defense against bacterial and fungal infections.       They act locally at the site of injury, and can also be transported to other tissues. 
-
 1202. Cells in contact with a support surface contract, whereas cells on the opposite side of the support expand ([link]).         Application of jasmonic acid is sufficient to trigger tendril coiling without a mechanical stimulus.A thigmonastic response is a touch response independent of the direction of stimulus [link].       In the Venus flytrap, two modified leaves are joined at a hinge and lined with thin fork-like tines along the outer edges. 
-
 1205. Carbon that was obtained from atmospheric CO2 composes the majority of the dry mass within most plants.         An inorganic compound does not contain carbon and is not part of, or produced by, a living organism.       Inorganic substances, which form the majority of the soil solution, are commonly called minerals: those required by plants include nitrogen (N) and potassium (K) for structure and regulation. 
-
 1208. In addition to macronutrients, organisms require various elements in small amounts.         These micronutrients, or trace elements, are present in very small quantities.       They include boron (B), chlorine (Cl), manganese (Mn), iron (Fe), zinc (Zn), copper (Cu), molybdenum (Mo), nickel (Ni), silicon (Si), and sodium (Na). 
-
 1211.         The organic material of soil, called humus, is made up of microorganisms (dead and alive), and dead animals and plants in varying stages of decay.       Humus improves soil structure and provides plants with water and minerals. 
-

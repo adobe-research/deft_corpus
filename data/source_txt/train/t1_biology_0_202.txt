@@ -1,174 +1,87 @@
 608.         In shotgun sequencing  method, several copies of a DNA fragment are cut randomly into many smaller pieces (somewhat like what happens to a round shot cartridge when fired from a shotgun).       All of the segments are then sequenced using the chain-sequencing method. 
-
-611.         Since 2005, automated sequencing techniques used by laboratories are under the umbrella of next-generation sequencing, which is a group of automated techniques used for rapid DNA sequencing.       These automated low-cost sequencers can generate sequences of hundreds of thousands or millions of short fragments (25 to 500 base pairs) in the span of one day. 
-
+614.         DNA microarrays are methods used to detect gene expression by analyzing an array of DNA fragments that are fixed to a glass slide or a silicon chip to identify active genes and identify sequences.       Almost one million genotypic abnormalities can be discovered using microarrays, whereas whole-genome sequencing can provide information about all six billion base pairs in the human genome. 
 617. Metabolomics is related to genomics and proteomics.         Metabolomics involves the study of small molecule metabolites found in an organism.       The metabolome is the complete set of metabolites that are related to the genetic makeup of an organism. 
-
 620. Proteomic approaches are being used to improve screening and early detection of cancer; this is achieved by identifying proteins whose expression is affected by the disease process.         An individual protein is called a biomarker, whereas a set of proteins with altered expression levels is called a protein signature.       For a biomarker or protein signature to be useful as a candidate for early screening and detection of a cancer, it must be secreted in body fluids, such as sweat, blood, or urine, such that large-scale screenings can be performed in a non-invasive fashion. 
-
-623.         Pharmacogenomics, also called toxicogenomics, involves evaluating the effectiveness and safety of drugs on the basis of information from an individual's genomic sequence.       Genomic responses to drugs can be studied using experimental animals (such as laboratory rats or mice) or live cells in the laboratory before embarking on studies with humans. 
-
+626. Darwin called this mechanism natural selection.         Natural selection, also known as “survival of the fittest,” is the more prolific reproduction of individuals with favorable traits that survive environmental change because of those traits; this leads to evolutionary change.       
 629. Sometimes, evolution gives rise to groups of organisms that become tremendously different from each other.         When two species evolve in diverse directions from a common point, it is called divergent evolution.       Such divergent evolution can be seen in the forms of the reproductive organs of flowering plants which share the same basic anatomies; however, they can look very different as a result of selection in different physical environments and adaptation to different kinds of pollinators ([link]).Flowering plants evolved from a common ancestor. 
-
 632. Some structures exist in organisms that have no apparent function at all, and appear to be residual parts from a past common ancestor.         These unused structures without function are called vestigial structures.       Other examples of vestigial structures are wings on flightless birds, leaves on some cacti, and hind leg bones in whales. 
-
-635.         In the gradual speciation model, species diverge gradually over time in small steps.       In the punctuated equilibrium model, a new species undergoes changes quickly from the parent species, and then remains largely unchanged for long periods of time afterward ([link]). 
-
+638. For example, even though bald eagles (Haliaeetus leucocephalus) and African fish eagles (Haliaeetus vocifer) are both birds and eagles, each belongs to a separate species group ([link]).         If humans were to artificially intervene and fertilize the egg of a bald eagle with the sperm of an African fish eagle and a chick did hatch, that offspring, called a hybrid (a cross between two species), would probably be infertile—unable to successfully reproduce after it reached maturity.       Different species may have different genes that are active in development; therefore, it may not be possible to develop a viable offspring with two different sets of directions. 
 641. Allopatric speciation (allo- = "other"; -patric = "homeland") involves geographic separation of populations from a parent species and subsequent evolution.         Sympatric speciation (sym- = "same"; -patric = "homeland") involves speciation occurring within a parent species remaining in one location.       
-
 644. Reproductive isolation is the inability to interbreed.         In some cases, a polyploid individual will have two or more complete sets of chromosomes from its own species in a condition called autopolyploidy ([link]).       The prefix “auto-” means “self,” so the term means multiple chromosomes from one’s own species. 
-
 647. Recall that a zygote is a fertilized egg: the first cell of the development of an organism that reproduces sexually.         Therefore, a prezygotic barrier is a mechanism that blocks reproduction from taking place; this includes barriers that prevent fertilization when organisms attempt reproduction.       A postzygotic barrier occurs after zygote formation; this includes organisms that don’t survive the embryonic stage and those that are born sterile. 
-
 650. In some cases, populations of a species move or are moved to a new habitat and take up residence in a place that no longer overlaps with the other populations of the same species.         This situation is called habitat isolation.       Reproduction with the parent species ceases, and a new group exists that is now reproductively and genetically independent. 
-
 653. Hybrid individuals in many cases cannot form normally in the womb and simply do not survive past the embryonic stages.         This is called hybrid inviability because the hybrid organisms simply are not viable.       In another postzygotic situation, reproduction leads to the birth and growth of a hybrid that is sterile and unable to reproduce offspring of their own; this is called hybrid sterility. 
-
-656. Mendel followed alleles as they were inherited from parent to offspring.         In the early twentieth century, biologists in a field of study known as population genetics began to study how selective forces change a population through changes in allele and genotypic frequencies.       
-
+662.         Heritability is the fraction of phenotype variation that can be attributed to genetic differences, or genetic variance, among individuals in a population.       The greater the hereditability of a population’s phenotypic variation, the more susceptible it is to the evolutionary forces that act on heritable variation. 
 665. While it is likely to happen at some point, it will not happen frequently enough for natural selection to be able to swiftly eliminate the allele from the population, and as a result, the allele will be maintained at low levels in the gene pool.         However, if a family of carriers begins to interbreed with each other, this will dramatically increase the likelihood of two carriers mating and eventually producing diseased offspring, a phenomenon known as inbreeding depression.       
-
 668. Genetic drift can also be magnified by natural events, such as a natural disaster that kills—at random—a large portion of the population.         Known as the bottleneck effect, it results in a large portion of the genome suddenly being wiped out ([link]).       In one fell swoop, the genetic structure of the survivors becomes the genetic structure of the entire population, which may be very different from the pre-disaster population. 
-
 671. Traits that lead to more matings for an individual become selected for by natural selection.         One common form of mate choice, called assortative mating, is an individual’s preference to mate with partners who are phenotypically similar to themselves.       
-
 674.         Natural selection only acts on the population’s heritable traits: selecting for beneficial alleles and thus increasing their frequency in the population, while selecting against deleterious alleles and thereby decreasing their frequency—a process known as adaptive evolution.       Natural selection does not act on individual alleles, however, but on entire organisms. 
-
 677.         If natural selection favors an average phenotype, selecting against extreme variation, the population will undergo stabilizing selection ([link]).       In a population of mice that live in the woods, for example, natural selection is likely to favor individuals that best blend in with the forest floor and are less likely to be spotted by predators. 
-
 680.         Another type of selection, called frequency-dependent selection, favors phenotypes that are either common (positive frequency-dependent selection) or rare (negative frequency-dependent selection).       An interesting example of this type of selection is seen in a unique group of lizards of the Pacific Northwest. 
-
 683.         The good genes hypothesis states that males develop these impressive ornaments to show off their efficient metabolism or their ability to fight disease.       Females then choose males with the most impressive traits because it signals their genetic superiority, which they will then pass on to their offspring. 
-
 686. Scientists use a tool called a phylogenetic tree to show the evolutionary pathways and connections among organisms.         A phylogenetic tree is a diagram used to reflect evolutionary relationships among organisms or groups of organisms.       Scientists consider phylogenetic trees to be a hypothesis of the evolutionary past since one cannot go back to confirm the proposed relationships. 
-
 689. The point where a split occurs, called a branch point, represents where a single lineage evolved into a distinct new one.         A lineage that evolved early from the root and remains unbranched is called basal taxon.       When two lineages stem from the same branch point, they are called sister taxa. 
-
 692.         Many disciplines within the study of biology contribute to understanding how past and present life evolved over time; these disciplines together contribute to building, updating, and maintaining the “tree of life.” Information is used to organize and classify organisms based on evolutionary relationships in a scientific field called systematics.       Data may be collected from fossils, from studying the structure of body parts or molecules used by an organism, and by DNA analysis. 
-
 695. Within each domain is a second category called a kingdom.         After kingdoms, the subsequent categories of increasing specificity are: phylum, class, order, family, genus, and species ([link]).       
-
 698. This usually happens because both organisms were in common adaptations that evolved within similar environmental conditions.         When similar characteristics occur because of environmental constraints and not due to a close evolutionary relationship, it is called an analogy or homoplasy.       For example, insects use wings to fly like bats and birds, but the wing structure and embryonic origin is completely different. 
-
-701. For example, in [link], all of the organisms in the orange region evolved from a single ancestor that had amniotic eggs.         Consequently, all of these organisms also have amniotic eggs and make a single clade, also called a monophyletic group.       Clades must include all of the descendants from a branch point. 
-
-707.         Scientists believe the ultimate in HGT occurs through genome fusion between different species of prokaryotes when two symbiotic organisms become endosymbiotic.       This occurs when one species is taken inside the cytoplasm of another species, which ultimately results in a genome consisting of genes from both the endosymbiont and the host. 
-
+704.         To aid in the tremendous task of describing phylogenies accurately, scientists often use a concept called maximum parsimony, which means that events occurred in the simplest, most obvious way.       For example, if a group of people entered a forest preserve to go hiking, based on the principle of maximum parsimony, one could predict that most of the people would hike on established trails rather than forge new ones. 
+710. The mitochondria-first hypothesis proposes that mitochondria were first established in a prokaryotic host ([link]b), which subsequently acquired a nucleus, by fusion or other mechanisms, to become the first eukaryotic cell.         Most interestingly, the eukaryote-first hypothesis proposes that prokaryotes actually evolved from eukaryotes by losing genes and complexity ([link]c).       All of these hypotheses are testable. 
 713.         Virions, single virus particles, are very small, about 20–250 nanometers in diameter.       These individual virus particles are the infectious form of a virus outside the host cell. 
-
 716. Viruses come in many shapes and sizes, but these are consistent and distinct for each viral family.         All virions have a nucleic acid genome covered by a protective layer of proteins, called a capsid.       The capsid is made up of protein subunits called capsomeres. 
-
 719. Glycoproteins embedded in the viral envelope are used to attach to host cells.         Other envelope proteins are the matrix proteins that stabilize the envelope and often play a role in the assembly of progeny virions.       Chicken pox, influenza, and mumps are examples of diseases caused by viruses with envelopes. 
-
 722. Their mRNA is produced by transcription in much the same way as with cellular DNA.         Group II viruses have single-stranded DNA (ssDNA) as their genome.       They convert their single-stranded genomes into a dsDNA intermediate before transcription to mRNA can occur. 
-
 725. Group IV viruses have ssRNA as their genome with a positive polarity.         Positive polarity means that the genomic RNA can serve directly as mRNA.       Intermediates of dsRNA, called replicative intermediates, are made in the process of copying the genomic RNA. 
-
 728. Additionally, full-length positive RNA strands are made to serve as templates for the production of the negative-stranded genome.         Group VI viruses have diploid (two copies) ssRNA genomes that must be converted, using the enzyme reverse transcriptase, to dsDNA; the dsDNA is then transported to the nucleus of the host cell and inserted into the host genome.       Then, mRNA can be produced by transcription of the viral DNA that was integrated into the host genome. 
-
 731. The viral replication cycle can produce dramatic biochemical and structural changes in the host cell, which may cause cell damage.         These changes, called cytopathic (causing cell damage) effects, can change cell functions or even destroy the cell.       Some infected cells, such as those infected by the common cold virus known as rhinovirus, die through lysis (bursting) or apoptosis (programmed cell death or “cell suicide”), releasing all progeny virions at once. 
-
-734. The fact that HIV produces some of its own enzymes not found in the host has allowed researchers to develop drugs that inhibit these enzymes.         These drugs, including the reverse transcriptase inhibitor AZT, inhibit HIV replication by reducing the activity of the enzyme without affecting the host’s metabolism.       This approach has led to the development of a variety of drugs used to treat HIV and has been effective at reducing the number of infectious virions (copies of viral RNA) in the blood to non-detectable levels in many HIV-infected individuals. 
-
+737. When infection of a cell by a bacteriophage results in the production of new virions, the infection is said to be productive.         If the virions are released by bursting the cell, the virus replicates by means of a lytic cycle ([link]).       An example of a lytic bacteriophage is T4, which infects Escherichia coli found in the human intestinal tract. 
 740. An example is the animal herpesviruses, including herpes simplex viruses, the cause of oral and genital herpes in humans.         In a process called latency, these viruses can exist in nervous tissue for long periods of time without producing new virions, only to leave latency periodically and cause lesions in the skin where the virus replicates.       Even though there are similarities between lysogeny and latency, the term lysogenic cycle is usually reserved to describe bacteriophages. 
-
 743. Examples of acute viral diseases are the common cold and influenza.         Other viruses cause long-term chronic infections, such as the virus causing hepatitis C, whereas others, like herpes simplex virus, only cause intermittent symptoms.       Still other viruses, such as human herpesviruses 6 and 7, which in some cases can cause the minor childhood disease roseola, often successfully cause productive infections without causing any symptoms at all in the host, and thus we say these patients have an asymptomatic infection. 
-
 746. Plant viruses can be transmitted by a variety of vectors, through contact with an infected plant’s sap, by living organisms such as insects and nematodes, and through pollen.         When plants viruses are transferred between different plants, this is known as horizontal transmission, and when they are inherited from a parent, this is called vertical transmission.Symptoms of viral diseases vary according to the virus and its host ([link]).       One common symptom is hyperplasia, the abnormal proliferation of cells that causes the appearance of plant tumors known as galls. 
-
-749. Other viruses induce hypoplasia, or decreased cell growth, in the leaves of plants, causing thin, yellow areas to appear.         Still other viruses affect the plant by directly killing plant cells, a process known as cell necrosis.       Other symptoms of plant viruses include malformed leaves, black streaks on the stems of the plants, altered growth of stems, leaves, or fruits, and ring spots, which are circular or linear areas of discoloration found in a leaf. 
-
+752. The danger of using live vaccines, which are usually more effective than killed vaccines, is the low but significant danger that these viruses will revert to their disease-causing form by back mutations.         Live vaccines are usually made by attenuating (weakening) the “wild-type” (disease-causing) virus by growing it in the laboratory in tissues or at temperatures different from what the virus is accustomed to in the host.       Adaptations to these new cells or temperatures induce mutations in the genomes of the virus, allowing it to grow better in the laboratory while inhibiting its ability to cause disease when reintroduced into conditions found in the host. 
 755. The use of bacteriophages specific for such bacteria would bypass their resistance to antibiotics and specifically kill them.         Although phage therapy is in use in the Republic of Georgia to treat antibiotic-resistant bacteria, its use to treat human diseases has not been approved in most countries.       However, the safety of the treatment was confirmed in the United States when the U.S. Food and Drug Administration approved spraying meats with bacteriophages to destroy the food pathogen Listeria. As more and more antibiotic-resistant strains of bacteria evolve, the use of bacteriophages might be a potential solution to the problem, and the development of phage therapy is of much interest to researchers worldwide. 
-
 758. It is this variant that constitutes the prion particle.         PrP exists in two forms, PrPc, the normal form of the protein, and PrPsc, the infectious form.       Once introduced into the body, the PrPsc  contained within the prion binds to PrPc and converts it to PrPsc. 
-
 761. Microbial mats or large biofilms may represent the earliest forms of life on Earth; there is fossil evidence of their presence starting about 3.5 billion years ago.         A microbial mat is a multi-layered sheet of prokaryotes ([link]) that includes mostly bacteria, but also archaea.       Microbial mats are a few centimeters thick, and they typically grow where different types of materials interface, mostly on moist surfaces. 
-
-764.         Evidence indicates that during the first two billion years of Earth’s existence, the atmosphere was anoxic, meaning that there was no molecular oxygen.       Therefore, only those organisms that can grow without oxygen—anaerobic organisms—were able to live. 
-
+767. Autotrophic organisms that convert solar energy into chemical energy are called phototrophs, and they appeared within one billion years of the formation of Earth.         Then, cyanobacteria, also known as blue-green algae, evolved from these simple phototrophs one billion years later.       Cyanobacteria ([link]) began the oxygenation of the atmosphere. 
 770. In other cases, culturable organisms become unculturable under stressful conditions, even though the same organism could be cultured previously.         Those organisms that cannot be cultured but are not dead are in a viable-but-non-culturable (VBNC) state.       The VBNC state occurs when prokaryotes respond to environmental stressors by entering a dormant state that allows their survival. 
-
 773. The cell wall functions as a protective layer, and it is responsible for the organism’s shape.         Some bacteria have an outer capsule outside the cell wall.       Other structures are present in some prokaryotic species, but not in others ([link]). 
-
 776. There are more than 100 different forms of peptidoglycan.         S-layer (surface layer) proteins are also present on the outside of cell walls of both archaea and bacteria.       
-
 779. There are four different types of Archaean cell walls.         One type is composed of pseudopeptidoglycan, which is similar to peptidoglycan in morphology but contains different sugars in the polysaccharide chain.       The other three types of cell walls are composed of polysaccharides, glycoproteins, or pure protein. 
-
-782. Archaea are not affected by bacteriophages but instead have their own viruses that translocate genetic material from one individual to another.         In conjugation, DNA is transferred from one prokaryote to another by means of a pilus, which brings the organisms into contact with one another.       The DNA transferred can be in the form of a plasmid or as a hybrid, containing both plasmid and chromosomal DNA. 
-
+788. Gaseous nitrogen is transformed, or “fixed” into more readily available forms such as ammonia through the process of nitrogen fixation.         Ammonia can be used by plants or converted to other forms.Another source of ammonia is ammonification, the process by which ammonia is released during the decomposition of nitrogen-containing organic compounds.       Ammonia released to the atmosphere, however, represents only 15 percent of the total nitrogen released; the rest is as N2 and N2O. 
 791. Epidemiologists study how diseases affect a population.         An epidemic is a disease that occurs in an unusually high number of individuals in a population at the same time.       A pandemic is a widespread, usually worldwide, epidemic. 
-
 794.         One of the most devastating pandemics was the Black Death (1346 to 1361) that is believed to have been another outbreak of bubonic plague caused by the bacterium Yersinia pestis.       It is thought to have originated initially in China and spread along the Silk Road, a network of land and sea trade routes, to the Mediterranean region and Europe, carried by rat fleas living on black rats that were always present on ships. 
-
 797.         The word antibiotic comes from the Greek anti meaning “against” and bios meaning “life.” An antibiotic is a chemical, produced either by microbes or synthetically, that is hostile to the growth of other organisms.       Today’s news and media often address concerns about an antibiotic crisis. 
-
 800. Outbreaks of bacterial infection related to food consumption are common.         A foodborne disease (colloquially called “food poisoning”) is an illness resulting from the consumption the pathogenic bacteria, viruses, or other parasites that contaminate food.       Although the United States has one of the safest food supplies in the world, the U.S. Centers for Disease Control and Prevention (CDC) has reported that “76 million people get sick, more than 300,000 are hospitalized, and 5,000 Americans die each year from foodborne illness.”The characteristics of foodborne illnesses have changed over time. 
-
 803.         Biological nitrogen fixation (BNF) is exclusively carried out by prokaryotes: soil bacteria, cyanobacteria, and Frankia spp.       (filamentous bacteria interacting with actinorhizal plants such as alder, bayberry, and sweet fern). 
-
 806.         Microbial bioremediation is the use of prokaryotes (or microbial metabolism) to remove pollutants.       Bioremediation has been used to remove agricultural chemicals (pesticides, fertilizers) that leach from soil into groundwater and the subsurface. 
-
 809. Some groups of eukaryotes are photosynthetic.         Their cells contain, in addition to the standard eukaryotic organelles, another kind of organelle called a plastid.       When such cells are carrying out photosynthesis, their plastids are rich in the pigment chlorophyll a and a range of other pigments, called accessory pigments, which are involved in harvesting energy from light. 
-
 812. Subtypes of heterotrophs, called saprobes, absorb nutrients from dead organisms or their organic wastes.         Some protists can function as mixotrophs, obtaining nutrition by photoautotrophic or heterotrophic routes, depending on whether sunlight or organic nutrients are available.       
-
 815. The human parasite, Trypanosoma brucei, belongs to a different subgroup of Euglenozoa, the kinetoplastids.         The kinetoplastid subgroup is named after the kinetoplast, a DNA mass carried within the single, oversized mitochondrion possessed by each of these cells.       This subgroup includes several parasites, collectively called trypanosomes, which cause devastating human diseases and infect an insect species during a portion of their life cycle. 
-
 818. Waste particles are expelled by an exocytic vesicle that fuses at a specific region on the cell membrane, called the anal pore.         In addition to a vacuole-based digestive system, Paramecium also uses contractile vacuoles, which are osmoregulatory vesicles that fill with water as it enters the cell by osmosis and then contract to squeeze water from the cell.       
-
 821. The protist then transports its cytoplasm into the pseudopod, thereby moving the entire cell.         This type of motion, called cytoplasmic streaming, is used by several diverse groups of protists as a means of locomotion or as a method to distribute nutrients and oxygen.       
-
 824. For example most terrestrial plants form symbiotic relationships with fungi.         The roots of the plant connect with the underground parts of the fungus forming mycorrhizae.       Through mycorrhizae, the fungus and plant exchange nutrients and water, greatly aiding the survival of both species Alternatively, lichens are an association between a fungus and its photosynthetic partner (usually an alga). 
-
 827. Dimorphic fungi can change from the unicellular to multicellular state depending on environmental conditions.         Unicellular fungi are generally referred to as yeasts.       Saccharomyces cerevisiae (baker’s yeast) and Candida species (the agents of thrush, a common fungal infection) are examples of unicellular fungi ([link]). 
-
 830.         Most fungal hyphae are divided into separate cells by endwalls called septa (singular, septum) ([link]a, c).       In most phyla of fungi, tiny holes in the septa allow for the rapid flow of nutrients and small molecules from cell to cell along the hypha. 
-
 833. Most fungi are obligate aerobes, requiring oxygen to survive.         Other species, such as the Chytridiomycota that reside in the rumen of cattle, are are obligate anaerobes, in that they only use anaerobic respiration because oxygen will disrupt their metabolism or kill them.       Yeasts are intermediate, being faculative anaerobes. 
-
 836. The rings swell when they touch the nematode, gripping it in a tight hold.         The fungus penetrates the tissue of the worm by extending specialized hyphae called haustoria.       Many parasitic fungi possess haustoria, as these structures penetrate the tissues of the host, release digestive enzymes within the host's body, and absorb the digested nutrients. 
-
 839. When both mating types are present in the same mycelium, it is called homothallic, or self-fertile.         Heterothallic mycelia require two different, but compatible, mycelia to reproduce sexually.       
-
 842.         The only class in the Phylum Chytridiomycota is the Chytridiomycetes.       The chytrids are the simplest and most primitive Eumycota, or true fungi. 
-
 845.         The majority of known fungi belong to the Phylum Ascomycota, which is characterized by the formation of an ascus (plural, asci), a sac-like structure that contains haploid ascospores.       Many ascomycetes are of commercial importance. 
-
 848. This is the dikaryotic stage of the basidiomyces lifecyle and and it is the dominant stage.         Eventually, the secondary mycelium generates a basidiocarp, which is a fruiting body that protrudes from the ground—this is what we think of as a mushroom.       The basidiocarp bears the developing basidia on the gills under its cap.Art Connection 
-
 851.         The Glomeromycota is a newly established phylum which comprises about 230 species that all live in close association with the roots of trees.       Fossil records indicate that trees and their root symbionts share a long evolutionary history. 
-
 854. Both parasites and pathogens harm the host; however, the pathogen causes a disease, whereas the parasite usually does not.         Commensalism occurs when one member benefits without affecting the other.       
-
 857. Mycotoxicosis is the poisoning of humans (and other animals) by foods contaminated by fungal toxins (mycotoxins).         Mycetismus describes the ingestion of preformed toxins in poisonous mushrooms.       In addition, individuals who display hypersensitivity to molds and spores develop strong and dangerous allergic reactions. 
-
 860. The fungal partner can belong to the Ascomycota, Basidiomycota or Zygomycota.         In a second type, the Glomeromycete fungi form vesicular–arbuscular interactions with arbuscular mycorrhiza (sometimes called endomycorrhizae).       In these mycorrhiza, the fungi form arbuscules that penetrate root cells and are the site of the metabolic exchanges between the fungus and the host plant ([link] and [link]). 
-
 863. Most biologists also consider green algae to be plants, although others exclude all algae from the plant kingdom.         The reason for this disagreement stems from the fact that only green algae, the Charophytes, share common characteristics with land plants (such as using chlorophyll a and b plus carotene in the same proportion as plants).       These characteristics are absent in other types of algae. 
-
 866. Two different types of spores are produced in land plants, resulting in the separation of sexes at different points in the lifecycle.         Seedless non-vascular plants produce only one kind of spore and are called homosporous.       The gametophyte phase is dominant in these plants. 
-
 869. The male spores are called microspores, because of their smaller size, and develop into the male gametophyte; the comparatively larger megaspores develop into the female gametophyte.         Heterospory is observed in a few seedless vascular plants and in all seed plants.       
-
 872. In the gametangia, precursor cells give rise to gametes by mitosis.         The male gametangium (antheridium) releases sperm.       Many seedless plants produce sperm equipped with flagella that enable them to swim in a moist environment to the archegonia: the female gametangium. 
-
 875. In a further division, land plants are classified into two major groups according to the absence or presence of vascular tissue, as detailed in [link].         Plants that lack vascular tissue, which is formed of specialized cells for the transport of water and nutrients, are referred to as non-vascular plants.       Liverworts, mosses, and hornworts are seedless, non-vascular plants that likely appeared early in land plant evolution. 
-
 878. Liverwort plants can also reproduce asexually, by the breaking of branches or the spreading of leaf fragments called gemmae.         In this latter type of reproduction, the gemmae—small, intact, complete pieces of plant that are produced in a cup on the surface of the thallus (shown in [link])—are splashed out of the cup by raindrops.       The gemmae then land nearby and develop into gametophytes. 
-
 881. For example, stomata are present on the stems of the sporophyte, and a primitive vascular system runs up the sporophyte’s stalk.         Additionally, mosses are anchored to the substrate—whether it is soil, rock, or roof tiles—by multicellular rhizoids.       These structures are precursors of roots. 
-
 884.         A structure called a peristome increases the spread of spores after the tip of the capsule falls off at dispersal.       The concentric tissue around the mouth of the capsule is made of triangular, close-fitting units, a little like “teeth”; these open and close depending on moisture levels, and periodically release spores. 
-
 887. The tissue consists of conducting cells, known as tracheids, and supportive filler tissue, called parenchyma.         Xylem conductive cells incorporate the compound lignin into their walls, and are thus described as lignified.       Lignin itself is a complex polymer that is impermeable to water and confers mechanical strength to vascular tissue. 
-
-890. A microphyll is small and has a simple vascular system.         A single unbranched vein—a bundle of vascular tissue made of xylem and phloem—runs through the center of the leaf.       Microphylls may have originated from the flattening of lateral branches, or from sporangia that lost their reproductive capabilities. 
-
+893. Pine cones, mature fronds of ferns, and flowers are all sporophylls—leaves that were modified structurally to bear sporangia.         Strobili are cone-like structures that contain sporangia.       They are prominent in conifers and are commonly known as pine cones. 
 896.         Phylum Monilophyta: Class Psilotopsida (Whisk Ferns)While most ferns form large leaves and branching roots, the whisk ferns, Class Psilotopsida, lack both roots and leaves, probably lost by reduction.       Photosynthesis takes place in their green stems, and small yellow knobs form at the tip of the branch stem and contain the sporangia. 
-
-899. Seedless plants have historically played a role in human life through uses as tools, fuel, and medicine.         Dried peat moss, Sphagnum, is commonly used as fuel in some parts of Europe and is considered a renewable resource.       Sphagnum bogs ([link]) are cultivated with cranberry and blueberry bushes. 
-
+902. Some seeds are enveloped by sporophyte tissues upon maturation.         The layer of sporophyte tissue that surrounds the megasporangium, and later, the embryo, is called the integument.       
 905.         Female cones, or ovulate cones, contain two ovules per scale.       One megaspore mother cell, or megasporocyte, undergoes meiosis in each ovule. 
-
 908.         Cycads thrive in mild climates, and are often mistaken for palms because of the shape of their large, compound leaves.       Cycads bear large cones ([link]), and may be pollinated by beetles rather than wind: unusual for a gymnosperm. 
-

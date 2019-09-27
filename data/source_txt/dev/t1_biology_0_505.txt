@@ -1,8 +1,0 @@
-1520. The endocrine cells of the pancreas form clusters called pancreatic islets or the islets of Langerhans, as visible in the micrograph shown in [link].         The pancreatic islets contain two primary cell types: alpha cells, which produce the hormone glucagon, and beta cells, which produce the hormone insulin.       These hormones regulate blood glucose levels. 
-
-1544. Glucagon also stimulates absorption of amino acids from the blood by the liver, which then converts them to glucose.         This process of glucose synthesis is called gluconeogenesis.       Glucagon also stimulates adipose cells to release fatty acids into the blood. 
-
-1547. T3 and T4 release from the thyroid gland is stimulated by thyroid-stimulating hormone (TSH), which is produced by the anterior pituitary.         TSH binding at the receptors of the follicle of the thyroid triggers the production of T3 and T4 from a glycoprotein called thyroglobulin.       Thyroglobulin is present in the follicles of the thyroid, and is converted into thyroid hormones with the addition of iodine. 
-
-1589. The forearm extends from the elbow to the wrist and consists of two bones: the ulna and the radius.         The radius is located along the lateral (thumb) side of the forearm and articulates with the humerus at the elbow.       The ulna is located on the medial aspect (pinky-finger side) of the forearm. 
-

@@ -1,10 +1,5 @@
-5. Science includes such diverse fields as astronomy, biology, computer sciences, geology, logic, physics, chemistry, and mathematics ([link]).         However, those fields of science related to the physical world and its phenomena and processes are considered natural sciences.       Thus, a museum of natural sciences might contain any of the items listed above. 
-
-41. The evolution of various life forms on Earth can be summarized in a phylogenetic tree ([link]).         A phylogenetic tree is a diagram showing the evolutionary relationships among biological species based on similarities and differences in genetic or physical traits or both.       A phylogenetic tree is composed of nodes and branches. 
-
-128.         Lipids include a diverse group of compounds that are largely nonpolar in nature.       This is because they are hydrocarbons that include mostly nonpolar carbon–carbon or carbon–hydrogen bonds. 
-
-155. The primary structure of a purine is two carbon-nitrogen rings.         Cytosine, thymine, and uracil are classified as pyrimidines which have a single carbon-nitrogen ring as their primary structure ([link]).       Each of these basic carbon-nitrogen rings has different functional groups attached to it. 
-
-185. If you look at  [link]b, you will see that plant cells each have a large central vacuole that occupies most of the area of the cell.         The central vacuole plays a key role in regulating the cell’s concentration of water in changing environmental conditions.       Have you ever noticed that if you forget to water a plant for a few days, it wilts? 
-
+2. It becomes clear from this definition that the application of the scientific method plays a major role in science.         The scientific method is a method of research with defined steps that include experiments and careful observation.       
+38. The forest itself is an ecosystem.         An ecosystem consists of all the living things in a particular area together with the abiotic, non-living parts of that environment such as nitrogen in the soil or rain water.       At the highest level of organization ([link]), the biosphere is the collection of all ecosystems, and it represents the zones of life on earth. 
+125.         Glycogen is the storage form of glucose in humans and other vertebrates and is made up of monomers of glucose.       Glycogen is the animal equivalent of starch and is a highly branched molecule usually stored in liver and muscle cells. 
+152.          DNA and RNA are made up of monomers known as nucleotides.       The nucleotides combine with each other to form a polynucleotide, DNA or RNA. 
+182. If you examine  [link]b, the diagram of a plant cell, you will see a structure external to the plasma membrane called the cell wall.         The cell wall is a rigid covering that protects the cell, provides structural support, and gives shape to the cell.       Fungal and protistan cells also have cell walls. 

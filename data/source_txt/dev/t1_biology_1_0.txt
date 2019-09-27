@@ -1,6 +1,1 @@
-15.         While research efforts in both basic science and applied science are usually carefully planned, it is important to note that some discoveries are made by serendipity, that is, by means of a fortunate accident or a lucky surprise.       Penicillin was discovered when biologist Alexander Fleming accidentally left a petri dish of Staphylococcus bacteria open. 
-
-78.          This movement of electrons from one element to another is referred to as electron transfer.       As [link] illustrates, sodium (Na)  only has one electron in its outer electron shell. 
-
-120.         Carbohydrates can be represented by the stoichiometric formula (CH2O)n, where n is the number of carbons in the molecule.       In other words, the ratio of carbon to hydrogen to oxygen is 1:2:1 in carbohydrate molecules. 
-
+7.         Inductive reasoning is a form of logical thinking that uses related observations to arrive at a general conclusion.       This type of reasoning is common in descriptive science. 

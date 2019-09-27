@@ -1,2 +1,1 @@
-950.         Further subdivision of animals with three germ layers (triploblasts) results in the separation of animals that may develop an internal body cavity derived from mesoderm, called a coelom, and those that do not.       This epithelial cell-lined coelomic cavity represents a space, usually filled with fluid, which lies between the visceral organs and the body wall. 
-
+947.         Bilateral symmetry involves the division of the animal through a sagittal plane, resulting in two mirror image, right and left halves, such as those of a butterfly ([link]d), crab, or human body.       Animals with bilateral symmetry have a “head” and “tail” (anterior vs. posterior), front and back (dorsal vs. ventral), and right and left sides ([link]). 

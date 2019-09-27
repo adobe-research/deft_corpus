@@ -1,8 +1,4 @@
-2669.          A diagram showing the system of interest and all of the external forces is called a free-body diagram.       Only forces are shown on free-body diagrams, not acceleration or velocity. 
-
-2702. Average speed, however, is very different from average velocity.         Average speed is the distance traveled divided by elapsed time.       
-
-2738. The quantities that might differ between them are volume and density.Section SummaryNewton’s first law of motion states that a body at rest remains at rest, or, if in motion, remains in motion at a constant velocity unless acted on by a net external force.         This is also known as the law of inertia.       
-
-2894. The driving force puts energy into the system at a certain frequency, not necessarily the same as the natural frequency of the system.         The natural frequency is the frequency at which a system would oscillate if there were no driving and no damping force.Most of us have played with toys involving an object supported on an elastic band, something like the paddle ball suspended from a finger in [link].       Imagine the finger in the figure is your finger. 
-
+2646.          In each of these situations, an object has a velocity relative to a medium (such as a river) and that medium has a velocity relative to an observer on solid ground.       The velocity of the object relative to the observer is the sum of these velocity vectors, as indicated in [link] and [link]. 
+2874. Unfortunately, this is impossible.         The second law of thermodynamics also states, with regard to using heat transfer to do work (the second expression of the second law):       
+2925. You may have noticed that dogs respond to the sound of a dog whistle which produces sound out of the range of human hearing.         Elephants are known to respond to frequencies below 20 Hz.The perception of frequency is called pitch.       Most of us have excellent relative pitch, which means that we can tell whether one sound has a different frequency from another. 
+2931. (See [link].)         In this experiment, Franklin demonstrated a connection between lightning and static electricity.       Sparks were drawn from a key hung on a kite string during an electrical storm. 

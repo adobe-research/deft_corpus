@@ -1,8 +1,3 @@
-1216. Within the soil profile, soil scientists define zones called horizons.         A horizon is a soil layer with distinct physical and chemical properties that differ from those of other layers.       Five factors account for soil formation: parent material, climate, topography, biological factors, and time.Parent Material 
-
-1267. In many seeds, the presence of a thick seed coat retards the ability to germinate.         Scarification, which includes mechanical or chemical processes to soften the seed coat, is often employed before germination.       Presoaking in hot water, or passing through an acid environment, such as an animal’s digestive tract, may also be employed. 
-
-1324.         Omnivores are animals that eat both plant- and animal-derived food.       In Latin, omnivore means to eat everything. 
-
-1339. Chyme moves from the stomach to the small intestine.         The small intestine is the organ where the digestion of protein, fats, and carbohydrates is completed.       The small intestine is a long tube-like organ with a highly folded surface containing finger-like projections called the villi. 
-
+1233. In monocots, petals usually number three or multiples of three; in dicots, the number of petals is four or five, or multiples of four and five.         Together, the calyx and corolla are known as the perianth.       The third whorl contains the male reproductive structures and is known as the androecium. 
+1263. In monocot seeds ([link]), the testa and tegmen of the seed coat are fused.         As the seed germinates, the primary root emerges, protected by the root-tip covering: the coleorhiza.       Next, the primary shoot emerges, protected by the coleoptile: the covering of the shoot tip. 
+1290. Torpor is a process that leads to a decrease in activity and metabolism and allows animals to survive adverse conditions.         Torpor can be used by animals for long periods, such as entering a state of hibernation during the winter months, in which case it enables them to maintain a reduced body temperature.       During hibernation, ground squirrels can achieve an abdominal temperature of 0° C (32° F), while a bear’s internal temperature is maintained higher at about 37° C (99° F).If torpor occurs during the summer months with high temperatures and little water, it is called estivation. 

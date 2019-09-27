@@ -1,196 +1,98 @@
 1214. Soil particles between 0.002 and 0.1 mm are called silt, and even smaller particles, less than 0.002 mm in diameter, are called clay.         Some soils have no dominant particle size and contain a mixture of sand, silt, and humus; these soils are called loams.       
-
 1217.         The organic and inorganic material in which soils form is the parent material.       Mineral soils form directly from the weathering of bedrock, the solid rock that lies beneath the soil, and therefore, they have a similar composition to the original rock. 
-
 1220. The soil profile has four distinct layers: 1) O horizon; 2) A horizon; 3) B horizon, or subsoil; and 4) C horizon, or soil base ([link]).         The O horizon has freshly decomposing organic matter—humus—at its surface, with decomposed vegetation at its base.       Humus enriches the soil with nutrients and enhances soil moisture retention. 
-
-1223. In some soils, the B horizon contains nodules or a layer of calcium carbonate.         The C horizon, or soil base, includes the parent material, plus the organic and inorganic material that is broken down to form soil.       The parent material may be either created in its natural place, or transported from elsewhere to its present location. 
-
+1226.         A parasitic plant depends on its host for survival.       Some parasitic plants have no leaves. 
 1229.         An epiphyte is a plant that grows on other plants, but is not dependent upon the other plant for nutrition ([link]).       Epiphytes have two types of roots: clinging aerial roots, which absorb nutrients from humus that accumulates in the crevices of trees; and aerial roots, which absorb moisture from the atmosphere. 
-
 1232. The haploid gametophyte produces the male and female gametes by mitosis in distinct multicellular structures.         Fusion of the male and females gametes forms the diploid zygote, which develops into the sporophyte.       After reaching maturity, the diploid sporophyte produces spores by meiosis, which in turn divide by mitosis to produce the haploid gametophyte. 
-
 1235. The androecium has stamens with anthers that contain the microsporangia.         The innermost group of structures in the flower is the gynoecium, or the female reproductive component(s).       The carpel is the individual unit of the gynoecium and has a stigma, style, and ovary. 
-
 1238. Female Gametophyte (The Embryo Sac)While the details may vary between species, the overall development of the female gametophyte has two distinct phases.         First, in the process of megasporogenesis, a single cell in the diploid megasporangium—an area of tissue in the ovules—undergoes meiosis to produce four megaspores, only one of which survives.       During the second phase, megagametogenesis, the surviving haploid megaspore undergoes mitosis to produce an eight-nucleate, seven-cell female gametophyte, also known as the megagametophyte or embryo sac. 
-
 1241. This central cell later fuses with a sperm to form the triploid endosperm.         Three nuclei position themselves on the end of the embryo sac opposite the micropyle and develop into the antipodal cells, which later degenerate.       The nucleus closest to the micropyle becomes the female gamete, or egg cell, and the two adjacent nuclei develop into synergid cells ([link]). 
-
 1244. Male GametophyteA male cone has a central axis on which bracts, a type of modified leaf, are attached.         The bracts are known as microsporophylls ([link]) and are the sites where microspores will develop.       The microspores develop inside the microsporangium. 
-
 1247. Pollination takes two forms: self-pollination and cross-pollination.         Self-pollination occurs when the pollen from the anther is deposited on the stigma of the same flower, or another flower on the same plant.       Cross-pollination is the transfer of pollen from the anther of one flower to the stigma of another flower on a different individual of the same species. 
-
 1250. The pollen tube is guided by the chemicals secreted by the synergids present in the embryo sac, and it enters the ovule sac through the micropyle.         Of the two sperm cells, one sperm fertilizes the egg cell, forming a diploid zygote; the other sperm fuses with the two polar nuclei, forming a triploid cell that develops into the endosperm.       Together, these two fertilization events in angiosperms are known as double fertilization ([link]). 
-
 1253. The terminal cell also divides, giving rise to a globular-shaped proembryo ([link]a).         In dicots (eudicots), the developing embryo has a heart shape, due to the presence of the two rudimentary cotyledons ([link]b).       In non-endospermic dicots, such as Capsella bursa, the endosperm develops initially, but is then digested, and the food reserves are moved into the two cotyledons. 
-
 1256. The two cotyledons in the dicot seed also have vascular connections to the embryo.         In endospermic dicots, the food reserves are stored in the endosperm.       During germination, the two cotyledons therefore act as absorptive organs to take up the enzymatically released food reserves, much like in monocots (monocots, by definition, also have endospermic seeds). 
-
 1259. The embryonic axis consists of three parts: the plumule, the radicle, and the hypocotyl.         The portion of the embryo between the cotyledon attachment point and the radicle is known as the hypocotyl (hypocotyl means “below the cotyledons”).       The embryonic axis terminates in a radicle (the embryonic root), which is the region from which the root will develop. 
-
 1262. The part of the embryonic axis that projects above the cotyledons is known as the epicotyl.         The plumule is composed of the epicotyl, young leaves, and the shoot apical meristem.Upon germination in dicot seeds, the epicotyl is shaped like a hook with the plumule pointing downwards.       This shape is called the plumule hook, and it persists as long as germination proceeds in the dark. 
-
 1265.         Many mature seeds enter a period of inactivity, or extremely low metabolic activity: a process known as dormancy, which may last for months, years or even centuries.       Dormancy helps keep seeds viable during unfavorable conditions. 
-
 1268. Fruits may be classified as simple, aggregate, multiple, or accessory, depending on their origin ([link]).         If the fruit develops from a single carpel or fused carpels of a single ovary, it is known as a simple fruit, as seen in nuts and beans.       An aggregate fruit is one that develops from more than one carpel, but all are in the same flower: the mature carpels fuse together to form the entire fruit, as seen in the raspberry. 
-
 1271. An example is the pineapple, where the flowers fuse together to form the fruit.         Accessory fruits (sometimes called false fruits) are not derived from the ovary, but from another part of the flower, such as the receptacle (strawberry) or the hypanthium (apples and pears).       
-
 1274. Either the ovule or part of the ovary, which is diploid in nature, gives rise to a new seed.         This method of reproduction is known as apomixis.       
-
 1277.         Plants such as coleus and money plant are propagated through stem cuttings, where a portion of the stem containing nodes and internodes is placed in moist soil and allowed to root.       In some species, stems can start producing a root even when placed only in water. 
-
 1280.         In another classification based on flowering frequency, monocarpic plants flower only once in their lifetime; examples include bamboo and yucca.       During the vegetative period of their life cycle (which may be as long as 120 years in some bamboo species), these plants may reproduce asexually and accumulate a great deal of food material that will be required during their once-in-a-lifetime flowering and setting of seed after fertilization. 
-
 1283. They are asymmetrical, radial, or bilateral in form as illustrated in [link].         Asymmetrical animals are animals with no pattern or symmetry; an example of an asymmetrical animal is a sponge.       Radial symmetry, as illustrated in [link], describes when an animal has an up-and-down orientation: any plane cut along its longitudinal axis through the organism produces equal halves, but not a definite right or left side. 
-
 1286. No energy system is one hundred percent efficient, and an animal’s metabolism produces waste energy in the form of heat.         If an animal can conserve that heat and maintain a relatively constant body temperature, it is classified as a warm-blooded animal and called an endotherm.       The insulation used to conserve the body heat comes in the forms of fur, fat, or feathers. 
-
 1289. Animals adapt to extremes of temperature or food availability through torpor.         Torpor is a process that leads to a decrease in activity and metabolism and allows animals to survive adverse conditions.       Torpor can be used by animals for long periods, such as entering a state of hibernation during the winter months, in which case it enables them to maintain a reduced body temperature. 
-
 1292. A standing vertebrate animal can be divided by several planes.         A sagittal plane divides the body into right and left portions.       A midsagittal plane divides the body exactly in the middle, making two equal right and left halves. 
-
 1295. A frontal plane (also called a coronal plane) separates the front from the back.         A transverse plane (or, horizontal plane) divides the animal into upper and lower portions.       This is sometimes called a cross section, and, if the transverse cut is at an angle, it is called an oblique plane. 
-
 1298.         Epithelial TissuesEpithelial tissues cover the outside of organs and structures in the body and line the lumens of organs in a single layer or multiple layers of cells.       The types of epithelia are classified by the shapes of cells present and the number of layers of cells. 
-
 1301.         Cuboidal epithelial cells, shown in [link], are cube-shaped with a single, central nucleus.       They are most commonly found in a single layer representing a simple epithelia in glandular tissues throughout the body where they prepare and secrete glandular material. 
-
 1304.         Transitional or uroepithelial cells appear only in the urinary system, primarily in the bladder and ureter.       These cells are arranged in a stratified layer, but they have the capability of appearing to pile up on top of each other in a relaxed, empty bladder, as illustrated in [link]. 
-
 1307.         Loose connective tissue, also called areolar connective tissue, has a sampling of all of the components of a connective tissue.       As illustrated in [link], loose connective tissue has some fibroblasts; macrophages are present as well. 
-
 1310. Cartilage is a connective tissue with a large amount of the matrix and variable amounts of fibers.         The cells, called chondrocytes, make the matrix and fibers of the tissue.       Chondrocytes are found in spaces within the tissue called lacunae. 
-
 1313. A blood vessel and a nerve are found in the center of the structure within the Haversian canal, with radiating circles of lacunae around it known as lamellae.         The wavy lines seen between the lacunae are microchannels called canaliculi; they connect the lacunae to aid diffusion between the cells.       Spongy bone is made of tiny plates called trabeculae these plates serve as struts to give the spongy bone strength. 
-
 1316.         The goal of homeostasis is the maintenance of equilibrium around a point or value called a set point.       While there are normal fluctuations from the set point, the body’s systems will usually attempt to go back to this point. 
-
 1319. Medication can lower blood pressure and lower the set point in the system to a more healthy level.         This is called a process of alteration of the set point in a feedback loop.       
-
 1322.         Herbivores are animals whose primary food source is plant-based.       Examples of herbivores, as shown in [link] include vertebrates like deer, koalas, and some bird species, as well as invertebrates such as crickets and caterpillars. 
-
-1325. Animals have evolved different types of digestive systems to aid in the digestion of the different foods they consume.         The simplest example is that of a gastrovascular cavity and is found in organisms with only one opening for digestion.       Platyhelminthes (flatworms), Ctenophora (comb jellies), and Cnidaria (coral, jelly fish, and sea anemones) use this type of digestion. 
-
+1328. Because most birds fly, their metabolic rates are high in order to efficiently process food and keep their body weight low.         The stomach of birds has two chambers: the proventriculus, where gastric juices are produced to digest the food before it enters the stomach, and the gizzard, where the food is stored, soaked, and mechanically ground.       The undigested material forms food pellets that are sometimes regurgitated. 
 1331. Saliva also contains an enzyme called salivary amylase that begins the process of converting starches in the food into a disaccharide called maltose.         Another enzyme called lipase is produced by the cells in the tongue.       Lipases are a class of enzymes that can break down triglycerides. 
-
 1334. The chewed and softened food passes through the esophagus after being swallowed.         The smooth muscles of the esophagus undergo a series of wave like movements called peristalsis that push the food toward the stomach, as illustrated in [link].       The peristalsis wave is unidirectional—it moves food from the mouth to the stomach, and reverse movement is not possible. 
-
 1337. Protein digestion is mediated by an enzyme called pepsin in the stomach chamber.         Pepsin is secreted by the chief cells in the stomach in an inactive form called pepsinogen.       Pepsin breaks peptide bonds and cleaves proteins into smaller polypeptides; it also helps activate more pepsinogen, starting a positive feedback mechanism that generates more pepsin. 
-
 1340. The small intestine is the organ where the digestion of protein, fats, and carbohydrates is completed.         The small intestine is a long tube-like organ with a highly folded surface containing finger-like projections called the villi.       The apical surface of each villus has many microscopic projections called microvilli. 
-
-1343.         The second part of the small intestine is called the jejunum, shown in [link].       Here, hydrolysis of nutrients is continued while most of the carbohydrates and amino acids are absorbed through the intestinal lining. 
-
+1346.         The rectum is the terminal end of the large intestine, as shown in [link].       The primary role of the rectum is to store the feces until defecation. 
 1349.         The pancreas is another important gland that secretes digestive juices.       The chyme produced from the stomach is highly acidic in nature; the pancreatic juices contain high levels of bicarbonate, an alkali that neutralizes the acidic chyme. 
-
 1352. The omega-3 alpha-linolenic acid and the omega-6 linoleic acid are essential fatty acids needed to make some membrane phospholipids.         Vitamins are another class of essential organic molecules that are required in small quantities for many enzymes to function and, for this reason, are considered to be co-enzymes.       Absence or low levels of vitamins can have a dramatic effect on health, as outlined in [link] and [link]. 
-
 1355.         Digestion and AbsorptionDigestion is the mechanical and chemical break down of food into small organic fragments.       It is important to break down macromolecules into smaller fragments that are of suitable size for absorption across the digestive epithelium. 
-
 1358. Further breakdown of peptides to single amino acids is aided by enzymes called peptidases (those that break down peptides).         Specifically, carboxypeptidase, dipeptidase, and aminopeptidase play important roles in reducing the peptides to free amino acids.       The amino acids are absorbed into the bloodstream through the small intestines. 
-
 1361.         The gastric phase begins once the food arrives in the stomach.       It builds on the stimulation provided during the cephalic phase. 
-
 1364. One of the important factors under hormonal control is the stomach acid environment.         During the gastric phase, the hormone gastrin is secreted by G cells in the stomach in response to the presence of proteins.       Gastrin stimulates the release of stomach acid, or hydrochloric acid (HCl) which aids in the digestion of the proteins. 
-
 1367. In order to neutralize the acidic chyme, a hormone called secretin stimulates the pancreas to produce alkaline bicarbonate solution and deliver it to the duodenum.         Secretin acts in tandem with another hormone called cholecystokinin (CCK).       Not only does CCK stimulate the pancreas to produce the requisite pancreatic juices, it also stimulates the gallbladder to release bile into the duodenum. 
-
 1370. Neurons also contain unique structures, illustrated in [link] for receiving and sending the electrical signals that make neuronal communication possible.         Dendrites are tree-like structures that extend away from the cell body to receive messages from other neurons at specialized junctions called synapses.       Although some neurons do not have any dendrites, some types of neurons have multiple dendrites. 
-
 1373. Neurons usually have one or two axons, but some neurons, like amacrine cells in the retina, do not contain any axons.         Some axons are covered with myelin, which acts as an insulator to minimize dissipation of the electrical signal as it travels down the axon, greatly increasing the speed on conduction.       This insulation is important as the axon from a human motor neuron can be as long as a meter—from the base of the spine to the toes. 
-
 1376. Astrocytes, in particular, have been shown through calcium imaging experiments to become active in response to nerve activity, transmit calcium waves between astrocytes, and modulate the activity of surrounding synapses.         Satellite glia provide nutrients and structural support for neurons in the PNS.       Microglia scavenge and degrade dead cells and protect the brain from invading microorganisms. 
-
 1379. One axon can be myelinated by several oligodendrocytes, and one oligodendrocyte can provide myelin for multiple neurons.         This is distinctive from the PNS where a single Schwann cell provides myelin for only one axon as the entire Schwann cell surrounds the axon.       Radial glia serve as scaffolds for developing neurons as they migrate to their end destinations. 
-
 1382. Voltage-gated ion channels regulate the relative concentrations of different ions inside and outside the cell.         The difference in total charge between the inside and outside of the cell is called the membrane potential.       
-
 1385. To accomplish this, the Na+ channels close and cannot be opened.         This begins the neuron's refractory period, in which it cannot produce another action potential because its sodium channels will not open.       At the same time, voltage-gated K+ channels open, allowing K+ to leave the cell. 
-
 1388. This depolarization causes voltage-gated Ca2+ channels to open.         Calcium ions entering the cell initiate a signaling cascade that causes small membrane-bound vesicles, called synaptic vesicles, containing neurotransmitter molecules to fuse with the presynaptic membrane.       Synaptic vesicles are shown in [link], which is an image from a scanning electron microscope. 
-
 1391. This depolarization is called an excitatory postsynaptic potential (EPSP) and makes the postsynaptic neuron more likely to fire an action potential.         Release of neurotransmitter at inhibitory synapses causes inhibitory postsynaptic potentials (IPSPs), a hyperpolarization of the presynaptic membrane.       For example, when the neurotransmitter GABA (gamma-aminobutyric acid) is released from a presynaptic neuron, it binds to and opens Cl- channels. 
-
 1394.         Long-term depression (LTD) is essentially the reverse of LTP: it is a long-term weakening of a synaptic connection.       One mechanism known to cause LTD also involves AMPA receptors. 
-
 1397. The dura mater also contains vein-like structures that carry blood from the brain back to the heart.         The middle layer is the web-like arachnoid mater.       The last layer is the pia mater (Latin for “soft mother”), which directly contacts and covers the brain and spinal cord like plastic wrap. 
-
 1400. The space between the arachnoid and pia maters is filled with cerebrospinal fluid (CSF).         CSF is produced by a tissue called choroid plexus in fluid-filled compartments in the CNS called ventricles.       The brain floats in CSF, which acts as a cushion and shock absorber and makes the brain neutrally buoyant. 
-
 1403.         The frontal lobe is located at the front of the brain, over the eyes.       This lobe contains the olfactory bulb, which processes smells. 
-
 1406.         The occipital lobe is located at the back of the brain.       It is primarily involved in vision—seeing, recognizing, and identifying the visual world. 
-
 1409.         Interconnected brain areas called the basal ganglia (or basal nuclei), shown in [link]b, play important roles in movement control and posture.       Damage to the basal ganglia, as in Parkinson’s disease, leads to motor impairments like a shuffling gait when walking. 
-
 1412.         The limbic system is a connected set of structures that regulates emotion, as well as behaviors related to fear and motivation.       It plays a role in memory formation and includes parts of the thalamus and hypothalamus as well as the hippocampus. 
-
 1415.         The cerebellum (Latin for “little brain”), shown in [link], sits at the base of the brain on top of the brainstem.       The cerebellum controls balance and aids in coordinating movement and learning new motor tasks. 
-
 1418. The PNS can be broken down into the autonomic nervous system, which controls bodily functions without conscious control, and the sensory-somatic nervous system, which transmits sensory information from the skin, muscles, and sensory organs to the CNS and sends motor commands from the CNS to the muscles. 
-
 1421. The acetylcholine activates the postganglionic neurons.         Postganglionic neurons then release norepinephrine onto target organs.       As anyone who has ever felt a rush before a big test, speech, or athletic event can attest, the effects of the sympathetic nervous system are quite pervasive. 
-
 1424.         Spinal nerves transmit sensory and motor information between the spinal cord and the rest of the body.       Each of the 31 spinal nerves (in humans) contains both sensory and motor axons. 
-
 1427.         Like Alzheimer’s disease, Parkinson’s disease is a neurodegenerative disease.       It was first characterized by James Parkinson in 1817. 
-
 1430.         Schizophrenia is a serious and often debilitating mental illness affecting one percent of people in the United States.       Symptoms of the disease include the inability to differentiate between reality and imagination, inappropriate and unregulated emotional responses, difficulty thinking, and problems with social situations. 
-
 1433. Additionally, we possess general senses, also called somatosensation, which respond to stimuli like temperature, pain, pressure, and vibration.         Vestibular sensation, which is an organism’s sense of spatial orientation and balance, proprioception (position of bones, joints, and muscles), and the sense of limb position that is used to track kinesthesia (limb movement) are part of somatosensation.       Although the sensory systems associated with these senses are very different, all share a common function: to convert a stimulus (such as light, or sound, or the position of the body) into an electrical signal in the nervous system. 
-
 1436.         The first step in sensation is reception, which is the activation of sensory receptors by stimuli such as mechanical stimuli (being bent or squished, for example), chemicals, or temperature.       The receptor can then respond to the stimuli. 
-
 1439. How is sensory input, such as pressure on the skin, changed to a receptor potential?         In this example, a type of receptor called a mechanoreceptor (as shown in [link]) possesses specialized membranes that respond to pressure.       Disturbance of these dendrites by compressing them or bending them opens gated ion channels in the plasma membrane of the sensory neuron, changing its electrical potential. 
-
 1442. A fifth type of mechanoreceptor, Krause end bulbs, are found only in specialized regions.         Merkel’s disks (shown in [link]) are found in the upper layers of skin near the base of the epidermis, both in skin that has hair and on glabrous skin, that is, the hairless skin found on the palms and fingers, the soles of the feet, and the lips of humans and other primates.       Merkel’s disks are densely distributed in the fingertips and lips. 
-
 1445. Note that these warmth detectors are situated deeper in the skin than are the cold detectors.         It is not surprising, then, that humans detect cold stimuli before they detect warm stimuli.Pacinian corpuscles (seen in [link]) are located deep in the dermis of both glabrous and hairy skin and are structurally similar to Meissner’s corpuscles; they are found in the bone periosteum, joint capsules, pancreas and other viscera, breast, and genitals.       They are rapidly adapting mechanoreceptors that sense deep transient (but not prolonged) pressure and high-frequency vibration. 
-
 1448.         Pain is the name given to nociception, which is the neural processing of injurious stimuli in response to tissue damage.       Pain is caused by true sources of injury, such as contact with a heat source that causes a thermal burn or contact with a corrosive chemical. 
-
 1451.         In mammals, sound waves are collected by the external, cartilaginous part of the ear called the pinna, then travel through the auditory canal and cause vibration of the thin diaphragm called the tympanum or ear drum, the innermost part of the outer ear (illustrated in [link]).       Interior to the tympanum is the middle ear. 
-
 1454. The middle ear holds three small bones called the ossicles, which transfer energy from the moving tympanum to the inner ear.         The three ossicles are the malleus (also known as the hammer), the incus (the anvil), and stapes (the stirrup).       The aptly named stapes looks very much like a stirrup. 
-
 1457. The vibrations of the oval window create pressure waves in the fluid (perilymph) inside the cochlea.         The cochlea is a whorled structure, like the shell of a snail, and it contains receptors for transduction of the mechanical wave into an electrical signal (as illustrated in [link]).       Inside the cochlea, the basilar membrane is a mechanical analyzer that runs the length of the cochlea, curling toward the cochlea’s center. 
-
 1460.         The site of transduction is in the organ of Corti (spiral organ).       It is composed of hair cells held in place above the basilar membrane like flowers projecting up from soil, with their exposed short, hair-like stereocilia contacting or embedded in the tectorial membrane above them. 
-
 1463.         Vision is the ability to detect light patterns from the outside environment and interpret them into images.       Animals are bombarded with sensory information, and the sheer volume of visual information can be problematic. 
-
 1466. It passes through other layers that process it so that it can be interpreted by the retina ([link]b).         The cornea, the front transparent layer of the eye, and the crystalline lens, a transparent convex structure behind the cornea, both refract (bend) light to focus the image on the retina.       The iris, which is conspicuous as the colored part of the eye, is a circular muscular ring lying between the lens and cornea that regulates the amount of light entering the eye. 
-
 1469. Presbyopia occurs because the image focuses behind the retina.         Presbyopia is a deficit similar to a different type of farsightedness called hyperopia caused by an eyeball that is too short.       For both defects, images in the distance are clear but images nearby are blurry. 
-
 1472.         The fovea is the region in the center back of the eye that is responsible for acute vision.       The fovea has a high density of cones. 
-
 1475.         Another important visual route is a pathway from the retina to the superior colliculus in the midbrain, where eye movements are coordinated and integrated with auditory information.       Finally, there is the pathway from the retina to the suprachiasmatic nucleus (SCN) of the hypothalamus. 
-
 1478.         Taste, also called gustation, and smell, also called olfaction, are the most interconnected senses in that both involve molecules of the stimulus entering the body and bonding to receptors.       Smell lets an animal sense the presence of food or other animals—whether potential mates, predators, or prey—or other chemicals in the environment that can impact their survival. 
-
 1481. Odorants (odor molecules) enter the nose and dissolve in the olfactory epithelium, the mucosa at the back of the nasal cavity (as illustrated in [link]).         The olfactory epithelium is a collection of specialized olfactory receptors in the back of the nasal cavity that spans an area about 5 cm2 in humans.       Recall that sensory cells are neurons. 
-
 1484.         PheromonesA pheromone is a chemical released by an animal that affects the behavior or physiology of animals of the same species.       Pheromonal signals can have profound effects on animals that inhale them, but pheromones apparently are not consciously perceived in the same way as other odors. 
-
 1487. Olfactory neurons project from the olfactory epithelium to the olfactory bulb as thin, unmyelinated axons.         The olfactory bulb is composed of neural clusters called glomeruli, and each glomerulus receives signals from one type of olfactory receptor, so each glomerulus is specific to one odorant.       From glomeruli, olfactory signals travel directly to the olfactory cortex and then to the frontal cortex and the thalamus. 
-
 1490.         The amino acid-derived hormones are relatively small molecules that are derived from the amino acids tyrosine and tryptophan, shown in [link].       If a hormone is amino acid-derived, its chemical name will end in “-ine”. 
-
 1493. Additionally, the number of receptors that respond to a hormone can change over time, resulting in increased or decreased cell sensitivity.         In up-regulation, the number of receptors increases in response to rising hormone levels, making the cell more sensitive to the hormone and allowing for more cellular activity.       When the number of receptors decreases in response to rising hormone levels, called down-regulation, cellular activity is reduced. 
-
 1496. Amino acid derived hormones and polypeptide hormones are not lipid-derived (lipid-soluble) and therefore cannot diffuse through the plasma membrane of cells.         Lipid insoluble hormones bind to receptors on the outer surface of the plasma membrane, via plasma membrane hormone receptors.       Unlike steroid hormones, lipid insoluble hormones do not directly affect the target cell because they cannot enter the cell and act directly on DNA. 
-
 1499. When a hormone binds to the receptor, the G-protein is activated by binding guanosine triphosphate, or GTP, in place of GDP.         After binding, GTP is hydrolysed by the G-protein into GDP and becomes inactive.The activated G-protein in turn activates a membrane-bound enzyme called adenylyl cyclase.       Adenylyl cyclase catalyzes the conversion of ATP to cAMP. 
-
 1502.         Hormonal stimuli refers to the release of a hormone in response to another hormone.       A number of endocrine glands release hormones when stimulated by hormones released by other endocrine glands. 
-
 1505. It synthesizes and secretes regulatory hormones that control the endocrine cells in the anterior pituitary gland.         The hypothalamus contains autonomic centers that control endocrine cells in the adrenal medulla via neuronal control.The pituitary gland, sometimes called the hypophysis or “master gland” is located at the base of the brain in the sella turcica, a groove of the sphenoid bone of the skull, illustrated in [link].       It is attached to the hypothalamus via a stalk called the pituitary stalk (or infundibulum). 
-
 1508. The anterior pituitary gland, or adenohypophysis, is surrounded by a capillary network that extends from the hypothalamus, down along the infundibulum, and to the anterior pituitary.         This capillary network is a part of the hypophyseal portal system that carries substances from the hypothalamus to the anterior pituitary and hormones from the anterior pituitary into the circulatory system.       A portal system carries blood from one capillary network to another; therefore, the hypophyseal portal system allows hormones produced by the hypothalamus to be carried directly to the anterior pituitary without first entering the circulatory system.The anterior pituitary produces seven hormones: growth hormone (GH), prolactin (PRL), thyroid-stimulating hormone (TSH), melanin-stimulating hormone (MSH), adrenocorticotropic hormone (ACTH), follicle-stimulating hormone (FSH), and luteinizing hormone (LH). 
-
 1511. The thyroid gland is located in the neck, just below the larynx and in front of the trachea, as shown in [link].         It is a butterfly-shaped gland with two lobes that are connected by the isthmus.       It has a dark red color due to its extensive vascular system. 
-
 1514.         Most people have four parathyroid glands; however, the number can vary from two to six.       These glands are located on the posterior surface of the thyroid gland, as shown in [link]. 
-

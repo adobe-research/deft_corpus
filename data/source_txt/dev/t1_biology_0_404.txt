@@ -1,6 +1,3 @@
-1226.         A parasitic plant depends on its host for survival.       Some parasitic plants have no leaves. 
-
-1328. Because most birds fly, their metabolic rates are high in order to efficiently process food and keep their body weight low.         The stomach of birds has two chambers: the proventriculus, where gastric juices are produced to digest the food before it enters the stomach, and the gizzard, where the food is stored, soaked, and mechanically ground.       The undigested material forms food pellets that are sometimes regurgitated. 
-
-1346.         The rectum is the terminal end of the large intestine, as shown in [link].       The primary role of the rectum is to store the feces until defecation. 
-
+1223. In some soils, the B horizon contains nodules or a layer of calcium carbonate.         The C horizon, or soil base, includes the parent material, plus the organic and inorganic material that is broken down to form soil.       The parent material may be either created in its natural place, or transported from elsewhere to its present location. 
+1325. Animals have evolved different types of digestive systems to aid in the digestion of the different foods they consume.         The simplest example is that of a gastrovascular cavity and is found in organisms with only one opening for digestion.       Platyhelminthes (flatworms), Ctenophora (comb jellies), and Cnidaria (coral, jelly fish, and sea anemones) use this type of digestion. 
+1343.         The second part of the small intestine is called the jejunum, shown in [link].       Here, hydrolysis of nutrients is continued while most of the carbohydrates and amino acids are absorbed through the intestinal lining. 
