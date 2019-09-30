@@ -18,9 +18,14 @@ Follow the instructions in the comments of `semeval2020_06_evaluation_main.py`
 
 ## Evaluation Criteria
 
-1. Subtask 1: Sentence Classification
+1. Subtask 1: Sentence Classification 
+
 We will report P/R/F1 for the positive and negative classes. The official score will be based on the F1 for the positive class.
+
 2. Subtask 2: Sequence labeling
-We will report P/R/F1 for each evaluated class, as well as macro- and micro-averaged F1 for the evaluated classes. The official score will be based on  the macro-averaged F1 of the evaluated classes.
+
+We will report P/R/F1 for each evaluated class, as well as macro- and micro-averaged F1 for the evaluated classes. The official score will be based on  the macro-averaged F1 of the evaluated classes. Evaluated classes include: Term, Alias-Term, Referential-Term, Definition, Referential-Definition, and Qualifier.
+
 3. Subtask 3: Relation extraction
-We will report P/R/F1 for each evaluated relation, as well as macro- and micro-averaged F1 for the evaluated relations. The official score will be based on  the macro-averaged F1 of the evaluated relations.
+
+We will report P/R/F1 for each evaluated relation, as well as macro- and micro-averaged F1 for the evaluated relations. The official score will be based on  the macro-averaged F1 of the evaluated relations. The evaluated relations include: Direct-defines, Indirect-defines, Refers-to, AKA, and Qualifies.
