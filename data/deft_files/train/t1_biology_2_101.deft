@@ -137,15 +137,15 @@ called	data/source_txt/train/t1_biology_2_101.txt	 710	 716	 O	 -1	 -1	 0
 a	data/source_txt/train/t1_biology_2_101.txt	 717	 718	 O	 -1	 -1	 0
 spectrophotometer	data/source_txt/train/t1_biology_2_101.txt	 719	 736	 B-Term	 T1	 0	 Direct-Defines
 can	data/source_txt/train/t1_biology_2_101.txt	 737	 740	 O	 -1	 -1	 0
-differentiate	data/source_txt/train/t1_biology_2_101.txt	 741	 754	 B-Definiti-frag	 T3-frag	 T3	 fragment
-which	data/source_txt/train/t1_biology_2_101.txt	 755	 760	 I-Definiti-frag	 T3-frag	 T3	 fragment
-wavelengths	data/source_txt/train/t1_biology_2_101.txt	 761	 772	 I-Definiti-frag	 T3-frag	 T3	 fragment
-of	data/source_txt/train/t1_biology_2_101.txt	 773	 775	 I-Definiti-frag	 T3-frag	 T3	 fragment
-light	data/source_txt/train/t1_biology_2_101.txt	 776	 781	 I-Definiti-frag	 T3-frag	 T3	 fragment
-a	data/source_txt/train/t1_biology_2_101.txt	 782	 783	 I-Definiti-frag	 T3-frag	 T3	 fragment
-substance	data/source_txt/train/t1_biology_2_101.txt	 784	 793	 I-Definiti-frag	 T3-frag	 T3	 fragment
-can	data/source_txt/train/t1_biology_2_101.txt	 794	 797	 I-Definiti-frag	 T3-frag	 T3	 fragment
-absorb	data/source_txt/train/t1_biology_2_101.txt	 798	 804	 I-Definiti-frag	 T3-frag	 T3	 fragment
+differentiate	data/source_txt/train/t1_biology_2_101.txt	 741	 754	B-Definition-frag	 T3-frag	 T3	 fragment
+which	data/source_txt/train/t1_biology_2_101.txt	 755	 760	I-Definition-frag	 T3-frag	 T3	 fragment
+wavelengths	data/source_txt/train/t1_biology_2_101.txt	 761	 772	I-Definition-frag	 T3-frag	 T3	 fragment
+of	data/source_txt/train/t1_biology_2_101.txt	 773	 775	I-Definition-frag	 T3-frag	 T3	 fragment
+light	data/source_txt/train/t1_biology_2_101.txt	 776	 781	I-Definition-frag	 T3-frag	 T3	 fragment
+a	data/source_txt/train/t1_biology_2_101.txt	 782	 783	I-Definition-frag	 T3-frag	 T3	 fragment
+substance	data/source_txt/train/t1_biology_2_101.txt	 784	 793	I-Definition-frag	 T3-frag	 T3	 fragment
+can	data/source_txt/train/t1_biology_2_101.txt	 794	 797	I-Definition-frag	 T3-frag	 T3	 fragment
+absorb	data/source_txt/train/t1_biology_2_101.txt	 798	 804	I-Definition-frag	 T3-frag	 T3	 fragment
 .	data/source_txt/train/t1_biology_2_101.txt	 804	 805	 O	 -1	 -1	 0
 
 Spectrophotometers	data/source_txt/train/t1_biology_2_101.txt	 812	 830	 B-Secondary-Definition	 T2	 T3	 Supplements
@@ -1456,7 +1456,7 @@ same	data/source_txt/train/t1_biology_2_101.txt	 8257	 8261	 B-Qualifier	 T230	 
 knowledge	data/source_txt/train/t1_biology_2_101.txt	 8262	 8271	 I-Qualifier	 T230	 T43	 Supplements
 ”	data/source_txt/train/t1_biology_2_101.txt	 8271	 8272	 O	 -1	 -1	 0
 )	data/source_txt/train/t1_biology_2_101.txt	 8272	 8273	 O	 -1	 -1	 0
-chromosomes	data/source_txt/train/t1_biology_2_101.txt	 8274	 8285	 B-Te-frag	 T43-frag	 T43	 fragment
+chromosomes	data/source_txt/train/t1_biology_2_101.txt	 8274	 8285	B-Term-frag	 T43-frag	 T43	 fragment
 .	data/source_txt/train/t1_biology_2_101.txt	 8285	 8286	 O	 -1	 -1	 0
 
 Homologous	data/source_txt/train/t1_biology_2_101.txt	 8295	 8305	 O	 -1	 -1	 0
@@ -1741,10 +1741,10 @@ structure	data/source_txt/train/t1_biology_2_101.txt	 10114	 10123	 I-Definition
 called	data/source_txt/train/t1_biology_2_101.txt	 10124	 10130	 O	 -1	 -1	 0
 a	data/source_txt/train/t1_biology_2_101.txt	 10131	 10132	 B-Term	 T274	 0	 Direct-Defines
 kinetochore	data/source_txt/train/t1_biology_2_101.txt	 10133	 10144	 I-Term	 T274	 0	 Direct-Defines
-in	data/source_txt/train/t1_biology_2_101.txt	 10145	 10147	 B-Definiti-frag	 T275-frag	 T275	 fragment
-the	data/source_txt/train/t1_biology_2_101.txt	 10148	 10151	 I-Definiti-frag	 T275-frag	 T275	 fragment
-centromeric	data/source_txt/train/t1_biology_2_101.txt	 10152	 10163	 I-Definiti-frag	 T275-frag	 T275	 fragment
-region	data/source_txt/train/t1_biology_2_101.txt	 10164	 10170	 I-Definiti-frag	 T275-frag	 T275	 fragment
+in	data/source_txt/train/t1_biology_2_101.txt	 10145	 10147	B-Definition-frag	 T275-frag	 T275	 fragment
+the	data/source_txt/train/t1_biology_2_101.txt	 10148	 10151	I-Definition-frag	 T275-frag	 T275	 fragment
+centromeric	data/source_txt/train/t1_biology_2_101.txt	 10152	 10163	I-Definition-frag	 T275-frag	 T275	 fragment
+region	data/source_txt/train/t1_biology_2_101.txt	 10164	 10170	I-Definition-frag	 T275-frag	 T275	 fragment
 (	data/source_txt/train/t1_biology_2_101.txt	 10171	 10172	 O	 -1	 -1	 0
 [	data/source_txt/train/t1_biology_2_101.txt	 10172	 10173	 O	 -1	 -1	 0
 link	data/source_txt/train/t1_biology_2_101.txt	 10173	 10177	 O	 -1	 -1	 0
@@ -2669,7 +2669,7 @@ or	data/source_txt/train/t1_biology_2_101.txt	 15925	 15927	 I-Qualifier	 T245	 
 son	data/source_txt/train/t1_biology_2_101.txt	 15928	 15931	 I-Qualifier	 T245	 T244	 Supplements
 )	data/source_txt/train/t1_biology_2_101.txt	 15931	 15932	 O	 -1	 -1	 0
 ,	data/source_txt/train/t1_biology_2_101.txt	 15932	 15933	 O	 -1	 -1	 0
-generation	data/source_txt/train/t1_biology_2_101.txt	 15934	 15944	 B-Alias-Te-frag	 T244-frag	 T244	 fragment
+generation	data/source_txt/train/t1_biology_2_101.txt	 15934	 15944	I-Alias-Term-frag	 T244-frag	 T244	 fragment
 .	data/source_txt/train/t1_biology_2_101.txt	 15944	 15945	 O	 -1	 -1	 0
 
 Once	data/source_txt/train/t1_biology_2_101.txt	 15952	 15956	 O	 -1	 -1	 0
@@ -6764,16 +6764,16 @@ inducing	data/source_txt/train/t1_biology_2_101.txt	 37545	 37553	 I-Alias-Term	
 plasmids	data/source_txt/train/t1_biology_2_101.txt	 37554	 37562	 I-Alias-Term	 T215	 T213	 AKA
 )	data/source_txt/train/t1_biology_2_101.txt	 37562	 37563	 O	 -1	 -1	 0
 ,	data/source_txt/train/t1_biology_2_101.txt	 37563	 37564	 O	 -1	 -1	 0
-that	data/source_txt/train/t1_biology_2_101.txt	 37565	 37569	 B-Definiti-frag	 T266-frag	 T266	 fragment
-contain	data/source_txt/train/t1_biology_2_101.txt	 37570	 37577	 I-Definiti-frag	 T266-frag	 T266	 fragment
-genes	data/source_txt/train/t1_biology_2_101.txt	 37578	 37583	 I-Definiti-frag	 T266-frag	 T266	 fragment
-for	data/source_txt/train/t1_biology_2_101.txt	 37584	 37587	 I-Definiti-frag	 T266-frag	 T266	 fragment
-the	data/source_txt/train/t1_biology_2_101.txt	 37588	 37591	 I-Definiti-frag	 T266-frag	 T266	 fragment
-production	data/source_txt/train/t1_biology_2_101.txt	 37592	 37602	 I-Definiti-frag	 T266-frag	 T266	 fragment
-of	data/source_txt/train/t1_biology_2_101.txt	 37603	 37605	 I-Definiti-frag	 T266-frag	 T266	 fragment
-tumors	data/source_txt/train/t1_biology_2_101.txt	 37606	 37612	 I-Definiti-frag	 T266-frag	 T266	 fragment
-in	data/source_txt/train/t1_biology_2_101.txt	 37613	 37615	 I-Definiti-frag	 T266-frag	 T266	 fragment
-plants	data/source_txt/train/t1_biology_2_101.txt	 37616	 37622	 I-Definiti-frag	 T266-frag	 T266	 fragment
+that	data/source_txt/train/t1_biology_2_101.txt	 37565	 37569	B-Definition-frag	 T266-frag	 T266	 fragment
+contain	data/source_txt/train/t1_biology_2_101.txt	 37570	 37577	I-Definition-frag	 T266-frag	 T266	 fragment
+genes	data/source_txt/train/t1_biology_2_101.txt	 37578	 37583	I-Definition-frag	 T266-frag	 T266	 fragment
+for	data/source_txt/train/t1_biology_2_101.txt	 37584	 37587	I-Definition-frag	 T266-frag	 T266	 fragment
+the	data/source_txt/train/t1_biology_2_101.txt	 37588	 37591	I-Definition-frag	 T266-frag	 T266	 fragment
+production	data/source_txt/train/t1_biology_2_101.txt	 37592	 37602	I-Definition-frag	 T266-frag	 T266	 fragment
+of	data/source_txt/train/t1_biology_2_101.txt	 37603	 37605	I-Definition-frag	 T266-frag	 T266	 fragment
+tumors	data/source_txt/train/t1_biology_2_101.txt	 37606	 37612	I-Definition-frag	 T266-frag	 T266	 fragment
+in	data/source_txt/train/t1_biology_2_101.txt	 37613	 37615	I-Definition-frag	 T266-frag	 T266	 fragment
+plants	data/source_txt/train/t1_biology_2_101.txt	 37616	 37622	I-Definition-frag	 T266-frag	 T266	 fragment
 .	data/source_txt/train/t1_biology_2_101.txt	 37622	 37623	 O	 -1	 -1	 0
 
 DNA	data/source_txt/train/t1_biology_2_101.txt	 37630	 37633	 O	 -1	 -1	 0

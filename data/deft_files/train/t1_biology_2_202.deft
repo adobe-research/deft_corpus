@@ -6575,7 +6575,7 @@ Monilophyta	data/source_txt/train/t1_biology_2_202.txt	 36429	 36440	 O	 -1	 -1	
 Class	data/source_txt/train/t1_biology_2_202.txt	 36442	 36447	 B-Term	 T211	 0	 AKA
 Psilotopsida	data/source_txt/train/t1_biology_2_202.txt	 36448	 36460	 I-Term	 T211	 0	 AKA
 (	data/source_txt/train/t1_biology_2_202.txt	 36461	 36462	 O	 -1	 -1	 0
-Ferns)With	data/source_txt/train/t1_biology_2_202.txt	 36462	 36472	 Alias-Term	 T213	 T211	 AKA
+Ferns)With	data/source_txt/train/t1_biology_2_202.txt	 36462	 36472	B-Alias-Term	 T213	 T211	 AKA
 their	data/source_txt/train/t1_biology_2_202.txt	 36473	 36478	 O	 -1	 -1	 0
 large	data/source_txt/train/t1_biology_2_202.txt	 36479	 36484	 O	 -1	 -1	 0
 fronds	data/source_txt/train/t1_biology_2_202.txt	 36485	 36491	 O	 -1	 -1	 0

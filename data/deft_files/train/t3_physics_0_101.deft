@@ -2750,7 +2750,7 @@ to	data/source_txt/train/t3_physics_0_101.txt	 16067	 16069	 O	 -1	 -1	 0
 be	data/source_txt/train/t3_physics_0_101.txt	 16070	 16072	 O	 -1	 -1	 0
 the	data/source_txt/train/t3_physics_0_101.txt	 16073	 16076	 B-Term	 T121	 0	 Direct-Defines
 focal	data/source_txt/train/t3_physics_0_101.txt	 16077	 16082	 I-Term	 T121	 0	 Direct-Defines
-lengthff	data/source_txt/train/t3_physics_0_101.txt	 16083	 16091	 Term	 T121	 0	 Direct-Defines
+lengthff	data/source_txt/train/t3_physics_0_101.txt	 16083	 16091	I-Term	 T121	 0	 Direct-Defines
 size	data/source_txt/train/t3_physics_0_101.txt	 16092	 16096	 O	 -1	 -1	 0
 12{f	data/source_txt/train/t3_physics_0_101.txt	 16097	 16101	 O	 -1	 -1	 0
 }	data/source_txt/train/t3_physics_0_101.txt	 16101	 16102	 O	 -1	 -1	 0
@@ -4975,23 +4975,23 @@ is	data/source_txt/train/t3_physics_0_101.txt	 28022	 28024	 O	 -1	 -1	 0
 said	data/source_txt/train/t3_physics_0_101.txt	 28025	 28029	 O	 -1	 -1	 0
 to	data/source_txt/train/t3_physics_0_101.txt	 28030	 28032	 O	 -1	 -1	 0
 decay	data/source_txt/train/t3_physics_0_101.txt	 28033	 28038	 B-Term	 T193	 0	 Direct-Defines
-(	data/source_txt/train/t3_physics_0_101.txt	 28039	 28040	 B-Definiti-frag	 T194-frag	 T194	 fragment
-a	data/source_txt/train/t3_physics_0_101.txt	 28040	 28041	 I-Definiti-frag	 T194-frag	 T194	 fragment
-term	data/source_txt/train/t3_physics_0_101.txt	 28042	 28046	 I-Definiti-frag	 T194-frag	 T194	 fragment
-also	data/source_txt/train/t3_physics_0_101.txt	 28047	 28051	 I-Definiti-frag	 T194-frag	 T194	 fragment
-used	data/source_txt/train/t3_physics_0_101.txt	 28052	 28056	 I-Definiti-frag	 T194-frag	 T194	 fragment
-to	data/source_txt/train/t3_physics_0_101.txt	 28057	 28059	 I-Definiti-frag	 T194-frag	 T194	 fragment
-describe	data/source_txt/train/t3_physics_0_101.txt	 28060	 28068	 I-Definiti-frag	 T194-frag	 T194	 fragment
-the	data/source_txt/train/t3_physics_0_101.txt	 28069	 28072	 I-Definiti-frag	 T194-frag	 T194	 fragment
-emission	data/source_txt/train/t3_physics_0_101.txt	 28073	 28081	 I-Definiti-frag	 T194-frag	 T194	 fragment
-of	data/source_txt/train/t3_physics_0_101.txt	 28082	 28084	 I-Definiti-frag	 T194-frag	 T194	 fragment
-radiation	data/source_txt/train/t3_physics_0_101.txt	 28085	 28094	 I-Definiti-frag	 T194-frag	 T194	 fragment
-by	data/source_txt/train/t3_physics_0_101.txt	 28095	 28097	 I-Definiti-frag	 T194-frag	 T194	 fragment
-atoms	data/source_txt/train/t3_physics_0_101.txt	 28098	 28103	 I-Definiti-frag	 T194-frag	 T194	 fragment
-in	data/source_txt/train/t3_physics_0_101.txt	 28104	 28106	 I-Definiti-frag	 T194-frag	 T194	 fragment
-excited	data/source_txt/train/t3_physics_0_101.txt	 28107	 28114	 I-Definiti-frag	 T194-frag	 T194	 fragment
-states	data/source_txt/train/t3_physics_0_101.txt	 28115	 28121	 I-Definiti-frag	 T194-frag	 T194	 fragment
-)	data/source_txt/train/t3_physics_0_101.txt	 28121	 28122	 I-Definiti-frag	 T194-frag	 T194	 fragment
+(	data/source_txt/train/t3_physics_0_101.txt	 28039	 28040	B-Definition-frag	 T194-frag	 T194	 fragment
+a	data/source_txt/train/t3_physics_0_101.txt	 28040	 28041	I-Definition-frag	 T194-frag	 T194	 fragment
+term	data/source_txt/train/t3_physics_0_101.txt	 28042	 28046	I-Definition-frag	 T194-frag	 T194	 fragment
+also	data/source_txt/train/t3_physics_0_101.txt	 28047	 28051	I-Definition-frag	 T194-frag	 T194	 fragment
+used	data/source_txt/train/t3_physics_0_101.txt	 28052	 28056	I-Definition-frag	 T194-frag	 T194	 fragment
+to	data/source_txt/train/t3_physics_0_101.txt	 28057	 28059	I-Definition-frag	 T194-frag	 T194	 fragment
+describe	data/source_txt/train/t3_physics_0_101.txt	 28060	 28068	I-Definition-frag	 T194-frag	 T194	 fragment
+the	data/source_txt/train/t3_physics_0_101.txt	 28069	 28072	I-Definition-frag	 T194-frag	 T194	 fragment
+emission	data/source_txt/train/t3_physics_0_101.txt	 28073	 28081	I-Definition-frag	 T194-frag	 T194	 fragment
+of	data/source_txt/train/t3_physics_0_101.txt	 28082	 28084	I-Definition-frag	 T194-frag	 T194	 fragment
+radiation	data/source_txt/train/t3_physics_0_101.txt	 28085	 28094	I-Definition-frag	 T194-frag	 T194	 fragment
+by	data/source_txt/train/t3_physics_0_101.txt	 28095	 28097	I-Definition-frag	 T194-frag	 T194	 fragment
+atoms	data/source_txt/train/t3_physics_0_101.txt	 28098	 28103	I-Definition-frag	 T194-frag	 T194	 fragment
+in	data/source_txt/train/t3_physics_0_101.txt	 28104	 28106	I-Definition-frag	 T194-frag	 T194	 fragment
+excited	data/source_txt/train/t3_physics_0_101.txt	 28107	 28114	I-Definition-frag	 T194-frag	 T194	 fragment
+states	data/source_txt/train/t3_physics_0_101.txt	 28115	 28121	I-Definition-frag	 T194-frag	 T194	 fragment
+)	data/source_txt/train/t3_physics_0_101.txt	 28121	 28122	I-Definition-frag	 T194-frag	 T194	 fragment
 .	data/source_txt/train/t3_physics_0_101.txt	 28122	 28123	 O	 -1	 -1	 0
 
 
@@ -5232,10 +5232,10 @@ collectively	data/source_txt/train/t3_physics_0_101.txt	 29353	 29365	 O	 -1	 -1
 as	data/source_txt/train/t3_physics_0_101.txt	 29366	 29368	 O	 -1	 -1	 0
 nucleons	data/source_txt/train/t3_physics_0_101.txt	 29369	 29377	 B-Term	 T200	 0	 Direct-Defines
 ,	data/source_txt/train/t3_physics_0_101.txt	 29377	 29378	 O	 -1	 -1	 0
-the	data/source_txt/train/t3_physics_0_101.txt	 29379	 29382	 B-Definiti-frag	 T201-frag	 T201	 fragment
-constituents	data/source_txt/train/t3_physics_0_101.txt	 29383	 29395	 I-Definiti-frag	 T201-frag	 T201	 fragment
-of	data/source_txt/train/t3_physics_0_101.txt	 29396	 29398	 I-Definiti-frag	 T201-frag	 T201	 fragment
-nuclei	data/source_txt/train/t3_physics_0_101.txt	 29399	 29405	 I-Definiti-frag	 T201-frag	 T201	 fragment
+the	data/source_txt/train/t3_physics_0_101.txt	 29379	 29382	B-Definition-frag	 T201-frag	 T201	 fragment
+constituents	data/source_txt/train/t3_physics_0_101.txt	 29383	 29395	I-Definition-frag	 T201-frag	 T201	 fragment
+of	data/source_txt/train/t3_physics_0_101.txt	 29396	 29398	I-Definition-frag	 T201-frag	 T201	 fragment
+nuclei	data/source_txt/train/t3_physics_0_101.txt	 29399	 29405	I-Definition-frag	 T201-frag	 T201	 fragment
 .	data/source_txt/train/t3_physics_0_101.txt	 29405	 29406	 O	 -1	 -1	 0
 
 
@@ -5839,19 +5839,19 @@ we	data/source_txt/train/t3_physics_0_101.txt	 32238	 32240	 O	 -1	 -1	 0
 use	data/source_txt/train/t3_physics_0_101.txt	 32241	 32244	 O	 -1	 -1	 0
 shielding	data/source_txt/train/t3_physics_0_101.txt	 32245	 32254	 B-Term	 T223	 0	 Direct-Defines
 ,	data/source_txt/train/t3_physics_0_101.txt	 32254	 32255	 O	 -1	 -1	 0
-increase	data/source_txt/train/t3_physics_0_101.txt	 32256	 32264	 B-Definiti-frag	 T224-frag	 T224	 fragment
-the	data/source_txt/train/t3_physics_0_101.txt	 32265	 32268	 I-Definiti-frag	 T224-frag	 T224	 fragment
-distance	data/source_txt/train/t3_physics_0_101.txt	 32269	 32277	 I-Definiti-frag	 T224-frag	 T224	 fragment
-from	data/source_txt/train/t3_physics_0_101.txt	 32278	 32282	 I-Definiti-frag	 T224-frag	 T224	 fragment
-a	data/source_txt/train/t3_physics_0_101.txt	 32283	 32284	 I-Definiti-frag	 T224-frag	 T224	 fragment
-source	data/source_txt/train/t3_physics_0_101.txt	 32285	 32291	 I-Definiti-frag	 T224-frag	 T224	 fragment
-,	data/source_txt/train/t3_physics_0_101.txt	 32291	 32292	 I-Definiti-frag	 T224-frag	 T224	 fragment
-and	data/source_txt/train/t3_physics_0_101.txt	 32293	 32296	 I-Definiti-frag	 T224-frag	 T224	 fragment
-limit	data/source_txt/train/t3_physics_0_101.txt	 32297	 32302	 I-Definiti-frag	 T224-frag	 T224	 fragment
-the	data/source_txt/train/t3_physics_0_101.txt	 32303	 32306	 I-Definiti-frag	 T224-frag	 T224	 fragment
-time	data/source_txt/train/t3_physics_0_101.txt	 32307	 32311	 I-Definiti-frag	 T224-frag	 T224	 fragment
-of	data/source_txt/train/t3_physics_0_101.txt	 32312	 32314	 I-Definiti-frag	 T224-frag	 T224	 fragment
-exposure	data/source_txt/train/t3_physics_0_101.txt	 32315	 32323	 I-Definiti-frag	 T224-frag	 T224	 fragment
+increase	data/source_txt/train/t3_physics_0_101.txt	 32256	 32264	B-Definition-frag	 T224-frag	 T224	 fragment
+the	data/source_txt/train/t3_physics_0_101.txt	 32265	 32268	I-Definition-frag	 T224-frag	 T224	 fragment
+distance	data/source_txt/train/t3_physics_0_101.txt	 32269	 32277	I-Definition-frag	 T224-frag	 T224	 fragment
+from	data/source_txt/train/t3_physics_0_101.txt	 32278	 32282	I-Definition-frag	 T224-frag	 T224	 fragment
+a	data/source_txt/train/t3_physics_0_101.txt	 32283	 32284	I-Definition-frag	 T224-frag	 T224	 fragment
+source	data/source_txt/train/t3_physics_0_101.txt	 32285	 32291	I-Definition-frag	 T224-frag	 T224	 fragment
+,	data/source_txt/train/t3_physics_0_101.txt	 32291	 32292	I-Definition-frag	 T224-frag	 T224	 fragment
+and	data/source_txt/train/t3_physics_0_101.txt	 32293	 32296	I-Definition-frag	 T224-frag	 T224	 fragment
+limit	data/source_txt/train/t3_physics_0_101.txt	 32297	 32302	I-Definition-frag	 T224-frag	 T224	 fragment
+the	data/source_txt/train/t3_physics_0_101.txt	 32303	 32306	I-Definition-frag	 T224-frag	 T224	 fragment
+time	data/source_txt/train/t3_physics_0_101.txt	 32307	 32311	I-Definition-frag	 T224-frag	 T224	 fragment
+of	data/source_txt/train/t3_physics_0_101.txt	 32312	 32314	I-Definition-frag	 T224-frag	 T224	 fragment
+exposure	data/source_txt/train/t3_physics_0_101.txt	 32315	 32323	I-Definition-frag	 T224-frag	 T224	 fragment
 .	data/source_txt/train/t3_physics_0_101.txt	 32323	 32324	 O	 -1	 -1	 0
 
 

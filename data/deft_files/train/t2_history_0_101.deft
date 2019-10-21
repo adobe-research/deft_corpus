@@ -82,7 +82,7 @@ governing	data/source_txt/train/t2_history_0_101.txt	 437	 446	 I-Definition	 T4
 humanity	data/source_txt/train/t2_history_0_101.txt	 447	 455	 I-Definition	 T4	 T3	 Direct-Defines
 (	data/source_txt/train/t2_history_0_101.txt	 456	 457	 I-Definition	 T4	 T3	 Direct-Defines
 [	data/source_txt/train/t2_history_0_101.txt	 457	 458	 I-Definition	 T4	 T3	 Direct-Defines
-link]).Jack	data/source_txt/train/t2_history_0_101.txt	 458	 469	 Definition	 T4	 T3	 Direct-Defines
+link]).Jack	data/source_txt/train/t2_history_0_101.txt	 458	 469	I-Definition	 T4	 T3	 Direct-Defines
 London	data/source_txt/train/t2_history_0_101.txt	 470	 476	 O	 -1	 -1	 0
 poses	data/source_txt/train/t2_history_0_101.txt	 477	 482	 O	 -1	 -1	 0
 with	data/source_txt/train/t2_history_0_101.txt	 483	 487	 O	 -1	 -1	 0

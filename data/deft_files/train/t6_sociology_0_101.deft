@@ -3650,7 +3650,7 @@ family	data/source_txt/train/t6_sociology_0_101.txt	 22744	 22750	 O	 -1	 -1	 0
 members	data/source_txt/train/t6_sociology_0_101.txt	 22751	 22758	 O	 -1	 -1	 0
 ,	data/source_txt/train/t6_sociology_0_101.txt	 22758	 22759	 O	 -1	 -1	 0
 specifically	data/source_txt/train/t6_sociology_0_101.txt	 22760	 22772	 O	 -1	 -1	 0
-spouses	data/source_txt/train/t6_sociology_0_101.txt	 22773	 22780	 B-Definiti-frag	 T186-frag	 T186	 fragment
+spouses	data/source_txt/train/t6_sociology_0_101.txt	 22773	 22780	B-Definition-frag	 T186-frag	 T186	 fragment
 .	data/source_txt/train/t6_sociology_0_101.txt	 22780	 22781	 O	 -1	 -1	 0
 
 To	data/source_txt/train/t6_sociology_0_101.txt	 22790	 22792	 O	 -1	 -1	 0

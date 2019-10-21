@@ -850,7 +850,7 @@ instruments	data/source_txt/dev/t7_government_0_303.txt	 44756	 44767	 I-Definit
 used	data/source_txt/dev/t7_government_0_303.txt	 44768	 44772	 I-Definition	 T127	 T126	 Direct-Defines
 to	data/source_txt/dev/t7_government_0_303.txt	 44773	 44775	 I-Definition	 T127	 T126	 Direct-Defines
 pursue	data/source_txt/dev/t7_government_0_303.txt	 44776	 44782	 I-Definition	 T127	 T126	 Direct-Defines
-them.”Eugene	data/source_txt/dev/t7_government_0_303.txt	 44783	 44795	 Definition	 T127	 T126	 Direct-Defines
+them.”Eugene	data/source_txt/dev/t7_government_0_303.txt	 44783	 44795	I-Definition	 T127	 T126	 Direct-Defines
 R.	data/source_txt/dev/t7_government_0_303.txt	 44796	 44798	 O	 -1	 -1	 0
 Wittkopf	data/source_txt/dev/t7_government_0_303.txt	 44799	 44807	 O	 -1	 -1	 0
 ,	data/source_txt/dev/t7_government_0_303.txt	 44807	 44808	 O	 -1	 -1	 0

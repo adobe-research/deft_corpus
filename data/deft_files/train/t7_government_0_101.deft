@@ -5694,7 +5694,7 @@ the	data/source_txt/train/t7_government_0_101.txt	 38539	 38542	 I-Definition	 T
 states’	data/source_txt/train/t7_government_0_101.txt	 38543	 38550	 I-Definition	 T116	 T115	 Direct-Defines
 voter	data/source_txt/train/t7_government_0_101.txt	 38551	 38556	 I-Definition	 T116	 T115	 Direct-Defines
 registration	data/source_txt/train/t7_government_0_101.txt	 38557	 38569	 I-Definition	 T116	 T115	 Direct-Defines
-rolls.“’Unusable’	data/source_txt/train/t7_government_0_101.txt	 38570	 38587	 Definition	 T116	 T115	 Direct-Defines
+rolls.“’Unusable’	data/source_txt/train/t7_government_0_101.txt	 38570	 38587	I-Definition	 T116	 T115	 Direct-Defines
 Voter	data/source_txt/train/t7_government_0_101.txt	 38588	 38593	 O	 -1	 -1	 0
 Rolls	data/source_txt/train/t7_government_0_101.txt	 38594	 38599	 O	 -1	 -1	 0
 ,	data/source_txt/train/t7_government_0_101.txt	 38599	 38600	 O	 -1	 -1	 0

@@ -1395,11 +1395,11 @@ called	data/source_txt/train/t4_psychology_1_101.txt	 7651	 7657	 O	 -1	 -1	 0
 stimulus	data/source_txt/train/t4_psychology_1_101.txt	 7658	 7666	 B-Term	 T51	 0	 Direct-Defines
 generalization	data/source_txt/train/t4_psychology_1_101.txt	 7667	 7681	 I-Term	 T51	 0	 Direct-Defines
 ,	data/source_txt/train/t4_psychology_1_101.txt	 7681	 7682	 O	 -1	 -1	 0
-the	data/source_txt/train/t4_psychology_1_101.txt	 7683	 7686	 B-Definiti-frag	 T50-frag	 T50	 fragment
-opposite	data/source_txt/train/t4_psychology_1_101.txt	 7687	 7695	 I-Definiti-frag	 T50-frag	 T50	 fragment
-of	data/source_txt/train/t4_psychology_1_101.txt	 7696	 7698	 I-Definiti-frag	 T50-frag	 T50	 fragment
-stimulus	data/source_txt/train/t4_psychology_1_101.txt	 7699	 7707	 I-Definiti-frag	 T50-frag	 T50	 fragment
-discrimination	data/source_txt/train/t4_psychology_1_101.txt	 7708	 7722	 I-Definiti-frag	 T50-frag	 T50	 fragment
+the	data/source_txt/train/t4_psychology_1_101.txt	 7683	 7686	B-Definition-frag	 T50-frag	 T50	 fragment
+opposite	data/source_txt/train/t4_psychology_1_101.txt	 7687	 7695	I-Definition-frag	 T50-frag	 T50	 fragment
+of	data/source_txt/train/t4_psychology_1_101.txt	 7696	 7698	I-Definition-frag	 T50-frag	 T50	 fragment
+stimulus	data/source_txt/train/t4_psychology_1_101.txt	 7699	 7707	I-Definition-frag	 T50-frag	 T50	 fragment
+discrimination	data/source_txt/train/t4_psychology_1_101.txt	 7708	 7722	I-Definition-frag	 T50-frag	 T50	 fragment
 .	data/source_txt/train/t4_psychology_1_101.txt	 7722	 7723	 O	 -1	 -1	 0
 
 The	data/source_txt/train/t4_psychology_1_101.txt	 7730	 7733	 O	 -1	 -1	 0
@@ -6034,11 +6034,11 @@ Rogers	data/source_txt/train/t4_psychology_1_101.txt	 34721	 34727	 O	 -1	 -1	 0
 called	data/source_txt/train/t4_psychology_1_101.txt	 34728	 34734	 O	 -1	 -1	 0
 incongruence	data/source_txt/train/t4_psychology_1_101.txt	 34735	 34747	 B-Term	 T226	 0	 Direct-Defines
 ,	data/source_txt/train/t4_psychology_1_101.txt	 34747	 34748	 O	 -1	 -1	 0
-which	data/source_txt/train/t4_psychology_1_101.txt	 34749	 34754	 B-Definiti-frag	 T225-frag	 T225	 fragment
-can	data/source_txt/train/t4_psychology_1_101.txt	 34755	 34758	 I-Definiti-frag	 T225-frag	 T225	 fragment
-lead	data/source_txt/train/t4_psychology_1_101.txt	 34759	 34763	 I-Definiti-frag	 T225-frag	 T225	 fragment
-to	data/source_txt/train/t4_psychology_1_101.txt	 34764	 34766	 I-Definiti-frag	 T225-frag	 T225	 fragment
-maladjustment	data/source_txt/train/t4_psychology_1_101.txt	 34767	 34780	 I-Definiti-frag	 T225-frag	 T225	 fragment
+which	data/source_txt/train/t4_psychology_1_101.txt	 34749	 34754	B-Definition-frag	 T225-frag	 T225	 fragment
+can	data/source_txt/train/t4_psychology_1_101.txt	 34755	 34758	I-Definition-frag	 T225-frag	 T225	 fragment
+lead	data/source_txt/train/t4_psychology_1_101.txt	 34759	 34763	I-Definition-frag	 T225-frag	 T225	 fragment
+to	data/source_txt/train/t4_psychology_1_101.txt	 34764	 34766	I-Definition-frag	 T225-frag	 T225	 fragment
+maladjustment	data/source_txt/train/t4_psychology_1_101.txt	 34767	 34780	I-Definition-frag	 T225-frag	 T225	 fragment
 .	data/source_txt/train/t4_psychology_1_101.txt	 34780	 34781	 O	 -1	 -1	 0
 
 Both	data/source_txt/train/t4_psychology_1_101.txt	 34788	 34792	 O	 -1	 -1	 0

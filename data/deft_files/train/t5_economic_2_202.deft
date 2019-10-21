@@ -2085,7 +2085,7 @@ not	data/source_txt/train/t5_economic_2_202.txt	 12485	 12488	 I-Definition	 T49
 held	data/source_txt/train/t5_economic_2_202.txt	 12489	 12493	 I-Definition	 T49	 T48	 Direct-Defines
 by	data/source_txt/train/t5_economic_2_202.txt	 12494	 12496	 I-Definition	 T49	 T48	 Direct-Defines
 the	data/source_txt/train/t5_economic_2_202.txt	 12497	 12500	 I-Definition	 T49	 T48	 Direct-Defines
-U.S.	data/source_txt/train/t5_economic_2_202.txt	 12501	 12505	 Definition	 T49	 T48	 Direct-Defines
+U.S.	data/source_txt/train/t5_economic_2_202.txt	 12501	 12505	I-Definition	 T49	 T48	 Direct-Defines
 Treasury	data/source_txt/train/t5_economic_2_202.txt	 12506	 12514	 O	 -1	 -1	 0
 ,	data/source_txt/train/t5_economic_2_202.txt	 12514	 12515	 O	 -1	 -1	 0
 at	data/source_txt/train/t5_economic_2_202.txt	 12516	 12518	 O	 -1	 -1	 0

@@ -68,7 +68,7 @@ a	data/source_txt/dev/t7_government_0_101.txt	 949	 950	 I-Definition	 T4	 T3	 D
 “	data/source_txt/dev/t7_government_0_101.txt	 951	 952	 I-Definition	 T4	 T3	 Direct-Defines
 well	data/source_txt/dev/t7_government_0_101.txt	 952	 956	 I-Definition	 T4	 T3	 Direct-Defines
 regulated	data/source_txt/dev/t7_government_0_101.txt	 957	 966	 I-Definition	 T4	 T3	 Direct-Defines
-militia.”United	data/source_txt/dev/t7_government_0_101.txt	 967	 982	 Definition	 T4	 T3	 Direct-Defines
+militia.”United	data/source_txt/dev/t7_government_0_101.txt	 967	 982	I-Definition	 T4	 T3	 Direct-Defines
 States	data/source_txt/dev/t7_government_0_101.txt	 983	 989	 O	 -1	 -1	 0
 v.	data/source_txt/dev/t7_government_0_101.txt	 990	 992	 O	 -1	 -1	 0
 Miller	data/source_txt/dev/t7_government_0_101.txt	 993	 999	 O	 -1	 -1	 0

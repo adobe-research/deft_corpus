@@ -185,7 +185,7 @@ political	data/source_txt/train/t7_government_1_101.txt	 955	 964	 I-Definition	
 ,	data/source_txt/train/t7_government_1_101.txt	 964	 965	 I-Definition	 T2	 T1	 Direct-Defines
 or	data/source_txt/train/t7_government_1_101.txt	 966	 968	 I-Definition	 T2	 T1	 Direct-Defines
 scientific	data/source_txt/train/t7_government_1_101.txt	 969	 979	 I-Definition	 T2	 T1	 Direct-Defines
-value.”Miller	data/source_txt/train/t7_government_1_101.txt	 980	 993	 Definition	 T2	 T1	 Direct-Defines
+value.”Miller	data/source_txt/train/t7_government_1_101.txt	 980	 993	I-Definition	 T2	 T1	 Direct-Defines
 v.	data/source_txt/train/t7_government_1_101.txt	 994	 996	 O	 -1	 -1	 0
 California	data/source_txt/train/t7_government_1_101.txt	 997	 1007	 O	 -1	 -1	 0
 ,	data/source_txt/train/t7_government_1_101.txt	 1007	 1008	 O	 -1	 -1	 0
@@ -3517,7 +3517,7 @@ transportation	data/source_txt/train/t7_government_1_101.txt	 18872	 18886	 I-De
 (	data/source_txt/train/t7_government_1_101.txt	 18887	 18888	 I-Definition	 T28	 T27	 Direct-Defines
 Morgan	data/source_txt/train/t7_government_1_101.txt	 18888	 18894	 I-Definition	 T28	 T27	 Direct-Defines
 v.	data/source_txt/train/t7_government_1_101.txt	 18895	 18897	 I-Definition	 T28	 T27	 Direct-Defines
-Virginia).Morgan	data/source_txt/train/t7_government_1_101.txt	 18898	 18914	 Definition	 T28	 T27	 Direct-Defines
+Virginia).Morgan	data/source_txt/train/t7_government_1_101.txt	 18898	 18914	I-Definition	 T28	 T27	 Direct-Defines
 v.	data/source_txt/train/t7_government_1_101.txt	 18915	 18917	 O	 -1	 -1	 0
 Virginia	data/source_txt/train/t7_government_1_101.txt	 18918	 18926	 O	 -1	 -1	 0
 ,	data/source_txt/train/t7_government_1_101.txt	 18926	 18927	 O	 -1	 -1	 0
@@ -4612,7 +4612,7 @@ by	data/source_txt/train/t7_government_1_101.txt	 26411	 26413	 O	 -1	 -1	 0
 abolishing	data/source_txt/train/t7_government_1_101.txt	 26414	 26424	 B-Definition	 T48	 T47	 Direct-Defines
 all	data/source_txt/train/t7_government_1_101.txt	 26425	 26428	 I-Definition	 T48	 T47	 Direct-Defines
 tribal	data/source_txt/train/t7_government_1_101.txt	 26429	 26435	 I-Definition	 T48	 T47	 Direct-Defines
-governments.“Curtis	data/source_txt/train/t7_government_1_101.txt	 26436	 26455	 Definition	 T48	 T47	 Direct-Defines
+governments.“Curtis	data/source_txt/train/t7_government_1_101.txt	 26436	 26455	I-Definition	 T48	 T47	 Direct-Defines
 Act	data/source_txt/train/t7_government_1_101.txt	 26456	 26459	 O	 -1	 -1	 0
 (	data/source_txt/train/t7_government_1_101.txt	 26460	 26461	 O	 -1	 -1	 0
 1898	data/source_txt/train/t7_government_1_101.txt	 26461	 26465	 O	 -1	 -1	 0

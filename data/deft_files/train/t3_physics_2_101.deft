@@ -1226,13 +1226,13 @@ the	data/source_txt/train/t3_physics_2_101.txt	 8053	 8056	 B-Term	 T159	 0	 Dir
 Curie	data/source_txt/train/t3_physics_2_101.txt	 8057	 8062	 I-Term	 T159	 0	 Direct-Defines
 temperature	data/source_txt/train/t3_physics_2_101.txt	 8063	 8074	 I-Term	 T159	 0	 Direct-Defines
 ,	data/source_txt/train/t3_physics_2_101.txt	 8074	 8075	 O	 -1	 -1	 0
-above	data/source_txt/train/t3_physics_2_101.txt	 8076	 8081	 B-Definiti-frag	 T160-frag	 T160	 fragment
-which	data/source_txt/train/t3_physics_2_101.txt	 8082	 8087	 I-Definiti-frag	 T160-frag	 T160	 fragment
-they	data/source_txt/train/t3_physics_2_101.txt	 8088	 8092	 I-Definiti-frag	 T160-frag	 T160	 fragment
-can	data/source_txt/train/t3_physics_2_101.txt	 8093	 8096	 I-Definiti-frag	 T160-frag	 T160	 fragment
-not	data/source_txt/train/t3_physics_2_101.txt	 8096	 8099	 I-Definiti-frag	 T160-frag	 T160	 fragment
-be	data/source_txt/train/t3_physics_2_101.txt	 8100	 8102	 I-Definiti-frag	 T160-frag	 T160	 fragment
-magnetized	data/source_txt/train/t3_physics_2_101.txt	 8103	 8113	 I-Definiti-frag	 T160-frag	 T160	 fragment
+above	data/source_txt/train/t3_physics_2_101.txt	 8076	 8081	B-Definition-frag	 T160-frag	 T160	 fragment
+which	data/source_txt/train/t3_physics_2_101.txt	 8082	 8087	I-Definition-frag	 T160-frag	 T160	 fragment
+they	data/source_txt/train/t3_physics_2_101.txt	 8088	 8092	I-Definition-frag	 T160-frag	 T160	 fragment
+can	data/source_txt/train/t3_physics_2_101.txt	 8093	 8096	I-Definition-frag	 T160-frag	 T160	 fragment
+not	data/source_txt/train/t3_physics_2_101.txt	 8096	 8099	I-Definition-frag	 T160-frag	 T160	 fragment
+be	data/source_txt/train/t3_physics_2_101.txt	 8100	 8102	I-Definition-frag	 T160-frag	 T160	 fragment
+magnetized	data/source_txt/train/t3_physics_2_101.txt	 8103	 8113	I-Definition-frag	 T160-frag	 T160	 fragment
 .	data/source_txt/train/t3_physics_2_101.txt	 8113	 8114	 O	 -1	 -1	 0
 
 The	data/source_txt/train/t3_physics_2_101.txt	 8121	 8124	 O	 -1	 -1	 0

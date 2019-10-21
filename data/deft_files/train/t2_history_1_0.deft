@@ -1176,7 +1176,7 @@ tried	data/source_txt/train/t2_history_1_0.txt	 8951	 8956	 I-Referential-Defini
 to	data/source_txt/train/t2_history_1_0.txt	 8957	 8959	 I-Referential-Definition	 T52	 T53	 Indirect-Defines
 achieve	data/source_txt/train/t2_history_1_0.txt	 8960	 8967	 I-Referential-Definition	 T52	 T53	 Indirect-Defines
 this	data/source_txt/train/t2_history_1_0.txt	 8968	 8972	 I-Referential-Definition	 T52	 T53	 Indirect-Defines
-control	data/source_txt/train/t2_history_1_0.txt	 8973	 8980	 Referential-Definition	 T52	 T53	 Indirect-Defines
+control	data/source_txt/train/t2_history_1_0.txt	 8973	 8980	I-Referential-Definition	 T52	 T53	 Indirect-Defines
 are	data/source_txt/train/t2_history_1_0.txt	 8981	 8984	 O	 -1	 -1	 0
 known	data/source_txt/train/t2_history_1_0.txt	 8985	 8990	 O	 -1	 -1	 0
 as	data/source_txt/train/t2_history_1_0.txt	 8991	 8993	 O	 -1	 -1	 0
@@ -2211,7 +2211,7 @@ house	data/source_txt/train/t2_history_1_0.txt	 14996	 15001	 I-Definition	 T75	
 a	data/source_txt/train/t2_history_1_0.txt	 15002	 15003	 B-Term	 T74	 0	 Direct-Defines
 unicameral	data/source_txt/train/t2_history_1_0.txt	 15004	 15014	 I-Term	 T74	 0	 Direct-Defines
 —	data/source_txt/train/t2_history_1_0.txt	 15014	 15015	 O	 -1	 -1	 0
-legislature	data/source_txt/train/t2_history_1_0.txt	 15015	 15026	 B-Definiti-frag	 T75-frag	 T75	 fragment
+legislature	data/source_txt/train/t2_history_1_0.txt	 15015	 15026	B-Definition-frag	 T75-frag	 T75	 fragment
 .	data/source_txt/train/t2_history_1_0.txt	 15026	 15027	 O	 -1	 -1	 0
 
 

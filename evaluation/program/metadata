@@ -1,0 +1,2 @@
+command: python3 $program/semeval2020_06_evaluation_main.py $input $output
+description: Evaluation program for SemEval 2020 Task 6.

@@ -6883,7 +6883,7 @@ promotion	data/source_txt/train/t6_sociology_1_0.txt	 39921	 39930	 I-Definition
 of	data/source_txt/train/t6_sociology_1_0.txt	 39931	 39933	 I-Definition	 T222	 T221	 Direct-Defines
 ,	data/source_txt/train/t6_sociology_1_0.txt	 39933	 39934	 I-Definition	 T222	 T221	 Direct-Defines
 feminism	data/source_txt/train/t6_sociology_1_0.txt	 39935	 39943	 I-Definition	 T222	 T221	 Direct-Defines
-online	data/source_txt/train/t6_sociology_1_0.txt	 39944	 39950	 Definition	 T222	 T221	 Direct-Defines
+online	data/source_txt/train/t6_sociology_1_0.txt	 39944	 39950	I-Definition	 T222	 T221	 Direct-Defines
 .	data/source_txt/train/t6_sociology_1_0.txt	 39950	 39951	 O	 -1	 -1	 0
 
 Research	data/source_txt/train/t6_sociology_1_0.txt	 39958	 39966	 O	 -1	 -1	 0

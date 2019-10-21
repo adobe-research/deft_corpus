@@ -3184,7 +3184,7 @@ link	data/source_txt/train/t2_history_2_101.txt	 19100	 19104	 O	 -1	 -1	 0
 
 This	data/source_txt/train/t2_history_2_101.txt	 19116	 19120	 B-Term	 T70	 0	 Direct-Defines
 Munich	data/source_txt/train/t2_history_2_101.txt	 19121	 19127	 I-Term	 T70	 0	 Direct-Defines
-Pact	data/source_txt/train/t2_history_2_101.txt	 19128	 19132	 Term	 T70	 0	 Direct-Defines
+Pact	data/source_txt/train/t2_history_2_101.txt	 19128	 19132	I-Term	 T70	 0	 Direct-Defines
 offered	data/source_txt/train/t2_history_2_101.txt	 19133	 19140	 O	 -1	 -1	 0
 a	data/source_txt/train/t2_history_2_101.txt	 19141	 19142	 O	 -1	 -1	 0
 policy	data/source_txt/train/t2_history_2_101.txt	 19143	 19149	 O	 -1	 -1	 0

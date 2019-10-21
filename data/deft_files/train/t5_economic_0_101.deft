@@ -801,7 +801,7 @@ Management	data/source_txt/train/t5_economic_0_101.txt	 4562	 4572	 I-Alias-Term
 Relations	data/source_txt/train/t5_economic_0_101.txt	 4573	 4582	 I-Alias-Term	 T29	 T28	 AKA
 Act	data/source_txt/train/t5_economic_0_101.txt	 4583	 4586	 I-Alias-Term	 T29	 T28	 AKA
 of	data/source_txt/train/t5_economic_0_101.txt	 4587	 4589	 I-Alias-Term	 T29	 T28	 AKA
-1947—commonly	data/source_txt/train/t5_economic_0_101.txt	 4590	 4603	 Alias-Term	 T29	 T28	 AKA
+1947—commonly	data/source_txt/train/t5_economic_0_101.txt	 4590	 4603	I-Alias-Term	 T29	 T28	 AKA
 known	data/source_txt/train/t5_economic_0_101.txt	 4604	 4609	 O	 -1	 -1	 0
 as	data/source_txt/train/t5_economic_0_101.txt	 4610	 4612	 O	 -1	 -1	 0
 the	data/source_txt/train/t5_economic_0_101.txt	 4613	 4616	 B-Term	 T28	 0	 Direct-Defines

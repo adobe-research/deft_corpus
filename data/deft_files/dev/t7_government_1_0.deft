@@ -793,7 +793,7 @@ as	data/source_txt/dev/t7_government_1_0.txt	 36083	 36085	 I-Definition	 T177	 
 decided	data/source_txt/dev/t7_government_1_0.txt	 36086	 36093	 I-Definition	 T177	 T176	 Direct-Defines
 by	data/source_txt/dev/t7_government_1_0.txt	 36094	 36096	 I-Definition	 T177	 T176	 Direct-Defines
 the	data/source_txt/dev/t7_government_1_0.txt	 36097	 36100	 I-Definition	 T177	 T176	 Direct-Defines
-U.S.	data/source_txt/dev/t7_government_1_0.txt	 36101	 36105	 Definition	 T177	 T176	 Direct-Defines
+U.S.	data/source_txt/dev/t7_government_1_0.txt	 36101	 36105	I-Definition	 T177	 T176	 Direct-Defines
 Supreme	data/source_txt/dev/t7_government_1_0.txt	 36106	 36113	 O	 -1	 -1	 0
 Court	data/source_txt/dev/t7_government_1_0.txt	 36114	 36119	 O	 -1	 -1	 0
 ,	data/source_txt/dev/t7_government_1_0.txt	 36119	 36120	 O	 -1	 -1	 0

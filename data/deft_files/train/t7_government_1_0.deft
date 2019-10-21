@@ -7348,7 +7348,7 @@ as	data/source_txt/train/t7_government_1_0.txt	 46889	 46891	 O	 -1	 -1	 0
 “	data/source_txt/train/t7_government_1_0.txt	 46892	 46893	 O	 -1	 -1	 0
 the	data/source_txt/train/t7_government_1_0.txt	 46893	 46896	 B-Alias-Term	 T189	 T188	 AKA
 peyote	data/source_txt/train/t7_government_1_0.txt	 46897	 46903	 I-Alias-Term	 T189	 T188	 AKA
-case.”Employment	data/source_txt/train/t7_government_1_0.txt	 46904	 46920	 Alias-Term	 T189	 T188	 AKA
+case.”Employment	data/source_txt/train/t7_government_1_0.txt	 46904	 46920	I-Alias-Term	 T189	 T188	 AKA
 Division	data/source_txt/train/t7_government_1_0.txt	 46921	 46929	 B-Alias-Term	 T192	 T188	 AKA
 ,	data/source_txt/train/t7_government_1_0.txt	 46929	 46930	 I-Alias-Term	 T192	 T188	 AKA
 Department	data/source_txt/train/t7_government_1_0.txt	 46931	 46941	 I-Alias-Term	 T192	 T188	 AKA
@@ -7361,7 +7361,7 @@ v.	data/source_txt/train/t7_government_1_0.txt	 46971	 46973	 I-Alias-Term	 T192
 Smith	data/source_txt/train/t7_government_1_0.txt	 46974	 46979	 I-Alias-Term	 T192	 T188	 AKA
 ,	data/source_txt/train/t7_government_1_0.txt	 46979	 46980	 I-Alias-Term	 T192	 T188	 AKA
 494	data/source_txt/train/t7_government_1_0.txt	 46981	 46984	 I-Alias-Term	 T192	 T188	 AKA
-U.S.	data/source_txt/train/t7_government_1_0.txt	 46985	 46989	 Alias-Term	 T192	 T188	 AKA
+U.S.	data/source_txt/train/t7_government_1_0.txt	 46985	 46989	I-Alias-Term	 T192	 T188	 AKA
 872	data/source_txt/train/t7_government_1_0.txt	 46990	 46993	 O	 -1	 -1	 0
 (	data/source_txt/train/t7_government_1_0.txt	 46994	 46995	 O	 -1	 -1	 0
 1990	data/source_txt/train/t7_government_1_0.txt	 46995	 46999	 O	 -1	 -1	 0

@@ -196,9 +196,9 @@ form	data/source_txt/dev/t1_biology_0_0.txt	 17719	 17723	 O	 -1	 -1	 0
 a	data/source_txt/dev/t1_biology_0_0.txt	 17724	 17725	 B-Term	 T122	 0	 Direct-Defines
 polynucleotide	data/source_txt/dev/t1_biology_0_0.txt	 17726	 17740	 I-Term	 T122	 0	 Direct-Defines
 ,	data/source_txt/dev/t1_biology_0_0.txt	 17740	 17741	 O	 -1	 -1	 0
-DNA	data/source_txt/dev/t1_biology_0_0.txt	 17742	 17745	 B-Definiti-frag	 T123-frag	 T123	 fragment
-or	data/source_txt/dev/t1_biology_0_0.txt	 17746	 17748	 I-Definiti-frag	 T123-frag	 T123	 fragment
-RNA	data/source_txt/dev/t1_biology_0_0.txt	 17749	 17752	 I-Definiti-frag	 T123-frag	 T123	 fragment
+DNA	data/source_txt/dev/t1_biology_0_0.txt	 17742	 17745	B-Definition-frag	 T123-frag	 T123	 fragment
+or	data/source_txt/dev/t1_biology_0_0.txt	 17746	 17748	I-Definition-frag	 T123-frag	 T123	 fragment
+RNA	data/source_txt/dev/t1_biology_0_0.txt	 17749	 17752	I-Definition-frag	 T123-frag	 T123	 fragment
 .	data/source_txt/dev/t1_biology_0_0.txt	 17752	 17753	 O	 -1	 -1	 0
 
 

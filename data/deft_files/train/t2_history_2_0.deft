@@ -709,7 +709,7 @@ mérito	data/source_txt/train/t2_history_2_0.txt	 4324	 4330	 I-Alias-Term	 T22	
 (	data/source_txt/train/t2_history_2_0.txt	 4331	 4332	 O	 -1	 -1	 0
 proof	data/source_txt/train/t2_history_2_0.txt	 4332	 4337	 B-Qualifier	 T24	 T21	 Supplements
 of	data/source_txt/train/t2_history_2_0.txt	 4338	 4340	 I-Qualifier	 T24	 T21	 Supplements
-merit)—describing	data/source_txt/train/t2_history_2_0.txt	 4341	 4358	 Qualifier	 T24	 T21	 Supplements
+merit)—describing	data/source_txt/train/t2_history_2_0.txt	 4341	 4358	I-Qualifier	 T24	 T21	 Supplements
 his	data/source_txt/train/t2_history_2_0.txt	 4359	 4362	 B-Definition	 T23	 T21	 Direct-Defines
 “	data/source_txt/train/t2_history_2_0.txt	 4363	 4364	 I-Definition	 T23	 T21	 Direct-Defines
 discovery	data/source_txt/train/t2_history_2_0.txt	 4364	 4373	 I-Definition	 T23	 T21	 Direct-Defines

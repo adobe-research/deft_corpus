@@ -298,7 +298,7 @@ potential	data/source_txt/train/t3_physics_1_101.txt	 2322	 2331	 I-Definition	 
 difference	data/source_txt/train/t3_physics_1_101.txt	 2332	 2342	 I-Definition	 T9	 T7	 Direct-Defines
 of	data/source_txt/train/t3_physics_1_101.txt	 2343	 2345	 I-Definition	 T9	 T7	 Direct-Defines
 1	data/source_txt/train/t3_physics_1_101.txt	 2346	 2347	 I-Definition	 T9	 T7	 Direct-Defines
-V.	data/source_txt/train/t3_physics_1_101.txt	 2348	 2350	 Definition	 T9	 T7	 Direct-Defines
+V.	data/source_txt/train/t3_physics_1_101.txt	 2348	 2350	I-Definition	 T9	 T7	 Direct-Defines
 In	data/source_txt/train/t3_physics_1_101.txt	 2352	 2354	 O	 -1	 -1	 0
 equation	data/source_txt/train/t3_physics_1_101.txt	 2355	 2363	 O	 -1	 -1	 0
 form	data/source_txt/train/t3_physics_1_101.txt	 2364	 2368	 O	 -1	 -1	 0

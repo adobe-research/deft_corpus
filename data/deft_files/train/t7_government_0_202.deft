@@ -3121,7 +3121,7 @@ by	data/source_txt/train/t7_government_0_202.txt	 21853	 21855	 I-Definition	 T6
 pesticides	data/source_txt/train/t7_government_0_202.txt	 21856	 21866	 I-Definition	 T62	 T63	 Direct-Defines
 such	data/source_txt/train/t7_government_0_202.txt	 21867	 21871	 I-Definition	 T62	 T63	 Direct-Defines
 as	data/source_txt/train/t7_government_0_202.txt	 21872	 21874	 I-Definition	 T62	 T63	 Direct-Defines
-DDT.Rachel	data/source_txt/train/t7_government_0_202.txt	 21875	 21885	 Definition	 T62	 T63	 Direct-Defines
+DDT.Rachel	data/source_txt/train/t7_government_0_202.txt	 21875	 21885	I-Definition	 T62	 T63	 Direct-Defines
 Caron	data/source_txt/train/t7_government_0_202.txt	 21886	 21891	 O	 -1	 -1	 0
 .	data/source_txt/train/t7_government_0_202.txt	 21891	 21892	 O	 -1	 -1	 0
 

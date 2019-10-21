@@ -2604,7 +2604,7 @@ recent	data/source_txt/train/t2_history_1_101.txt	 14015	 14021	 I-Definition	 T
 Japanese	data/source_txt/train/t2_history_1_101.txt	 14022	 14030	 I-Definition	 T51	 T50	 Direct-Defines
 invasion	data/source_txt/train/t2_history_1_101.txt	 14031	 14039	 I-Definition	 T51	 T50	 Direct-Defines
 of	data/source_txt/train/t2_history_1_101.txt	 14040	 14042	 I-Definition	 T51	 T50	 Direct-Defines
-Manchuria).Other	data/source_txt/train/t2_history_1_101.txt	 14043	 14059	 Definition	 T51	 T50	 Direct-Defines
+Manchuria).Other	data/source_txt/train/t2_history_1_101.txt	 14043	 14059	I-Definition	 T51	 T50	 Direct-Defines
 diplomatic	data/source_txt/train/t2_history_1_101.txt	 14060	 14070	 O	 -1	 -1	 0
 overtures	data/source_txt/train/t2_history_1_101.txt	 14071	 14080	 O	 -1	 -1	 0
 met	data/source_txt/train/t2_history_1_101.txt	 14081	 14084	 O	 -1	 -1	 0

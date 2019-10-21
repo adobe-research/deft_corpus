@@ -3462,10 +3462,10 @@ Corporation	data/source_txt/train/t5_economic_1_202.txt	 18054	 18065	 I-Term	 T
 FDIC	data/source_txt/train/t5_economic_1_202.txt	 18067	 18071	 B-Alias-Term	 T138	 T137	 AKA
 )	data/source_txt/train/t5_economic_1_202.txt	 18071	 18072	 O	 -1	 -1	 0
 is	data/source_txt/train/t5_economic_1_202.txt	 18073	 18075	 O	 -1	 -1	 0
-responsible	data/source_txt/train/t5_economic_1_202.txt	 18076	 18087	 B-Definiti-frag	 T139-frag	 T139	 fragment
-for	data/source_txt/train/t5_economic_1_202.txt	 18088	 18091	 I-Definiti-frag	 T139-frag	 T139	 fragment
-deposit	data/source_txt/train/t5_economic_1_202.txt	 18092	 18099	 I-Definiti-frag	 T139-frag	 T139	 fragment
-insurance	data/source_txt/train/t5_economic_1_202.txt	 18100	 18109	 I-Definiti-frag	 T139-frag	 T139	 fragment
+responsible	data/source_txt/train/t5_economic_1_202.txt	 18076	 18087	B-Definition-frag	 T139-frag	 T139	 fragment
+for	data/source_txt/train/t5_economic_1_202.txt	 18088	 18091	I-Definition-frag	 T139-frag	 T139	 fragment
+deposit	data/source_txt/train/t5_economic_1_202.txt	 18092	 18099	I-Definition-frag	 T139-frag	 T139	 fragment
+insurance	data/source_txt/train/t5_economic_1_202.txt	 18100	 18109	I-Definition-frag	 T139-frag	 T139	 fragment
 .	data/source_txt/train/t5_economic_1_202.txt	 18109	 18110	 O	 -1	 -1	 0
 
 Banks	data/source_txt/train/t5_economic_1_202.txt	 18117	 18122	 B-Secondary-Definition	 T140	 T139	 Supplements
@@ -6652,7 +6652,7 @@ savings	data/source_txt/train/t5_economic_1_202.txt	 34802	 34809	 I-Definition	
 (	data/source_txt/train/t5_economic_1_202.txt	 34810	 34811	 I-Definition	 T114	 T113	 Direct-Defines
 T	data/source_txt/train/t5_economic_1_202.txt	 34811	 34812	 I-Definition	 T114	 T113	 Direct-Defines
 –	data/source_txt/train/t5_economic_1_202.txt	 34813	 34814	 I-Definition	 T114	 T113	 Direct-Defines
-G)Total	data/source_txt/train/t5_economic_1_202.txt	 34815	 34822	 Definition	 T114	 T113	 Direct-Defines
+G)Total	data/source_txt/train/t5_economic_1_202.txt	 34815	 34822	I-Definition	 T114	 T113	 Direct-Defines
 savings	data/source_txt/train/t5_economic_1_202.txt	 34823	 34830	 O	 -1	 -1	 0
 =	data/source_txt/train/t5_economic_1_202.txt	 34831	 34832	 O	 -1	 -1	 0
 Private	data/source_txt/train/t5_economic_1_202.txt	 34833	 34840	 O	 -1	 -1	 0

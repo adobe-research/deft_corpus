@@ -2185,7 +2185,7 @@ when	data/source_txt/train/t6_sociology_1_101.txt	 14098	 14102	 I-Definition	 T
 the	data/source_txt/train/t6_sociology_1_101.txt	 14103	 14106	 I-Definition	 T85	 T84	 Direct-Defines
 Q	data/source_txt/train/t6_sociology_1_101.txt	 14107	 14108	 I-Definition	 T85	 T84	 Direct-Defines
 is	data/source_txt/train/t6_sociology_1_101.txt	 14109	 14111	 I-Definition	 T85	 T84	 Direct-Defines
-added).Sociologically	data/source_txt/train/t6_sociology_1_101.txt	 14112	 14133	 Definition	 T85	 T84	 Direct-Defines
+added).Sociologically	data/source_txt/train/t6_sociology_1_101.txt	 14112	 14133	I-Definition	 T85	 T84	 Direct-Defines
 ,	data/source_txt/train/t6_sociology_1_101.txt	 14133	 14134	 O	 -1	 -1	 0
 it	data/source_txt/train/t6_sociology_1_101.txt	 14135	 14137	 O	 -1	 -1	 0
 is	data/source_txt/train/t6_sociology_1_101.txt	 14138	 14140	 O	 -1	 -1	 0
@@ -4651,14 +4651,14 @@ power	data/source_txt/train/t6_sociology_1_101.txt	 27343	 27348	 I-Definition	 
 in	data/source_txt/train/t6_sociology_1_101.txt	 27349	 27351	 O	 -1	 -1	 0
 an	data/source_txt/train/t6_sociology_1_101.txt	 27352	 27354	 B-Term	 T180	 0	 Direct-Defines
 oligarchy	data/source_txt/train/t6_sociology_1_101.txt	 27355	 27364	 I-Term	 T180	 0	 Direct-Defines
-is	data/source_txt/train/t6_sociology_1_101.txt	 27365	 27367	 B-Definiti-frag	 T181-frag	 T181	 fragment
-held	data/source_txt/train/t6_sociology_1_101.txt	 27368	 27372	 I-Definiti-frag	 T181-frag	 T181	 fragment
-by	data/source_txt/train/t6_sociology_1_101.txt	 27373	 27375	 I-Definiti-frag	 T181-frag	 T181	 fragment
-a	data/source_txt/train/t6_sociology_1_101.txt	 27376	 27377	 I-Definiti-frag	 T181-frag	 T181	 fragment
-small	data/source_txt/train/t6_sociology_1_101.txt	 27378	 27383	 I-Definiti-frag	 T181-frag	 T181	 fragment
-,	data/source_txt/train/t6_sociology_1_101.txt	 27383	 27384	 I-Definiti-frag	 T181-frag	 T181	 fragment
-elite	data/source_txt/train/t6_sociology_1_101.txt	 27385	 27390	 I-Definiti-frag	 T181-frag	 T181	 fragment
-group	data/source_txt/train/t6_sociology_1_101.txt	 27391	 27396	 I-Definiti-frag	 T181-frag	 T181	 fragment
+is	data/source_txt/train/t6_sociology_1_101.txt	 27365	 27367	B-Definition-frag	 T181-frag	 T181	 fragment
+held	data/source_txt/train/t6_sociology_1_101.txt	 27368	 27372	I-Definition-frag	 T181-frag	 T181	 fragment
+by	data/source_txt/train/t6_sociology_1_101.txt	 27373	 27375	I-Definition-frag	 T181-frag	 T181	 fragment
+a	data/source_txt/train/t6_sociology_1_101.txt	 27376	 27377	I-Definition-frag	 T181-frag	 T181	 fragment
+small	data/source_txt/train/t6_sociology_1_101.txt	 27378	 27383	I-Definition-frag	 T181-frag	 T181	 fragment
+,	data/source_txt/train/t6_sociology_1_101.txt	 27383	 27384	I-Definition-frag	 T181-frag	 T181	 fragment
+elite	data/source_txt/train/t6_sociology_1_101.txt	 27385	 27390	I-Definition-frag	 T181-frag	 T181	 fragment
+group	data/source_txt/train/t6_sociology_1_101.txt	 27391	 27396	I-Definition-frag	 T181-frag	 T181	 fragment
 .	data/source_txt/train/t6_sociology_1_101.txt	 27396	 27397	 O	 -1	 -1	 0
 
 Unlike	data/source_txt/train/t6_sociology_1_101.txt	 27404	 27410	 O	 -1	 -1	 0

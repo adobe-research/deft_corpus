@@ -56,11 +56,11 @@ called	data/source_txt/train/t1_biology_0_101.txt	 278	 284	 O	 -1	 -1	 0
 carotene	data/source_txt/train/t1_biology_0_101.txt	 287	 295	 I-Term	 T296	 0	 Direct-Defines
 (	data/source_txt/train/t1_biology_0_101.txt	 296	 297	 O	 -1	 -1	 0
 which	data/source_txt/train/t1_biology_0_101.txt	 297	 302	 O	 -1	 -1	 0
-absorbs	data/source_txt/train/t1_biology_0_101.txt	 303	 310	 B-Definiti-frag	 T3-frag	 T3	 fragment
-blue	data/source_txt/train/t1_biology_0_101.txt	 311	 315	 I-Definiti-frag	 T3-frag	 T3	 fragment
-and	data/source_txt/train/t1_biology_0_101.txt	 316	 319	 I-Definiti-frag	 T3-frag	 T3	 fragment
-green	data/source_txt/train/t1_biology_0_101.txt	 320	 325	 I-Definiti-frag	 T3-frag	 T3	 fragment
-light	data/source_txt/train/t1_biology_0_101.txt	 326	 331	 I-Definiti-frag	 T3-frag	 T3	 fragment
+absorbs	data/source_txt/train/t1_biology_0_101.txt	 303	 310	B-Definition-frag	 T3-frag	 T3	 fragment
+blue	data/source_txt/train/t1_biology_0_101.txt	 311	 315	I-Definition-frag	 T3-frag	 T3	 fragment
+and	data/source_txt/train/t1_biology_0_101.txt	 316	 319	I-Definition-frag	 T3-frag	 T3	 fragment
+green	data/source_txt/train/t1_biology_0_101.txt	 320	 325	I-Definition-frag	 T3-frag	 T3	 fragment
+light	data/source_txt/train/t1_biology_0_101.txt	 326	 331	I-Definition-frag	 T3-frag	 T3	 fragment
 )	data/source_txt/train/t1_biology_0_101.txt	 331	 332	 O	 -1	 -1	 0
 .	data/source_txt/train/t1_biology_0_101.txt	 332	 333	 O	 -1	 -1	 0
 
@@ -1445,14 +1445,14 @@ objects	data/source_txt/train/t1_biology_0_101.txt	 7617	 7624	 I-Definition	 T1
 the	data/source_txt/train/t1_biology_0_101.txt	 7626	 7629	 B-Term	 T11	 0	 Direct-Defines
 centrioles	data/source_txt/train/t1_biology_0_101.txt	 7630	 7640	 I-Term	 T11	 0	 Direct-Defines
 ,	data/source_txt/train/t1_biology_0_101.txt	 7640	 7641	 O	 -1	 -1	 0
-which	data/source_txt/train/t1_biology_0_101.txt	 7642	 7647	 B-Definiti-frag	 T12-frag	 T12	 fragment
-are	data/source_txt/train/t1_biology_0_101.txt	 7648	 7651	 I-Definiti-frag	 T12-frag	 T12	 fragment
-at	data/source_txt/train/t1_biology_0_101.txt	 7652	 7654	 I-Definiti-frag	 T12-frag	 T12	 fragment
-right	data/source_txt/train/t1_biology_0_101.txt	 7655	 7660	 I-Definiti-frag	 T12-frag	 T12	 fragment
-angles	data/source_txt/train/t1_biology_0_101.txt	 7661	 7667	 I-Definiti-frag	 T12-frag	 T12	 fragment
-to	data/source_txt/train/t1_biology_0_101.txt	 7668	 7670	 I-Definiti-frag	 T12-frag	 T12	 fragment
-each	data/source_txt/train/t1_biology_0_101.txt	 7671	 7675	 I-Definiti-frag	 T12-frag	 T12	 fragment
-other	data/source_txt/train/t1_biology_0_101.txt	 7676	 7681	 I-Definiti-frag	 T12-frag	 T12	 fragment
+which	data/source_txt/train/t1_biology_0_101.txt	 7642	 7647	B-Definition-frag	 T12-frag	 T12	 fragment
+are	data/source_txt/train/t1_biology_0_101.txt	 7648	 7651	I-Definition-frag	 T12-frag	 T12	 fragment
+at	data/source_txt/train/t1_biology_0_101.txt	 7652	 7654	I-Definition-frag	 T12-frag	 T12	 fragment
+right	data/source_txt/train/t1_biology_0_101.txt	 7655	 7660	I-Definition-frag	 T12-frag	 T12	 fragment
+angles	data/source_txt/train/t1_biology_0_101.txt	 7661	 7667	I-Definition-frag	 T12-frag	 T12	 fragment
+to	data/source_txt/train/t1_biology_0_101.txt	 7668	 7670	I-Definition-frag	 T12-frag	 T12	 fragment
+each	data/source_txt/train/t1_biology_0_101.txt	 7671	 7675	I-Definition-frag	 T12-frag	 T12	 fragment
+other	data/source_txt/train/t1_biology_0_101.txt	 7676	 7681	I-Definition-frag	 T12-frag	 T12	 fragment
 .	data/source_txt/train/t1_biology_0_101.txt	 7681	 7682	 O	 -1	 -1	 0
 
 Centrioles	data/source_txt/train/t1_biology_0_101.txt	 7689	 7699	 O	 -1	 -1	 0
@@ -6674,7 +6674,7 @@ DNA	data/source_txt/train/t1_biology_0_101.txt	 35383	 35386	 I-Term	 T298	 0	 A
 (	data/source_txt/train/t1_biology_0_101.txt	 35387	 35388	 O	 -1	 -1	 0
 cDNA	data/source_txt/train/t1_biology_0_101.txt	 35388	 35392	 B-Alias-Term	 T300	 T298	 AKA
 )	data/source_txt/train/t1_biology_0_101.txt	 35392	 35393	 O	 -1	 -1	 0
-libraries	data/source_txt/train/t1_biology_0_101.txt	 35394	 35403	 B-Te-frag	 T298-frag	 T298	 fragment
+libraries	data/source_txt/train/t1_biology_0_101.txt	 35394	 35403	B-Term-frag	 T298-frag	 T298	 fragment
 (	data/source_txt/train/t1_biology_0_101.txt	 35404	 35405	 O	 -1	 -1	 0
 collections	data/source_txt/train/t1_biology_0_101.txt	 35405	 35416	 B-Definition	 T299	 T298	 Direct-Defines
 of	data/source_txt/train/t1_biology_0_101.txt	 35417	 35419	 I-Definition	 T299	 T298	 Direct-Defines

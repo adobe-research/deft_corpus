@@ -2745,9 +2745,9 @@ I	data/source_txt/train/t7_government_0_303.txt	 20925	 20926	 I-Term	 T61	 T61	
 Section	data/source_txt/train/t7_government_0_303.txt	 20928	 20935	 O	 -1	 -1	 0
 8	data/source_txt/train/t7_government_0_303.txt	 20936	 20937	 O	 -1	 -1	 0
 ,	data/source_txt/train/t7_government_0_303.txt	 20937	 20938	 O	 -1	 -1	 0
-of	data/source_txt/train/t7_government_0_303.txt	 20939	 20941	 B-Te-frag	 T61-frag	 T61	 fragment
-the	data/source_txt/train/t7_government_0_303.txt	 20942	 20945	 I-Te-frag	 T61-frag	 T61	 fragment
-Constitution	data/source_txt/train/t7_government_0_303.txt	 20946	 20958	 I-Te-frag	 T61-frag	 T61	 fragment
+of	data/source_txt/train/t7_government_0_303.txt	 20939	 20941	B-Term-frag	 T61-frag	 T61	 fragment
+the	data/source_txt/train/t7_government_0_303.txt	 20942	 20945	I-Term-frag	 T61-frag	 T61	 fragment
+Constitution	data/source_txt/train/t7_government_0_303.txt	 20946	 20958	I-Term-frag	 T61-frag	 T61	 fragment
 ,	data/source_txt/train/t7_government_0_303.txt	 20958	 20959	 O	 -1	 -1	 0
 which	data/source_txt/train/t7_government_0_303.txt	 20960	 20965	 O	 -1	 -1	 0
 provides	data/source_txt/train/t7_government_0_303.txt	 20966	 20974	 B-Definition	 T62	 T62	 0
@@ -4786,14 +4786,14 @@ called	data/source_txt/train/t7_government_0_303.txt	 38849	 38855	 O	 -1	 -1	 0
 common	data/source_txt/train/t7_government_0_303.txt	 38856	 38862	 B-Term	 T102	 0	 Direct-Defines
 goods	data/source_txt/train/t7_government_0_303.txt	 38863	 38868	 I-Term	 T102	 0	 Direct-Defines
 ,	data/source_txt/train/t7_government_0_303.txt	 38868	 38869	 O	 -1	 -1	 0
-which	data/source_txt/train/t7_government_0_303.txt	 38870	 38875	 B-Definiti-frag	 T103-frag	 T103	 fragment
-are	data/source_txt/train/t7_government_0_303.txt	 38876	 38879	 I-Definiti-frag	 T103-frag	 T103	 fragment
-not	data/source_txt/train/t7_government_0_303.txt	 38880	 38883	 I-Definiti-frag	 T103-frag	 T103	 fragment
-excludable	data/source_txt/train/t7_government_0_303.txt	 38884	 38894	 I-Definiti-frag	 T103-frag	 T103	 fragment
-but	data/source_txt/train/t7_government_0_303.txt	 38895	 38898	 I-Definiti-frag	 T103-frag	 T103	 fragment
-may	data/source_txt/train/t7_government_0_303.txt	 38899	 38902	 I-Definiti-frag	 T103-frag	 T103	 fragment
-be	data/source_txt/train/t7_government_0_303.txt	 38903	 38905	 I-Definiti-frag	 T103-frag	 T103	 fragment
-finite	data/source_txt/train/t7_government_0_303.txt	 38906	 38912	 I-Definiti-frag	 T103-frag	 T103	 fragment
+which	data/source_txt/train/t7_government_0_303.txt	 38870	 38875	B-Definition-frag	 T103-frag	 T103	 fragment
+are	data/source_txt/train/t7_government_0_303.txt	 38876	 38879	I-Definition-frag	 T103-frag	 T103	 fragment
+not	data/source_txt/train/t7_government_0_303.txt	 38880	 38883	I-Definition-frag	 T103-frag	 T103	 fragment
+excludable	data/source_txt/train/t7_government_0_303.txt	 38884	 38894	I-Definition-frag	 T103-frag	 T103	 fragment
+but	data/source_txt/train/t7_government_0_303.txt	 38895	 38898	I-Definition-frag	 T103-frag	 T103	 fragment
+may	data/source_txt/train/t7_government_0_303.txt	 38899	 38902	I-Definition-frag	 T103-frag	 T103	 fragment
+be	data/source_txt/train/t7_government_0_303.txt	 38903	 38905	I-Definition-frag	 T103-frag	 T103	 fragment
+finite	data/source_txt/train/t7_government_0_303.txt	 38906	 38912	I-Definition-frag	 T103-frag	 T103	 fragment
 .	data/source_txt/train/t7_government_0_303.txt	 38912	 38913	 O	 -1	 -1	 0
 
 The	data/source_txt/train/t7_government_0_303.txt	 38922	 38925	 O	 -1	 -1	 0

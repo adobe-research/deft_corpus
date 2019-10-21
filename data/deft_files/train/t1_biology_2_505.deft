@@ -2075,7 +2075,7 @@ position	data/source_txt/train/t1_biology_2_505.txt	 12629	 12637	 I-Definition	
 from	data/source_txt/train/t1_biology_2_505.txt	 12638	 12642	 I-Definition	 T108	 T107	 Direct-Defines
 an	data/source_txt/train/t1_biology_2_505.txt	 12643	 12645	 I-Definition	 T108	 T107	 Direct-Defines
 elevated	data/source_txt/train/t1_biology_2_505.txt	 12646	 12654	 I-Definition	 T108	 T107	 Direct-Defines
-position	data/source_txt/train/t1_biology_2_505.txt	 12655	 12663	 Definition	 T108	 T107	 Direct-Defines
+position	data/source_txt/train/t1_biology_2_505.txt	 12655	 12663	I-Definition	 T108	 T107	 Direct-Defines
 .	data/source_txt/train/t1_biology_2_505.txt	 12663	 12664	 O	 -1	 -1	 0
 
 Dorsiflexion	data/source_txt/train/t1_biology_2_505.txt	 12673	 12685	 B-Term	 T109	 0	 Direct-Defines

@@ -1530,14 +1530,14 @@ cells	data/source_txt/train/t1_biology_2_404.txt	 10952	 10957	 I-Definition	 T3
 called	data/source_txt/train/t1_biology_2_404.txt	 10959	 10965	 O	 -1	 -1	 0
 chondrocytes	data/source_txt/train/t1_biology_2_404.txt	 10966	 10978	 B-Term	 T109	 0	 Direct-Defines
 ,	data/source_txt/train/t1_biology_2_404.txt	 10978	 10979	 O	 -1	 -1	 0
-make	data/source_txt/train/t1_biology_2_404.txt	 10980	 10984	 B-Definiti-frag	 T304-frag	 T304	 fragment
-the	data/source_txt/train/t1_biology_2_404.txt	 10985	 10988	 I-Definiti-frag	 T304-frag	 T304	 fragment
-matrix	data/source_txt/train/t1_biology_2_404.txt	 10989	 10995	 I-Definiti-frag	 T304-frag	 T304	 fragment
-and	data/source_txt/train/t1_biology_2_404.txt	 10996	 10999	 I-Definiti-frag	 T304-frag	 T304	 fragment
-fibers	data/source_txt/train/t1_biology_2_404.txt	 11000	 11006	 I-Definiti-frag	 T304-frag	 T304	 fragment
-of	data/source_txt/train/t1_biology_2_404.txt	 11007	 11009	 I-Definiti-frag	 T304-frag	 T304	 fragment
-the	data/source_txt/train/t1_biology_2_404.txt	 11010	 11013	 I-Definiti-frag	 T304-frag	 T304	 fragment
-tissue	data/source_txt/train/t1_biology_2_404.txt	 11014	 11020	 I-Definiti-frag	 T304-frag	 T304	 fragment
+make	data/source_txt/train/t1_biology_2_404.txt	 10980	 10984	B-Definition-frag	 T304-frag	 T304	 fragment
+the	data/source_txt/train/t1_biology_2_404.txt	 10985	 10988	I-Definition-frag	 T304-frag	 T304	 fragment
+matrix	data/source_txt/train/t1_biology_2_404.txt	 10989	 10995	I-Definition-frag	 T304-frag	 T304	 fragment
+and	data/source_txt/train/t1_biology_2_404.txt	 10996	 10999	I-Definition-frag	 T304-frag	 T304	 fragment
+fibers	data/source_txt/train/t1_biology_2_404.txt	 11000	 11006	I-Definition-frag	 T304-frag	 T304	 fragment
+of	data/source_txt/train/t1_biology_2_404.txt	 11007	 11009	I-Definition-frag	 T304-frag	 T304	 fragment
+the	data/source_txt/train/t1_biology_2_404.txt	 11010	 11013	I-Definition-frag	 T304-frag	 T304	 fragment
+tissue	data/source_txt/train/t1_biology_2_404.txt	 11014	 11020	I-Definition-frag	 T304-frag	 T304	 fragment
 .	data/source_txt/train/t1_biology_2_404.txt	 11020	 11021	 O	 -1	 -1	 0
 
 Chondrocytes	data/source_txt/train/t1_biology_2_404.txt	 11030	 11042	 O	 -1	 -1	 0
@@ -3526,7 +3526,7 @@ hippocampus	data/source_txt/train/t1_biology_2_404.txt	 21373	 21384	 I-Term	 T1
 Greek	data/source_txt/train/t1_biology_2_404.txt	 21386	 21391	 B-Qualifier	 T181	 T179	 Supplements
 for	data/source_txt/train/t1_biology_2_404.txt	 21392	 21395	 I-Qualifier	 T181	 T179	 Supplements
 “	data/source_txt/train/t1_biology_2_404.txt	 21396	 21397	 I-Qualifier	 T181	 T179	 Supplements
-seahorse”)—a	data/source_txt/train/t1_biology_2_404.txt	 21397	 21409	 Qualifier	 T181	 T179	 Supplements
+seahorse”)—a	data/source_txt/train/t1_biology_2_404.txt	 21397	 21409	I-Qualifier	 T181	 T179	 Supplements
 structure	data/source_txt/train/t1_biology_2_404.txt	 21410	 21419	 B-Definition	 T180	 T179	 Direct-Defines
 that	data/source_txt/train/t1_biology_2_404.txt	 21420	 21424	 I-Definition	 T180	 T179	 Direct-Defines
 processes	data/source_txt/train/t1_biology_2_404.txt	 21425	 21434	 I-Definition	 T180	 T179	 Direct-Defines

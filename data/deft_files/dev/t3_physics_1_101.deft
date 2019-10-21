@@ -103,7 +103,7 @@ molecule	data/source_txt/dev/t3_physics_1_101.txt	 1371	 1379	 I-Term	 T169	 0	 
 ,	data/source_txt/dev/t3_physics_1_101.txt	 1379	 1380	 O	 -1	 -1	 0
 represented	data/source_txt/dev/t3_physics_1_101.txt	 1381	 1392	 O	 -1	 -1	 0
 as	data/source_txt/dev/t3_physics_1_101.txt	 1393	 1395	 O	 -1	 -1	 0
-H2OH2O	data/source_txt/dev/t3_physics_1_101.txt	 1396	 1402	 Alias-Term	 T168	 T169	 AKA
+H2OH2O	data/source_txt/dev/t3_physics_1_101.txt	 1396	 1402	B-Alias-Term	 T168	 T169	 AKA
 .	data/source_txt/dev/t3_physics_1_101.txt	 1402	 1403	 O	 -1	 -1	 0
 
 Water	data/source_txt/dev/t3_physics_1_101.txt	 1412	 1417	 O	 -1	 -1	 0

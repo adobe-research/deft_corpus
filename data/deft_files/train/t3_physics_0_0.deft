@@ -3812,7 +3812,7 @@ in	data/source_txt/train/t3_physics_0_0.txt	 21149	 21151	 I-Definition	 T155	 T
 thermal	data/source_txt/train/t3_physics_0_0.txt	 21152	 21159	 I-Definition	 T155	 T154	 Direct-Defines
 equilibrium	data/source_txt/train/t3_physics_0_0.txt	 21160	 21171	 I-Definition	 T155	 T154	 Direct-Defines
 with	data/source_txt/train/t3_physics_0_0.txt	 21172	 21176	 I-Definition	 T155	 T154	 Direct-Defines
-C.	data/source_txt/train/t3_physics_0_0.txt	 21177	 21179	 Definition	 T155	 T154	 Direct-Defines
+C.	data/source_txt/train/t3_physics_0_0.txt	 21177	 21179	I-Definition	 T155	 T154	 Direct-Defines
 This	data/source_txt/train/t3_physics_0_0.txt	 21180	 21184	 O	 -1	 -1	 0
 conclusion	data/source_txt/train/t3_physics_0_0.txt	 21185	 21195	 O	 -1	 -1	 0
 may	data/source_txt/train/t3_physics_0_0.txt	 21196	 21199	 O	 -1	 -1	 0

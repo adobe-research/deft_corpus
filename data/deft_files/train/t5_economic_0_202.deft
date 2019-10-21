@@ -39,7 +39,7 @@ sell	data/source_txt/train/t5_economic_0_202.txt	 170	 174	 I-Definition	 T2	 T1
 at	data/source_txt/train/t5_economic_0_202.txt	 175	 177	 I-Definition	 T2	 T1	 Direct-Defines
 each	data/source_txt/train/t5_economic_0_202.txt	 178	 182	 I-Definition	 T2	 T1	 Direct-Defines
 price	data/source_txt/train/t5_economic_0_202.txt	 183	 188	 I-Definition	 T2	 T1	 Direct-Defines
-level	data/source_txt/train/t5_economic_0_202.txt	 189	 194	 Definition	 T2	 T1	 Direct-Defines
+level	data/source_txt/train/t5_economic_0_202.txt	 189	 194	I-Definition	 T2	 T1	 Direct-Defines
 .	data/source_txt/train/t5_economic_0_202.txt	 194	 195	 O	 -1	 -1	 0
 
 [	data/source_txt/train/t5_economic_0_202.txt	 195	 196	 O	 -1	 -1	 0
@@ -2007,7 +2007,7 @@ not	data/source_txt/train/t5_economic_0_202.txt	 10527	 10530	 I-Secondary-Defin
 held	data/source_txt/train/t5_economic_0_202.txt	 10531	 10535	 I-Secondary-Definition	 T29	 T39	 Supplements
 by	data/source_txt/train/t5_economic_0_202.txt	 10536	 10538	 I-Secondary-Definition	 T29	 T39	 Supplements
 the	data/source_txt/train/t5_economic_0_202.txt	 10539	 10542	 I-Secondary-Definition	 T29	 T39	 Supplements
-U.S.	data/source_txt/train/t5_economic_0_202.txt	 10543	 10547	 Secondary-Definition	 T29	 T39	 Supplements
+U.S.	data/source_txt/train/t5_economic_0_202.txt	 10543	 10547	I-Secondary-Definition	 T29	 T39	 Supplements
 Treasury	data/source_txt/train/t5_economic_0_202.txt	 10548	 10556	 O	 -1	 -1	 0
 ,	data/source_txt/train/t5_economic_0_202.txt	 10556	 10557	 O	 -1	 -1	 0
 at	data/source_txt/train/t5_economic_0_202.txt	 10558	 10560	 O	 -1	 -1	 0
@@ -5603,7 +5603,7 @@ by	data/source_txt/train/t5_economic_0_202.txt	 28978	 28980	 I-Definition	 T128
 Congress	data/source_txt/train/t5_economic_0_202.txt	 28981	 28989	 I-Definition	 T128	 0	 Supplements
 and	data/source_txt/train/t5_economic_0_202.txt	 28990	 28993	 I-Definition	 T128	 0	 Supplements
 the	data/source_txt/train/t5_economic_0_202.txt	 28994	 28997	 I-Definition	 T128	 0	 Supplements
-President	data/source_txt/train/t5_economic_0_202.txt	 28998	 29007	 Definition	 T128	 0	 Supplements
+President	data/source_txt/train/t5_economic_0_202.txt	 28998	 29007	I-Definition	 T128	 0	 Supplements
 .	data/source_txt/train/t5_economic_0_202.txt	 29007	 29008	 O	 -1	 -1	 0
 The	data/source_txt/train/t5_economic_0_202.txt	 29008	 29011	 B-Secondary-Definition	 T97	 T128	 Supplements
 discussion	data/source_txt/train/t5_economic_0_202.txt	 29012	 29022	 I-Secondary-Definition	 T97	 T128	 Supplements
@@ -7013,17 +7013,17 @@ East	data/source_txt/train/t5_economic_0_202.txt	 36497	 36501	 I-Term	 T170	 0	
 Asian	data/source_txt/train/t5_economic_0_202.txt	 36502	 36507	 I-Term	 T170	 0	 Direct-Defines
 Tigers	data/source_txt/train/t5_economic_0_202.txt	 36508	 36514	 I-Term	 T170	 0	 Direct-Defines
 :	data/source_txt/train/t5_economic_0_202.txt	 36514	 36515	 O	 -1	 -1	 0
-South	data/source_txt/train/t5_economic_0_202.txt	 36516	 36521	 B-Definiti-frag	 T171-frag	 T171	 fragment
-Korea	data/source_txt/train/t5_economic_0_202.txt	 36522	 36527	 I-Definiti-frag	 T171-frag	 T171	 fragment
-,	data/source_txt/train/t5_economic_0_202.txt	 36527	 36528	 I-Definiti-frag	 T171-frag	 T171	 fragment
-Thailand	data/source_txt/train/t5_economic_0_202.txt	 36529	 36537	 I-Definiti-frag	 T171-frag	 T171	 fragment
-,	data/source_txt/train/t5_economic_0_202.txt	 36537	 36538	 I-Definiti-frag	 T171-frag	 T171	 fragment
-Malaysia	data/source_txt/train/t5_economic_0_202.txt	 36539	 36547	 I-Definiti-frag	 T171-frag	 T171	 fragment
-,	data/source_txt/train/t5_economic_0_202.txt	 36547	 36548	 I-Definiti-frag	 T171-frag	 T171	 fragment
-Indonesia	data/source_txt/train/t5_economic_0_202.txt	 36549	 36558	 I-Definiti-frag	 T171-frag	 T171	 fragment
-,	data/source_txt/train/t5_economic_0_202.txt	 36558	 36559	 I-Definiti-frag	 T171-frag	 T171	 fragment
-and	data/source_txt/train/t5_economic_0_202.txt	 36560	 36563	 I-Definiti-frag	 T171-frag	 T171	 fragment
-Singapore	data/source_txt/train/t5_economic_0_202.txt	 36564	 36573	 I-Definiti-frag	 T171-frag	 T171	 fragment
+South	data/source_txt/train/t5_economic_0_202.txt	 36516	 36521	B-Definition-frag	 T171-frag	 T171	 fragment
+Korea	data/source_txt/train/t5_economic_0_202.txt	 36522	 36527	I-Definition-frag	 T171-frag	 T171	 fragment
+,	data/source_txt/train/t5_economic_0_202.txt	 36527	 36528	I-Definition-frag	 T171-frag	 T171	 fragment
+Thailand	data/source_txt/train/t5_economic_0_202.txt	 36529	 36537	I-Definition-frag	 T171-frag	 T171	 fragment
+,	data/source_txt/train/t5_economic_0_202.txt	 36537	 36538	I-Definition-frag	 T171-frag	 T171	 fragment
+Malaysia	data/source_txt/train/t5_economic_0_202.txt	 36539	 36547	I-Definition-frag	 T171-frag	 T171	 fragment
+,	data/source_txt/train/t5_economic_0_202.txt	 36547	 36548	I-Definition-frag	 T171-frag	 T171	 fragment
+Indonesia	data/source_txt/train/t5_economic_0_202.txt	 36549	 36558	I-Definition-frag	 T171-frag	 T171	 fragment
+,	data/source_txt/train/t5_economic_0_202.txt	 36558	 36559	I-Definition-frag	 T171-frag	 T171	 fragment
+and	data/source_txt/train/t5_economic_0_202.txt	 36560	 36563	I-Definition-frag	 T171-frag	 T171	 fragment
+Singapore	data/source_txt/train/t5_economic_0_202.txt	 36564	 36573	I-Definition-frag	 T171-frag	 T171	 fragment
 .	data/source_txt/train/t5_economic_0_202.txt	 36573	 36574	 O	 -1	 -1	 0
 
 The	data/source_txt/train/t5_economic_0_202.txt	 36581	 36584	 O	 -1	 -1	 0

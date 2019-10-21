@@ -3920,7 +3920,7 @@ state	data/source_txt/train/t7_government_1_303.txt	 26744	 26749	 O	 -1	 -1	 0
 Religious	data/source_txt/train/t7_government_1_303.txt	 26752	 26761	 B-Term	 T38	 0	 Refers-To
 Freedom	data/source_txt/train/t7_government_1_303.txt	 26762	 26769	 I-Term	 T38	 0	 Refers-To
 Restoration	data/source_txt/train/t7_government_1_303.txt	 26770	 26781	 I-Term	 T38	 0	 Refers-To
-Act.“Virginia	data/source_txt/train/t7_government_1_303.txt	 26782	 26795	 Term	 T38	 0	 Refers-To
+Act.“Virginia	data/source_txt/train/t7_government_1_303.txt	 26782	 26795	I-Term	 T38	 0	 Refers-To
 Governor	data/source_txt/train/t7_government_1_303.txt	 26796	 26804	 O	 -1	 -1	 0
 Tries	data/source_txt/train/t7_government_1_303.txt	 26805	 26810	 O	 -1	 -1	 0
 to	data/source_txt/train/t7_government_1_303.txt	 26811	 26813	 O	 -1	 -1	 0
@@ -4932,7 +4932,7 @@ the	data/source_txt/train/t7_government_1_303.txt	 32531	 32534	 B-Term	 T56	 0	
 Hatch	data/source_txt/train/t7_government_1_303.txt	 32535	 32540	 I-Term	 T56	 0	 Refers-To
 Act	data/source_txt/train/t7_government_1_303.txt	 32541	 32544	 I-Term	 T56	 0	 Refers-To
 of	data/source_txt/train/t7_government_1_303.txt	 32545	 32547	 I-Term	 T56	 0	 Refers-To
-1939—or	data/source_txt/train/t7_government_1_303.txt	 32548	 32555	 Term	 T56	 0	 Refers-To
+1939—or	data/source_txt/train/t7_government_1_303.txt	 32548	 32555	I-Term	 T56	 0	 Refers-To
 the	data/source_txt/train/t7_government_1_303.txt	 32556	 32559	 B-Alias-Term	 T57	 T56	 AKA
 Political	data/source_txt/train/t7_government_1_303.txt	 32560	 32569	 I-Alias-Term	 T57	 T56	 AKA
 Activities	data/source_txt/train/t7_government_1_303.txt	 32570	 32580	 I-Alias-Term	 T57	 T56	 AKA

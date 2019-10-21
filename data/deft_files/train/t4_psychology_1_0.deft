@@ -4978,19 +4978,19 @@ brain	data/source_txt/train/t4_psychology_1_0.txt	 27919	 27924	 I-Definition	 T
 the	data/source_txt/train/t4_psychology_1_0.txt	 27926	 27929	 B-Term	 T276	 0	 Direct-Defines
 hypothalamus	data/source_txt/train/t4_psychology_1_0.txt	 27930	 27942	 I-Term	 T276	 0	 Direct-Defines
 ,	data/source_txt/train/t4_psychology_1_0.txt	 27942	 27943	 O	 -1	 -1	 0
-which	data/source_txt/train/t4_psychology_1_0.txt	 27944	 27949	 B-Definiti-frag	 T277-frag	 T277	 fragment
-lies	data/source_txt/train/t4_psychology_1_0.txt	 27950	 27954	 I-Definiti-frag	 T277-frag	 T277	 fragment
-above	data/source_txt/train/t4_psychology_1_0.txt	 27955	 27960	 I-Definiti-frag	 T277-frag	 T277	 fragment
-the	data/source_txt/train/t4_psychology_1_0.txt	 27961	 27964	 I-Definiti-frag	 T277-frag	 T277	 fragment
-pituitary	data/source_txt/train/t4_psychology_1_0.txt	 27965	 27974	 I-Definiti-frag	 T277-frag	 T277	 fragment
-gland	data/source_txt/train/t4_psychology_1_0.txt	 27975	 27980	 I-Definiti-frag	 T277-frag	 T277	 fragment
-,	data/source_txt/train/t4_psychology_1_0.txt	 27980	 27981	 I-Definiti-frag	 T277-frag	 T277	 fragment
-is	data/source_txt/train/t4_psychology_1_0.txt	 27982	 27984	 I-Definiti-frag	 T277-frag	 T277	 fragment
-a	data/source_txt/train/t4_psychology_1_0.txt	 27985	 27986	 I-Definiti-frag	 T277-frag	 T277	 fragment
-main	data/source_txt/train/t4_psychology_1_0.txt	 27987	 27991	 I-Definiti-frag	 T277-frag	 T277	 fragment
-center	data/source_txt/train/t4_psychology_1_0.txt	 27992	 27998	 I-Definiti-frag	 T277-frag	 T277	 fragment
-of	data/source_txt/train/t4_psychology_1_0.txt	 27999	 28001	 I-Definiti-frag	 T277-frag	 T277	 fragment
-homeostasis	data/source_txt/train/t4_psychology_1_0.txt	 28002	 28013	 I-Definiti-frag	 T277-frag	 T277	 fragment
+which	data/source_txt/train/t4_psychology_1_0.txt	 27944	 27949	B-Definition-frag	 T277-frag	 T277	 fragment
+lies	data/source_txt/train/t4_psychology_1_0.txt	 27950	 27954	I-Definition-frag	 T277-frag	 T277	 fragment
+above	data/source_txt/train/t4_psychology_1_0.txt	 27955	 27960	I-Definition-frag	 T277-frag	 T277	 fragment
+the	data/source_txt/train/t4_psychology_1_0.txt	 27961	 27964	I-Definition-frag	 T277-frag	 T277	 fragment
+pituitary	data/source_txt/train/t4_psychology_1_0.txt	 27965	 27974	I-Definition-frag	 T277-frag	 T277	 fragment
+gland	data/source_txt/train/t4_psychology_1_0.txt	 27975	 27980	I-Definition-frag	 T277-frag	 T277	 fragment
+,	data/source_txt/train/t4_psychology_1_0.txt	 27980	 27981	I-Definition-frag	 T277-frag	 T277	 fragment
+is	data/source_txt/train/t4_psychology_1_0.txt	 27982	 27984	I-Definition-frag	 T277-frag	 T277	 fragment
+a	data/source_txt/train/t4_psychology_1_0.txt	 27985	 27986	I-Definition-frag	 T277-frag	 T277	 fragment
+main	data/source_txt/train/t4_psychology_1_0.txt	 27987	 27991	I-Definition-frag	 T277-frag	 T277	 fragment
+center	data/source_txt/train/t4_psychology_1_0.txt	 27992	 27998	I-Definition-frag	 T277-frag	 T277	 fragment
+of	data/source_txt/train/t4_psychology_1_0.txt	 27999	 28001	I-Definition-frag	 T277-frag	 T277	 fragment
+homeostasis	data/source_txt/train/t4_psychology_1_0.txt	 28002	 28013	I-Definition-frag	 T277-frag	 T277	 fragment
 .	data/source_txt/train/t4_psychology_1_0.txt	 28013	 28014	 O	 -1	 -1	 0
 
 

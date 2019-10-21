@@ -3326,7 +3326,7 @@ promote	data/source_txt/train/t7_government_2_202.txt	 20392	 20399	 I-Secondary
 social	data/source_txt/train/t7_government_2_202.txt	 20400	 20406	 I-Secondary-Definition	 T28	 T27	 Supplements
 equality	data/source_txt/train/t7_government_2_202.txt	 20407	 20415	 I-Secondary-Definition	 T28	 T27	 Supplements
 among	data/source_txt/train/t7_government_2_202.txt	 20416	 20421	 I-Secondary-Definition	 T28	 T27	 Supplements
-races.“Platform	data/source_txt/train/t7_government_2_202.txt	 20422	 20437	 Secondary-Definition	 T28	 T27	 Supplements
+races.“Platform	data/source_txt/train/t7_government_2_202.txt	 20422	 20437	I-Secondary-Definition	 T28	 T27	 Supplements
 of	data/source_txt/train/t7_government_2_202.txt	 20438	 20440	 O	 -1	 -1	 0
 the	data/source_txt/train/t7_government_2_202.txt	 20441	 20444	 O	 -1	 -1	 0
 States	data/source_txt/train/t7_government_2_202.txt	 20445	 20451	 O	 -1	 -1	 0
@@ -3813,12 +3813,12 @@ a	data/source_txt/train/t7_government_2_202.txt	 23075	 23076	 I-Term	 T30	 0	 D
 free	data/source_txt/train/t7_government_2_202.txt	 23077	 23081	 I-Term	 T30	 0	 Direct-Defines
 ride	data/source_txt/train/t7_government_2_202.txt	 23082	 23086	 I-Term	 T30	 0	 Direct-Defines
 )	data/source_txt/train/t7_government_2_202.txt	 23086	 23087	 O	 -1	 -1	 0
-without	data/source_txt/train/t7_government_2_202.txt	 23088	 23095	 B-Definiti-frag	 T29-frag	 T29	 fragment
-helping	data/source_txt/train/t7_government_2_202.txt	 23096	 23103	 I-Definiti-frag	 T29-frag	 T29	 fragment
-to	data/source_txt/train/t7_government_2_202.txt	 23104	 23106	 I-Definiti-frag	 T29-frag	 T29	 fragment
-bear	data/source_txt/train/t7_government_2_202.txt	 23107	 23111	 I-Definiti-frag	 T29-frag	 T29	 fragment
-the	data/source_txt/train/t7_government_2_202.txt	 23112	 23115	 I-Definiti-frag	 T29-frag	 T29	 fragment
-cost	data/source_txt/train/t7_government_2_202.txt	 23116	 23120	 I-Definiti-frag	 T29-frag	 T29	 fragment
+without	data/source_txt/train/t7_government_2_202.txt	 23088	 23095	B-Definition-frag	 T29-frag	 T29	 fragment
+helping	data/source_txt/train/t7_government_2_202.txt	 23096	 23103	I-Definition-frag	 T29-frag	 T29	 fragment
+to	data/source_txt/train/t7_government_2_202.txt	 23104	 23106	I-Definition-frag	 T29-frag	 T29	 fragment
+bear	data/source_txt/train/t7_government_2_202.txt	 23107	 23111	I-Definition-frag	 T29-frag	 T29	 fragment
+the	data/source_txt/train/t7_government_2_202.txt	 23112	 23115	I-Definition-frag	 T29-frag	 T29	 fragment
+cost	data/source_txt/train/t7_government_2_202.txt	 23116	 23120	I-Definition-frag	 T29-frag	 T29	 fragment
 .	data/source_txt/train/t7_government_2_202.txt	 23120	 23121	 O	 -1	 -1	 0
 
 When	data/source_txt/train/t7_government_2_202.txt	 23128	 23132	 O	 -1	 -1	 0

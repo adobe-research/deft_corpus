@@ -3937,9 +3937,9 @@ Mandates	data/source_txt/train/t7_government_2_303.txt	 22420	 22428	 I-Term	 T1
 Reform	data/source_txt/train/t7_government_2_303.txt	 22429	 22435	 I-Term	 T12	 0	 Direct-Defines
 Act	data/source_txt/train/t7_government_2_303.txt	 22436	 22439	 I-Term	 T12	 0	 Direct-Defines
 was	data/source_txt/train/t7_government_2_303.txt	 22440	 22443	 O	 -1	 -1	 0
-passed	data/source_txt/train/t7_government_2_303.txt	 22444	 22450	 B-Definiti-frag	 T13-frag	 T13	 fragment
-in	data/source_txt/train/t7_government_2_303.txt	 22451	 22453	 I-Definiti-frag	 T13-frag	 T13	 fragment
-1995	data/source_txt/train/t7_government_2_303.txt	 22454	 22458	 I-Definiti-frag	 T13-frag	 T13	 fragment
+passed	data/source_txt/train/t7_government_2_303.txt	 22444	 22450	B-Definition-frag	 T13-frag	 T13	 fragment
+in	data/source_txt/train/t7_government_2_303.txt	 22451	 22453	I-Definition-frag	 T13-frag	 T13	 fragment
+1995	data/source_txt/train/t7_government_2_303.txt	 22454	 22458	I-Definition-frag	 T13-frag	 T13	 fragment
 .	data/source_txt/train/t7_government_2_303.txt	 22458	 22459	 O	 -1	 -1	 0
 
 This	data/source_txt/train/t7_government_2_303.txt	 22466	 22470	 B-Secondary-Definition	 T14	 T13	 Supplements
@@ -5805,7 +5805,7 @@ Government	data/source_txt/train/t7_government_2_303.txt	 36234	 36244	 I-Alias-
 Accountability	data/source_txt/train/t7_government_2_303.txt	 36245	 36259	 I-Alias-Term	 T44	 T45	 AKA
 Office	data/source_txt/train/t7_government_2_303.txt	 36260	 36266	 I-Alias-Term	 T44	 T45	 AKA
 (	data/source_txt/train/t7_government_2_303.txt	 36267	 36268	 O	 -1	 -1	 0
-GAO).http://www.gao.gov/	data/source_txt/train/t7_government_2_303.txt	 36268	 36292	 Term	 T45	 0	 AKA
+GAO).http://www.gao.gov/	data/source_txt/train/t7_government_2_303.txt	 36268	 36292	B-Term	 T45	 0	 AKA
 (	data/source_txt/train/t7_government_2_303.txt	 36293	 36294	 O	 -1	 -1	 0
 May	data/source_txt/train/t7_government_2_303.txt	 36294	 36297	 O	 -1	 -1	 0
 1	data/source_txt/train/t7_government_2_303.txt	 36298	 36299	 O	 -1	 -1	 0
@@ -5966,7 +5966,7 @@ Education	data/source_txt/train/t7_government_2_303.txt	 37102	 37111	 I-Term	 T
 Reconciliation	data/source_txt/train/t7_government_2_303.txt	 37112	 37126	 I-Term	 T46	 0	 AKA
 Act	data/source_txt/train/t7_government_2_303.txt	 37127	 37130	 I-Term	 T46	 0	 AKA
 (	data/source_txt/train/t7_government_2_303.txt	 37131	 37132	 O	 -1	 -1	 0
-HCERA).“H.R	data/source_txt/train/t7_government_2_303.txt	 37132	 37143	 Alias-Term	 T47	 T46	 AKA
+HCERA).“H.R	data/source_txt/train/t7_government_2_303.txt	 37132	 37143	B-Alias-Term	 T47	 T46	 AKA
 .	data/source_txt/train/t7_government_2_303.txt	 37143	 37144	 O	 -1	 -1	 0
 
 4872	data/source_txt/train/t7_government_2_303.txt	 37151	 37155	 O	 -1	 -1	 0

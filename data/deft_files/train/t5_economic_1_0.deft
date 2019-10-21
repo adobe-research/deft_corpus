@@ -3304,7 +3304,7 @@ call	data/source_txt/train/t5_economic_1_0.txt	 17408	 17412	 O	 -1	 -1	 0
 this	data/source_txt/train/t5_economic_1_0.txt	 17413	 17417	 B-Referential-Definition	 T88	 T87	 Indirect-Defines
 intertemporal	data/source_txt/train/t5_economic_1_0.txt	 17418	 17431	 B-Term	 T87	 0	 Indirect-Defines
 decision	data/source_txt/train/t5_economic_1_0.txt	 17432	 17440	 I-Term	 T87	 0	 Indirect-Defines
-making	data/source_txt/train/t5_economic_1_0.txt	 17441	 17447	 Term	 T87	 0	 Indirect-Defines
+making	data/source_txt/train/t5_economic_1_0.txt	 17441	 17447	I-Term	 T87	 0	 Indirect-Defines
 because	data/source_txt/train/t5_economic_1_0.txt	 17448	 17455	 O	 -1	 -1	 0
 it	data/source_txt/train/t5_economic_1_0.txt	 17456	 17458	 O	 -1	 -1	 0
 involves	data/source_txt/train/t5_economic_1_0.txt	 17459	 17467	 O	 -1	 -1	 0
@@ -6396,7 +6396,7 @@ price	data/source_txt/train/t5_economic_1_0.txt	 33165	 33170	 I-Definition	 T18
 A	data/source_txt/train/t5_economic_1_0.txt	 33178	 33179	 B-Term	 T188	 0	 Direct-Defines
 minimum	data/source_txt/train/t5_economic_1_0.txt	 33180	 33187	 I-Term	 T188	 0	 Direct-Defines
 price	data/source_txt/train/t5_economic_1_0.txt	 33188	 33193	 I-Term	 T188	 0	 Direct-Defines
-contract	data/source_txt/train/t5_economic_1_0.txt	 33194	 33202	 Term	 T188	 0	 Direct-Defines
+contract	data/source_txt/train/t5_economic_1_0.txt	 33194	 33202	I-Term	 T188	 0	 Direct-Defines
 is	data/source_txt/train/t5_economic_1_0.txt	 33203	 33205	 O	 -1	 -1	 0
 illegal	data/source_txt/train/t5_economic_1_0.txt	 33206	 33213	 O	 -1	 -1	 0
 because	data/source_txt/train/t5_economic_1_0.txt	 33214	 33221	 O	 -1	 -1	 0

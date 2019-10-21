@@ -1,0 +1,32 @@
+# Configs for quickly testing that the evaluation scripts are working
+# Configs for quickly testing that the evaluation scripts are working
+
+task_1:
+        do_eval: True
+        eval_labels:
+                - '0'
+                - '1'
+task_2:
+        do_eval: True
+        eval_labels:
+                - B-Term
+                - I-Term
+                - B-Definition
+                - I-Definition
+                - B-Alias-Term
+                - I-Alias-Term
+                - B-Referential-Definition
+                - I-Referential-Definition
+                - B-Referential-Term
+                - I-Referential-Term
+                - B-Qualifier
+                - I-Qualifier
+
+task_3:
+        do_eval: True
+        eval_labels: 
+                - Direct-Defines
+                - Indirect-Defines
+                - AKA
+                - Refers-To
+                - Qualifies

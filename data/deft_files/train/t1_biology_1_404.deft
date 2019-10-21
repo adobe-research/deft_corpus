@@ -3387,7 +3387,7 @@ one	data/source_txt/train/t1_biology_1_404.txt	 19322	 19325	 I-Referential-Defi
 node	data/source_txt/train/t1_biology_1_404.txt	 19326	 19330	 I-Referential-Definition	 T193	 T192	 Indirect-Defines
 to	data/source_txt/train/t1_biology_1_404.txt	 19331	 19333	 I-Referential-Definition	 T193	 T192	 Indirect-Defines
 the	data/source_txt/train/t1_biology_1_404.txt	 19334	 19337	 I-Referential-Definition	 T193	 T192	 Indirect-Defines
-next	data/source_txt/train/t1_biology_1_404.txt	 19338	 19342	 Referential-Definition	 T193	 T192	 Indirect-Defines
+next	data/source_txt/train/t1_biology_1_404.txt	 19338	 19342	I-Referential-Definition	 T193	 T192	 Indirect-Defines
 is	data/source_txt/train/t1_biology_1_404.txt	 19343	 19345	 O	 -1	 -1	 0
 called	data/source_txt/train/t1_biology_1_404.txt	 19346	 19352	 O	 -1	 -1	 0
 saltatory	data/source_txt/train/t1_biology_1_404.txt	 19353	 19362	 B-Term	 T192	 0	 Indirect-Defines
@@ -3906,7 +3906,7 @@ hippocampus	data/source_txt/train/t1_biology_1_404.txt	 21992	 22003	 I-Term	 T2
 Greek	data/source_txt/train/t1_biology_1_404.txt	 22005	 22010	 B-Qualifier	 T221	 T220	 Supplements
 for	data/source_txt/train/t1_biology_1_404.txt	 22011	 22014	 I-Qualifier	 T221	 T220	 Supplements
 “	data/source_txt/train/t1_biology_1_404.txt	 22015	 22016	 I-Qualifier	 T221	 T220	 Supplements
-seahorse”)—a	data/source_txt/train/t1_biology_1_404.txt	 22016	 22028	 Qualifier	 T221	 T220	 Supplements
+seahorse”)—a	data/source_txt/train/t1_biology_1_404.txt	 22016	 22028	I-Qualifier	 T221	 T220	 Supplements
 structure	data/source_txt/train/t1_biology_1_404.txt	 22029	 22038	 B-Definition	 T222	 T220	 Direct-Defines
 that	data/source_txt/train/t1_biology_1_404.txt	 22039	 22043	 I-Definition	 T222	 T220	 Direct-Defines
 processes	data/source_txt/train/t1_biology_1_404.txt	 22044	 22053	 I-Definition	 T222	 T220	 Direct-Defines

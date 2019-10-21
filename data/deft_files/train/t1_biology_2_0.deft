@@ -235,7 +235,7 @@ Descriptive	data/source_txt/train/t1_biology_2_0.txt	 1238	 1249	 B-Term	 T147	 
 or	data/source_txt/train/t1_biology_2_0.txt	 1251	 1253	 O	 -1	 -1	 0
 discovery	data/source_txt/train/t1_biology_2_0.txt	 1254	 1263	 O	 -1	 -1	 0
 )	data/source_txt/train/t1_biology_2_0.txt	 1263	 1264	 O	 -1	 -1	 0
-science	data/source_txt/train/t1_biology_2_0.txt	 1265	 1272	 B-Te-frag	 T147-frag	 T147	 fragment
+science	data/source_txt/train/t1_biology_2_0.txt	 1265	 1272	B-Term-frag	 T147-frag	 T147	 fragment
 ,	data/source_txt/train/t1_biology_2_0.txt	 1272	 1273	 O	 -1	 -1	 0
 which	data/source_txt/train/t1_biology_2_0.txt	 1274	 1279	 O	 -1	 -1	 0
 is	data/source_txt/train/t1_biology_2_0.txt	 1280	 1282	 O	 -1	 -1	 0
@@ -1804,7 +1804,7 @@ gravity	data/source_txt/train/t1_biology_2_0.txt	 12094	 12101	 O	 -1	 -1	 0
 litmus	data/source_txt/train/t1_biology_2_0.txt	 12119	 12125	 B-Alias-Term	 T219	 T220	 AKA
 or	data/source_txt/train/t1_biology_2_0.txt	 12126	 12128	 O	 -1	 -1	 0
 pH	data/source_txt/train/t1_biology_2_0.txt	 12129	 12131	 O	 -1	 -1	 0
-paper	data/source_txt/train/t1_biology_2_0.txt	 12132	 12137	 B-Alias-Te-frag	 T219-frag	 T219	 fragment
+paper	data/source_txt/train/t1_biology_2_0.txt	 12132	 12137	I-Alias-Term-frag	 T219-frag	 T219	 fragment
 ,	data/source_txt/train/t1_biology_2_0.txt	 12137	 12138	 O	 -1	 -1	 0
 filter	data/source_txt/train/t1_biology_2_0.txt	 12139	 12145	 B-Definition	 T221	 T220	 Direct-Defines
 paper	data/source_txt/train/t1_biology_2_0.txt	 12146	 12151	 I-Definition	 T221	 T220	 Direct-Defines
