@@ -61,17 +61,20 @@ def main(cfg):
 
     if eval_task_1:
         task_1_report = task_1_eval_main(ref_path, res_path, output_dir, cfg['task_1']['eval_labels'])
-        print(task_1_report)
+        if task_1_report:
+            print(task_1_report)
         print()
 
     if eval_task_2:
         task_2_report = task_2_eval_main(ref_path, res_path, output_dir, cfg['task_2']['eval_labels'])
-        print(task_2_report)
+        if task_2_report:
+            print(task_2_report)
         print()
 
     if eval_task_3:
         task_3_report = task_3_eval_main(ref_path, res_path, output_dir, cfg['task_3']['eval_labels'])
-        print(task_3_report)
+        if task_3_report:
+            print(task_3_report)
         print()
 
 

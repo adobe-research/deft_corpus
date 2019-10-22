@@ -18,6 +18,7 @@ from pathlib import Path
 import sys
 import os
 from sklearn.metrics import classification_report
+import warnings
 
 
 def get_token(row):
@@ -141,7 +142,7 @@ def validate_data(gold_rows, pred_rows):
     validate_length(gold_rows, pred_rows)
     validate_columns(gold_rows, pred_rows)
     validate_tokens(gold_rows, pred_rows)
-    validate_relations(gold_rows, pred_rows)
+    # validate_relations(gold_rows, pred_rows)
 
 
 def get_gold_and_pred_relations(gold_fname, pred_fname):
@@ -260,18 +261,34 @@ def task_3_eval_main(ref_path, res_path,  output_dir, eval_relations):
 
     y_gold = []
     y_pred = []
-    for child in ref_path.iterdir():
+
+    reference_files = []
+    results_files = []
+
+    for child in res_path.iterdir():
         if child.name.startswith('task_3'):
-            if not os.path.exists(res_path.joinpath(child.name)):
+            results_files.append(child.name)
+            if not os.path.exists(ref_path.joinpath(child.name)):
                 message = "Expected submission file '{0}', found files {1}"
                 sys.exit(message.format(child, os.listdir(child.parents[0])))
 
-            temp_y_gold, temp_y_pred = get_gold_and_pred_relations(child, res_path.joinpath(child.name))
+            temp_y_gold, temp_y_pred = get_gold_and_pred_relations(ref_path.joinpath(child.name), child)
             y_gold.extend(temp_y_gold)
             y_pred.extend(temp_y_pred)
 
-    if len(y_gold) == 0:
-        print('Nothing to evaluate')
+    if len(results_files) == 0:
+        message = "No subtask 3 files to evaluate."
+        warnings.warn(message)
+        return None
+
+    for child in ref_path.iterdir():
+        if child.name.startswith('task_3'):
+            reference_files.append(child.name)
+
+    missing = [file for file in reference_files if file not in results_files]
+    if len(missing) > 0:
+        message = "Missing evaluation files {0}"
+        sys.exit(message.format(str(missing)))
 
     report = evaluate(y_gold, y_pred, eval_relations)
     write_to_scores(report, Path(output_dir).joinpath('scores.txt'))
