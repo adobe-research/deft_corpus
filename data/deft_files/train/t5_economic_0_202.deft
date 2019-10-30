@@ -4757,7 +4757,7 @@ as	data/source_txt/train/t5_economic_0_202.txt	 24515	 24517	 O	 -1	 -1	 0
 depreciating	data/source_txt/train/t5_economic_0_202.txt	 24518	 24530	 B-Term	 T109	 0	 Direct-Defines
 or	data/source_txt/train/t5_economic_0_202.txt	 24531	 24533	 O	 -1	 -1	 0
 “	data/source_txt/train/t5_economic_0_202.txt	 24534	 24535	 B-Alias-Term	 T110	 T109	 AKA
-weakening.”To	data/source_txt/train/t5_economic_0_202.txt	 24535	 24548	 Alias-Term	 T110	 T109	 AKA
+weakening.”To	data/source_txt/train/t5_economic_0_202.txt	 24535	 24548	 I-Alias-Term	 T110	 T109	 AKA
 illustrate	data/source_txt/train/t5_economic_0_202.txt	 24549	 24559	 O	 -1	 -1	 0
 the	data/source_txt/train/t5_economic_0_202.txt	 24560	 24563	 O	 -1	 -1	 0
 use	data/source_txt/train/t5_economic_0_202.txt	 24564	 24567	 O	 -1	 -1	 0
