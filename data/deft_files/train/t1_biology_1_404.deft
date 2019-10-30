@@ -4147,7 +4147,7 @@ from	data/source_txt/train/t1_biology_1_404.txt	 23303	 23307	 O	 -1	 -1	 0
 or	data/source_txt/train/t1_biology_1_404.txt	 23308	 23310	 O	 -1	 -1	 0
 enter	data/source_txt/train/t1_biology_1_404.txt	 23311	 23316	 O	 -1	 -1	 0
 the	data/source_txt/train/t1_biology_1_404.txt	 23317	 23320	 B-Definition	 T233	 T234	 Direct-Defines
-skull	data/source_txt/train/t1_biology_1_404.txt	 23321	 23326	 Definition	 T233	 T234	 Direct-Defines
+skull	data/source_txt/train/t1_biology_1_404.txt	 23321	 23326	 I-Definition	 T233	 T234	 Direct-Defines
 (	data/source_txt/train/t1_biology_1_404.txt	 23327	 23328	 O	 -1	 -1	 0
 cranium	data/source_txt/train/t1_biology_1_404.txt	 23328	 23335	 B-Term	 T234	 0	 Direct-Defines
 )	data/source_txt/train/t1_biology_1_404.txt	 23335	 23336	 O	 -1	 -1	 0
