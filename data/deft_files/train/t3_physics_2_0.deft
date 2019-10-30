@@ -707,7 +707,7 @@ for	data/source_txt/train/t3_physics_2_0.txt	 4216	 4219	 I-Definition	 T30	 T31
 time	data/source_txt/train/t3_physics_2_0.txt	 4220	 4224	 I-Definition	 T30	 T31	 Direct-Defines
 ,	data/source_txt/train/t3_physics_2_0.txt	 4224	 4225	 O	 -1	 -1	 0
 the	data/source_txt/train/t3_physics_2_0.txt	 4226	 4229	 B-Term	 T31	 0	 AKA
-second(abbreviated	data/source_txt/train/t3_physics_2_0.txt	 4230	 4248	 Term	 T31	 0	 AKA
+second(abbreviated	data/source_txt/train/t3_physics_2_0.txt	 4230	 4248	 I-Term	 T31	 0	 AKA
 s	data/source_txt/train/t3_physics_2_0.txt	 4249	 4250	 B-Alias-Term	 T190	 T31	 AKA
 )	data/source_txt/train/t3_physics_2_0.txt	 4250	 4251	 O	 -1	 -1	 0
 ,	data/source_txt/train/t3_physics_2_0.txt	 4251	 4252	 O	 -1	 -1	 0

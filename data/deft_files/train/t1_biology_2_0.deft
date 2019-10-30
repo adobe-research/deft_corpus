@@ -1804,7 +1804,7 @@ gravity	data/source_txt/train/t1_biology_2_0.txt	 12094	 12101	 O	 -1	 -1	 0
 litmus	data/source_txt/train/t1_biology_2_0.txt	 12119	 12125	 B-Alias-Term	 T219	 T220	 AKA
 or	data/source_txt/train/t1_biology_2_0.txt	 12126	 12128	 O	 -1	 -1	 0
 pH	data/source_txt/train/t1_biology_2_0.txt	 12129	 12131	 O	 -1	 -1	 0
-paper	data/source_txt/train/t1_biology_2_0.txt	 12132	 12137	I-Alias-Term-frag	 T219-frag	 T219	 fragment
+paper	data/source_txt/train/t1_biology_2_0.txt	 12132	 12137	B-Alias-Term-frag	 T219-frag	 T219	 fragment
 ,	data/source_txt/train/t1_biology_2_0.txt	 12137	 12138	 O	 -1	 -1	 0
 filter	data/source_txt/train/t1_biology_2_0.txt	 12139	 12145	 B-Definition	 T221	 T220	 Direct-Defines
 paper	data/source_txt/train/t1_biology_2_0.txt	 12146	 12151	 I-Definition	 T221	 T220	 Direct-Defines

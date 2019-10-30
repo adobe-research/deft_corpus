@@ -2669,7 +2669,7 @@ or	data/source_txt/train/t1_biology_2_101.txt	 15925	 15927	 I-Qualifier	 T245	 
 son	data/source_txt/train/t1_biology_2_101.txt	 15928	 15931	 I-Qualifier	 T245	 T244	 Supplements
 )	data/source_txt/train/t1_biology_2_101.txt	 15931	 15932	 O	 -1	 -1	 0
 ,	data/source_txt/train/t1_biology_2_101.txt	 15932	 15933	 O	 -1	 -1	 0
-generation	data/source_txt/train/t1_biology_2_101.txt	 15934	 15944	I-Alias-Term-frag	 T244-frag	 T244	 fragment
+generation	data/source_txt/train/t1_biology_2_101.txt	 15934	 15944	B-Alias-Term-frag	 T244-frag	 T244	 fragment
 .	data/source_txt/train/t1_biology_2_101.txt	 15944	 15945	 O	 -1	 -1	 0
 
 Once	data/source_txt/train/t1_biology_2_101.txt	 15952	 15956	 O	 -1	 -1	 0
