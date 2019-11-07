@@ -1,7 +1,7 @@
 1820	data/source_txt/dev/t1_biology_0_606.txt	 0	 4	 O	 -1	 -1	 0
 .	data/source_txt/dev/t1_biology_0_606.txt	 4	 5	 O	 -1	 -1	 0
 
-Earthworms	data/source_txt/dev/t1_biology_0_606.txt	 14	 24	 O	 -1	 -1	 0
+Earthworms	data/source_txt/dev/t1_biology_0_606.txt	 14	 24	 B-Term	 T1	 -1	 0
 (	data/source_txt/dev/t1_biology_0_606.txt	 25	 26	 O	 -1	 -1	 0
 annelids	data/source_txt/dev/t1_biology_0_606.txt	 26	 34	 B-Alias-Term	 T2	 T1	 AKA
 )	data/source_txt/dev/t1_biology_0_606.txt	 34	 35	 O	 -1	 -1	 0
@@ -19,18 +19,18 @@ in	data/source_txt/dev/t1_biology_0_606.txt	 114	 116	 O	 -1	 -1	 0
 [	data/source_txt/dev/t1_biology_0_606.txt	 117	 118	 O	 -1	 -1	 0
 link]b	data/source_txt/dev/t1_biology_0_606.txt	 118	 124	 O	 -1	 -1	 0
 .	data/source_txt/dev/t1_biology_0_606.txt	 124	 125	 O	 -1	 -1	 0
-A	data/source_txt/dev/t1_biology_0_606.txt	 132	 133	 B-Secondary-Definition	 T5	 T4	 Supplements
-pair	data/source_txt/dev/t1_biology_0_606.txt	 134	 138	 I-Secondary-Definition	 T5	 T4	 Supplements
-of	data/source_txt/dev/t1_biology_0_606.txt	 139	 141	 I-Secondary-Definition	 T5	 T4	 Supplements
-nephridia	data/source_txt/dev/t1_biology_0_606.txt	 142	 151	 I-Secondary-Definition	 T5	 T4	 Supplements
-is	data/source_txt/dev/t1_biology_0_606.txt	 152	 154	 I-Secondary-Definition	 T5	 T4	 Supplements
-present	data/source_txt/dev/t1_biology_0_606.txt	 155	 162	 I-Secondary-Definition	 T5	 T4	 Supplements
-on	data/source_txt/dev/t1_biology_0_606.txt	 163	 165	 I-Secondary-Definition	 T5	 T4	 Supplements
-each	data/source_txt/dev/t1_biology_0_606.txt	 166	 170	 I-Secondary-Definition	 T5	 T4	 Supplements
-segment	data/source_txt/dev/t1_biology_0_606.txt	 171	 178	 I-Secondary-Definition	 T5	 T4	 Supplements
-of	data/source_txt/dev/t1_biology_0_606.txt	 179	 181	 I-Secondary-Definition	 T5	 T4	 Supplements
-the	data/source_txt/dev/t1_biology_0_606.txt	 182	 185	 I-Secondary-Definition	 T5	 T4	 Supplements
-earthworm	data/source_txt/dev/t1_biology_0_606.txt	 186	 195	 I-Secondary-Definition	 T5	 T4	 Supplements
+A	data/source_txt/dev/t1_biology_0_606.txt	 132	 133	 O	 -1	 -1	 0
+pair	data/source_txt/dev/t1_biology_0_606.txt	 134	 138	 O	 -1	 -1	 0
+of	data/source_txt/dev/t1_biology_0_606.txt	 139	 141	 O	 -1	 -1	 0
+nephridia	data/source_txt/dev/t1_biology_0_606.txt	 142	 151	 O	 -1	 -1	 0
+is	data/source_txt/dev/t1_biology_0_606.txt	 152	 154	 O	 -1	 -1	 0
+present	data/source_txt/dev/t1_biology_0_606.txt	 155	 162	 O	 -1	 -1	 0
+on	data/source_txt/dev/t1_biology_0_606.txt	 163	 165	 O	 -1	 -1	 0
+each	data/source_txt/dev/t1_biology_0_606.txt	 166	 170	 O	 -1	 -1	 0
+segment	data/source_txt/dev/t1_biology_0_606.txt	 171	 178	 O	 -1	 -1	 0
+of	data/source_txt/dev/t1_biology_0_606.txt	 179	 181	 O	 -1	 -1	 0
+the	data/source_txt/dev/t1_biology_0_606.txt	 182	 185	 O	 -1	 -1	 0
+earthworm	data/source_txt/dev/t1_biology_0_606.txt	 186	 195	 O	 -1	 -1	 0
 .	data/source_txt/dev/t1_biology_0_606.txt	 195	 196	 O	 -1	 -1	 0
 
 
