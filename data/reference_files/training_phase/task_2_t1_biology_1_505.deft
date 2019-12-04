@@ -1,0 +1,111 @@
+1525	data/source_txt/dev/t1_biology_1_505.txt	 985	 989	 O
+.	data/source_txt/dev/t1_biology_1_505.txt	 989	 990	 O
+
+Adipose	data/source_txt/dev/t1_biology_1_505.txt	 991	 998	 B-Term
+tissue	data/source_txt/dev/t1_biology_1_505.txt	 999	 1005	 I-Term
+is	data/source_txt/dev/t1_biology_1_505.txt	 1006	 1008	 O
+a	data/source_txt/dev/t1_biology_1_505.txt	 1009	 1010	 B-Definition
+connective	data/source_txt/dev/t1_biology_1_505.txt	 1011	 1021	 I-Definition
+tissue	data/source_txt/dev/t1_biology_1_505.txt	 1022	 1028	 I-Definition
+found	data/source_txt/dev/t1_biology_1_505.txt	 1029	 1034	 I-Definition
+throughout	data/source_txt/dev/t1_biology_1_505.txt	 1035	 1045	 I-Definition
+the	data/source_txt/dev/t1_biology_1_505.txt	 1046	 1049	 I-Definition
+body	data/source_txt/dev/t1_biology_1_505.txt	 1050	 1054	 I-Definition
+.	data/source_txt/dev/t1_biology_1_505.txt	 1054	 1055	 I-Definition
+
+It	data/source_txt/dev/t1_biology_1_505.txt	 1064	 1066	 B-Secondary-Definition
+produces	data/source_txt/dev/t1_biology_1_505.txt	 1067	 1075	 I-Secondary-Definition
+the	data/source_txt/dev/t1_biology_1_505.txt	 1076	 1079	 I-Secondary-Definition
+hormone	data/source_txt/dev/t1_biology_1_505.txt	 1080	 1087	 I-Secondary-Definition
+leptin	data/source_txt/dev/t1_biology_1_505.txt	 1088	 1094	 I-Secondary-Definition
+in	data/source_txt/dev/t1_biology_1_505.txt	 1095	 1097	 I-Secondary-Definition
+response	data/source_txt/dev/t1_biology_1_505.txt	 1098	 1106	 I-Secondary-Definition
+to	data/source_txt/dev/t1_biology_1_505.txt	 1107	 1109	 I-Secondary-Definition
+food	data/source_txt/dev/t1_biology_1_505.txt	 1110	 1114	 I-Secondary-Definition
+intake	data/source_txt/dev/t1_biology_1_505.txt	 1115	 1121	 I-Secondary-Definition
+.	data/source_txt/dev/t1_biology_1_505.txt	 1121	 1122	 O
+
+Leptin	data/source_txt/dev/t1_biology_1_505.txt	 1129	 1135	 O
+increases	data/source_txt/dev/t1_biology_1_505.txt	 1136	 1145	 O
+the	data/source_txt/dev/t1_biology_1_505.txt	 1146	 1149	 O
+activity	data/source_txt/dev/t1_biology_1_505.txt	 1150	 1158	 O
+of	data/source_txt/dev/t1_biology_1_505.txt	 1159	 1161	 O
+anorexigenic	data/source_txt/dev/t1_biology_1_505.txt	 1162	 1174	 O
+neurons	data/source_txt/dev/t1_biology_1_505.txt	 1175	 1182	 O
+and	data/source_txt/dev/t1_biology_1_505.txt	 1183	 1186	 O
+decreases	data/source_txt/dev/t1_biology_1_505.txt	 1187	 1196	 O
+that	data/source_txt/dev/t1_biology_1_505.txt	 1197	 1201	 O
+of	data/source_txt/dev/t1_biology_1_505.txt	 1202	 1204	 O
+orexigenic	data/source_txt/dev/t1_biology_1_505.txt	 1205	 1215	 O
+neurons	data/source_txt/dev/t1_biology_1_505.txt	 1216	 1223	 O
+,	data/source_txt/dev/t1_biology_1_505.txt	 1223	 1224	 O
+producing	data/source_txt/dev/t1_biology_1_505.txt	 1225	 1234	 O
+a	data/source_txt/dev/t1_biology_1_505.txt	 1235	 1236	 O
+feeling	data/source_txt/dev/t1_biology_1_505.txt	 1237	 1244	 O
+of	data/source_txt/dev/t1_biology_1_505.txt	 1245	 1247	 O
+satiety	data/source_txt/dev/t1_biology_1_505.txt	 1248	 1255	 O
+after	data/source_txt/dev/t1_biology_1_505.txt	 1256	 1261	 O
+eating	data/source_txt/dev/t1_biology_1_505.txt	 1262	 1268	 O
+,	data/source_txt/dev/t1_biology_1_505.txt	 1268	 1269	 O
+thus	data/source_txt/dev/t1_biology_1_505.txt	 1270	 1274	 O
+affecting	data/source_txt/dev/t1_biology_1_505.txt	 1275	 1284	 O
+appetite	data/source_txt/dev/t1_biology_1_505.txt	 1285	 1293	 O
+and	data/source_txt/dev/t1_biology_1_505.txt	 1294	 1297	 O
+reducing	data/source_txt/dev/t1_biology_1_505.txt	 1298	 1306	 O
+the	data/source_txt/dev/t1_biology_1_505.txt	 1307	 1310	 O
+urge	data/source_txt/dev/t1_biology_1_505.txt	 1311	 1315	 O
+for	data/source_txt/dev/t1_biology_1_505.txt	 1316	 1319	 O
+further	data/source_txt/dev/t1_biology_1_505.txt	 1320	 1327	 O
+eating	data/source_txt/dev/t1_biology_1_505.txt	 1328	 1334	 O
+.	data/source_txt/dev/t1_biology_1_505.txt	 1334	 1335	 O
+
+
+1564	data/source_txt/dev/t1_biology_1_505.txt	 6621	 6625	 O
+.	data/source_txt/dev/t1_biology_1_505.txt	 6625	 6626	 O
+
+The	data/source_txt/dev/t1_biology_1_505.txt	 6627	 6630	 O
+fatty	data/source_txt/dev/t1_biology_1_505.txt	 6631	 6636	 O
+acids	data/source_txt/dev/t1_biology_1_505.txt	 6637	 6642	 O
+are	data/source_txt/dev/t1_biology_1_505.txt	 6643	 6646	 O
+released	data/source_txt/dev/t1_biology_1_505.txt	 6647	 6655	 O
+into	data/source_txt/dev/t1_biology_1_505.txt	 6656	 6660	 O
+the	data/source_txt/dev/t1_biology_1_505.txt	 6661	 6664	 O
+bloodstream	data/source_txt/dev/t1_biology_1_505.txt	 6665	 6676	 O
+for	data/source_txt/dev/t1_biology_1_505.txt	 6677	 6680	 O
+other	data/source_txt/dev/t1_biology_1_505.txt	 6681	 6686	 O
+tissues	data/source_txt/dev/t1_biology_1_505.txt	 6687	 6694	 O
+to	data/source_txt/dev/t1_biology_1_505.txt	 6695	 6697	 O
+use	data/source_txt/dev/t1_biology_1_505.txt	 6698	 6701	 O
+for	data/source_txt/dev/t1_biology_1_505.txt	 6702	 6705	 O
+ATP	data/source_txt/dev/t1_biology_1_505.txt	 6706	 6709	 O
+production	data/source_txt/dev/t1_biology_1_505.txt	 6710	 6720	 O
+.	data/source_txt/dev/t1_biology_1_505.txt	 6720	 6721	 O
+
+The	data/source_txt/dev/t1_biology_1_505.txt	 6730	 6733	 O
+glucocorticoids	data/source_txt/dev/t1_biology_1_505.txt	 6734	 6749	 O
+primarily	data/source_txt/dev/t1_biology_1_505.txt	 6750	 6759	 O
+affect	data/source_txt/dev/t1_biology_1_505.txt	 6760	 6766	 O
+glucose	data/source_txt/dev/t1_biology_1_505.txt	 6767	 6774	 O
+metabolism	data/source_txt/dev/t1_biology_1_505.txt	 6775	 6785	 O
+by	data/source_txt/dev/t1_biology_1_505.txt	 6786	 6788	 O
+stimulating	data/source_txt/dev/t1_biology_1_505.txt	 6789	 6800	 O
+glucose	data/source_txt/dev/t1_biology_1_505.txt	 6801	 6808	 O
+synthesis	data/source_txt/dev/t1_biology_1_505.txt	 6809	 6818	 O
+.	data/source_txt/dev/t1_biology_1_505.txt	 6818	 6819	 O
+
+Glucocorticoids	data/source_txt/dev/t1_biology_1_505.txt	 6826	 6841	 O
+also	data/source_txt/dev/t1_biology_1_505.txt	 6842	 6846	 O
+have	data/source_txt/dev/t1_biology_1_505.txt	 6847	 6851	 O
+anti	data/source_txt/dev/t1_biology_1_505.txt	 6852	 6856	 O
+-	data/source_txt/dev/t1_biology_1_505.txt	 6856	 6857	 O
+inflammatory	data/source_txt/dev/t1_biology_1_505.txt	 6857	 6869	 O
+properties	data/source_txt/dev/t1_biology_1_505.txt	 6870	 6880	 O
+through	data/source_txt/dev/t1_biology_1_505.txt	 6881	 6888	 O
+inhibition	data/source_txt/dev/t1_biology_1_505.txt	 6889	 6899	 O
+of	data/source_txt/dev/t1_biology_1_505.txt	 6900	 6902	 O
+the	data/source_txt/dev/t1_biology_1_505.txt	 6903	 6906	 O
+immune	data/source_txt/dev/t1_biology_1_505.txt	 6907	 6913	 O
+system	data/source_txt/dev/t1_biology_1_505.txt	 6914	 6920	 O
+.	data/source_txt/dev/t1_biology_1_505.txt	 6920	 6921	 O
+
+

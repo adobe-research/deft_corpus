@@ -52,7 +52,7 @@ def main(cfg):
     # output_dir = Path(output_dir)
 
     ref_path = input_dir.joinpath('ref')
-    res_path = input_dir.joinpath('res')
+    res_path = input_dir.joinpath('res_120419')
 
 
     eval_task_1 = cfg['task_1']['do_eval']

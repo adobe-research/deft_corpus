@@ -1,0 +1,35 @@
+7	data/source_txt/dev/t1_biology_1_0.txt	 658	 659	 O	 -1	 -1	 0
+.	data/source_txt/dev/t1_biology_1_0.txt	 659	 660	 O	 -1	 -1	 0
+
+Inductive	data/source_txt/dev/t1_biology_1_0.txt	 669	 678	 B-Term	 T204	 0	 Direct-Defines
+reasoning	data/source_txt/dev/t1_biology_1_0.txt	 679	 688	 I-Term	 T204	 0	 Direct-Defines
+is	data/source_txt/dev/t1_biology_1_0.txt	 689	 691	 O	 -1	 -1	 0
+a	data/source_txt/dev/t1_biology_1_0.txt	 692	 693	 B-Definition	 T205	 T204	 Direct-Defines
+form	data/source_txt/dev/t1_biology_1_0.txt	 694	 698	 I-Definition	 T205	 T204	 Direct-Defines
+of	data/source_txt/dev/t1_biology_1_0.txt	 699	 701	 I-Definition	 T205	 T204	 Direct-Defines
+logical	data/source_txt/dev/t1_biology_1_0.txt	 702	 709	 I-Definition	 T205	 T204	 Direct-Defines
+thinking	data/source_txt/dev/t1_biology_1_0.txt	 710	 718	 I-Definition	 T205	 T204	 Direct-Defines
+that	data/source_txt/dev/t1_biology_1_0.txt	 719	 723	 I-Definition	 T205	 T204	 Direct-Defines
+uses	data/source_txt/dev/t1_biology_1_0.txt	 724	 728	 I-Definition	 T205	 T204	 Direct-Defines
+related	data/source_txt/dev/t1_biology_1_0.txt	 729	 736	 I-Definition	 T205	 T204	 Direct-Defines
+observations	data/source_txt/dev/t1_biology_1_0.txt	 737	 749	 I-Definition	 T205	 T204	 Direct-Defines
+to	data/source_txt/dev/t1_biology_1_0.txt	 750	 752	 I-Definition	 T205	 T204	 Direct-Defines
+arrive	data/source_txt/dev/t1_biology_1_0.txt	 753	 759	 I-Definition	 T205	 T204	 Direct-Defines
+at	data/source_txt/dev/t1_biology_1_0.txt	 760	 762	 I-Definition	 T205	 T204	 Direct-Defines
+a	data/source_txt/dev/t1_biology_1_0.txt	 763	 764	 I-Definition	 T205	 T204	 Direct-Defines
+general	data/source_txt/dev/t1_biology_1_0.txt	 765	 772	 I-Definition	 T205	 T204	 Direct-Defines
+conclusion	data/source_txt/dev/t1_biology_1_0.txt	 773	 783	 I-Definition	 T205	 T204	 Direct-Defines
+.	data/source_txt/dev/t1_biology_1_0.txt	 783	 784	 O	 -1	 -1	 0
+
+This	data/source_txt/dev/t1_biology_1_0.txt	 791	 795	 O	 -1	 -1	 0
+type	data/source_txt/dev/t1_biology_1_0.txt	 796	 800	 O	 -1	 -1	 0
+of	data/source_txt/dev/t1_biology_1_0.txt	 801	 803	 O	 -1	 -1	 0
+reasoning	data/source_txt/dev/t1_biology_1_0.txt	 804	 813	 O	 -1	 -1	 0
+is	data/source_txt/dev/t1_biology_1_0.txt	 814	 816	 O	 -1	 -1	 0
+common	data/source_txt/dev/t1_biology_1_0.txt	 817	 823	 O	 -1	 -1	 0
+in	data/source_txt/dev/t1_biology_1_0.txt	 824	 826	 O	 -1	 -1	 0
+descriptive	data/source_txt/dev/t1_biology_1_0.txt	 827	 838	 O	 -1	 -1	 0
+science	data/source_txt/dev/t1_biology_1_0.txt	 839	 846	 O	 -1	 -1	 0
+.	data/source_txt/dev/t1_biology_1_0.txt	 846	 847	 O	 -1	 -1	 0
+
+

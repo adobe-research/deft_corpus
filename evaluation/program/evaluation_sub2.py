@@ -37,7 +37,7 @@ def get_label(row):
     Returns:
         label: string
     """
-    return row[-1]
+    return row[-1].strip()
 
 
 def validate_length(gold_rows, pred_rows):
@@ -71,6 +71,17 @@ def validate_tokens(gold_rows, pred_rows):
         if pred_token != gold_token:
             raise ValueError("Token mismatch row {}: Pred {} Gold {}".format(row_index, pred_token, gold_token))
 
+def validate_ref_labels(eval_labels, y_gold):
+    for index, label in enumerate(y_gold):
+        if label not in eval_labels and label.strip() != 'O':
+            warnings.warn("Labels exist in the reference files that will not be scored given the current evaluation labels.")
+            y_gold[index] = 'O'
+    return y_gold
+
+def validate_res_labels(eval_labels, y_pred):
+    for label in y_pred:
+        if label not in eval_labels and label != 'O':
+            raise ValueError(f"Encountered unknown or unevaluated label: {label}")
 
 def validate_labels(gold_rows, pred_rows):
     """Check that pred file doesn't have any unknown labels
@@ -98,6 +109,7 @@ def validate_data(gold_rows, pred_rows):
     validate_length(gold_rows, pred_rows)
     validate_columns(gold_rows, pred_rows)
     validate_tokens(gold_rows, pred_rows)
+
     # validate_labels(gold_rows, pred_rows)
 
 
@@ -133,6 +145,8 @@ def evaluate(y_gold, y_pred, eval_labels):
     Returns:
         sklearn classification report (string)
     """
+    validate_ref_labels(eval_labels, y_gold)
+    # validate_res_labels(eval_labels, y_pred)
     return classification_report(y_gold, y_pred, labels=eval_labels, output_dict=True)
 
 def write_to_scores(report, output_fname):
