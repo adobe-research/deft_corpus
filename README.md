@@ -2,7 +2,7 @@
 
 Welcome to the largest expertly annotated corpus for complex definition extraction in free text. Pardon our dust - this data is associated with [SemEval 2020 Task 6](https://competitions.codalab.org/competitions/20900) (DeftEval) and we are releasing the full dataset on the SemEval conference schedule. Train and dev data are available, and test data will become available after the completion of the SemEval evaluation period on 2 Feb 2020. You can source the complete text from the corresponding textbooks at <https://cnx.org>.
 
-The most recent version of the corpus was updated on **30 OCT 2019**.
+The most recent version of the corpus was updated on **20 DEC 2019**.
 
 For more information regarding the annotation, schema, or general characteristics of the corpus, please see our paper [here](https://sigann.github.io/LAW-XIII-2019/pdf/W19-4015.pdf).
   
