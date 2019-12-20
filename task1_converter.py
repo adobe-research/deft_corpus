@@ -15,14 +15,14 @@ This produces files in the following tab-delineated format:
 Use this format for SemEval Task 6, subtask 1.
 
 '''
-
+task_name = 'task_1_'
 def convert(source_files_path, output_path):
     """
     Walks through the provided source files and finds .deft files to convert
     """
     for child in Path(source_files_path).iterdir():
         if child.suffix == '.deft':
-            write_converted(child, Path.joinpath(output_path, child.name))
+            write_converted(child, Path.joinpath(output_path, task_name + child.name))
         elif child.is_dir():
             convert(child, output_path)
 
@@ -35,12 +35,15 @@ def write_converted(source_file, output_file):
     with open(source_file) as source_text:
         has_def = 0
         new_sentence = ''
-        for line in source_text.readlines():
+        all_lines = list(source_text.readlines())
+        for index, line in enumerate(all_lines):
 
-            if re.match('^\s+$', line) and len(new_sentence) > 0 and not re.match(r'^\s*\d+\s*\.$', new_sentence):
+            if re.match('^\s+$', line) and len(new_sentence) > 0 and (not re.match(r'^\s*\d+\s*\.$', new_sentence)
+                                                                      or all_lines[index-1] == '\n'):
                 sentences = sentences.append({'sentence': new_sentence, 'label': has_def}, ignore_index=True)
                 new_sentence = ''
                 has_def = 0
+
             if line == '\n':
                 continue
 
@@ -48,6 +51,8 @@ def write_converted(source_file, output_file):
             new_sentence = new_sentence + ' ' + line_parts[0]
             if line_parts[4][3:] == 'Definition':
                 has_def = 1
+
     sentences.to_csv(output_file, header=False, index=False, quoting=csv.QUOTE_ALL, sep='\t')
+
 if __name__ == '__main__':
     convert(Path(sys.argv[1]), Path(sys.argv[2]))
