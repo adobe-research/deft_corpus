@@ -146,7 +146,7 @@ def evaluate(y_gold, y_pred, eval_labels):
         sklearn classification report (string)
     """
     validate_ref_labels(eval_labels, y_gold)
-    # validate_res_labels(eval_labels, y_pred)
+    validate_res_labels(eval_labels, y_pred)
     return classification_report(y_gold, y_pred, labels=eval_labels, output_dict=True)
 
 def write_to_scores(report, output_fname):

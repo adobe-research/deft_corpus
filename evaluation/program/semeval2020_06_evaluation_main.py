@@ -51,10 +51,10 @@ def main(cfg):
     # input_dir = Path(input_dir)
     # output_dir = Path(output_dir)
 
-    ref_path = input_dir.joinpath('ref')
-    res_path = input_dir.joinpath('res')
-
-
+    # ref_path = input_dir.joinpath('ref')
+    #res_path = input_dir.joinpath('res')
+    res_path = Path('/Users/sspala/Downloads/training_phase')
+    ref_path = Path('/Users/sspala/dev/deft_corpus/data/reference_files/training_phase')
     eval_task_1 = cfg['task_1']['do_eval']
     eval_task_2 = cfg['task_2']['do_eval']
     eval_task_3 = cfg['task_3']['do_eval']
