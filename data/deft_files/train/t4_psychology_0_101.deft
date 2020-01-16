@@ -437,64 +437,6 @@ Megerian	 data/source_txt/t4_psychology_jlee_101.txt	 3025	 3033	 O	 -1	 -1	 0
 )	 data/source_txt/t4_psychology_jlee_101.txt	 3039	 3040	 O	 -1	 -1	 0
 .	 data/source_txt/t4_psychology_jlee_101.txt	 3040	 3041	 O	 -1	 -1	 0
 
-Although	 data/source_txt/t4_psychology_jlee_101.txt	 2766	 2774	 O	 -1	 -1	 0
-not	 data/source_txt/t4_psychology_jlee_101.txt	 2775	 2778	 O	 -1	 -1	 0
-well	 data/source_txt/t4_psychology_jlee_101.txt	 2779	 2783	 O	 -1	 -1	 0
-understood	 data/source_txt/t4_psychology_jlee_101.txt	 2784	 2794	 O	 -1	 -1	 0
-,	 data/source_txt/t4_psychology_jlee_101.txt	 2794	 2795	 O	 -1	 -1	 0
-Ménière	 data/source_txt/t4_psychology_jlee_101.txt	 2796	 2803	 O	 -1	 -1	 0
-'s	 data/source_txt/t4_psychology_jlee_101.txt	 2803	 2805	 O	 -1	 -1	 0
-disease	 data/source_txt/t4_psychology_jlee_101.txt	 2806	 2813	 O	 -1	 -1	 0
-results	 data/source_txt/t4_psychology_jlee_101.txt	 2814	 2821	 B-Definition	 T29	 T28	 Direct-Defines
-in	 data/source_txt/t4_psychology_jlee_101.txt	 2822	 2824	 I-Definition	 T29	 T28	 Direct-Defines
-a	 data/source_txt/t4_psychology_jlee_101.txt	 2825	 2826	 I-Definition	 T29	 T28	 Direct-Defines
-degeneration	 data/source_txt/t4_psychology_jlee_101.txt	 2827	 2839	 I-Definition	 T29	 T28	 Direct-Defines
-of	 data/source_txt/t4_psychology_jlee_101.txt	 2840	 2842	 I-Definition	 T29	 T28	 Direct-Defines
-inner	 data/source_txt/t4_psychology_jlee_101.txt	 2843	 2848	 I-Definition	 T29	 T28	 Direct-Defines
-ear	 data/source_txt/t4_psychology_jlee_101.txt	 2849	 2852	 I-Definition	 T29	 T28	 Direct-Defines
-structures	 data/source_txt/t4_psychology_jlee_101.txt	 2853	 2863	 I-Definition	 T29	 T28	 Direct-Defines
-that	 data/source_txt/t4_psychology_jlee_101.txt	 2864	 2868	 I-Definition	 T29	 T28	 Direct-Defines
-can	 data/source_txt/t4_psychology_jlee_101.txt	 2869	 2872	 I-Definition	 T29	 T28	 Direct-Defines
-lead	 data/source_txt/t4_psychology_jlee_101.txt	 2873	 2877	 I-Definition	 T29	 T28	 Direct-Defines
-to	 data/source_txt/t4_psychology_jlee_101.txt	 2878	 2880	 I-Definition	 T29	 T28	 Direct-Defines
-hearing	 data/source_txt/t4_psychology_jlee_101.txt	 2881	 2888	 I-Definition	 T29	 T28	 Direct-Defines
-loss	 data/source_txt/t4_psychology_jlee_101.txt	 2889	 2893	 I-Definition	 T29	 T28	 Direct-Defines
-,	 data/source_txt/t4_psychology_jlee_101.txt	 2893	 2894	 I-Definition	 T29	 T28	 Direct-Defines
-tinnitus	 data/source_txt/t4_psychology_jlee_101.txt	 2895	 2903	 I-Definition	 T29	 T28	 Direct-Defines
-(	 data/source_txt/t4_psychology_jlee_101.txt	 2904	 2905	 I-Definition	 T29	 T28	 Direct-Defines
-constant	 data/source_txt/t4_psychology_jlee_101.txt	 2905	 2913	 I-Definition	 T29	 T28	 Direct-Defines
-ringing	 data/source_txt/t4_psychology_jlee_101.txt	 2914	 2921	 I-Definition	 T29	 T28	 Direct-Defines
-or	 data/source_txt/t4_psychology_jlee_101.txt	 2922	 2924	 I-Definition	 T29	 T28	 Direct-Defines
-buzzing	 data/source_txt/t4_psychology_jlee_101.txt	 2925	 2932	 I-Definition	 T29	 T28	 Direct-Defines
-)	 data/source_txt/t4_psychology_jlee_101.txt	 2932	 2933	 I-Definition	 T29	 T28	 Direct-Defines
-,	 data/source_txt/t4_psychology_jlee_101.txt	 2933	 2934	 I-Definition	 T29	 T28	 Direct-Defines
-vertigo	 data/source_txt/t4_psychology_jlee_101.txt	 2935	 2942	 I-Definition	 T29	 T28	 Direct-Defines
-(	 data/source_txt/t4_psychology_jlee_101.txt	 2943	 2944	 I-Definition	 T29	 T28	 Direct-Defines
-a	 data/source_txt/t4_psychology_jlee_101.txt	 2944	 2945	 I-Definition	 T29	 T28	 Direct-Defines
-sense	 data/source_txt/t4_psychology_jlee_101.txt	 2946	 2951	 I-Definition	 T29	 T28	 Direct-Defines
-of	 data/source_txt/t4_psychology_jlee_101.txt	 2952	 2954	 I-Definition	 T29	 T28	 Direct-Defines
-spinning	 data/source_txt/t4_psychology_jlee_101.txt	 2955	 2963	 I-Definition	 T29	 T28	 Direct-Defines
-)	 data/source_txt/t4_psychology_jlee_101.txt	 2963	 2964	 I-Definition	 T29	 T28	 Direct-Defines
-,	 data/source_txt/t4_psychology_jlee_101.txt	 2964	 2965	 I-Definition	 T29	 T28	 Direct-Defines
-and	 data/source_txt/t4_psychology_jlee_101.txt	 2966	 2969	 I-Definition	 T29	 T28	 Direct-Defines
-an	 data/source_txt/t4_psychology_jlee_101.txt	 2970	 2972	 I-Definition	 T29	 T28	 Direct-Defines
-increase	 data/source_txt/t4_psychology_jlee_101.txt	 2973	 2981	 I-Definition	 T29	 T28	 Direct-Defines
-in	 data/source_txt/t4_psychology_jlee_101.txt	 2982	 2984	 I-Definition	 T29	 T28	 Direct-Defines
-pressure	 data/source_txt/t4_psychology_jlee_101.txt	 2985	 2993	 I-Definition	 T29	 T28	 Direct-Defines
-within	 data/source_txt/t4_psychology_jlee_101.txt	 2994	 3000	 I-Definition	 T29	 T28	 Direct-Defines
-the	 data/source_txt/t4_psychology_jlee_101.txt	 3001	 3004	 I-Definition	 T29	 T28	 Direct-Defines
-inner	 data/source_txt/t4_psychology_jlee_101.txt	 3005	 3010	 I-Definition	 T29	 T28	 Direct-Defines
-ear	 data/source_txt/t4_psychology_jlee_101.txt	 3011	 3014	 I-Definition	 T29	 T28	 Direct-Defines
-(	 data/source_txt/t4_psychology_jlee_101.txt	 3015	 3016	 O	 -1	 -1	 0
-Semaan	 data/source_txt/t4_psychology_jlee_101.txt	 3016	 3022	 O	 -1	 -1	 0
-&	 data/source_txt/t4_psychology_jlee_101.txt	 3023	 3024	 O	 -1	 -1	 0
-Megerian	 data/source_txt/t4_psychology_jlee_101.txt	 3025	 3033	 O	 -1	 -1	 0
-,	 data/source_txt/t4_psychology_jlee_101.txt	 3033	 3034	 O	 -1	 -1	 0
-2011	 data/source_txt/t4_psychology_jlee_101.txt	 3035	 3039	 O	 -1	 -1	 0
-)	 data/source_txt/t4_psychology_jlee_101.txt	 3039	 3040	 O	 -1	 -1	 0
-.	 data/source_txt/t4_psychology_jlee_101.txt	 3040	 3041	 O	 -1	 -1	 0
-
-
 3637	 data/source_txt/t4_psychology_jlee_101.txt	 3045	 3049	 O	 -1	 -1	 0
 .	 data/source_txt/t4_psychology_jlee_101.txt	 3049	 3050	 O	 -1	 -1	 0
 
@@ -812,7 +754,11 @@ Abraira	 data/source_txt/t4_psychology_jlee_101.txt	 4652	 4659	 O	 -1	 -1	 0
 &	 data/source_txt/t4_psychology_jlee_101.txt	 4660	 4661	 O	 -1	 -1	 0
 Ginty	 data/source_txt/t4_psychology_jlee_101.txt	 4662	 4667	 O	 -1	 -1	 0
 ,	 data/source_txt/t4_psychology_jlee_101.txt	 4667	 4668	 O	 -1	 -1	 0
-2013).There	 data/source_txt/t4_psychology_jlee_101.txt	 4669	 4680	 O	 -1	 -1	 0
+2013	 data/source_txt/t4_psychology_jlee_101.txt	 4669	 4673	 O	 -1	 -1	 0
+)	 data/source_txt/t4_psychology_jlee_101.txt	 4673	 4674	 O	 -1	 -1	 0
+.	 data/source_txt/t4_psychology_jlee_101.txt	 4674	 4675	 O	 -1	 -1	 0
+
+There	 data/source_txt/t4_psychology_jlee_101.txt	 4675	 4680	 O	 -1	 -1	 0
 are	 data/source_txt/t4_psychology_jlee_101.txt	 4681	 4684	 O	 -1	 -1	 0
 many	 data/source_txt/t4_psychology_jlee_101.txt	 4685	 4689	 O	 -1	 -1	 0
 types	 data/source_txt/t4_psychology_jlee_101.txt	 4690	 4695	 O	 -1	 -1	 0
@@ -1119,30 +1065,6 @@ given	 data/source_txt/t4_psychology_jlee_101.txt	 7469	 7474	 O	 -1	 -1	 0
 stimulus	 data/source_txt/t4_psychology_jlee_101.txt	 7475	 7483	 O	 -1	 -1	 0
 .	 data/source_txt/t4_psychology_jlee_101.txt	 7483	 7484	 O	 -1	 -1	 0
 
-The	 data/source_txt/t4_psychology_jlee_101.txt	 7375	 7378	 O	 -1	 -1	 0
-dogs	 data/source_txt/t4_psychology_jlee_101.txt	 7379	 7383	 O	 -1	 -1	 0
-’	 data/source_txt/t4_psychology_jlee_101.txt	 7383	 7384	 O	 -1	 -1	 0
-salivation	 data/source_txt/t4_psychology_jlee_101.txt	 7385	 7395	 O	 -1	 -1	 0
-was	 data/source_txt/t4_psychology_jlee_101.txt	 7396	 7399	 O	 -1	 -1	 0
-an	 data/source_txt/t4_psychology_jlee_101.txt	 7400	 7402	 B-Term	 T69	 0	 Direct-Defines
-unconditioned	 data/source_txt/t4_psychology_jlee_101.txt	 7403	 7416	 I-Term	 T69	 0	 Direct-Defines
-response	 data/source_txt/t4_psychology_jlee_101.txt	 7417	 7425	 I-Term	 T69	 0	 Direct-Defines
-(	 data/source_txt/t4_psychology_jlee_101.txt	 7426	 7427	 O	 -1	 -1	 0
-UCR	 data/source_txt/t4_psychology_jlee_101.txt	 7427	 7430	 B-Alias-Term	 T70	 T69	 AKA
-)	 data/source_txt/t4_psychology_jlee_101.txt	 7430	 7431	 O	 -1	 -1	 0
-:	 data/source_txt/t4_psychology_jlee_101.txt	 7431	 7432	 O	 -1	 -1	 0
-a	 data/source_txt/t4_psychology_jlee_101.txt	 7433	 7434	 B-Definition	 T71	 T69	 Direct-Defines
-natural	 data/source_txt/t4_psychology_jlee_101.txt	 7435	 7442	 I-Definition	 T71	 T69	 Direct-Defines
-(	 data/source_txt/t4_psychology_jlee_101.txt	 7443	 7444	 I-Definition	 T71	 T69	 Direct-Defines
-unlearned	 data/source_txt/t4_psychology_jlee_101.txt	 7444	 7453	 I-Definition	 T71	 T69	 Direct-Defines
-)	 data/source_txt/t4_psychology_jlee_101.txt	 7453	 7454	 I-Definition	 T71	 T69	 Direct-Defines
-reaction	 data/source_txt/t4_psychology_jlee_101.txt	 7455	 7463	 I-Definition	 T71	 T69	 Direct-Defines
-to	 data/source_txt/t4_psychology_jlee_101.txt	 7464	 7466	 I-Definition	 T71	 T69	 Direct-Defines
-a	 data/source_txt/t4_psychology_jlee_101.txt	 7467	 7468	 I-Definition	 T71	 T69	 Direct-Defines
-given	 data/source_txt/t4_psychology_jlee_101.txt	 7469	 7474	 I-Definition	 T71	 T69	 Direct-Defines
-stimulus	 data/source_txt/t4_psychology_jlee_101.txt	 7475	 7483	 I-Definition	 T71	 T69	 Direct-Defines
-.	 data/source_txt/t4_psychology_jlee_101.txt	 7483	 7484	 O	 -1	 -1	 0
-
 
 3679	 data/source_txt/t4_psychology_jlee_101.txt	 8524	 8528	 O	 -1	 -1	 0
 .	 data/source_txt/t4_psychology_jlee_101.txt	 8528	 8529	 O	 -1	 -1	 0
@@ -1223,12 +1145,7 @@ rest	 data/source_txt/t4_psychology_jlee_101.txt	 8932	 8936	 I-Definition	 T83	
 period	 data/source_txt/t4_psychology_jlee_101.txt	 8937	 8943	 I-Definition	 T83	 0	 Supplements
 (	 data/source_txt/t4_psychology_jlee_101.txt	 8944	 8945	 O	 -1	 -1	 0
 [	 data/source_txt/t4_psychology_jlee_101.txt	 8945	 8946	 O	 -1	 -1	 0
-link	 data/source_txt/t4_psychology_jlee_101.txt	 8946	 8950	 O	 -1	 -1	 0
-]	 data/source_txt/t4_psychology_jlee_101.txt	 8950	 8951	 O	 -1	 -1	 0
-)	 data/source_txt/t4_psychology_jlee_101.txt	 8951	 8952	 O	 -1	 -1	 0
-.	 data/source_txt/t4_psychology_jlee_101.txt	 8952	 8953	 O	 -1	 -1	 0
-
-This	 data/source_txt/t4_psychology_jlee_101.txt	 8953	 8957	 B-Secondary-Definition	 T275	 T83	 Supplements
+link]).This	 data/source_txt/t4_psychology_jlee_101.txt	 8946	 8957	 B-Secondary-Definition	 T275	 T83	 Supplements
 is	 data/source_txt/t4_psychology_jlee_101.txt	 8958	 8960	 I-Secondary-Definition	 T275	 T83	 Supplements
 the	 data/source_txt/t4_psychology_jlee_101.txt	 8961	 8964	 I-Secondary-Definition	 T275	 T83	 Supplements
 curve	 data/source_txt/t4_psychology_jlee_101.txt	 8965	 8970	 I-Secondary-Definition	 T275	 T83	 Supplements
@@ -1321,11 +1238,7 @@ she	 data/source_txt/t4_psychology_jlee_101.txt	 9468	 9471	 O	 -1	 -1	 0
 can	 data/source_txt/t4_psychology_jlee_101.txt	 9472	 9475	 O	 -1	 -1	 0
 tell	 data/source_txt/t4_psychology_jlee_101.txt	 9476	 9480	 O	 -1	 -1	 0
 them	 data/source_txt/t4_psychology_jlee_101.txt	 9481	 9485	 O	 -1	 -1	 0
-apart	 data/source_txt/t4_psychology_jlee_101.txt	 9486	 9491	 O	 -1	 -1	 0
-)	 data/source_txt/t4_psychology_jlee_101.txt	 9491	 9492	 O	 -1	 -1	 0
-.	 data/source_txt/t4_psychology_jlee_101.txt	 9492	 9493	 O	 -1	 -1	 0
-
-Sometimes	 data/source_txt/t4_psychology_jlee_101.txt	 9493	 9502	 O	 -1	 -1	 0
+apart).Sometimes	 data/source_txt/t4_psychology_jlee_101.txt	 9486	 9502	 O	 -1	 -1	 0
 ,	 data/source_txt/t4_psychology_jlee_101.txt	 9502	 9503	 O	 -1	 -1	 0
 classical	 data/source_txt/t4_psychology_jlee_101.txt	 9504	 9513	 O	 -1	 -1	 0
 conditioning	 data/source_txt/t4_psychology_jlee_101.txt	 9514	 9526	 O	 -1	 -1	 0
@@ -2546,7 +2459,6 @@ that	 data/source_txt/t4_psychology_jlee_101.txt	 15708	 15712	 O	 -1	 -1	 0
 price	 data/source_txt/t4_psychology_jlee_101.txt	 15713	 15718	 O	 -1	 -1	 0
 point	 data/source_txt/t4_psychology_jlee_101.txt	 15719	 15724	 O	 -1	 -1	 0
 .	 data/source_txt/t4_psychology_jlee_101.txt	 15724	 15725	 O	 -1	 -1	 0
-
 The	 data/source_txt/t4_psychology_jlee_101.txt	 15725	 15728	 B-Term	 T131	 0	 Direct-Defines
 confirmation	 data/source_txt/t4_psychology_jlee_101.txt	 15729	 15741	 I-Term	 T131	 0	 Direct-Defines
 bias	 data/source_txt/t4_psychology_jlee_101.txt	 15742	 15746	 I-Term	 T131	 0	 Direct-Defines
@@ -4485,12 +4397,7 @@ and	 data/source_txt/t4_psychology_jlee_101.txt	 28937	 28940	 O	 -1	 -1	 0
 genital	 data/source_txt/t4_psychology_jlee_101.txt	 28941	 28948	 O	 -1	 -1	 0
 (	 data/source_txt/t4_psychology_jlee_101.txt	 28949	 28950	 O	 -1	 -1	 0
 [	 data/source_txt/t4_psychology_jlee_101.txt	 28950	 28951	 O	 -1	 -1	 0
-link	 data/source_txt/t4_psychology_jlee_101.txt	 28951	 28955	 O	 -1	 -1	 0
-]	 data/source_txt/t4_psychology_jlee_101.txt	 28955	 28956	 O	 -1	 -1	 0
-)	 data/source_txt/t4_psychology_jlee_101.txt	 28956	 28957	 O	 -1	 -1	 0
-.	 data/source_txt/t4_psychology_jlee_101.txt	 28957	 28958	 O	 -1	 -1	 0
-
-Freud	 data/source_txt/t4_psychology_jlee_101.txt	 28958	 28963	 O	 -1	 -1	 0
+link]).Freud	 data/source_txt/t4_psychology_jlee_101.txt	 28951	 28963	 O	 -1	 -1	 0
 ’s	 data/source_txt/t4_psychology_jlee_101.txt	 28963	 28965	 O	 -1	 -1	 0
 psychosexual	 data/source_txt/t4_psychology_jlee_101.txt	 28966	 28978	 O	 -1	 -1	 0
 development	 data/source_txt/t4_psychology_jlee_101.txt	 28979	 28990	 O	 -1	 -1	 0
@@ -4516,9 +4423,7 @@ the	 data/source_txt/t4_psychology_jlee_101.txt	 29090	 29093	 B-Term	 T213	 0	 
 phallic	 data/source_txt/t4_psychology_jlee_101.txt	 29094	 29101	 I-Term	 T213	 0	 Direct-Defines
 stage	 data/source_txt/t4_psychology_jlee_101.txt	 29102	 29107	 I-Term	 T213	 0	 Direct-Defines
 (	 data/source_txt/t4_psychology_jlee_101.txt	 29108	 29109	 B-Definition	 T118	 T213	 Direct-Defines
-3	 data/source_txt/t4_psychology_jlee_101.txt	 29109	 29110	 I-Definition	 T118	 T213	 Direct-Defines
-–	 data/source_txt/t4_psychology_jlee_101.txt	 29110	 29111	 I-Definition	 T118	 T213	 Direct-Defines
-6	 data/source_txt/t4_psychology_jlee_101.txt	 29111	 29112	 I-Definition	 T118	 T213	 Direct-Defines
+3–6	 data/source_txt/t4_psychology_jlee_101.txt	 29109	 29112	 I-Definition	 T118	 T213	 Direct-Defines
 years	 data/source_txt/t4_psychology_jlee_101.txt	 29113	 29118	 I-Definition	 T118	 T213	 Direct-Defines
 )	 data/source_txt/t4_psychology_jlee_101.txt	 29118	 29119	 I-Definition	 T118	 T213	 Direct-Defines
 ,	 data/source_txt/t4_psychology_jlee_101.txt	 29119	 29120	 I-Definition	 T118	 T213	 Direct-Defines
@@ -5222,30 +5127,6 @@ personality	 data/source_txt/t4_psychology_jlee_101.txt	 34808	 34819	 I-Definit
 development	 data/source_txt/t4_psychology_jlee_101.txt	 34820	 34831	 I-Definition	 T251	 T250	 Direct-Defines
 .	 data/source_txt/t4_psychology_jlee_101.txt	 34831	 34832	 O	 -1	 -1	 0
 
-Julian	 data/source_txt/t4_psychology_jlee_101.txt	 34694	 34700	 B-Term	 T248	 0	 Direct-Defines
-Rotter	 data/source_txt/t4_psychology_jlee_101.txt	 34701	 34707	 I-Term	 T248	 0	 Direct-Defines
-(	 data/source_txt/t4_psychology_jlee_101.txt	 34708	 34709	 O	 -1	 -1	 0
-1966	 data/source_txt/t4_psychology_jlee_101.txt	 34709	 34713	 O	 -1	 -1	 0
-)	 data/source_txt/t4_psychology_jlee_101.txt	 34713	 34714	 O	 -1	 -1	 0
-proposed	 data/source_txt/t4_psychology_jlee_101.txt	 34715	 34723	 O	 -1	 -1	 0
-the	 data/source_txt/t4_psychology_jlee_101.txt	 34724	 34727	 O	 -1	 -1	 0
-concept	 data/source_txt/t4_psychology_jlee_101.txt	 34728	 34735	 O	 -1	 -1	 0
-of	 data/source_txt/t4_psychology_jlee_101.txt	 34736	 34738	 O	 -1	 -1	 0
-locus	 data/source_txt/t4_psychology_jlee_101.txt	 34739	 34744	 B-Term	 T250	 0	 Direct-Defines
-of	 data/source_txt/t4_psychology_jlee_101.txt	 34745	 34747	 I-Term	 T250	 0	 Direct-Defines
-control	 data/source_txt/t4_psychology_jlee_101.txt	 34748	 34755	 I-Term	 T250	 0	 Direct-Defines
-,	 data/source_txt/t4_psychology_jlee_101.txt	 34755	 34756	 O	 -1	 -1	 0
-another	 data/source_txt/t4_psychology_jlee_101.txt	 34757	 34764	 O	 -1	 -1	 0
-cognitive	 data/source_txt/t4_psychology_jlee_101.txt	 34765	 34774	 B-Definition	 T251	 T250	 Direct-Defines
-factor	 data/source_txt/t4_psychology_jlee_101.txt	 34775	 34781	 I-Definition	 T251	 T250	 Direct-Defines
-that	 data/source_txt/t4_psychology_jlee_101.txt	 34782	 34786	 I-Definition	 T251	 T250	 Direct-Defines
-affects	 data/source_txt/t4_psychology_jlee_101.txt	 34787	 34794	 I-Definition	 T251	 T250	 Direct-Defines
-learning	 data/source_txt/t4_psychology_jlee_101.txt	 34795	 34803	 I-Definition	 T251	 T250	 Direct-Defines
-and	 data/source_txt/t4_psychology_jlee_101.txt	 34804	 34807	 I-Definition	 T251	 T250	 Direct-Defines
-personality	 data/source_txt/t4_psychology_jlee_101.txt	 34808	 34819	 I-Definition	 T251	 T250	 Direct-Defines
-the	 data/source_txt/t4_psychology_jlee_101.txt	 34820	 34823	 Definition	 T249	 T248	 Direct-Defines
-.	 data/source_txt/t4_psychology_jlee_101.txt	 34831	 34832	 O	 -1	 -1	 0
-
 Distinct	 data/source_txt/t4_psychology_jlee_101.txt	 34839	 34847	 O	 -1	 -1	 0
 from	 data/source_txt/t4_psychology_jlee_101.txt	 34848	 34852	 O	 -1	 -1	 0
 self	 data/source_txt/t4_psychology_jlee_101.txt	 34853	 34857	 B-Term	 T252	 0	 Direct-Defines
@@ -5282,9 +5163,7 @@ lives	 data/source_txt/t4_psychology_jlee_101.txt	 34988	 34993	 O	 -1	 -1	 0
 3892	 data/source_txt/t4_psychology_jlee_101.txt	 34998	 35002	 O	 -1	 -1	 0
 .	 data/source_txt/t4_psychology_jlee_101.txt	 35002	 35003	 O	 -1	 -1	 0
 
-AMNESIA	 data/source_txt/t4_psychology_jlee_101.txt	 35013	 35020	 O	 -1	 -1	 0
-
-Amnesia	 data/source_txt/t4_psychology_jlee_101.txt	 35020	 35027	 B-Term	 T254	 0	 Direct-Defines
+AMNESIAAmnesia	 data/source_txt/t4_psychology_jlee_101.txt	 35013	 35027	 B-Term	 T254	 0	 Direct-Defines
 is	 data/source_txt/t4_psychology_jlee_101.txt	 35028	 35030	 O	 -1	 -1	 0
 the	 data/source_txt/t4_psychology_jlee_101.txt	 35031	 35034	 B-Definition	 T255	 T254	 Direct-Defines
 loss	 data/source_txt/t4_psychology_jlee_101.txt	 35035	 35039	 I-Definition	 T255	 T254	 Direct-Defines

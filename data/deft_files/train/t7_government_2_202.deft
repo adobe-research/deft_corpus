@@ -126,9 +126,7 @@ each	 data/source_txt/t7_government_rlacroix_202.txt	 719	 723	 O	 -1	 -1	 0
 family	 data/source_txt/t7_government_rlacroix_202.txt	 724	 730	 O	 -1	 -1	 0
 member	 data/source_txt/t7_government_rlacroix_202.txt	 731	 737	 O	 -1	 -1	 0
 .	 data/source_txt/t7_government_rlacroix_202.txt	 737	 738	 O	 -1	 -1	 0
-
-“	 data/source_txt/t7_government_rlacroix_202.txt	 738	 739	 O	 -1	 -1	 0
-The	 data/source_txt/t7_government_rlacroix_202.txt	 739	 742	 O	 -1	 -1	 0
+“The	 data/source_txt/t7_government_rlacroix_202.txt	 738	 742	 O	 -1	 -1	 0
 Fireside	 data/source_txt/t7_government_rlacroix_202.txt	 743	 751	 O	 -1	 -1	 0
 Chats	 data/source_txt/t7_government_rlacroix_202.txt	 752	 757	 O	 -1	 -1	 0
 ,	 data/source_txt/t7_government_rlacroix_202.txt	 757	 758	 O	 -1	 -1	 0
@@ -180,9 +178,7 @@ of	 data/source_txt/t7_government_rlacroix_202.txt	 1014	 1016	 O	 -1	 -1	 0
 their	 data/source_txt/t7_government_rlacroix_202.txt	 1017	 1022	 O	 -1	 -1	 0
 value	 data/source_txt/t7_government_rlacroix_202.txt	 1023	 1028	 O	 -1	 -1	 0
 .	 data/source_txt/t7_government_rlacroix_202.txt	 1028	 1029	 O	 -1	 -1	 0
-
-“	 data/source_txt/t7_government_rlacroix_202.txt	 1029	 1030	 O	 -1	 -1	 0
-FDR	 data/source_txt/t7_government_rlacroix_202.txt	 1030	 1033	 O	 -1	 -1	 0
+“FDR	 data/source_txt/t7_government_rlacroix_202.txt	 1029	 1033	 O	 -1	 -1	 0
 :	 data/source_txt/t7_government_rlacroix_202.txt	 1033	 1034	 O	 -1	 -1	 0
 A	 data/source_txt/t7_government_rlacroix_202.txt	 1035	 1036	 O	 -1	 -1	 0
 Voice	 data/source_txt/t7_government_rlacroix_202.txt	 1037	 1042	 O	 -1	 -1	 0
@@ -252,7 +248,6 @@ their	 data/source_txt/t7_government_rlacroix_202.txt	 1378	 1383	 O	 -1	 -1	 0
 traditional	 data/source_txt/t7_government_rlacroix_202.txt	 1384	 1395	 O	 -1	 -1	 0
 roles	 data/source_txt/t7_government_rlacroix_202.txt	 1396	 1401	 O	 -1	 -1	 0
 .	 data/source_txt/t7_government_rlacroix_202.txt	 1401	 1402	 O	 -1	 -1	 0
-
 Mary	 data/source_txt/t7_government_rlacroix_202.txt	 1402	 1406	 O	 -1	 -1	 0
 E.	 data/source_txt/t7_government_rlacroix_202.txt	 1407	 1409	 O	 -1	 -1	 0
 Stuckey	 data/source_txt/t7_government_rlacroix_202.txt	 1410	 1417	 O	 -1	 -1	 0
@@ -370,11 +365,10 @@ Politics	 data/source_txt/t7_government_rlacroix_202.txt	 1970	 1978	 O	 -1	 -1	
 ,	 data/source_txt/t7_government_rlacroix_202.txt	 1981	 1982	 O	 -1	 -1	 0
 No	 data/source_txt/t7_government_rlacroix_202.txt	 1983	 1985	 O	 -1	 -1	 0
 .	 data/source_txt/t7_government_rlacroix_202.txt	 1985	 1986	 O	 -1	 -1	 0
+
 4	 data/source_txt/t7_government_rlacroix_202.txt	 1995	 1996	 O	 -1	 -1	 0
 :	 data/source_txt/t7_government_rlacroix_202.txt	 1996	 1997	 O	 -1	 -1	 0
-1065	 data/source_txt/t7_government_rlacroix_202.txt	 1998	 2002	 O	 -1	 -1	 0
-–	 data/source_txt/t7_government_rlacroix_202.txt	 2002	 2003	 O	 -1	 -1	 0
-1085	 data/source_txt/t7_government_rlacroix_202.txt	 2003	 2007	 O	 -1	 -1	 0
+1065–1085	 data/source_txt/t7_government_rlacroix_202.txt	 1998	 2007	 O	 -1	 -1	 0
 .	 data/source_txt/t7_government_rlacroix_202.txt	 2007	 2008	 O	 -1	 -1	 0
 
 In	 data/source_txt/t7_government_rlacroix_202.txt	 2009	 2011	 O	 -1	 -1	 0
@@ -431,9 +425,7 @@ with	 data/source_txt/t7_government_rlacroix_202.txt	 2300	 2304	 O	 -1	 -1	 0
 good	 data/source_txt/t7_government_rlacroix_202.txt	 2305	 2309	 O	 -1	 -1	 0
 acts	 data/source_txt/t7_government_rlacroix_202.txt	 2310	 2314	 O	 -1	 -1	 0
 .	 data/source_txt/t7_government_rlacroix_202.txt	 2314	 2315	 O	 -1	 -1	 0
-
-“	 data/source_txt/t7_government_rlacroix_202.txt	 2315	 2316	 O	 -1	 -1	 0
-William	 data/source_txt/t7_government_rlacroix_202.txt	 2316	 2323	 O	 -1	 -1	 0
+“William	 data/source_txt/t7_government_rlacroix_202.txt	 2315	 2323	 O	 -1	 -1	 0
 Jefferson	 data/source_txt/t7_government_rlacroix_202.txt	 2324	 2333	 O	 -1	 -1	 0
 Clinton	 data/source_txt/t7_government_rlacroix_202.txt	 2334	 2341	 O	 -1	 -1	 0
 :	 data/source_txt/t7_government_rlacroix_202.txt	 2341	 2342	 O	 -1	 -1	 0
@@ -514,12 +506,7 @@ surprise	 data/source_txt/t7_government_rlacroix_202.txt	 2792	 2800	 O	 -1	 -1	
 
 2	 data/source_txt/t7_government_rlacroix_202.txt	 2811	 2812	 O	 -1	 -1	 0
 :	 data/source_txt/t7_government_rlacroix_202.txt	 2812	 2813	 O	 -1	 -1	 0
-109	 data/source_txt/t7_government_rlacroix_202.txt	 2814	 2817	 O	 -1	 -1	 0
-–	 data/source_txt/t7_government_rlacroix_202.txt	 2817	 2818	 O	 -1	 -1	 0
-130	 data/source_txt/t7_government_rlacroix_202.txt	 2818	 2821	 O	 -1	 -1	 0
-.	 data/source_txt/t7_government_rlacroix_202.txt	 2821	 2822	 O	 -1	 -1	 0
-
-In	 data/source_txt/t7_government_rlacroix_202.txt	 2822	 2824	 O	 -1	 -1	 0
+109–130.In	 data/source_txt/t7_government_rlacroix_202.txt	 2814	 2824	 O	 -1	 -1	 0
 June	 data/source_txt/t7_government_rlacroix_202.txt	 2825	 2829	 O	 -1	 -1	 0
 2009	 data/source_txt/t7_government_rlacroix_202.txt	 2830	 2834	 O	 -1	 -1	 0
 ,	 data/source_txt/t7_government_rlacroix_202.txt	 2834	 2835	 O	 -1	 -1	 0
@@ -677,7 +664,6 @@ supporters	 data/source_txt/t7_government_rlacroix_202.txt	 4469	 4479	 O	 -1	 -
 were	 data/source_txt/t7_government_rlacroix_202.txt	 4480	 4484	 O	 -1	 -1	 0
 not	 data/source_txt/t7_government_rlacroix_202.txt	 4485	 4488	 O	 -1	 -1	 0
 .	 data/source_txt/t7_government_rlacroix_202.txt	 4488	 4489	 O	 -1	 -1	 0
-
 Sue	 data/source_txt/t7_government_rlacroix_202.txt	 4489	 4492	 O	 -1	 -1	 0
 Wilson	 data/source_txt/t7_government_rlacroix_202.txt	 4493	 4499	 O	 -1	 -1	 0
 ,	 data/source_txt/t7_government_rlacroix_202.txt	 4499	 4500	 O	 -1	 -1	 0
@@ -757,7 +743,6 @@ dead	 data/source_txt/t7_government_rlacroix_202.txt	 4857	 4861	 O	 -1	 -1	 0
 fairness	 data/source_txt/t7_government_rlacroix_202.txt	 4862	 4870	 O	 -1	 -1	 0
 doctrine	 data/source_txt/t7_government_rlacroix_202.txt	 4871	 4879	 O	 -1	 -1	 0
 .	 data/source_txt/t7_government_rlacroix_202.txt	 4879	 4880	 O	 -1	 -1	 0
-
 William	 data/source_txt/t7_government_rlacroix_202.txt	 4880	 4887	 O	 -1	 -1	 0
 Lake	 data/source_txt/t7_government_rlacroix_202.txt	 4888	 4892	 O	 -1	 -1	 0
 ,	 data/source_txt/t7_government_rlacroix_202.txt	 4892	 4893	 O	 -1	 -1	 0
@@ -980,7 +965,6 @@ confidential	 data/source_txt/t7_government_rlacroix_202.txt	 7132	 7144	 O	 -1	
 government	 data/source_txt/t7_government_rlacroix_202.txt	 7145	 7155	 O	 -1	 -1	 0
 source	 data/source_txt/t7_government_rlacroix_202.txt	 7156	 7162	 O	 -1	 -1	 0
 .	 data/source_txt/t7_government_rlacroix_202.txt	 7162	 7163	 O	 -1	 -1	 0
-
 Don	 data/source_txt/t7_government_rlacroix_202.txt	 7163	 7166	 O	 -1	 -1	 0
 Van	 data/source_txt/t7_government_rlacroix_202.txt	 7167	 7170	 O	 -1	 -1	 0
 Natta	 data/source_txt/t7_government_rlacroix_202.txt	 7171	 7176	 O	 -1	 -1	 0
@@ -991,7 +975,9 @@ Liptak	 data/source_txt/t7_government_rlacroix_202.txt	 7187	 7193	 O	 -1	 -1	 0
 ,	 data/source_txt/t7_government_rlacroix_202.txt	 7193	 7194	 O	 -1	 -1	 0
 and	 data/source_txt/t7_government_rlacroix_202.txt	 7195	 7198	 O	 -1	 -1	 0
 Clifford	 data/source_txt/t7_government_rlacroix_202.txt	 7199	 7207	 O	 -1	 -1	 0
-J.	 data/source_txt/t7_government_rlacroix_202.txt	 7208	 7210	 O	 -1	 -1	 0
+J	 data/source_txt/t7_government_rlacroix_202.txt	 7208	 7209	 O	 -1	 -1	 0
+.	 data/source_txt/t7_government_rlacroix_202.txt	 7209	 7210	 O	 -1	 -1	 0
+
 Levy	 data/source_txt/t7_government_rlacroix_202.txt	 7217	 7221	 O	 -1	 -1	 0
 ,	 data/source_txt/t7_government_rlacroix_202.txt	 7221	 7222	 O	 -1	 -1	 0
 “	 data/source_txt/t7_government_rlacroix_202.txt	 7223	 7224	 O	 -1	 -1	 0
@@ -1158,7 +1144,6 @@ report	 data/source_txt/t7_government_rlacroix_202.txt	 8287	 8293	 O	 -1	 -1	 0
 on	 data/source_txt/t7_government_rlacroix_202.txt	 8294	 8296	 O	 -1	 -1	 0
 it	 data/source_txt/t7_government_rlacroix_202.txt	 8297	 8299	 O	 -1	 -1	 0
 .	 data/source_txt/t7_government_rlacroix_202.txt	 8299	 8300	 O	 -1	 -1	 0
-
 Craig	 data/source_txt/t7_government_rlacroix_202.txt	 8300	 8305	 O	 -1	 -1	 0
 Fehrman	 data/source_txt/t7_government_rlacroix_202.txt	 8306	 8313	 O	 -1	 -1	 0
 ,	 data/source_txt/t7_government_rlacroix_202.txt	 8313	 8314	 O	 -1	 -1	 0
@@ -1246,9 +1231,7 @@ than	 data/source_txt/t7_government_rlacroix_202.txt	 8826	 8830	 O	 -1	 -1	 0
 true	 data/source_txt/t7_government_rlacroix_202.txt	 8831	 8835	 O	 -1	 -1	 0
 debating	 data/source_txt/t7_government_rlacroix_202.txt	 8836	 8844	 O	 -1	 -1	 0
 .	 data/source_txt/t7_government_rlacroix_202.txt	 8844	 8845	 O	 -1	 -1	 0
-
-“	 data/source_txt/t7_government_rlacroix_202.txt	 8845	 8846	 O	 -1	 -1	 0
-Crossfire	 data/source_txt/t7_government_rlacroix_202.txt	 8846	 8855	 O	 -1	 -1	 0
+“Crossfire	 data/source_txt/t7_government_rlacroix_202.txt	 8845	 8855	 O	 -1	 -1	 0
 :	 data/source_txt/t7_government_rlacroix_202.txt	 8855	 8856	 O	 -1	 -1	 0
 Jon	 data/source_txt/t7_government_rlacroix_202.txt	 8857	 8860	 O	 -1	 -1	 0
 Stewart	 data/source_txt/t7_government_rlacroix_202.txt	 8861	 8868	 O	 -1	 -1	 0
@@ -1287,7 +1270,6 @@ from	 data/source_txt/t7_government_rlacroix_202.txt	 9059	 9063	 O	 -1	 -1	 0
 the	 data/source_txt/t7_government_rlacroix_202.txt	 9064	 9067	 O	 -1	 -1	 0
 air	 data/source_txt/t7_government_rlacroix_202.txt	 9068	 9071	 O	 -1	 -1	 0
 .	 data/source_txt/t7_government_rlacroix_202.txt	 9071	 9072	 O	 -1	 -1	 0
-
 Paul	 data/source_txt/t7_government_rlacroix_202.txt	 9072	 9076	 O	 -1	 -1	 0
 Begala	 data/source_txt/t7_government_rlacroix_202.txt	 9077	 9083	 O	 -1	 -1	 0
 ,	 data/source_txt/t7_government_rlacroix_202.txt	 9083	 9084	 O	 -1	 -1	 0
@@ -1380,9 +1362,7 @@ to	 data/source_txt/t7_government_rlacroix_202.txt	 9471	 9473	 O	 -1	 -1	 0
 the	 data/source_txt/t7_government_rlacroix_202.txt	 9474	 9477	 O	 -1	 -1	 0
 wall	 data/source_txt/t7_government_rlacroix_202.txt	 9478	 9482	 O	 -1	 -1	 0
 .	 data/source_txt/t7_government_rlacroix_202.txt	 9482	 9483	 O	 -1	 -1	 0
-”	 data/source_txt/t7_government_rlacroix_202.txt	 9483	 9484	 O	 -1	 -1	 0
-
-Kay	 data/source_txt/t7_government_rlacroix_202.txt	 9484	 9487	 O	 -1	 -1	 0
+”Kay	 data/source_txt/t7_government_rlacroix_202.txt	 9483	 9487	 O	 -1	 -1	 0
 Mills	 data/source_txt/t7_government_rlacroix_202.txt	 9488	 9493	 O	 -1	 -1	 0
 .	 data/source_txt/t7_government_rlacroix_202.txt	 9493	 9494	 O	 -1	 -1	 0
 
@@ -1428,7 +1408,6 @@ spouses	 data/source_txt/t7_government_rlacroix_202.txt	 9674	 9681	 O	 -1	 -1	 
 to	 data/source_txt/t7_government_rlacroix_202.txt	 9682	 9684	 O	 -1	 -1	 0
 criticism	 data/source_txt/t7_government_rlacroix_202.txt	 9685	 9694	 O	 -1	 -1	 0
 .	 data/source_txt/t7_government_rlacroix_202.txt	 9694	 9695	 O	 -1	 -1	 0
-
 Brittany	 data/source_txt/t7_government_rlacroix_202.txt	 9695	 9703	 O	 -1	 -1	 0
 L.	 data/source_txt/t7_government_rlacroix_202.txt	 9704	 9706	 O	 -1	 -1	 0
 Stalsburg	 data/source_txt/t7_government_rlacroix_202.txt	 9707	 9716	 O	 -1	 -1	 0
@@ -1794,7 +1773,6 @@ opposed	 data/source_txt/t7_government_rlacroix_202.txt	 11589	 11596	 O	 -1	 -1
 to	 data/source_txt/t7_government_rlacroix_202.txt	 11597	 11599	 O	 -1	 -1	 0
 abortion	 data/source_txt/t7_government_rlacroix_202.txt	 11600	 11608	 O	 -1	 -1	 0
 .	 data/source_txt/t7_government_rlacroix_202.txt	 11608	 11609	 O	 -1	 -1	 0
-
 Aaron	 data/source_txt/t7_government_rlacroix_202.txt	 11609	 11614	 O	 -1	 -1	 0
 Blake	 data/source_txt/t7_government_rlacroix_202.txt	 11615	 11620	 O	 -1	 -1	 0
 ,	 data/source_txt/t7_government_rlacroix_202.txt	 11620	 11621	 O	 -1	 -1	 0
@@ -1878,7 +1856,6 @@ in	 data/source_txt/t7_government_rlacroix_202.txt	 12017	 12019	 O	 -1	 -1	 0
 all	 data/source_txt/t7_government_rlacroix_202.txt	 12020	 12023	 O	 -1	 -1	 0
 cases	 data/source_txt/t7_government_rlacroix_202.txt	 12024	 12029	 O	 -1	 -1	 0
 .	 data/source_txt/t7_government_rlacroix_202.txt	 12029	 12030	 O	 -1	 -1	 0
-
 Irin	 data/source_txt/t7_government_rlacroix_202.txt	 12030	 12034	 O	 -1	 -1	 0
 Carmon	 data/source_txt/t7_government_rlacroix_202.txt	 12035	 12041	 O	 -1	 -1	 0
 ,	 data/source_txt/t7_government_rlacroix_202.txt	 12041	 12042	 O	 -1	 -1	 0
@@ -1930,7 +1907,6 @@ support	 data/source_txt/t7_government_rlacroix_202.txt	 12301	 12308	 O	 -1	 -1
 Democratic	 data/source_txt/t7_government_rlacroix_202.txt	 12309	 12319	 O	 -1	 -1	 0
 candidates	 data/source_txt/t7_government_rlacroix_202.txt	 12320	 12330	 O	 -1	 -1	 0
 .	 data/source_txt/t7_government_rlacroix_202.txt	 12330	 12331	 O	 -1	 -1	 0
-
 Aaron	 data/source_txt/t7_government_rlacroix_202.txt	 12331	 12336	 O	 -1	 -1	 0
 Blake	 data/source_txt/t7_government_rlacroix_202.txt	 12337	 12342	 O	 -1	 -1	 0
 ,	 data/source_txt/t7_government_rlacroix_202.txt	 12342	 12343	 O	 -1	 -1	 0
@@ -1947,7 +1923,6 @@ and	 data/source_txt/t7_government_rlacroix_202.txt	 12399	 12402	 O	 -1	 -1	 0
 Democrats	 data/source_txt/t7_government_rlacroix_202.txt	 12403	 12412	 O	 -1	 -1	 0
 .	 data/source_txt/t7_government_rlacroix_202.txt	 12412	 12413	 O	 -1	 -1	 0
 ”	 data/source_txt/t7_government_rlacroix_202.txt	 12413	 12414	 O	 -1	 -1	 0
-
 Similarly	 data/source_txt/t7_government_rlacroix_202.txt	 12415	 12424	 O	 -1	 -1	 0
 (	 data/source_txt/t7_government_rlacroix_202.txt	 12425	 12426	 O	 -1	 -1	 0
 or	 data/source_txt/t7_government_rlacroix_202.txt	 12426	 12428	 O	 -1	 -1	 0
@@ -2013,12 +1988,9 @@ the	 data/source_txt/t7_government_rlacroix_202.txt	 12729	 12732	 O	 -1	 -1	 0
 electorate	 data/source_txt/t7_government_rlacroix_202.txt	 12733	 12743	 O	 -1	 -1	 0
 (	 data/source_txt/t7_government_rlacroix_202.txt	 12744	 12745	 O	 -1	 -1	 0
 [	 data/source_txt/t7_government_rlacroix_202.txt	 12745	 12746	 O	 -1	 -1	 0
-link	 data/source_txt/t7_government_rlacroix_202.txt	 12746	 12750	 O	 -1	 -1	 0
-]	 data/source_txt/t7_government_rlacroix_202.txt	 12750	 12751	 O	 -1	 -1	 0
-)	 data/source_txt/t7_government_rlacroix_202.txt	 12751	 12752	 O	 -1	 -1	 0
-.	 data/source_txt/t7_government_rlacroix_202.txt	 12752	 12753	 O	 -1	 -1	 0
-V.	 data/source_txt/t7_government_rlacroix_202.txt	 12753	 12755	 O	 -1	 -1	 0
-O.	 data/source_txt/t7_government_rlacroix_202.txt	 12755	 12757	 O	 -1	 -1	 0
+link]).V.O	 data/source_txt/t7_government_rlacroix_202.txt	 12746	 12756	 O	 -1	 -1	 0
+.	 data/source_txt/t7_government_rlacroix_202.txt	 12756	 12757	 O	 -1	 -1	 0
+
 Key	 data/source_txt/t7_government_rlacroix_202.txt	 12764	 12767	 O	 -1	 -1	 0
 .	 data/source_txt/t7_government_rlacroix_202.txt	 12767	 12768	 O	 -1	 -1	 0
 
@@ -2735,13 +2707,9 @@ two	 data/source_txt/t7_government_rlacroix_202.txt	 16531	 16534	 O	 -1	 -1	 0
 redistricting	 data/source_txt/t7_government_rlacroix_202.txt	 16535	 16548	 O	 -1	 -1	 0
 cycles	 data/source_txt/t7_government_rlacroix_202.txt	 16549	 16555	 O	 -1	 -1	 0
 (	 data/source_txt/t7_government_rlacroix_202.txt	 16556	 16557	 O	 -1	 -1	 0
-1970	 data/source_txt/t7_government_rlacroix_202.txt	 16557	 16561	 O	 -1	 -1	 0
-–	 data/source_txt/t7_government_rlacroix_202.txt	 16561	 16562	 O	 -1	 -1	 0
-1972	 data/source_txt/t7_government_rlacroix_202.txt	 16562	 16566	 O	 -1	 -1	 0
+1970–1972	 data/source_txt/t7_government_rlacroix_202.txt	 16557	 16566	 O	 -1	 -1	 0
 and	 data/source_txt/t7_government_rlacroix_202.txt	 16567	 16570	 O	 -1	 -1	 0
-1980	 data/source_txt/t7_government_rlacroix_202.txt	 16571	 16575	 O	 -1	 -1	 0
-–	 data/source_txt/t7_government_rlacroix_202.txt	 16575	 16576	 O	 -1	 -1	 0
-1982	 data/source_txt/t7_government_rlacroix_202.txt	 16576	 16580	 O	 -1	 -1	 0
+1980–1982	 data/source_txt/t7_government_rlacroix_202.txt	 16571	 16580	 O	 -1	 -1	 0
 )	 data/source_txt/t7_government_rlacroix_202.txt	 16580	 16581	 O	 -1	 -1	 0
 .	 data/source_txt/t7_government_rlacroix_202.txt	 16581	 16582	 O	 -1	 -1	 0
 
@@ -2868,6 +2836,10 @@ by	 data/source_txt/t7_government_rlacroix_202.txt	 17251	 17253	 O	 -1	 -1	 0
 winning	 data/source_txt/t7_government_rlacroix_202.txt	 17254	 17261	 O	 -1	 -1	 0
 elections	 data/source_txt/t7_government_rlacroix_202.txt	 17262	 17271	 O	 -1	 -1	 0
 .	 data/source_txt/t7_government_rlacroix_202.txt	 17271	 17272	 O	 -1	 -1	 0
+
+
+2007	 data/source_txt/t7_government_rlacroix_202.txt	 17679	 17683	 O	 -1	 -1	 0
+.	 data/source_txt/t7_government_rlacroix_202.txt	 17683	 17684	 O	 -1	 -1	 0
 
 
 6517	 data/source_txt/t7_government_rlacroix_202.txt	 17688	 17692	 O	 -1	 -1	 0
@@ -3138,7 +3110,26 @@ later	 data/source_txt/t7_government_rlacroix_202.txt	 19148	 19153	 O	 -1	 -1	 
 became	 data/source_txt/t7_government_rlacroix_202.txt	 19154	 19160	 O	 -1	 -1	 0
 the	 data/source_txt/t7_government_rlacroix_202.txt	 19161	 19164	 O	 -1	 -1	 0
 Whig	 data/source_txt/t7_government_rlacroix_202.txt	 19165	 19169	 O	 -1	 -1	 0
-Party	 data/source_txt/t7_government_rlacroix_202.txt	 19170	 19175	 O	 -1	 -1	 0
+Party2009	 data/source_txt/t7_government_rlacroix_202.txt	 19170	 19179	 O	 -1	 -1	 0
+.	 data/source_txt/t7_government_rlacroix_202.txt	 19179	 19180	 O	 -1	 -1	 0
+
+“	 data/source_txt/t7_government_rlacroix_202.txt	 19187	 19188	 O	 -1	 -1	 0
+Democratic	 data/source_txt/t7_government_rlacroix_202.txt	 19188	 19198	 O	 -1	 -1	 0
+-	 data/source_txt/t7_government_rlacroix_202.txt	 19198	 19199	 O	 -1	 -1	 0
+Republican	 data/source_txt/t7_government_rlacroix_202.txt	 19199	 19209	 O	 -1	 -1	 0
+Party	 data/source_txt/t7_government_rlacroix_202.txt	 19210	 19215	 O	 -1	 -1	 0
+,	 data/source_txt/t7_government_rlacroix_202.txt	 19215	 19216	 O	 -1	 -1	 0
+”	 data/source_txt/t7_government_rlacroix_202.txt	 19216	 19217	 O	 -1	 -1	 0
+In	 data/source_txt/t7_government_rlacroix_202.txt	 19218	 19220	 O	 -1	 -1	 0
+UXL	 data/source_txt/t7_government_rlacroix_202.txt	 19221	 19224	 O	 -1	 -1	 0
+Encyclopedia	 data/source_txt/t7_government_rlacroix_202.txt	 19225	 19237	 O	 -1	 -1	 0
+of	 data/source_txt/t7_government_rlacroix_202.txt	 19238	 19240	 O	 -1	 -1	 0
+U.S.	 data/source_txt/t7_government_rlacroix_202.txt	 19241	 19245	 O	 -1	 -1	 0
+History	 data/source_txt/t7_government_rlacroix_202.txt	 19246	 19253	 O	 -1	 -1	 0
+,	 data/source_txt/t7_government_rlacroix_202.txt	 19253	 19254	 O	 -1	 -1	 0
+eds	 data/source_txt/t7_government_rlacroix_202.txt	 19255	 19258	 O	 -1	 -1	 0
+.	 data/source_txt/t7_government_rlacroix_202.txt	 19258	 19259	 O	 -1	 -1	 0
+
 
 6526	 data/source_txt/t7_government_rlacroix_202.txt	 19263	 19267	 O	 -1	 -1	 0
 .	 data/source_txt/t7_government_rlacroix_202.txt	 19267	 19268	 O	 -1	 -1	 0
@@ -3354,9 +3345,7 @@ equality	 data/source_txt/t7_government_rlacroix_202.txt	 20407	 20415	 I-Second
 among	 data/source_txt/t7_government_rlacroix_202.txt	 20416	 20421	 I-Secondary-Definition	 T28	 T27	 Supplements
 races	 data/source_txt/t7_government_rlacroix_202.txt	 20422	 20427	 I-Secondary-Definition	 T28	 T27	 Supplements
 .	 data/source_txt/t7_government_rlacroix_202.txt	 20427	 20428	 O	 -1	 -1	 0
-
-“	 data/source_txt/t7_government_rlacroix_202.txt	 20428	 20429	 O	 -1	 -1	 0
-Platform	 data/source_txt/t7_government_rlacroix_202.txt	 20429	 20437	 O	 -1	 -1	 0
+“Platform	 data/source_txt/t7_government_rlacroix_202.txt	 20428	 20437	 O	 -1	 -1	 0
 of	 data/source_txt/t7_government_rlacroix_202.txt	 20438	 20440	 O	 -1	 -1	 0
 the	 data/source_txt/t7_government_rlacroix_202.txt	 20441	 20444	 O	 -1	 -1	 0
 States	 data/source_txt/t7_government_rlacroix_202.txt	 20445	 20451	 O	 -1	 -1	 0
@@ -3398,7 +3387,9 @@ and	 data/source_txt/t7_government_rlacroix_202.txt	 20629	 20632	 O	 -1	 -1	 0
 
 In	 data/source_txt/t7_government_rlacroix_202.txt	 20649	 20651	 O	 -1	 -1	 0
 Federalist	 data/source_txt/t7_government_rlacroix_202.txt	 20652	 20662	 O	 -1	 -1	 0
-No.	 data/source_txt/t7_government_rlacroix_202.txt	 20663	 20666	 O	 -1	 -1	 0
+No	 data/source_txt/t7_government_rlacroix_202.txt	 20663	 20665	 O	 -1	 -1	 0
+.	 data/source_txt/t7_government_rlacroix_202.txt	 20665	 20666	 O	 -1	 -1	 0
+
 10	 data/source_txt/t7_government_rlacroix_202.txt	 20675	 20677	 O	 -1	 -1	 0
 ,	 data/source_txt/t7_government_rlacroix_202.txt	 20677	 20678	 O	 -1	 -1	 0
 James	 data/source_txt/t7_government_rlacroix_202.txt	 20679	 20684	 O	 -1	 -1	 0
@@ -3518,10 +3509,7 @@ may	 data/source_txt/t7_government_rlacroix_202.txt	 21297	 21300	 O	 -1	 -1	 0
 be	 data/source_txt/t7_government_rlacroix_202.txt	 21301	 21303	 O	 -1	 -1	 0
 more	 data/source_txt/t7_government_rlacroix_202.txt	 21304	 21308	 O	 -1	 -1	 0
 than	 data/source_txt/t7_government_rlacroix_202.txt	 21309	 21313	 O	 -1	 -1	 0
-200,000	 data/source_txt/t7_government_rlacroix_202.txt	 21314	 21321	 O	 -1	 -1	 0
-.	 data/source_txt/t7_government_rlacroix_202.txt	 21321	 21322	 O	 -1	 -1	 0
-
-Nownes	 data/source_txt/t7_government_rlacroix_202.txt	 21322	 21328	 O	 -1	 -1	 0
+200,000.Nownes	 data/source_txt/t7_government_rlacroix_202.txt	 21314	 21328	 O	 -1	 -1	 0
 ,	 data/source_txt/t7_government_rlacroix_202.txt	 21328	 21329	 O	 -1	 -1	 0
 Interest	 data/source_txt/t7_government_rlacroix_202.txt	 21330	 21338	 O	 -1	 -1	 0
 Groups	 data/source_txt/t7_government_rlacroix_202.txt	 21339	 21345	 O	 -1	 -1	 0
@@ -3586,7 +3574,6 @@ the	 data/source_txt/t7_government_rlacroix_202.txt	 21655	 21658	 O	 -1	 -1	 0
 fifty	 data/source_txt/t7_government_rlacroix_202.txt	 21659	 21664	 O	 -1	 -1	 0
 states	 data/source_txt/t7_government_rlacroix_202.txt	 21665	 21671	 O	 -1	 -1	 0
 .	 data/source_txt/t7_government_rlacroix_202.txt	 21671	 21672	 O	 -1	 -1	 0
-
 Jennifer	 data/source_txt/t7_government_rlacroix_202.txt	 21672	 21680	 O	 -1	 -1	 0
 Wolak	 data/source_txt/t7_government_rlacroix_202.txt	 21681	 21686	 O	 -1	 -1	 0
 ,	 data/source_txt/t7_government_rlacroix_202.txt	 21686	 21687	 O	 -1	 -1	 0
@@ -3628,9 +3615,7 @@ Quarterly	 data/source_txt/t7_government_rlacroix_202.txt	 21864	 21873	 O	 -1	 
 2002	 data/source_txt/t7_government_rlacroix_202.txt	 21878	 21882	 O	 -1	 -1	 0
 )	 data/source_txt/t7_government_rlacroix_202.txt	 21882	 21883	 O	 -1	 -1	 0
 :	 data/source_txt/t7_government_rlacroix_202.txt	 21883	 21884	 O	 -1	 -1	 0
-527	 data/source_txt/t7_government_rlacroix_202.txt	 21885	 21888	 O	 -1	 -1	 0
-–	 data/source_txt/t7_government_rlacroix_202.txt	 21888	 21889	 O	 -1	 -1	 0
-555	 data/source_txt/t7_government_rlacroix_202.txt	 21889	 21892	 O	 -1	 -1	 0
+527–555	 data/source_txt/t7_government_rlacroix_202.txt	 21885	 21892	 O	 -1	 -1	 0
 .	 data/source_txt/t7_government_rlacroix_202.txt	 21892	 21893	 O	 -1	 -1	 0
 
 
@@ -3747,7 +3732,6 @@ to	 data/source_txt/t7_government_rlacroix_202.txt	 22548	 22550	 O	 -1	 -1	 0
 the	 data/source_txt/t7_government_rlacroix_202.txt	 22551	 22554	 O	 -1	 -1	 0
 public	 data/source_txt/t7_government_rlacroix_202.txt	 22555	 22561	 O	 -1	 -1	 0
 .	 data/source_txt/t7_government_rlacroix_202.txt	 22561	 22562	 O	 -1	 -1	 0
-
 Ken	 data/source_txt/t7_government_rlacroix_202.txt	 22562	 22565	 O	 -1	 -1	 0
 Kollman	 data/source_txt/t7_government_rlacroix_202.txt	 22566	 22573	 O	 -1	 -1	 0
 .	 data/source_txt/t7_government_rlacroix_202.txt	 22573	 22574	 O	 -1	 -1	 0
@@ -4081,9 +4065,7 @@ with	 data/source_txt/t7_government_rlacroix_202.txt	 24327	 24331	 O	 -1	 -1	 0
 the	 data/source_txt/t7_government_rlacroix_202.txt	 24332	 24335	 O	 -1	 -1	 0
 officer	 data/source_txt/t7_government_rlacroix_202.txt	 24336	 24343	 O	 -1	 -1	 0
 .	 data/source_txt/t7_government_rlacroix_202.txt	 24343	 24344	 O	 -1	 -1	 0
-
-“	 data/source_txt/t7_government_rlacroix_202.txt	 24344	 24345	 O	 -1	 -1	 0
-Hundreds	 data/source_txt/t7_government_rlacroix_202.txt	 24345	 24353	 O	 -1	 -1	 0
+“Hundreds	 data/source_txt/t7_government_rlacroix_202.txt	 24344	 24353	 O	 -1	 -1	 0
 of	 data/source_txt/t7_government_rlacroix_202.txt	 24354	 24356	 O	 -1	 -1	 0
 Ferguson	 data/source_txt/t7_government_rlacroix_202.txt	 24357	 24365	 O	 -1	 -1	 0
 Protesters	 data/source_txt/t7_government_rlacroix_202.txt	 24366	 24376	 O	 -1	 -1	 0
@@ -4254,7 +4236,6 @@ them	 data/source_txt/t7_government_rlacroix_202.txt	 25372	 25376	 O	 -1	 -1	 0
 and	 data/source_txt/t7_government_rlacroix_202.txt	 25377	 25380	 O	 -1	 -1	 0
 government	 data/source_txt/t7_government_rlacroix_202.txt	 25381	 25391	 O	 -1	 -1	 0
 .	 data/source_txt/t7_government_rlacroix_202.txt	 25391	 25392	 O	 -1	 -1	 0
-
 See	 data/source_txt/t7_government_rlacroix_202.txt	 25392	 25395	 O	 -1	 -1	 0
 in	 data/source_txt/t7_government_rlacroix_202.txt	 25396	 25398	 O	 -1	 -1	 0
 general	 data/source_txt/t7_government_rlacroix_202.txt	 25399	 25406	 O	 -1	 -1	 0
@@ -4265,6 +4246,7 @@ and	 data/source_txt/t7_government_rlacroix_202.txt	 25424	 25427	 O	 -1	 -1	 0
 Clyde	 data/source_txt/t7_government_rlacroix_202.txt	 25428	 25433	 O	 -1	 -1	 0
 Wilcox	 data/source_txt/t7_government_rlacroix_202.txt	 25434	 25440	 O	 -1	 -1	 0
 .	 data/source_txt/t7_government_rlacroix_202.txt	 25440	 25441	 O	 -1	 -1	 0
+
 2008	 data/source_txt/t7_government_rlacroix_202.txt	 25448	 25452	 O	 -1	 -1	 0
 .	 data/source_txt/t7_government_rlacroix_202.txt	 25452	 25453	 O	 -1	 -1	 0
 
@@ -4409,7 +4391,6 @@ their	 data/source_txt/t7_government_rlacroix_202.txt	 26539	 26544	 I-Definitio
 own	 data/source_txt/t7_government_rlacroix_202.txt	 26545	 26548	 I-Definition	 T39	 T38	 Direct-Defines
 campaigns	 data/source_txt/t7_government_rlacroix_202.txt	 26549	 26558	 I-Definition	 T39	 T38	 Direct-Defines
 .	 data/source_txt/t7_government_rlacroix_202.txt	 26558	 26559	 O	 -1	 -1	 0
-
 Wright	 data/source_txt/t7_government_rlacroix_202.txt	 26559	 26565	 O	 -1	 -1	 0
 ,	 data/source_txt/t7_government_rlacroix_202.txt	 26565	 26566	 O	 -1	 -1	 0
 Interest	 data/source_txt/t7_government_rlacroix_202.txt	 26567	 26575	 O	 -1	 -1	 0
@@ -4518,7 +4499,6 @@ expenditures	 data/source_txt/t7_government_rlacroix_202.txt	 27111	 27123	 O	 -
 by	 data/source_txt/t7_government_rlacroix_202.txt	 27124	 27126	 O	 -1	 -1	 0
 campaigns	 data/source_txt/t7_government_rlacroix_202.txt	 27127	 27136	 O	 -1	 -1	 0
 .	 data/source_txt/t7_government_rlacroix_202.txt	 27136	 27137	 O	 -1	 -1	 0
-
 Buckley	 data/source_txt/t7_government_rlacroix_202.txt	 27137	 27144	 O	 -1	 -1	 0
 v.	 data/source_txt/t7_government_rlacroix_202.txt	 27145	 27147	 O	 -1	 -1	 0
 Valeo	 data/source_txt/t7_government_rlacroix_202.txt	 27148	 27153	 O	 -1	 -1	 0
@@ -5192,7 +5172,6 @@ declare	 data/source_txt/t7_government_rlacroix_202.txt	 30793	 30800	 I-Definit
 laws	 data/source_txt/t7_government_rlacroix_202.txt	 30801	 30805	 I-Definition	 T51	 T50	 Direct-Defines
 unconstitutional	 data/source_txt/t7_government_rlacroix_202.txt	 30806	 30822	 I-Definition	 T51	 T50	 Direct-Defines
 .	 data/source_txt/t7_government_rlacroix_202.txt	 30822	 30823	 O	 -1	 -1	 0
-
 Marbury	 data/source_txt/t7_government_rlacroix_202.txt	 30823	 30830	 O	 -1	 -1	 0
 v.	 data/source_txt/t7_government_rlacroix_202.txt	 30831	 30833	 O	 -1	 -1	 0
 Madison	 data/source_txt/t7_government_rlacroix_202.txt	 30834	 30841	 O	 -1	 -1	 0
@@ -5308,7 +5287,6 @@ terms	 data/source_txt/t7_government_rlacroix_202.txt	 31378	 31383	 O	 -1	 -1	 
 in	 data/source_txt/t7_government_rlacroix_202.txt	 31384	 31386	 O	 -1	 -1	 0
 office	 data/source_txt/t7_government_rlacroix_202.txt	 31387	 31393	 O	 -1	 -1	 0
 .	 data/source_txt/t7_government_rlacroix_202.txt	 31393	 31394	 O	 -1	 -1	 0
-
 David	 data/source_txt/t7_government_rlacroix_202.txt	 31394	 31399	 O	 -1	 -1	 0
 M.	 data/source_txt/t7_government_rlacroix_202.txt	 31400	 31402	 O	 -1	 -1	 0
 Jordan	 data/source_txt/t7_government_rlacroix_202.txt	 31403	 31409	 O	 -1	 -1	 0
@@ -5501,7 +5479,6 @@ explain	 data/source_txt/t7_government_rlacroix_202.txt	 32400	 32407	 O	 -1	 -1
 these	 data/source_txt/t7_government_rlacroix_202.txt	 32408	 32413	 O	 -1	 -1	 0
 patterns	 data/source_txt/t7_government_rlacroix_202.txt	 32414	 32422	 O	 -1	 -1	 0
 .	 data/source_txt/t7_government_rlacroix_202.txt	 32422	 32423	 O	 -1	 -1	 0
-
 Angus	 data/source_txt/t7_government_rlacroix_202.txt	 32423	 32428	 O	 -1	 -1	 0
 Campbell	 data/source_txt/t7_government_rlacroix_202.txt	 32429	 32437	 O	 -1	 -1	 0
 .	 data/source_txt/t7_government_rlacroix_202.txt	 32437	 32438	 O	 -1	 -1	 0
@@ -6103,7 +6080,6 @@ run	 data/source_txt/t7_government_rlacroix_202.txt	 35544	 35547	 O	 -1	 -1	 0
 for	 data/source_txt/t7_government_rlacroix_202.txt	 35548	 35551	 O	 -1	 -1	 0
 reelection	 data/source_txt/t7_government_rlacroix_202.txt	 35552	 35562	 O	 -1	 -1	 0
 .	 data/source_txt/t7_government_rlacroix_202.txt	 35562	 35563	 O	 -1	 -1	 0
-
 Wright	 data/source_txt/t7_government_rlacroix_202.txt	 35563	 35569	 O	 -1	 -1	 0
 ,	 data/source_txt/t7_government_rlacroix_202.txt	 35569	 35570	 O	 -1	 -1	 0
 Interest	 data/source_txt/t7_government_rlacroix_202.txt	 35571	 35579	 O	 -1	 -1	 0
@@ -6188,7 +6164,6 @@ of	 data/source_txt/t7_government_rlacroix_202.txt	 36009	 36011	 O	 -1	 -1	 0
 the	 data/source_txt/t7_government_rlacroix_202.txt	 36012	 36015	 O	 -1	 -1	 0
 office	 data/source_txt/t7_government_rlacroix_202.txt	 36016	 36022	 O	 -1	 -1	 0
 .	 data/source_txt/t7_government_rlacroix_202.txt	 36022	 36023	 O	 -1	 -1	 0
-
 Steven	 data/source_txt/t7_government_rlacroix_202.txt	 36023	 36029	 O	 -1	 -1	 0
 S.	 data/source_txt/t7_government_rlacroix_202.txt	 36030	 36032	 O	 -1	 -1	 0
 Smith	 data/source_txt/t7_government_rlacroix_202.txt	 36033	 36038	 O	 -1	 -1	 0
@@ -6620,7 +6595,6 @@ other	 data/source_txt/t7_government_rlacroix_202.txt	 38289	 38294	 O	 -1	 -1	 
 administrative	 data/source_txt/t7_government_rlacroix_202.txt	 38295	 38309	 O	 -1	 -1	 0
 duties	 data/source_txt/t7_government_rlacroix_202.txt	 38310	 38316	 O	 -1	 -1	 0
 .	 data/source_txt/t7_government_rlacroix_202.txt	 38316	 38317	 O	 -1	 -1	 0
-
 Articles	 data/source_txt/t7_government_rlacroix_202.txt	 38317	 38325	 O	 -1	 -1	 0
 of	 data/source_txt/t7_government_rlacroix_202.txt	 38326	 38328	 O	 -1	 -1	 0
 Confederation	 data/source_txt/t7_government_rlacroix_202.txt	 38329	 38342	 O	 -1	 -1	 0
@@ -6734,7 +6708,9 @@ strong	 data/source_txt/t7_government_rlacroix_202.txt	 38890	 38896	 O	 -1	 -1	
 executive	 data/source_txt/t7_government_rlacroix_202.txt	 38897	 38906	 O	 -1	 -1	 0
 in	 data/source_txt/t7_government_rlacroix_202.txt	 38907	 38909	 O	 -1	 -1	 0
 Federalist	 data/source_txt/t7_government_rlacroix_202.txt	 38910	 38920	 O	 -1	 -1	 0
-No.	 data/source_txt/t7_government_rlacroix_202.txt	 38921	 38924	 O	 -1	 -1	 0
+No	 data/source_txt/t7_government_rlacroix_202.txt	 38921	 38923	 O	 -1	 -1	 0
+.	 data/source_txt/t7_government_rlacroix_202.txt	 38923	 38924	 O	 -1	 -1	 0
+
 70	 data/source_txt/t7_government_rlacroix_202.txt	 38931	 38933	 O	 -1	 -1	 0
 .	 data/source_txt/t7_government_rlacroix_202.txt	 38933	 38934	 O	 -1	 -1	 0
 
@@ -6859,8 +6835,9 @@ least	 data/source_txt/t7_government_rlacroix_202.txt	 39469	 39474	 O	 -1	 -1	 
 fourteen	 data/source_txt/t7_government_rlacroix_202.txt	 39475	 39483	 O	 -1	 -1	 0
 years	 data/source_txt/t7_government_rlacroix_202.txt	 39484	 39489	 O	 -1	 -1	 0
 .	 data/source_txt/t7_government_rlacroix_202.txt	 39489	 39490	 O	 -1	 -1	 0
+U.S	 data/source_txt/t7_government_rlacroix_202.txt	 39490	 39493	 O	 -1	 -1	 0
+.	 data/source_txt/t7_government_rlacroix_202.txt	 39493	 39494	 O	 -1	 -1	 0
 
-U.S.	 data/source_txt/t7_government_rlacroix_202.txt	 39490	 39494	 O	 -1	 -1	 0
 Constitution	 data/source_txt/t7_government_rlacroix_202.txt	 39503	 39515	 O	 -1	 -1	 0
 ,	 data/source_txt/t7_government_rlacroix_202.txt	 39515	 39516	 O	 -1	 -1	 0
 Article	 data/source_txt/t7_government_rlacroix_202.txt	 39517	 39524	 O	 -1	 -1	 0
@@ -7109,10 +7086,7 @@ as	 data/source_txt/t7_government_rlacroix_202.txt	 40846	 40848	 O	 -1	 -1	 0
 the	 data/source_txt/t7_government_rlacroix_202.txt	 40849	 40852	 O	 -1	 -1	 0
 president	 data/source_txt/t7_government_rlacroix_202.txt	 40853	 40862	 O	 -1	 -1	 0
 ’s	 data/source_txt/t7_government_rlacroix_202.txt	 40862	 40864	 O	 -1	 -1	 0
-advisers	 data/source_txt/t7_government_rlacroix_202.txt	 40865	 40873	 O	 -1	 -1	 0
-.	 data/source_txt/t7_government_rlacroix_202.txt	 40873	 40874	 O	 -1	 -1	 0
-
-https://www.justice.gov/about	 data/source_txt/t7_government_rlacroix_202.txt	 40874	 40903	 O	 -1	 -1	 0
+advisers.https://www.justice.gov/about	 data/source_txt/t7_government_rlacroix_202.txt	 40865	 40903	 O	 -1	 -1	 0
 (	 data/source_txt/t7_government_rlacroix_202.txt	 40904	 40905	 O	 -1	 -1	 0
 May	 data/source_txt/t7_government_rlacroix_202.txt	 40905	 40908	 O	 -1	 -1	 0
 1	 data/source_txt/t7_government_rlacroix_202.txt	 40909	 40910	 O	 -1	 -1	 0
@@ -7545,8 +7519,9 @@ in	 data/source_txt/t7_government_rlacroix_202.txt	 43291	 43293	 O	 -1	 -1	 0
 the	 data/source_txt/t7_government_rlacroix_202.txt	 43294	 43297	 O	 -1	 -1	 0
 document	 data/source_txt/t7_government_rlacroix_202.txt	 43298	 43306	 O	 -1	 -1	 0
 .	 data/source_txt/t7_government_rlacroix_202.txt	 43306	 43307	 O	 -1	 -1	 0
+U.S	 data/source_txt/t7_government_rlacroix_202.txt	 43307	 43310	 O	 -1	 -1	 0
+.	 data/source_txt/t7_government_rlacroix_202.txt	 43310	 43311	 O	 -1	 -1	 0
 
-U.S.	 data/source_txt/t7_government_rlacroix_202.txt	 43307	 43311	 O	 -1	 -1	 0
 Constitution	 data/source_txt/t7_government_rlacroix_202.txt	 43318	 43330	 O	 -1	 -1	 0
 ,	 data/source_txt/t7_government_rlacroix_202.txt	 43330	 43331	 O	 -1	 -1	 0
 Article	 data/source_txt/t7_government_rlacroix_202.txt	 43332	 43339	 O	 -1	 -1	 0
@@ -7659,7 +7634,6 @@ form	 data/source_txt/t7_government_rlacroix_202.txt	 43939	 43943	 O	 -1	 -1	 0
 of	 data/source_txt/t7_government_rlacroix_202.txt	 43944	 43946	 O	 -1	 -1	 0
 treaties	 data/source_txt/t7_government_rlacroix_202.txt	 43947	 43955	 O	 -1	 -1	 0
 .	 data/source_txt/t7_government_rlacroix_202.txt	 43955	 43956	 O	 -1	 -1	 0
-
 Glen	 data/source_txt/t7_government_rlacroix_202.txt	 43956	 43960	 O	 -1	 -1	 0
 S.	 data/source_txt/t7_government_rlacroix_202.txt	 43961	 43963	 O	 -1	 -1	 0
 Krutz	 data/source_txt/t7_government_rlacroix_202.txt	 43964	 43969	 O	 -1	 -1	 0
@@ -7813,12 +7787,7 @@ primary	 data/source_txt/t7_government_rlacroix_202.txt	 44761	 44768	 O	 -1	 -1
 process	 data/source_txt/t7_government_rlacroix_202.txt	 44769	 44776	 O	 -1	 -1	 0
 (	 data/source_txt/t7_government_rlacroix_202.txt	 44777	 44778	 O	 -1	 -1	 0
 [	 data/source_txt/t7_government_rlacroix_202.txt	 44778	 44779	 O	 -1	 -1	 0
-link	 data/source_txt/t7_government_rlacroix_202.txt	 44779	 44783	 O	 -1	 -1	 0
-]	 data/source_txt/t7_government_rlacroix_202.txt	 44783	 44784	 O	 -1	 -1	 0
-)	 data/source_txt/t7_government_rlacroix_202.txt	 44784	 44785	 O	 -1	 -1	 0
-.	 data/source_txt/t7_government_rlacroix_202.txt	 44785	 44786	 O	 -1	 -1	 0
-
-Senator	 data/source_txt/t7_government_rlacroix_202.txt	 44786	 44793	 O	 -1	 -1	 0
+link]).Senator	 data/source_txt/t7_government_rlacroix_202.txt	 44779	 44793	 O	 -1	 -1	 0
 Ted	 data/source_txt/t7_government_rlacroix_202.txt	 44794	 44797	 O	 -1	 -1	 0
 Cruz	 data/source_txt/t7_government_rlacroix_202.txt	 44798	 44802	 O	 -1	 -1	 0
 (	 data/source_txt/t7_government_rlacroix_202.txt	 44803	 44804	 O	 -1	 -1	 0

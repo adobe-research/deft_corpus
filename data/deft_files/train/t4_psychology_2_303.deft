@@ -1750,7 +1750,11 @@ Eysenck	 data/source_txt/t4_psychology_rlacroix_303.txt	 12313	 12320	 O	 -1	 -1
 &	 data/source_txt/t4_psychology_rlacroix_303.txt	 12321	 12322	 O	 -1	 -1	 0
 Barrett	 data/source_txt/t4_psychology_rlacroix_303.txt	 12323	 12330	 O	 -1	 -1	 0
 ,	 data/source_txt/t4_psychology_rlacroix_303.txt	 12330	 12331	 O	 -1	 -1	 0
-1985).While	 data/source_txt/t4_psychology_rlacroix_303.txt	 12332	 12343	 O	 -1	 -1	 0
+1985	 data/source_txt/t4_psychology_rlacroix_303.txt	 12332	 12336	 O	 -1	 -1	 0
+)	 data/source_txt/t4_psychology_rlacroix_303.txt	 12336	 12337	 O	 -1	 -1	 0
+.	 data/source_txt/t4_psychology_rlacroix_303.txt	 12337	 12338	 O	 -1	 -1	 0
+
+While	 data/source_txt/t4_psychology_rlacroix_303.txt	 12338	 12343	 O	 -1	 -1	 0
 Cattell	 data/source_txt/t4_psychology_rlacroix_303.txt	 12344	 12351	 O	 -1	 -1	 0
 ’s	 data/source_txt/t4_psychology_rlacroix_303.txt	 12351	 12353	 O	 -1	 -1	 0
 16	 data/source_txt/t4_psychology_rlacroix_303.txt	 12354	 12356	 O	 -1	 -1	 0
@@ -1849,7 +1853,8 @@ migration	 data/source_txt/t4_psychology_rlacroix_303.txt	 12852	 12861	 O	 -1	 
 (	 data/source_txt/t4_psychology_rlacroix_303.txt	 12862	 12863	 O	 -1	 -1	 0
 Rentfrow	 data/source_txt/t4_psychology_rlacroix_303.txt	 12863	 12871	 O	 -1	 -1	 0
 et	 data/source_txt/t4_psychology_rlacroix_303.txt	 12872	 12874	 O	 -1	 -1	 0
-al.	 data/source_txt/t4_psychology_rlacroix_303.txt	 12875	 12878	 O	 -1	 -1	 0
+al	 data/source_txt/t4_psychology_rlacroix_303.txt	 12875	 12877	 O	 -1	 -1	 0
+.	 data/source_txt/t4_psychology_rlacroix_303.txt	 12877	 12878	 O	 -1	 -1	 0
 ,	 data/source_txt/t4_psychology_rlacroix_303.txt	 12878	 12879	 O	 -1	 -1	 0
 2013	 data/source_txt/t4_psychology_rlacroix_303.txt	 12880	 12884	 O	 -1	 -1	 0
 )	 data/source_txt/t4_psychology_rlacroix_303.txt	 12884	 12885	 O	 -1	 -1	 0

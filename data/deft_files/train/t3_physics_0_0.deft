@@ -93,23 +93,6 @@ called	 data/source_txt/t3_physics_jlee_0.txt	 474	 480	 O	 -1	 -1	 0
 its	 data/source_txt/t3_physics_jlee_0.txt	 481	 484	 O	 -1	 -1	 0
 trajectory	 data/source_txt/t3_physics_jlee_0.txt	 485	 495	 B-Term	 T230	 T230	 0
 .	 data/source_txt/t3_physics_jlee_0.txt	 495	 496	 O	 -1	 -1	 0
-
-The	 data/source_txt/t3_physics_jlee_0.txt	 423	 426	 B-Secondary-Definition	 T5	 T4	 Supplements
-object	 data/source_txt/t3_physics_jlee_0.txt	 427	 433	 I-Secondary-Definition	 T5	 T4	 Supplements
-is	 data/source_txt/t3_physics_jlee_0.txt	 434	 436	 I-Secondary-Definition	 T5	 T4	 Supplements
-called	 data/source_txt/t3_physics_jlee_0.txt	 437	 443	 I-Secondary-Definition	 T5	 T4	 Supplements
-a	 data/source_txt/t3_physics_jlee_0.txt	 444	 445	 I-Secondary-Definition	 T5	 T4	 Supplements
-projectile	 data/source_txt/t3_physics_jlee_0.txt	 446	 456	 I-Secondary-Definition	 T5	 T4	 Supplements
-,	 data/source_txt/t3_physics_jlee_0.txt	 456	 457	 I-Secondary-Definition	 T5	 T4	 Supplements
-and	 data/source_txt/t3_physics_jlee_0.txt	 458	 461	 I-Secondary-Definition	 T5	 T4	 Supplements
-its	 data/source_txt/t3_physics_jlee_0.txt	 462	 465	 I-Secondary-Definition	 T5	 T4	 Supplements
-path	 data/source_txt/t3_physics_jlee_0.txt	 466	 470	 I-Secondary-Definition	 T5	 T4	 Supplements
-is	 data/source_txt/t3_physics_jlee_0.txt	 471	 473	 I-Secondary-Definition	 T5	 T4	 Supplements
-called	 data/source_txt/t3_physics_jlee_0.txt	 474	 480	 I-Secondary-Definition	 T5	 T4	 Supplements
-its	 data/source_txt/t3_physics_jlee_0.txt	 481	 484	 I-Secondary-Definition	 T5	 T4	 Supplements
-trajectory	 data/source_txt/t3_physics_jlee_0.txt	 485	 495	 I-Secondary-Definition	 T5	 T4	 Supplements
-.	 data/source_txt/t3_physics_jlee_0.txt	 495	 496	 O	 -1	 -1	 0
-
 The	 data/source_txt/t3_physics_jlee_0.txt	 503	 506	 O	 -1	 -1	 0
 motion	 data/source_txt/t3_physics_jlee_0.txt	 507	 513	 O	 -1	 -1	 0
 of	 data/source_txt/t3_physics_jlee_0.txt	 514	 516	 O	 -1	 -1	 0
@@ -3341,26 +3324,6 @@ smallest	 data/source_txt/t3_physics_jlee_0.txt	 18174	 18182	 I-Definition	 T13
 possible	 data/source_txt/t3_physics_jlee_0.txt	 18183	 18191	 I-Definition	 T139	 T138	 Direct-Defines
 surface	 data/source_txt/t3_physics_jlee_0.txt	 18192	 18199	 I-Definition	 T139	 T138	 Direct-Defines
 area	 data/source_txt/t3_physics_jlee_0.txt	 18200	 18204	 I-Definition	 T139	 T138	 Direct-Defines
-.	 data/source_txt/t3_physics_jlee_0.txt	 18204	 18205	 O	 -1	 -1	 0
-
-Cohesive	 data/source_txt/t3_physics_jlee_0.txt	 18091	 18099	 B-Term	 T138	 0	 Direct-Defines
-forces	 data/source_txt/t3_physics_jlee_0.txt	 18100	 18106	 I-Term	 T138	 0	 Direct-Defines
-between	 data/source_txt/t3_physics_jlee_0.txt	 18107	 18114	 B-Definition	 T141	 0	 Refers-To
-molecules	 data/source_txt/t3_physics_jlee_0.txt	 18115	 18124	 I-Definition	 T141	 0	 Refers-To
-cause	 data/source_txt/t3_physics_jlee_0.txt	 18125	 18130	 I-Definition	 T141	 0	 Refers-To
-the	 data/source_txt/t3_physics_jlee_0.txt	 18131	 18134	 I-Definition	 T141	 0	 Refers-To
-surface	 data/source_txt/t3_physics_jlee_0.txt	 18135	 18142	 I-Definition	 T141	 0	 Refers-To
-of	 data/source_txt/t3_physics_jlee_0.txt	 18143	 18145	 I-Definition	 T141	 0	 Refers-To
-a	 data/source_txt/t3_physics_jlee_0.txt	 18146	 18147	 I-Definition	 T141	 0	 Refers-To
-liquid	 data/source_txt/t3_physics_jlee_0.txt	 18148	 18154	 I-Definition	 T141	 0	 Refers-To
-to	 data/source_txt/t3_physics_jlee_0.txt	 18155	 18157	 I-Definition	 T141	 0	 Refers-To
-contract	 data/source_txt/t3_physics_jlee_0.txt	 18158	 18166	 I-Definition	 T141	 0	 Refers-To
-to	 data/source_txt/t3_physics_jlee_0.txt	 18167	 18169	 I-Definition	 T141	 0	 Refers-To
-the	 data/source_txt/t3_physics_jlee_0.txt	 18170	 18173	 I-Definition	 T141	 0	 Refers-To
-smallest	 data/source_txt/t3_physics_jlee_0.txt	 18174	 18182	 I-Definition	 T141	 0	 Refers-To
-possible	 data/source_txt/t3_physics_jlee_0.txt	 18183	 18191	 I-Definition	 T141	 0	 Refers-To
-surface	 data/source_txt/t3_physics_jlee_0.txt	 18192	 18199	 I-Definition	 T141	 0	 Refers-To
-area	 data/source_txt/t3_physics_jlee_0.txt	 18200	 18204	 I-Definition	 T141	 0	 Refers-To
 .	 data/source_txt/t3_physics_jlee_0.txt	 18204	 18205	 O	 -1	 -1	 0
 
 This	 data/source_txt/t3_physics_jlee_0.txt	 18214	 18218	 B-Referential-Definition	 T140	 T142	 Indirect-Defines

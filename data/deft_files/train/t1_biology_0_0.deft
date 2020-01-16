@@ -318,32 +318,6 @@ of	 data/source_txt/t1_biology_jlee_0.txt	 1870	 1872	 O	 -1	 -1	 0
 the	 data/source_txt/t1_biology_jlee_0.txt	 1873	 1876	 O	 -1	 -1	 0
 paper	 data/source_txt/t1_biology_jlee_0.txt	 1877	 1882	 O	 -1	 -1	 0
 .	 data/source_txt/t1_biology_jlee_0.txt	 1882	 1883	 O	 -1	 -1	 0
-
-There	 data/source_txt/t1_biology_jlee_0.txt	 1754	 1759	 B-Definition	 T142	 0	 Supplements
-are	 data/source_txt/t1_biology_jlee_0.txt	 1760	 1763	 I-Definition	 T142	 0	 Supplements
-usually	 data/source_txt/t1_biology_jlee_0.txt	 1764	 1771	 I-Definition	 T142	 0	 Supplements
-acknowledgment	 data/source_txt/t1_biology_jlee_0.txt	 1772	 1786	 I-Definition	 T142	 0	 Supplements
-and	 data/source_txt/t1_biology_jlee_0.txt	 1787	 1790	 I-Definition	 T142	 0	 Supplements
-reference	 data/source_txt/t1_biology_jlee_0.txt	 1791	 1800	 I-Definition	 T142	 0	 Supplements
-sections	 data/source_txt/t1_biology_jlee_0.txt	 1801	 1809	 I-Definition	 T142	 0	 Supplements
-as	 data/source_txt/t1_biology_jlee_0.txt	 1810	 1812	 I-Definition	 T142	 0	 Supplements
-well	 data/source_txt/t1_biology_jlee_0.txt	 1813	 1817	 I-Definition	 T142	 0	 Supplements
-as	 data/source_txt/t1_biology_jlee_0.txt	 1818	 1820	 I-Definition	 T142	 0	 Supplements
-an	 data/source_txt/t1_biology_jlee_0.txt	 1821	 1823	 I-Definition	 T142	 0	 Supplements
-abstract	 data/source_txt/t1_biology_jlee_0.txt	 1824	 1832	 I-Definition	 T142	 0	 Supplements
-(	 data/source_txt/t1_biology_jlee_0.txt	 1833	 1834	 I-Definition	 T142	 0	 Supplements
-a	 data/source_txt/t1_biology_jlee_0.txt	 1834	 1835	 I-Definition	 T142	 0	 Supplements
-concise	 data/source_txt/t1_biology_jlee_0.txt	 1836	 1843	 I-Definition	 T142	 0	 Supplements
-summary	 data/source_txt/t1_biology_jlee_0.txt	 1844	 1851	 I-Definition	 T142	 0	 Supplements
-)	 data/source_txt/t1_biology_jlee_0.txt	 1851	 1852	 I-Definition	 T142	 0	 Supplements
-at	 data/source_txt/t1_biology_jlee_0.txt	 1853	 1855	 I-Definition	 T142	 0	 Supplements
-the	 data/source_txt/t1_biology_jlee_0.txt	 1856	 1859	 I-Definition	 T142	 0	 Supplements
-beginning	 data/source_txt/t1_biology_jlee_0.txt	 1860	 1869	 I-Definition	 T142	 0	 Supplements
-of	 data/source_txt/t1_biology_jlee_0.txt	 1870	 1872	 I-Definition	 T142	 0	 Supplements
-the	 data/source_txt/t1_biology_jlee_0.txt	 1873	 1876	 I-Definition	 T142	 0	 Supplements
-paper	 data/source_txt/t1_biology_jlee_0.txt	 1877	 1882	 I-Definition	 T142	 0	 Supplements
-.	 data/source_txt/t1_biology_jlee_0.txt	 1882	 1883	 O	 -1	 -1	 0
-
 There	 data/source_txt/t1_biology_jlee_0.txt	 1890	 1895	 B-Secondary-Definition	 T143	 T142	 Supplements
 might	 data/source_txt/t1_biology_jlee_0.txt	 1896	 1901	 I-Secondary-Definition	 T143	 T142	 Supplements
 be	 data/source_txt/t1_biology_jlee_0.txt	 1902	 1904	 I-Secondary-Definition	 T143	 T142	 Supplements
@@ -1636,6 +1610,7 @@ DNA	 data/source_txt/t1_biology_jlee_0.txt	 10220	 10223	 O	 -1	 -1	 0
 double	 data/source_txt/t1_biology_jlee_0.txt	 10224	 10230	 O	 -1	 -1	 0
 helix	 data/source_txt/t1_biology_jlee_0.txt	 10231	 10236	 O	 -1	 -1	 0
 .	 data/source_txt/t1_biology_jlee_0.txt	 10236	 10237	 O	 -1	 -1	 0
+
 Like	 data/source_txt/t1_biology_jlee_0.txt	 10237	 10241	 O	 -1	 -1	 0
 hydrogen	 data/source_txt/t1_biology_jlee_0.txt	 10242	 10250	 O	 -1	 -1	 0
 bonds	 data/source_txt/t1_biology_jlee_0.txt	 10251	 10256	 O	 -1	 -1	 0
@@ -2384,24 +2359,6 @@ molecules	 data/source_txt/t1_biology_jlee_0.txt	 14555	 14564	 I-Definition	 T2
 known	 data/source_txt/t1_biology_jlee_0.txt	 14565	 14570	 O	 -1	 -1	 0
 as	 data/source_txt/t1_biology_jlee_0.txt	 14571	 14573	 O	 -1	 -1	 0
 polymers	 data/source_txt/t1_biology_jlee_0.txt	 14574	 14582	 B-Term	 T231	 0	 Direct-Defines
-.	 data/source_txt/t1_biology_jlee_0.txt	 14582	 14583	 O	 -1	 -1	 0
-
-The	 data/source_txt/t1_biology_jlee_0.txt	 14482	 14485	 B-Secondary-Definition	 T229	 T228	 Supplements
-monomers	 data/source_txt/t1_biology_jlee_0.txt	 14486	 14494	 I-Secondary-Definition	 T229	 T228	 Supplements
-combine	 data/source_txt/t1_biology_jlee_0.txt	 14495	 14502	 I-Secondary-Definition	 T229	 T228	 Supplements
-with	 data/source_txt/t1_biology_jlee_0.txt	 14503	 14507	 I-Secondary-Definition	 T229	 T228	 Supplements
-each	 data/source_txt/t1_biology_jlee_0.txt	 14508	 14512	 I-Secondary-Definition	 T229	 T228	 Supplements
-other	 data/source_txt/t1_biology_jlee_0.txt	 14513	 14518	 I-Secondary-Definition	 T229	 T228	 Supplements
-using	 data/source_txt/t1_biology_jlee_0.txt	 14519	 14524	 I-Secondary-Definition	 T229	 T228	 Supplements
-covalent	 data/source_txt/t1_biology_jlee_0.txt	 14525	 14533	 I-Secondary-Definition	 T229	 T228	 Supplements
-bonds	 data/source_txt/t1_biology_jlee_0.txt	 14534	 14539	 I-Secondary-Definition	 T229	 T228	 Supplements
-to	 data/source_txt/t1_biology_jlee_0.txt	 14540	 14542	 I-Secondary-Definition	 T229	 T228	 Supplements
-form	 data/source_txt/t1_biology_jlee_0.txt	 14543	 14547	 I-Secondary-Definition	 T229	 T228	 Supplements
-larger	 data/source_txt/t1_biology_jlee_0.txt	 14548	 14554	 I-Secondary-Definition	 T229	 T228	 Supplements
-molecules	 data/source_txt/t1_biology_jlee_0.txt	 14555	 14564	 I-Secondary-Definition	 T229	 T228	 Supplements
-known	 data/source_txt/t1_biology_jlee_0.txt	 14565	 14570	 I-Secondary-Definition	 T229	 T228	 Supplements
-as	 data/source_txt/t1_biology_jlee_0.txt	 14571	 14573	 I-Secondary-Definition	 T229	 T228	 Supplements
-polymers	 data/source_txt/t1_biology_jlee_0.txt	 14574	 14582	 I-Secondary-Definition	 T229	 T228	 Supplements
 .	 data/source_txt/t1_biology_jlee_0.txt	 14582	 14583	 O	 -1	 -1	 0
 
 In	 data/source_txt/t1_biology_jlee_0.txt	 14590	 14592	 O	 -1	 -1	 0

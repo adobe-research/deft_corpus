@@ -309,7 +309,6 @@ color	 data/source_txt/t4_psychology_mkaplan_0.txt	 2499	 2504	 O	 -1	 -1	 0
 and	 data/source_txt/t4_psychology_mkaplan_0.txt	 2505	 2508	 O	 -1	 -1	 0
 weight	 data/source_txt/t4_psychology_mkaplan_0.txt	 2509	 2515	 O	 -1	 -1	 0
 .	 data/source_txt/t4_psychology_mkaplan_0.txt	 2515	 2516	 O	 -1	 -1	 0
-
 In	 data/source_txt/t4_psychology_mkaplan_0.txt	 2516	 2518	 O	 -1	 -1	 0
 this	 data/source_txt/t4_psychology_mkaplan_0.txt	 2519	 2523	 O	 -1	 -1	 0
 Punnett	 data/source_txt/t4_psychology_mkaplan_0.txt	 2524	 2531	 O	 -1	 -1	 0
@@ -786,26 +785,6 @@ the	 data/source_txt/t4_psychology_mkaplan_0.txt	 5110	 5113	 I-Definition	 T35	
 nervous	 data/source_txt/t4_psychology_mkaplan_0.txt	 5114	 5121	 I-Definition	 T35	 T34	 Direct-Defines
 system	 data/source_txt/t4_psychology_mkaplan_0.txt	 5122	 5128	 I-Definition	 T35	 T34	 Direct-Defines
 .	 data/source_txt/t4_psychology_mkaplan_0.txt	 5128	 5129	 O	 -1	 -1	 0
-
-The	 data/source_txt/t4_psychology_mkaplan_0.txt	 5006	 5009	 B-Term	 T32	 0	 Direct-Defines
-terminal	 data/source_txt/t4_psychology_mkaplan_0.txt	 5010	 5018	 I-Term	 T32	 0	 Direct-Defines
-buttons	 data/source_txt/t4_psychology_mkaplan_0.txt	 5019	 5026	 I-Term	 T32	 0	 Direct-Defines
-contain	 data/source_txt/t4_psychology_mkaplan_0.txt	 5027	 5034	 B-Definition	 T33	 T32	 Direct-Defines
-synaptic	 data/source_txt/t4_psychology_mkaplan_0.txt	 5035	 5043	 I-Definition	 T33	 T32	 Direct-Defines
-vesicles	 data/source_txt/t4_psychology_mkaplan_0.txt	 5044	 5052	 I-Definition	 T33	 T32	 Direct-Defines
-that	 data/source_txt/t4_psychology_mkaplan_0.txt	 5053	 5057	 I-Definition	 T33	 T32	 Direct-Defines
-house	 data/source_txt/t4_psychology_mkaplan_0.txt	 5058	 5063	 I-Definition	 T33	 T32	 Direct-Defines
-neurotransmitters	 data/source_txt/t4_psychology_mkaplan_0.txt	 5064	 5081	 I-Definition	 T33	 T32	 Direct-Defines
-,	 data/source_txt/t4_psychology_mkaplan_0.txt	 5081	 5082	 I-Definition	 T33	 T32	 Direct-Defines
-the	 data/source_txt/t4_psychology_mkaplan_0.txt	 5083	 5086	 I-Definition	 T33	 T32	 Direct-Defines
-chemical	 data/source_txt/t4_psychology_mkaplan_0.txt	 5087	 5095	 I-Definition	 T33	 T32	 Direct-Defines
-messengers	 data/source_txt/t4_psychology_mkaplan_0.txt	 5096	 5106	 I-Definition	 T33	 T32	 Direct-Defines
-of	 data/source_txt/t4_psychology_mkaplan_0.txt	 5107	 5109	 I-Definition	 T33	 T32	 Direct-Defines
-the	 data/source_txt/t4_psychology_mkaplan_0.txt	 5110	 5113	 I-Definition	 T33	 T32	 Direct-Defines
-nervous	 data/source_txt/t4_psychology_mkaplan_0.txt	 5114	 5121	 I-Definition	 T33	 T32	 Direct-Defines
-system	 data/source_txt/t4_psychology_mkaplan_0.txt	 5122	 5128	 I-Definition	 T33	 T32	 Direct-Defines
-.	 data/source_txt/t4_psychology_mkaplan_0.txt	 5128	 5129	 O	 -1	 -1	 0
-
 
 3348	 data/source_txt/t4_psychology_mkaplan_0.txt	 5139	 5143	 O	 -1	 -1	 0
 .	 data/source_txt/t4_psychology_mkaplan_0.txt	 5143	 5144	 O	 -1	 -1	 0
@@ -3313,33 +3292,6 @@ interested	 data/source_txt/t4_psychology_mkaplan_0.txt	 18547	 18557	 I-Definit
 in	 data/source_txt/t4_psychology_mkaplan_0.txt	 18558	 18560	 I-Definition	 T126	 T125	 Direct-Defines
 .	 data/source_txt/t4_psychology_mkaplan_0.txt	 18560	 18561	 O	 -1	 -1	 0
 
-A	 data/source_txt/t4_psychology_mkaplan_0.txt	 18416	 18417	 B-Term	 T123	 0	 Direct-Defines
-sample	 data/source_txt/t4_psychology_mkaplan_0.txt	 18418	 18424	 I-Term	 T123	 0	 Direct-Defines
-is	 data/source_txt/t4_psychology_mkaplan_0.txt	 18425	 18427	 O	 -1	 -1	 0
-a	 data/source_txt/t4_psychology_mkaplan_0.txt	 18428	 18429	 B-Definition	 T124	 T123	 Direct-Defines
-subset	 data/source_txt/t4_psychology_mkaplan_0.txt	 18430	 18436	 I-Definition	 T124	 T123	 Direct-Defines
-of	 data/source_txt/t4_psychology_mkaplan_0.txt	 18437	 18439	 I-Definition	 T124	 T123	 Direct-Defines
-individuals	 data/source_txt/t4_psychology_mkaplan_0.txt	 18440	 18451	 I-Definition	 T124	 T123	 Direct-Defines
-selected	 data/source_txt/t4_psychology_mkaplan_0.txt	 18452	 18460	 I-Definition	 T124	 T123	 Direct-Defines
-from	 data/source_txt/t4_psychology_mkaplan_0.txt	 18461	 18465	 I-Definition	 T124	 T123	 Direct-Defines
-a	 data/source_txt/t4_psychology_mkaplan_0.txt	 18466	 18467	 I-Definition	 T124	 T123	 Direct-Defines
-population	 data/source_txt/t4_psychology_mkaplan_0.txt	 18468	 18478	 I-Definition	 T124	 T123	 Direct-Defines
-,	 data/source_txt/t4_psychology_mkaplan_0.txt	 18478	 18479	 O	 -1	 -1	 0
-which	 data/source_txt/t4_psychology_mkaplan_0.txt	 18480	 18485	 O	 -1	 -1	 0
-is	 data/source_txt/t4_psychology_mkaplan_0.txt	 18486	 18488	 O	 -1	 -1	 0
-the	 data/source_txt/t4_psychology_mkaplan_0.txt	 18489	 18492	 B-Definition	 T126	 T125	 Direct-Defines
-overall	 data/source_txt/t4_psychology_mkaplan_0.txt	 18493	 18500	 I-Definition	 T126	 T125	 Direct-Defines
-group	 data/source_txt/t4_psychology_mkaplan_0.txt	 18501	 18506	 I-Definition	 T126	 T125	 Direct-Defines
-of	 data/source_txt/t4_psychology_mkaplan_0.txt	 18507	 18509	 I-Definition	 T126	 T125	 Direct-Defines
-individuals	 data/source_txt/t4_psychology_mkaplan_0.txt	 18510	 18521	 I-Definition	 T126	 T125	 Direct-Defines
-that	 data/source_txt/t4_psychology_mkaplan_0.txt	 18522	 18526	 I-Definition	 T126	 T125	 Direct-Defines
-the	 data/source_txt/t4_psychology_mkaplan_0.txt	 18527	 18530	 I-Definition	 T126	 T125	 Direct-Defines
-researchers	 data/source_txt/t4_psychology_mkaplan_0.txt	 18531	 18542	 I-Definition	 T126	 T125	 Direct-Defines
-are	 data/source_txt/t4_psychology_mkaplan_0.txt	 18543	 18546	 I-Definition	 T126	 T125	 Direct-Defines
-interested	 data/source_txt/t4_psychology_mkaplan_0.txt	 18547	 18557	 I-Definition	 T126	 T125	 Direct-Defines
-in	 data/source_txt/t4_psychology_mkaplan_0.txt	 18558	 18560	 I-Definition	 T126	 T125	 Direct-Defines
-.	 data/source_txt/t4_psychology_mkaplan_0.txt	 18560	 18561	 O	 -1	 -1	 0
-
 Researchers	 data/source_txt/t4_psychology_mkaplan_0.txt	 18568	 18579	 O	 -1	 -1	 0
 study	 data/source_txt/t4_psychology_mkaplan_0.txt	 18580	 18585	 O	 -1	 -1	 0
 the	 data/source_txt/t4_psychology_mkaplan_0.txt	 18586	 18589	 O	 -1	 -1	 0
@@ -5451,36 +5403,6 @@ link	 data/source_txt/t4_psychology_mkaplan_0.txt	 30113	 30117	 O	 -1	 -1	 0
 )	 data/source_txt/t4_psychology_mkaplan_0.txt	 30118	 30119	 O	 -1	 -1	 0
 .	 data/source_txt/t4_psychology_mkaplan_0.txt	 30119	 30120	 O	 -1	 -1	 0
 
-Theta	 data/source_txt/t4_psychology_mkaplan_0.txt	 29980	 29985	 B-Secondary-Definition	 T269	 T268	 Supplements
-waves	 data/source_txt/t4_psychology_mkaplan_0.txt	 29986	 29991	 I-Secondary-Definition	 T269	 T268	 Supplements
-still	 data/source_txt/t4_psychology_mkaplan_0.txt	 29992	 29997	 I-Secondary-Definition	 T269	 T268	 Supplements
-dominate	 data/source_txt/t4_psychology_mkaplan_0.txt	 29998	 30006	 I-Secondary-Definition	 T269	 T268	 Supplements
-the	 data/source_txt/t4_psychology_mkaplan_0.txt	 30007	 30010	 I-Secondary-Definition	 T269	 T268	 Supplements
-activity	 data/source_txt/t4_psychology_mkaplan_0.txt	 30011	 30019	 I-Secondary-Definition	 T269	 T268	 Supplements
-of	 data/source_txt/t4_psychology_mkaplan_0.txt	 30020	 30022	 I-Secondary-Definition	 T269	 T268	 Supplements
-the	 data/source_txt/t4_psychology_mkaplan_0.txt	 30023	 30026	 I-Secondary-Definition	 T269	 T268	 Supplements
-brain	 data/source_txt/t4_psychology_mkaplan_0.txt	 30027	 30032	 I-Secondary-Definition	 T269	 T268	 Supplements
-,	 data/source_txt/t4_psychology_mkaplan_0.txt	 30032	 30033	 I-Secondary-Definition	 T269	 T268	 Supplements
-but	 data/source_txt/t4_psychology_mkaplan_0.txt	 30034	 30037	 I-Secondary-Definition	 T269	 T268	 Supplements
-they	 data/source_txt/t4_psychology_mkaplan_0.txt	 30038	 30042	 I-Secondary-Definition	 T269	 T268	 Supplements
-are	 data/source_txt/t4_psychology_mkaplan_0.txt	 30043	 30046	 I-Secondary-Definition	 T269	 T268	 Supplements
-interrupted	 data/source_txt/t4_psychology_mkaplan_0.txt	 30047	 30058	 I-Secondary-Definition	 T269	 T268	 Supplements
-by	 data/source_txt/t4_psychology_mkaplan_0.txt	 30059	 30061	 I-Secondary-Definition	 T269	 T268	 Supplements
-brief	 data/source_txt/t4_psychology_mkaplan_0.txt	 30062	 30067	 I-Secondary-Definition	 T269	 T268	 Supplements
-bursts	 data/source_txt/t4_psychology_mkaplan_0.txt	 30068	 30074	 I-Secondary-Definition	 T269	 T268	 Supplements
-of	 data/source_txt/t4_psychology_mkaplan_0.txt	 30075	 30077	 I-Secondary-Definition	 T269	 T268	 Supplements
-activity	 data/source_txt/t4_psychology_mkaplan_0.txt	 30078	 30086	 I-Secondary-Definition	 T269	 T268	 Supplements
-known	 data/source_txt/t4_psychology_mkaplan_0.txt	 30087	 30092	 I-Secondary-Definition	 T269	 T268	 Supplements
-as	 data/source_txt/t4_psychology_mkaplan_0.txt	 30093	 30095	 I-Secondary-Definition	 T269	 T268	 Supplements
-sleep	 data/source_txt/t4_psychology_mkaplan_0.txt	 30096	 30101	 I-Secondary-Definition	 T269	 T268	 Supplements
-spindles	 data/source_txt/t4_psychology_mkaplan_0.txt	 30102	 30110	 I-Secondary-Definition	 T269	 T268	 Supplements
-(	 data/source_txt/t4_psychology_mkaplan_0.txt	 30111	 30112	 O	 -1	 -1	 0
-[	 data/source_txt/t4_psychology_mkaplan_0.txt	 30112	 30113	 O	 -1	 -1	 0
-link	 data/source_txt/t4_psychology_mkaplan_0.txt	 30113	 30117	 O	 -1	 -1	 0
-]	 data/source_txt/t4_psychology_mkaplan_0.txt	 30117	 30118	 O	 -1	 -1	 0
-)	 data/source_txt/t4_psychology_mkaplan_0.txt	 30118	 30119	 O	 -1	 -1	 0
-.	 data/source_txt/t4_psychology_mkaplan_0.txt	 30119	 30120	 O	 -1	 -1	 0
-
 
 3540	 data/source_txt/t4_psychology_mkaplan_0.txt	 30124	 30128	 O	 -1	 -1	 0
 .	 data/source_txt/t4_psychology_mkaplan_0.txt	 30128	 30129	 O	 -1	 -1	 0
@@ -5770,9 +5692,7 @@ These	 data/source_txt/t4_psychology_mkaplan_0.txt	 31573	 31578	 O	 -1	 -1	 0
 episodes	 data/source_txt/t4_psychology_mkaplan_0.txt	 31579	 31587	 O	 -1	 -1	 0
 can	 data/source_txt/t4_psychology_mkaplan_0.txt	 31588	 31591	 O	 -1	 -1	 0
 last	 data/source_txt/t4_psychology_mkaplan_0.txt	 31592	 31596	 O	 -1	 -1	 0
-10	 data/source_txt/t4_psychology_mkaplan_0.txt	 31597	 31599	 O	 -1	 -1	 0
-–	 data/source_txt/t4_psychology_mkaplan_0.txt	 31599	 31600	 O	 -1	 -1	 0
-20	 data/source_txt/t4_psychology_mkaplan_0.txt	 31600	 31602	 O	 -1	 -1	 0
+10–20	 data/source_txt/t4_psychology_mkaplan_0.txt	 31597	 31602	 O	 -1	 -1	 0
 seconds	 data/source_txt/t4_psychology_mkaplan_0.txt	 31603	 31610	 O	 -1	 -1	 0
 or	 data/source_txt/t4_psychology_mkaplan_0.txt	 31611	 31613	 O	 -1	 -1	 0
 longer	 data/source_txt/t4_psychology_mkaplan_0.txt	 31614	 31620	 O	 -1	 -1	 0
@@ -5814,7 +5734,8 @@ breathing	 data/source_txt/t4_psychology_mkaplan_0.txt	 31805	 31814	 I-Definiti
 (	 data/source_txt/t4_psychology_mkaplan_0.txt	 31815	 31816	 O	 -1	 -1	 0
 White	 data/source_txt/t4_psychology_mkaplan_0.txt	 31816	 31821	 O	 -1	 -1	 0
 ,	 data/source_txt/t4_psychology_mkaplan_0.txt	 31821	 31822	 O	 -1	 -1	 0
-2005)	 data/source_txt/t4_psychology_mkaplan_0.txt	 31823	 31828	 O	 -1	 -1	 0
+2005	 data/source_txt/t4_psychology_mkaplan_0.txt	 31823	 31827	 O	 -1	 -1	 0
+)	 data/source_txt/t4_psychology_mkaplan_0.txt	 31827	 31828	 O	 -1	 -1	 0
 .	 data/source_txt/t4_psychology_mkaplan_0.txt	 31828	 31829	 O	 -1	 -1	 0
 
 One	 data/source_txt/t4_psychology_mkaplan_0.txt	 31829	 31832	 O	 -1	 -1	 0
@@ -6031,36 +5952,6 @@ and	 data/source_txt/t4_psychology_mkaplan_0.txt	 32895	 32898	 O	 -1	 -1	 0
 psychological	 data/source_txt/t4_psychology_mkaplan_0.txt	 32899	 32912	 O	 -1	 -1	 0
 dependence	 data/source_txt/t4_psychology_mkaplan_0.txt	 32913	 32923	 O	 -1	 -1	 0
 .	 data/source_txt/t4_psychology_mkaplan_0.txt	 32923	 32924	 O	 -1	 -1	 0
-
-In	 data/source_txt/t4_psychology_mkaplan_0.txt	 32753	 32755	 O	 -1	 -1	 0
-individuals	 data/source_txt/t4_psychology_mkaplan_0.txt	 32756	 32767	 O	 -1	 -1	 0
-diagnosed	 data/source_txt/t4_psychology_mkaplan_0.txt	 32768	 32777	 O	 -1	 -1	 0
-with	 data/source_txt/t4_psychology_mkaplan_0.txt	 32778	 32782	 O	 -1	 -1	 0
-a	 data/source_txt/t4_psychology_mkaplan_0.txt	 32783	 32784	 B-Term	 T200	 0	 Direct-Defines
-substance	 data/source_txt/t4_psychology_mkaplan_0.txt	 32785	 32794	 I-Term	 T200	 0	 Direct-Defines
-use	 data/source_txt/t4_psychology_mkaplan_0.txt	 32795	 32798	 I-Term	 T200	 0	 Direct-Defines
-disorder	 data/source_txt/t4_psychology_mkaplan_0.txt	 32799	 32807	 I-Term	 T200	 0	 Direct-Defines
-,	 data/source_txt/t4_psychology_mkaplan_0.txt	 32807	 32808	 O	 -1	 -1	 0
-there	 data/source_txt/t4_psychology_mkaplan_0.txt	 32809	 32814	 O	 -1	 -1	 0
-is	 data/source_txt/t4_psychology_mkaplan_0.txt	 32815	 32817	 O	 -1	 -1	 0
-a	 data/source_txt/t4_psychology_mkaplan_0.txt	 32818	 32819	 B-Definition	 T201	 T200	 Direct-Defines
-compulsive	 data/source_txt/t4_psychology_mkaplan_0.txt	 32820	 32830	 I-Definition	 T201	 T200	 Direct-Defines
-pattern	 data/source_txt/t4_psychology_mkaplan_0.txt	 32831	 32838	 I-Definition	 T201	 T200	 Direct-Defines
-of	 data/source_txt/t4_psychology_mkaplan_0.txt	 32839	 32841	 I-Definition	 T201	 T200	 Direct-Defines
-drug	 data/source_txt/t4_psychology_mkaplan_0.txt	 32842	 32846	 I-Definition	 T201	 T200	 Direct-Defines
-use	 data/source_txt/t4_psychology_mkaplan_0.txt	 32847	 32850	 I-Definition	 T201	 T200	 Direct-Defines
-that	 data/source_txt/t4_psychology_mkaplan_0.txt	 32851	 32855	 I-Definition	 T201	 T200	 Direct-Defines
-is	 data/source_txt/t4_psychology_mkaplan_0.txt	 32856	 32858	 I-Definition	 T201	 T200	 Direct-Defines
-often	 data/source_txt/t4_psychology_mkaplan_0.txt	 32859	 32864	 I-Definition	 T201	 T200	 Direct-Defines
-associated	 data/source_txt/t4_psychology_mkaplan_0.txt	 32865	 32875	 I-Definition	 T201	 T200	 Direct-Defines
-with	 data/source_txt/t4_psychology_mkaplan_0.txt	 32876	 32880	 I-Definition	 T201	 T200	 Direct-Defines
-both	 data/source_txt/t4_psychology_mkaplan_0.txt	 32881	 32885	 I-Definition	 T201	 T200	 Direct-Defines
-physical	 data/source_txt/t4_psychology_mkaplan_0.txt	 32886	 32894	 I-Definition	 T201	 T200	 Direct-Defines
-and	 data/source_txt/t4_psychology_mkaplan_0.txt	 32895	 32898	 I-Definition	 T201	 T200	 Direct-Defines
-psychological	 data/source_txt/t4_psychology_mkaplan_0.txt	 32899	 32912	 I-Definition	 T201	 T200	 Direct-Defines
-dependence	 data/source_txt/t4_psychology_mkaplan_0.txt	 32913	 32923	 I-Definition	 T201	 T200	 Direct-Defines
-.	 data/source_txt/t4_psychology_mkaplan_0.txt	 32923	 32924	 I-Definition	 T201	 T200	 Direct-Defines
-
 Physical	 data/source_txt/t4_psychology_mkaplan_0.txt	 32924	 32932	 B-Term	 T198	 0	 Direct-Defines
 dependence	 data/source_txt/t4_psychology_mkaplan_0.txt	 32933	 32943	 I-Term	 T198	 0	 Direct-Defines
 involves	 data/source_txt/t4_psychology_mkaplan_0.txt	 32944	 32952	 B-Definition	 T199	 T198	 Direct-Defines
@@ -6082,29 +5973,6 @@ upon	 data/source_txt/t4_psychology_mkaplan_0.txt	 33038	 33042	 O	 -1	 -1	 0
 cessation	 data/source_txt/t4_psychology_mkaplan_0.txt	 33043	 33052	 O	 -1	 -1	 0
 of	 data/source_txt/t4_psychology_mkaplan_0.txt	 33053	 33055	 O	 -1	 -1	 0
 use	 data/source_txt/t4_psychology_mkaplan_0.txt	 33056	 33059	 O	 -1	 -1	 0
-.	 data/source_txt/t4_psychology_mkaplan_0.txt	 33059	 33060	 O	 -1	 -1	 0
-
-Physical	 data/source_txt/t4_psychology_mkaplan_0.txt	 32924	 32932	 I-Definition	 T201	 T200	 Direct-Defines
-dependence	 data/source_txt/t4_psychology_mkaplan_0.txt	 32933	 32943	 I-Definition	 T201	 T200	 Direct-Defines
-involves	 data/source_txt/t4_psychology_mkaplan_0.txt	 32944	 32952	 I-Definition	 T201	 T200	 Direct-Defines
-changes	 data/source_txt/t4_psychology_mkaplan_0.txt	 32953	 32960	 I-Definition	 T201	 T200	 Direct-Defines
-in	 data/source_txt/t4_psychology_mkaplan_0.txt	 32961	 32963	 I-Definition	 T201	 T200	 Direct-Defines
-normal	 data/source_txt/t4_psychology_mkaplan_0.txt	 32964	 32970	 I-Definition	 T201	 T200	 Direct-Defines
-bodily	 data/source_txt/t4_psychology_mkaplan_0.txt	 32971	 32977	 I-Definition	 T201	 T200	 Direct-Defines
-functions	 data/source_txt/t4_psychology_mkaplan_0.txt	 32978	 32987	 I-Definition	 T201	 T200	 Direct-Defines
-—	 data/source_txt/t4_psychology_mkaplan_0.txt	 32987	 32988	 I-Definition	 T201	 T200	 Direct-Defines
-the	 data/source_txt/t4_psychology_mkaplan_0.txt	 32988	 32991	 I-Definition	 T201	 T200	 Direct-Defines
-user	 data/source_txt/t4_psychology_mkaplan_0.txt	 32992	 32996	 I-Definition	 T201	 T200	 Direct-Defines
-will	 data/source_txt/t4_psychology_mkaplan_0.txt	 32997	 33001	 I-Definition	 T201	 T200	 Direct-Defines
-experience	 data/source_txt/t4_psychology_mkaplan_0.txt	 33002	 33012	 I-Definition	 T201	 T200	 Direct-Defines
-withdrawal	 data/source_txt/t4_psychology_mkaplan_0.txt	 33013	 33023	 I-Definition	 T201	 T200	 Direct-Defines
-from	 data/source_txt/t4_psychology_mkaplan_0.txt	 33024	 33028	 I-Definition	 T201	 T200	 Direct-Defines
-the	 data/source_txt/t4_psychology_mkaplan_0.txt	 33029	 33032	 I-Definition	 T201	 T200	 Direct-Defines
-drug	 data/source_txt/t4_psychology_mkaplan_0.txt	 33033	 33037	 I-Definition	 T201	 T200	 Direct-Defines
-upon	 data/source_txt/t4_psychology_mkaplan_0.txt	 33038	 33042	 I-Definition	 T201	 T200	 Direct-Defines
-cessation	 data/source_txt/t4_psychology_mkaplan_0.txt	 33043	 33052	 I-Definition	 T201	 T200	 Direct-Defines
-of	 data/source_txt/t4_psychology_mkaplan_0.txt	 33053	 33055	 I-Definition	 T201	 T200	 Direct-Defines
-use	 data/source_txt/t4_psychology_mkaplan_0.txt	 33056	 33059	 I-Definition	 T201	 T200	 Direct-Defines
 .	 data/source_txt/t4_psychology_mkaplan_0.txt	 33059	 33060	 O	 -1	 -1	 0
 
 In	 data/source_txt/t4_psychology_mkaplan_0.txt	 33069	 33071	 O	 -1	 -1	 0

@@ -501,7 +501,6 @@ latency	 data/source_txt/t4_psychology_rlacroix_202.txt	 2968	 2975	 I-Definitio
 and	 data/source_txt/t4_psychology_rlacroix_202.txt	 2977	 2980	 I-Definition-frag	 T186-frag	 T186	 fragment
 genital	 data/source_txt/t4_psychology_rlacroix_202.txt	 2981	 2988	 I-Definition-frag	 T186-frag	 T186	 fragment
 .	 data/source_txt/t4_psychology_rlacroix_202.txt	 2988	 2989	 O	 -1	 -1	 0
-
 While	 data/source_txt/t4_psychology_rlacroix_202.txt	 2989	 2994	 O	 -1	 -1	 0
 most	 data/source_txt/t4_psychology_rlacroix_202.txt	 2995	 2999	 O	 -1	 -1	 0
 of	 data/source_txt/t4_psychology_rlacroix_202.txt	 3000	 3002	 O	 -1	 -1	 0
@@ -730,9 +729,7 @@ Psychologist	 data/source_txt/t4_psychology_rlacroix_202.txt	 4408	 4420	 O	 -1	
 Lawrence	 data/source_txt/t4_psychology_rlacroix_202.txt	 4421	 4429	 O	 -1	 -1	 0
 Kohlberg	 data/source_txt/t4_psychology_rlacroix_202.txt	 4430	 4438	 O	 -1	 -1	 0
 (	 data/source_txt/t4_psychology_rlacroix_202.txt	 4439	 4440	 O	 -1	 -1	 0
-1927	 data/source_txt/t4_psychology_rlacroix_202.txt	 4440	 4444	 O	 -1	 -1	 0
-–	 data/source_txt/t4_psychology_rlacroix_202.txt	 4444	 4445	 O	 -1	 -1	 0
-1987	 data/source_txt/t4_psychology_rlacroix_202.txt	 4445	 4449	 O	 -1	 -1	 0
+1927–1987	 data/source_txt/t4_psychology_rlacroix_202.txt	 4440	 4449	 O	 -1	 -1	 0
 )	 data/source_txt/t4_psychology_rlacroix_202.txt	 4449	 4450	 O	 -1	 -1	 0
 extended	 data/source_txt/t4_psychology_rlacroix_202.txt	 4451	 4459	 O	 -1	 -1	 0
 upon	 data/source_txt/t4_psychology_rlacroix_202.txt	 4460	 4464	 O	 -1	 -1	 0
@@ -1609,9 +1606,7 @@ periods	 data/source_txt/t4_psychology_rlacroix_202.txt	 9808	 9815	 I-Definitio
 ,	 data/source_txt/t4_psychology_rlacroix_202.txt	 9815	 9816	 I-Definition	 T55	 T54	 Direct-Defines
 usually	 data/source_txt/t4_psychology_rlacroix_202.txt	 9817	 9824	 I-Definition	 T55	 T54	 Direct-Defines
 around	 data/source_txt/t4_psychology_rlacroix_202.txt	 9825	 9831	 I-Definition	 T55	 T54	 Direct-Defines
-12	 data/source_txt/t4_psychology_rlacroix_202.txt	 9832	 9834	 I-Definition	 T55	 T54	 Direct-Defines
-–	 data/source_txt/t4_psychology_rlacroix_202.txt	 9834	 9835	 I-Definition	 T55	 T54	 Direct-Defines
-13	 data/source_txt/t4_psychology_rlacroix_202.txt	 9835	 9837	 I-Definition	 T55	 T54	 Direct-Defines
+12–13	 data/source_txt/t4_psychology_rlacroix_202.txt	 9832	 9837	 I-Definition	 T55	 T54	 Direct-Defines
 years	 data/source_txt/t4_psychology_rlacroix_202.txt	 9838	 9843	 I-Definition	 T55	 T54	 Direct-Defines
 old	 data/source_txt/t4_psychology_rlacroix_202.txt	 9844	 9847	 I-Definition	 T55	 T54	 Direct-Defines
 ,	 data/source_txt/t4_psychology_rlacroix_202.txt	 9847	 9848	 O	 -1	 -1	 0
@@ -1625,9 +1620,7 @@ first	 data/source_txt/t4_psychology_rlacroix_202.txt	 9885	 9890	 I-Definition	
 ejaculation	 data/source_txt/t4_psychology_rlacroix_202.txt	 9891	 9902	 I-Definition	 T57	 T56	 Direct-Defines
 ,	 data/source_txt/t4_psychology_rlacroix_202.txt	 9902	 9903	 I-Definition	 T57	 T56	 Direct-Defines
 around	 data/source_txt/t4_psychology_rlacroix_202.txt	 9904	 9910	 I-Definition	 T57	 T56	 Direct-Defines
-13	 data/source_txt/t4_psychology_rlacroix_202.txt	 9911	 9913	 I-Definition	 T57	 T56	 Direct-Defines
-–	 data/source_txt/t4_psychology_rlacroix_202.txt	 9913	 9914	 I-Definition	 T57	 T56	 Direct-Defines
-14	 data/source_txt/t4_psychology_rlacroix_202.txt	 9914	 9916	 I-Definition	 T57	 T56	 Direct-Defines
+13–14	 data/source_txt/t4_psychology_rlacroix_202.txt	 9911	 9916	 I-Definition	 T57	 T56	 Direct-Defines
 years	 data/source_txt/t4_psychology_rlacroix_202.txt	 9917	 9922	 I-Definition	 T57	 T56	 Direct-Defines
 old	 data/source_txt/t4_psychology_rlacroix_202.txt	 9923	 9926	 I-Definition	 T57	 T56	 Direct-Defines
 .	 data/source_txt/t4_psychology_rlacroix_202.txt	 9926	 9927	 O	 -1	 -1	 0
@@ -1888,9 +1881,7 @@ attitudes	 data/source_txt/t4_psychology_rlacroix_202.txt	 11441	 11450	 O	 -1	 
 ,	 data/source_txt/t4_psychology_rlacroix_202.txt	 11450	 11451	 O	 -1	 -1	 0
 behaviors	 data/source_txt/t4_psychology_rlacroix_202.txt	 11452	 11461	 O	 -1	 -1	 0
 ,	 data/source_txt/t4_psychology_rlacroix_202.txt	 11461	 11462	 O	 -1	 -1	 0
-and	 data/source_txt/t4_psychology_rlacroix_202.txt	 11463	 11466	 O	 -1	 -1	 0
-/	 data/source_txt/t4_psychology_rlacroix_202.txt	 11466	 11467	 O	 -1	 -1	 0
-or	 data/source_txt/t4_psychology_rlacroix_202.txt	 11467	 11469	 O	 -1	 -1	 0
+and/or	 data/source_txt/t4_psychology_rlacroix_202.txt	 11463	 11469	 O	 -1	 -1	 0
 cognitions	 data/source_txt/t4_psychology_rlacroix_202.txt	 11470	 11480	 O	 -1	 -1	 0
 to	 data/source_txt/t4_psychology_rlacroix_202.txt	 11481	 11483	 O	 -1	 -1	 0
 make	 data/source_txt/t4_psychology_rlacroix_202.txt	 11484	 11488	 O	 -1	 -1	 0
@@ -2183,7 +2174,6 @@ following	 data/source_txt/t4_psychology_rlacroix_202.txt	 13767	 13776	 O	 -1	 
 orders	 data/source_txt/t4_psychology_rlacroix_202.txt	 13777	 13783	 O	 -1	 -1	 0
 .	 data/source_txt/t4_psychology_rlacroix_202.txt	 13783	 13784	 O	 -1	 -1	 0
 ”	 data/source_txt/t4_psychology_rlacroix_202.txt	 13784	 13785	 O	 -1	 -1	 0
-
 Milgram	 data/source_txt/t4_psychology_rlacroix_202.txt	 13786	 13793	 O	 -1	 -1	 0
 (	 data/source_txt/t4_psychology_rlacroix_202.txt	 13794	 13795	 O	 -1	 -1	 0
 1963	 data/source_txt/t4_psychology_rlacroix_202.txt	 13795	 13799	 O	 -1	 -1	 0
@@ -3505,9 +3495,7 @@ This	 data/source_txt/t4_psychology_rlacroix_202.txt	 21143	 21147	 O	 -1	 -1	 0
 system	 data/source_txt/t4_psychology_rlacroix_202.txt	 21148	 21154	 O	 -1	 -1	 0
 is	 data/source_txt/t4_psychology_rlacroix_202.txt	 21155	 21157	 O	 -1	 -1	 0
 called	 data/source_txt/t4_psychology_rlacroix_202.txt	 21158	 21164	 O	 -1	 -1	 0
-O	 data/source_txt/t4_psychology_rlacroix_202.txt	 21165	 21166	 O	 -1	 -1	 0
-*	 data/source_txt/t4_psychology_rlacroix_202.txt	 21166	 21167	 O	 -1	 -1	 0
-Net	 data/source_txt/t4_psychology_rlacroix_202.txt	 21167	 21170	 O	 -1	 -1	 0
+O*Net	 data/source_txt/t4_psychology_rlacroix_202.txt	 21165	 21170	 O	 -1	 -1	 0
 (	 data/source_txt/t4_psychology_rlacroix_202.txt	 21171	 21172	 O	 -1	 -1	 0
 accessible	 data/source_txt/t4_psychology_rlacroix_202.txt	 21172	 21182	 O	 -1	 -1	 0
 at	 data/source_txt/t4_psychology_rlacroix_202.txt	 21183	 21185	 O	 -1	 -1	 0
@@ -5585,7 +5573,11 @@ Cognitive	 data/source_txt/t4_psychology_rlacroix_202.txt	 32171	 32180	 O	 -1	 
 Behavioral	 data/source_txt/t4_psychology_rlacroix_202.txt	 32181	 32191	 O	 -1	 -1	 0
 Therapists	 data/source_txt/t4_psychology_rlacroix_202.txt	 32192	 32202	 O	 -1	 -1	 0
 ,	 data/source_txt/t4_psychology_rlacroix_202.txt	 32202	 32203	 O	 -1	 -1	 0
-2009).Cognitive	 data/source_txt/t4_psychology_rlacroix_202.txt	 32204	 32219	 B-Term	 T161	 0	 AKA
+2009	 data/source_txt/t4_psychology_rlacroix_202.txt	 32204	 32208	 O	 -1	 -1	 0
+)	 data/source_txt/t4_psychology_rlacroix_202.txt	 32208	 32209	 O	 -1	 -1	 0
+.	 data/source_txt/t4_psychology_rlacroix_202.txt	 32209	 32210	 O	 -1	 -1	 0
+
+Cognitive	 data/source_txt/t4_psychology_rlacroix_202.txt	 32210	 32219	 B-Term	 T161	 0	 AKA
 -	 data/source_txt/t4_psychology_rlacroix_202.txt	 32219	 32220	 I-Term	 T161	 0	 AKA
 behavioral	 data/source_txt/t4_psychology_rlacroix_202.txt	 32220	 32230	 I-Term	 T161	 0	 AKA
 therapy	 data/source_txt/t4_psychology_rlacroix_202.txt	 32231	 32238	 I-Term	 T161	 0	 AKA
@@ -6007,7 +5999,6 @@ expression	 data/source_txt/t4_psychology_rlacroix_202.txt	 34558	 34568	 O	 -1	
 /	 data/source_txt/t4_psychology_rlacroix_202.txt	 34568	 34569	 O	 -1	 -1	 0
 suppression	 data/source_txt/t4_psychology_rlacroix_202.txt	 34569	 34580	 O	 -1	 -1	 0
 .	 data/source_txt/t4_psychology_rlacroix_202.txt	 34580	 34581	 O	 -1	 -1	 0
-
 Focusing	 data/source_txt/t4_psychology_rlacroix_202.txt	 34581	 34589	 O	 -1	 -1	 0
 on	 data/source_txt/t4_psychology_rlacroix_202.txt	 34590	 34592	 O	 -1	 -1	 0
 racial	 data/source_txt/t4_psychology_rlacroix_202.txt	 34593	 34599	 O	 -1	 -1	 0

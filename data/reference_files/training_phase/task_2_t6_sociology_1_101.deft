@@ -73,7 +73,6 @@ term	 data/source_txt/t6_sociology_mkaplan_101.txt	 4949	 4953	 O
 societal	 data/source_txt/t6_sociology_mkaplan_101.txt	 4954	 4962	 O
 changes	 data/source_txt/t6_sociology_mkaplan_101.txt	 4963	 4970	 O
 .	 data/source_txt/t6_sociology_mkaplan_101.txt	 4970	 4971	 O
-
 Similarly	 data/source_txt/t6_sociology_mkaplan_101.txt	 4971	 4980	 O
 ,	 data/source_txt/t6_sociology_mkaplan_101.txt	 4980	 4981	 O
 intragenerational	 data/source_txt/t6_sociology_mkaplan_101.txt	 4982	 4999	 B-Term
@@ -120,7 +119,6 @@ or	 data/source_txt/t6_sociology_mkaplan_101.txt	 5206	 5208	 O
 her	 data/source_txt/t6_sociology_mkaplan_101.txt	 5209	 5212	 O
 siblings	 data/source_txt/t6_sociology_mkaplan_101.txt	 5213	 5221	 O
 .	 data/source_txt/t6_sociology_mkaplan_101.txt	 5221	 5222	 O
-
 Structural	 data/source_txt/t6_sociology_mkaplan_101.txt	 5222	 5232	 B-Term
 mobility	 data/source_txt/t6_sociology_mkaplan_101.txt	 5233	 5241	 I-Term
 happens	 data/source_txt/t6_sociology_mkaplan_101.txt	 5242	 5249	 B-Definition

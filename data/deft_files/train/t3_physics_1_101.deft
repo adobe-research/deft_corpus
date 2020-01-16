@@ -374,28 +374,6 @@ a	 data/source_txt/t3_physics_mkaplan_101.txt	 2692	 2693	 B-Term	 T212	 0	 Dire
 corotron	 data/source_txt/t3_physics_mkaplan_101.txt	 2694	 2702	 I-Term	 T212	 0	 Direct-Defines
 .	 data/source_txt/t3_physics_mkaplan_101.txt	 2702	 2703	 O	 -1	 -1	 0
 
-A	 data/source_txt/t3_physics_mkaplan_101.txt	 2597	 2598	 B-Definition	 T210	 T212	 Direct-Defines
-selenium	 data/source_txt/t3_physics_mkaplan_101.txt	 2599	 2607	 I-Definition	 T210	 T212	 Direct-Defines
--	 data/source_txt/t3_physics_mkaplan_101.txt	 2607	 2608	 I-Definition	 T210	 T212	 Direct-Defines
-coated	 data/source_txt/t3_physics_mkaplan_101.txt	 2608	 2614	 I-Definition	 T210	 T212	 Direct-Defines
-aluminum	 data/source_txt/t3_physics_mkaplan_101.txt	 2615	 2623	 I-Definition	 T210	 T212	 Direct-Defines
-drum	 data/source_txt/t3_physics_mkaplan_101.txt	 2624	 2628	 I-Definition	 T210	 T212	 Direct-Defines
-is	 data/source_txt/t3_physics_mkaplan_101.txt	 2629	 2631	 I-Definition	 T210	 T212	 Direct-Defines
-sprayed	 data/source_txt/t3_physics_mkaplan_101.txt	 2632	 2639	 I-Definition	 T210	 T212	 Direct-Defines
-with	 data/source_txt/t3_physics_mkaplan_101.txt	 2640	 2644	 I-Definition	 T210	 T212	 Direct-Defines
-positive	 data/source_txt/t3_physics_mkaplan_101.txt	 2645	 2653	 I-Definition	 T210	 T212	 Direct-Defines
-charge	 data/source_txt/t3_physics_mkaplan_101.txt	 2654	 2660	 I-Definition	 T210	 T212	 Direct-Defines
-from	 data/source_txt/t3_physics_mkaplan_101.txt	 2661	 2665	 I-Definition	 T210	 T212	 Direct-Defines
-points	 data/source_txt/t3_physics_mkaplan_101.txt	 2666	 2672	 I-Definition	 T210	 T212	 Direct-Defines
-on	 data/source_txt/t3_physics_mkaplan_101.txt	 2673	 2675	 I-Definition	 T210	 T212	 Direct-Defines
-a	 data/source_txt/t3_physics_mkaplan_101.txt	 2676	 2677	 I-Definition	 T210	 T212	 Direct-Defines
-device	 data/source_txt/t3_physics_mkaplan_101.txt	 2678	 2684	 I-Definition	 T210	 T212	 Direct-Defines
-called	 data/source_txt/t3_physics_mkaplan_101.txt	 2685	 2691	 I-Definition	 T210	 T212	 Direct-Defines
-a	 data/source_txt/t3_physics_mkaplan_101.txt	 2692	 2693	 I-Definition	 T210	 T212	 Direct-Defines
-corotron	 data/source_txt/t3_physics_mkaplan_101.txt	 2694	 2702	 I-Definition	 T210	 T212	 Direct-Defines
-.	 data/source_txt/t3_physics_mkaplan_101.txt	 2702	 2703	 O	 -1	 -1	 0
-
-
 2967	 data/source_txt/t3_physics_mkaplan_101.txt	 2707	 2711	 O	 -1	 -1	 0
 .	 data/source_txt/t3_physics_mkaplan_101.txt	 2711	 2712	 O	 -1	 -1	 0
 

@@ -4006,29 +4006,6 @@ called	 data/source_txt/t3_physics_rlacroix_0.txt	 20538	 20544	 O	 -1	 -1	 0
 absolute	 data/source_txt/t3_physics_rlacroix_0.txt	 20545	 20553	 B-Term	 T112	 0	 Direct-Defines
 zero	 data/source_txt/t3_physics_rlacroix_0.txt	 20554	 20558	 I-Term	 T112	 0	 Direct-Defines
 .	 data/source_txt/t3_physics_rlacroix_0.txt	 20558	 20559	 O	 -1	 -1	 0
-
-It	 data/source_txt/t3_physics_rlacroix_0.txt	 20446	 20448	 B-Referential-Term	 T109	 0	 Indirect-Defines
-is	 data/source_txt/t3_physics_rlacroix_0.txt	 20449	 20451	 O	 -1	 -1	 0
-an	 data/source_txt/t3_physics_rlacroix_0.txt	 20452	 20454	 B-Definition	 T110	 T109	 Indirect-Defines
-absolute	 data/source_txt/t3_physics_rlacroix_0.txt	 20455	 20463	 I-Definition	 T110	 T109	 Indirect-Defines
-temperature	 data/source_txt/t3_physics_rlacroix_0.txt	 20464	 20475	 I-Definition	 T110	 T109	 Indirect-Defines
-scale	 data/source_txt/t3_physics_rlacroix_0.txt	 20476	 20481	 I-Definition	 T110	 T109	 Indirect-Defines
-defined	 data/source_txt/t3_physics_rlacroix_0.txt	 20482	 20489	 I-Definition	 T110	 T109	 Indirect-Defines
-to	 data/source_txt/t3_physics_rlacroix_0.txt	 20490	 20492	 I-Definition	 T110	 T109	 Indirect-Defines
-have	 data/source_txt/t3_physics_rlacroix_0.txt	 20493	 20497	 I-Definition	 T110	 T109	 Indirect-Defines
-0	 data/source_txt/t3_physics_rlacroix_0.txt	 20498	 20499	 I-Definition	 T110	 T109	 Indirect-Defines
-K	 data/source_txt/t3_physics_rlacroix_0.txt	 20500	 20501	 I-Definition	 T110	 T109	 Indirect-Defines
-at	 data/source_txt/t3_physics_rlacroix_0.txt	 20502	 20504	 I-Definition	 T110	 T109	 Indirect-Defines
-the	 data/source_txt/t3_physics_rlacroix_0.txt	 20505	 20508	 I-Definition	 T110	 T109	 Indirect-Defines
-lowest	 data/source_txt/t3_physics_rlacroix_0.txt	 20509	 20515	 I-Definition	 T110	 T109	 Indirect-Defines
-possible	 data/source_txt/t3_physics_rlacroix_0.txt	 20516	 20524	 I-Definition	 T110	 T109	 Indirect-Defines
-temperature	 data/source_txt/t3_physics_rlacroix_0.txt	 20525	 20536	 I-Definition	 T110	 T109	 Indirect-Defines
-,	 data/source_txt/t3_physics_rlacroix_0.txt	 20536	 20537	 O	 -1	 -1	 0
-called	 data/source_txt/t3_physics_rlacroix_0.txt	 20538	 20544	 O	 -1	 -1	 0
-absolute	 data/source_txt/t3_physics_rlacroix_0.txt	 20545	 20553	 B-Term	 T112	 0	 Direct-Defines
-zero	 data/source_txt/t3_physics_rlacroix_0.txt	 20554	 20558	 I-Term	 T112	 0	 Direct-Defines
-.	 data/source_txt/t3_physics_rlacroix_0.txt	 20558	 20559	 O	 -1	 -1	 0
-
 The	 data/source_txt/t3_physics_rlacroix_0.txt	 20566	 20569	 O	 -1	 -1	 0
 official	 data/source_txt/t3_physics_rlacroix_0.txt	 20570	 20578	 O	 -1	 -1	 0
 temperature	 data/source_txt/t3_physics_rlacroix_0.txt	 20579	 20590	 O	 -1	 -1	 0

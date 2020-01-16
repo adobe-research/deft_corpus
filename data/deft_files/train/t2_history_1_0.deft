@@ -254,42 +254,6 @@ the	 data/source_txt/t2_history_mkaplan_0.txt	 1317	 1320	 B-Term	 T7	 0	 Direct
 Crusades	 data/source_txt/t2_history_mkaplan_0.txt	 1321	 1329	 I-Term	 T7	 0	 Direct-Defines
 .	 data/source_txt/t2_history_mkaplan_0.txt	 1329	 1330	 O	 -1	 -1	 0
 
-This	 data/source_txt/t2_history_mkaplan_0.txt	 1139	 1143	 O	 -1	 -1	 0
-drive	 data/source_txt/t2_history_mkaplan_0.txt	 1144	 1149	 O	 -1	 -1	 0
-was	 data/source_txt/t2_history_mkaplan_0.txt	 1150	 1153	 O	 -1	 -1	 0
-actually	 data/source_txt/t2_history_mkaplan_0.txt	 1154	 1162	 O	 -1	 -1	 0
-an	 data/source_txt/t2_history_mkaplan_0.txt	 1163	 1165	 O	 -1	 -1	 0
-extension	 data/source_txt/t2_history_mkaplan_0.txt	 1166	 1175	 O	 -1	 -1	 0
-of	 data/source_txt/t2_history_mkaplan_0.txt	 1176	 1178	 O	 -1	 -1	 0
-the	 data/source_txt/t2_history_mkaplan_0.txt	 1179	 1182	 B-Definition	 T6	 T7	 Direct-Defines
-earlier	 data/source_txt/t2_history_mkaplan_0.txt	 1183	 1190	 I-Definition	 T6	 T7	 Direct-Defines
-military	 data/source_txt/t2_history_mkaplan_0.txt	 1191	 1199	 I-Definition	 T6	 T7	 Direct-Defines
-conflict	 data/source_txt/t2_history_mkaplan_0.txt	 1200	 1208	 I-Definition	 T6	 T7	 Direct-Defines
-between	 data/source_txt/t2_history_mkaplan_0.txt	 1209	 1216	 I-Definition	 T6	 T7	 Direct-Defines
-Christians	 data/source_txt/t2_history_mkaplan_0.txt	 1217	 1227	 I-Definition	 T6	 T7	 Direct-Defines
-and	 data/source_txt/t2_history_mkaplan_0.txt	 1228	 1231	 I-Definition	 T6	 T7	 Direct-Defines
-Muslims	 data/source_txt/t2_history_mkaplan_0.txt	 1232	 1239	 I-Definition	 T6	 T7	 Direct-Defines
-for	 data/source_txt/t2_history_mkaplan_0.txt	 1240	 1243	 I-Definition	 T6	 T7	 Direct-Defines
-domination	 data/source_txt/t2_history_mkaplan_0.txt	 1244	 1254	 I-Definition	 T6	 T7	 Direct-Defines
-of	 data/source_txt/t2_history_mkaplan_0.txt	 1255	 1257	 I-Definition	 T6	 T7	 Direct-Defines
-the	 data/source_txt/t2_history_mkaplan_0.txt	 1258	 1261	 I-Definition	 T6	 T7	 Direct-Defines
-Holy	 data/source_txt/t2_history_mkaplan_0.txt	 1262	 1266	 I-Definition	 T6	 T7	 Direct-Defines
-Land	 data/source_txt/t2_history_mkaplan_0.txt	 1267	 1271	 I-Definition	 T6	 T7	 Direct-Defines
-(	 data/source_txt/t2_history_mkaplan_0.txt	 1272	 1273	 I-Definition	 T6	 T7	 Direct-Defines
-the	 data/source_txt/t2_history_mkaplan_0.txt	 1273	 1276	 I-Definition	 T6	 T7	 Direct-Defines
-Biblical	 data/source_txt/t2_history_mkaplan_0.txt	 1277	 1285	 I-Definition	 T6	 T7	 Direct-Defines
-region	 data/source_txt/t2_history_mkaplan_0.txt	 1286	 1292	 I-Definition	 T6	 T7	 Direct-Defines
-of	 data/source_txt/t2_history_mkaplan_0.txt	 1293	 1295	 I-Definition	 T6	 T7	 Direct-Defines
-Palestine	 data/source_txt/t2_history_mkaplan_0.txt	 1296	 1305	 I-Definition	 T6	 T7	 Direct-Defines
-)	 data/source_txt/t2_history_mkaplan_0.txt	 1305	 1306	 I-Definition	 T6	 T7	 Direct-Defines
-,	 data/source_txt/t2_history_mkaplan_0.txt	 1306	 1307	 O	 -1	 -1	 0
-known	 data/source_txt/t2_history_mkaplan_0.txt	 1308	 1313	 O	 -1	 -1	 0
-as	 data/source_txt/t2_history_mkaplan_0.txt	 1314	 1316	 O	 -1	 -1	 0
-the	 data/source_txt/t2_history_mkaplan_0.txt	 1317	 1320	 B-Term	 T7	 0	 Direct-Defines
-Crusades	 data/source_txt/t2_history_mkaplan_0.txt	 1321	 1329	 I-Term	 T7	 0	 Direct-Defines
-.	 data/source_txt/t2_history_mkaplan_0.txt	 1329	 1330	 O	 -1	 -1	 0
-
-
 2131	 data/source_txt/t2_history_mkaplan_0.txt	 2199	 2203	 O	 -1	 -1	 0
 .	 data/source_txt/t2_history_mkaplan_0.txt	 2203	 2204	 O	 -1	 -1	 0
 

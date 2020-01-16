@@ -121,35 +121,6 @@ of	 data/source_txt/t7_government_rlacroix_0.txt	 1600	 1602	 O	 -1	 -1	 0
 the	 data/source_txt/t7_government_rlacroix_0.txt	 1603	 1606	 O	 -1	 -1	 0
 people	 data/source_txt/t7_government_rlacroix_0.txt	 1607	 1613	 O	 -1	 -1	 0
 .	 data/source_txt/t7_government_rlacroix_0.txt	 1613	 1614	 O	 -1	 -1	 0
-
-A	 data/source_txt/t7_government_rlacroix_0.txt	 1477	 1478	 B-Term	 T6	 0	 Direct-Defines
-democracy	 data/source_txt/t7_government_rlacroix_0.txt	 1479	 1488	 I-Term	 T6	 0	 Direct-Defines
-is	 data/source_txt/t7_government_rlacroix_0.txt	 1489	 1491	 O	 -1	 -1	 0
-a	 data/source_txt/t7_government_rlacroix_0.txt	 1492	 1493	 B-Definition	 T7	 T6	 Direct-Defines
-government	 data/source_txt/t7_government_rlacroix_0.txt	 1494	 1504	 I-Definition	 T7	 T6	 Direct-Defines
-in	 data/source_txt/t7_government_rlacroix_0.txt	 1505	 1507	 I-Definition	 T7	 T6	 Direct-Defines
-which	 data/source_txt/t7_government_rlacroix_0.txt	 1508	 1513	 I-Definition	 T7	 T6	 Direct-Defines
-political	 data/source_txt/t7_government_rlacroix_0.txt	 1514	 1523	 I-Definition	 T7	 T6	 Direct-Defines
-power	 data/source_txt/t7_government_rlacroix_0.txt	 1524	 1529	 I-Definition	 T7	 T6	 Direct-Defines
-—	 data/source_txt/t7_government_rlacroix_0.txt	 1529	 1530	 I-Definition	 T7	 T6	 Direct-Defines
-influence	 data/source_txt/t7_government_rlacroix_0.txt	 1530	 1539	 I-Definition	 T7	 T6	 Direct-Defines
-over	 data/source_txt/t7_government_rlacroix_0.txt	 1540	 1544	 I-Definition	 T7	 T6	 Direct-Defines
-institutions	 data/source_txt/t7_government_rlacroix_0.txt	 1545	 1557	 I-Definition	 T7	 T6	 Direct-Defines
-,	 data/source_txt/t7_government_rlacroix_0.txt	 1557	 1558	 I-Definition	 T7	 T6	 Direct-Defines
-leaders	 data/source_txt/t7_government_rlacroix_0.txt	 1559	 1566	 I-Definition	 T7	 T6	 Direct-Defines
-,	 data/source_txt/t7_government_rlacroix_0.txt	 1566	 1567	 I-Definition	 T7	 T6	 Direct-Defines
-and	 data/source_txt/t7_government_rlacroix_0.txt	 1568	 1571	 I-Definition	 T7	 T6	 Direct-Defines
-policies	 data/source_txt/t7_government_rlacroix_0.txt	 1572	 1580	 I-Definition	 T7	 T6	 Direct-Defines
-—	 data/source_txt/t7_government_rlacroix_0.txt	 1580	 1581	 I-Definition	 T7	 T6	 Direct-Defines
-rests	 data/source_txt/t7_government_rlacroix_0.txt	 1581	 1586	 I-Definition	 T7	 T6	 Direct-Defines
-in	 data/source_txt/t7_government_rlacroix_0.txt	 1587	 1589	 I-Definition	 T7	 T6	 Direct-Defines
-the	 data/source_txt/t7_government_rlacroix_0.txt	 1590	 1593	 I-Definition	 T7	 T6	 Direct-Defines
-hands	 data/source_txt/t7_government_rlacroix_0.txt	 1594	 1599	 I-Definition	 T7	 T6	 Direct-Defines
-of	 data/source_txt/t7_government_rlacroix_0.txt	 1600	 1602	 I-Definition	 T7	 T6	 Direct-Defines
-the	 data/source_txt/t7_government_rlacroix_0.txt	 1603	 1606	 I-Definition	 T7	 T6	 Direct-Defines
-people	 data/source_txt/t7_government_rlacroix_0.txt	 1607	 1613	 I-Definition	 T7	 T6	 Direct-Defines
-.	 data/source_txt/t7_government_rlacroix_0.txt	 1613	 1614	 O	 -1	 -1	 0
-
 In	 data/source_txt/t7_government_rlacroix_0.txt	 1621	 1623	 O	 -1	 -1	 0
 a	 data/source_txt/t7_government_rlacroix_0.txt	 1624	 1625	 O	 -1	 -1	 0
 representative	 data/source_txt/t7_government_rlacroix_0.txt	 1626	 1640	 O	 -1	 -1	 0

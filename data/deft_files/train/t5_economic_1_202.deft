@@ -2788,25 +2788,6 @@ the	 data/source_txt/t5_economic_mkaplan_202.txt	 14464	 14467	 B-Term	 T129	 0	
 liability	 data/source_txt/t5_economic_mkaplan_202.txt	 14468	 14477	 I-Term	 T129	 0	 Direct-Defines
 )	 data/source_txt/t5_economic_mkaplan_202.txt	 14477	 14478	 O	 -1	 -1	 0
 .	 data/source_txt/t5_economic_mkaplan_202.txt	 14478	 14479	 O	 -1	 -1	 0
-
-The	 data/source_txt/t5_economic_mkaplan_202.txt	 14407	 14410	 B-Term	 T47	 0	 Direct-Defines
-net	 data/source_txt/t5_economic_mkaplan_202.txt	 14411	 14414	 I-Term	 T47	 0	 Direct-Defines
-worth	 data/source_txt/t5_economic_mkaplan_202.txt	 14415	 14420	 I-Term	 T47	 0	 Direct-Defines
-is	 data/source_txt/t5_economic_mkaplan_202.txt	 14421	 14423	 O	 -1	 -1	 0
-the	 data/source_txt/t5_economic_mkaplan_202.txt	 14424	 14427	 B-Definition	 T48	 T47	 Direct-Defines
-asset	 data/source_txt/t5_economic_mkaplan_202.txt	 14428	 14433	 I-Definition	 T48	 T47	 Direct-Defines
-value	 data/source_txt/t5_economic_mkaplan_202.txt	 14434	 14439	 I-Definition	 T48	 T47	 Direct-Defines
-minus	 data/source_txt/t5_economic_mkaplan_202.txt	 14440	 14445	 I-Definition	 T48	 T47	 Direct-Defines
-how	 data/source_txt/t5_economic_mkaplan_202.txt	 14446	 14449	 I-Definition	 T48	 T47	 Direct-Defines
-much	 data/source_txt/t5_economic_mkaplan_202.txt	 14450	 14454	 I-Definition	 T48	 T47	 Direct-Defines
-is	 data/source_txt/t5_economic_mkaplan_202.txt	 14455	 14457	 I-Definition	 T48	 T47	 Direct-Defines
-owed	 data/source_txt/t5_economic_mkaplan_202.txt	 14458	 14462	 I-Definition	 T48	 T47	 Direct-Defines
-(	 data/source_txt/t5_economic_mkaplan_202.txt	 14463	 14464	 I-Definition	 T48	 T47	 Direct-Defines
-the	 data/source_txt/t5_economic_mkaplan_202.txt	 14464	 14467	 I-Definition	 T48	 T47	 Direct-Defines
-liability	 data/source_txt/t5_economic_mkaplan_202.txt	 14468	 14477	 I-Definition	 T48	 T47	 Direct-Defines
-)	 data/source_txt/t5_economic_mkaplan_202.txt	 14477	 14478	 I-Definition	 T48	 T47	 Direct-Defines
-.	 data/source_txt/t5_economic_mkaplan_202.txt	 14478	 14479	 O	 -1	 -1	 0
-
 A	 data/source_txt/t5_economic_mkaplan_202.txt	 14486	 14487	 O	 -1	 -1	 0
 bank	 data/source_txt/t5_economic_mkaplan_202.txt	 14488	 14492	 O	 -1	 -1	 0
 ’s	 data/source_txt/t5_economic_mkaplan_202.txt	 14492	 14494	 O	 -1	 -1	 0

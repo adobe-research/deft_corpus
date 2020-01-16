@@ -36,11 +36,7 @@ as	 data/source_txt/t6_sociology_mkaplan_101.txt	 191	 193	 I-Definition	 T2	 T1
 food	 data/source_txt/t6_sociology_mkaplan_101.txt	 194	 198	 I-Definition	 T2	 T1	 Direct-Defines
 (	 data/source_txt/t6_sociology_mkaplan_101.txt	 199	 200	 O	 -1	 -1	 0
 Byrns	 data/source_txt/t6_sociology_mkaplan_101.txt	 200	 205	 O	 -1	 -1	 0
-2011	 data/source_txt/t6_sociology_mkaplan_101.txt	 206	 210	 O	 -1	 -1	 0
-)	 data/source_txt/t6_sociology_mkaplan_101.txt	 210	 211	 O	 -1	 -1	 0
-.	 data/source_txt/t6_sociology_mkaplan_101.txt	 211	 212	 O	 -1	 -1	 0
-
-We	 data/source_txt/t6_sociology_mkaplan_101.txt	 212	 214	 O	 -1	 -1	 0
+2011).We	 data/source_txt/t6_sociology_mkaplan_101.txt	 206	 214	 O	 -1	 -1	 0
 can	 data/source_txt/t6_sociology_mkaplan_101.txt	 215	 218	 O	 -1	 -1	 0
 not	 data/source_txt/t6_sociology_mkaplan_101.txt	 218	 221	 O	 -1	 -1	 0
 even	 data/source_txt/t6_sociology_mkaplan_101.txt	 222	 226	 O	 -1	 -1	 0
@@ -250,11 +246,7 @@ one	 data/source_txt/t6_sociology_mkaplan_101.txt	 1406	 1409	 O	 -1	 -1	 0
 shown	 data/source_txt/t6_sociology_mkaplan_101.txt	 1410	 1415	 O	 -1	 -1	 0
 in	 data/source_txt/t6_sociology_mkaplan_101.txt	 1416	 1418	 O	 -1	 -1	 0
 [	 data/source_txt/t6_sociology_mkaplan_101.txt	 1419	 1420	 O	 -1	 -1	 0
-link	 data/source_txt/t6_sociology_mkaplan_101.txt	 1420	 1424	 O	 -1	 -1	 0
-]	 data/source_txt/t6_sociology_mkaplan_101.txt	 1424	 1425	 O	 -1	 -1	 0
-?	 data/source_txt/t6_sociology_mkaplan_101.txt	 1425	 1426	 O	 -1	 -1	 0
-
-In	 data/source_txt/t6_sociology_mkaplan_101.txt	 1426	 1428	 O	 -1	 -1	 0
+link]?In	 data/source_txt/t6_sociology_mkaplan_101.txt	 1420	 1428	 O	 -1	 -1	 0
 sociology	 data/source_txt/t6_sociology_mkaplan_101.txt	 1429	 1438	 O	 -1	 -1	 0
 ,	 data/source_txt/t6_sociology_mkaplan_101.txt	 1438	 1439	 O	 -1	 -1	 0
 economy	 data/source_txt/t6_sociology_mkaplan_101.txt	 1440	 1447	 B-Term	 T9	 0	 Direct-Defines
@@ -811,7 +803,6 @@ of	 data/source_txt/t6_sociology_mkaplan_101.txt	 5534	 5536	 O	 -1	 -1	 0
 social	 data/source_txt/t6_sociology_mkaplan_101.txt	 5537	 5543	 O	 -1	 -1	 0
 inequality	 data/source_txt/t6_sociology_mkaplan_101.txt	 5544	 5554	 O	 -1	 -1	 0
 .	 data/source_txt/t6_sociology_mkaplan_101.txt	 5554	 5555	 O	 -1	 -1	 0
-
 In	 data/source_txt/t6_sociology_mkaplan_101.txt	 5555	 5557	 O	 -1	 -1	 0
 the	 data/source_txt/t6_sociology_mkaplan_101.txt	 5558	 5561	 O	 -1	 -1	 0
 early	 data/source_txt/t6_sociology_mkaplan_101.txt	 5562	 5567	 O	 -1	 -1	 0
@@ -1374,10 +1365,7 @@ keeping	 data/source_txt/t6_sociology_mkaplan_101.txt	 8576	 8583	 O	 -1	 -1	 0
 up	 data/source_txt/t6_sociology_mkaplan_101.txt	 8584	 8586	 O	 -1	 -1	 0
 with	 data/source_txt/t6_sociology_mkaplan_101.txt	 8587	 8591	 O	 -1	 -1	 0
 the	 data/source_txt/t6_sociology_mkaplan_101.txt	 8592	 8595	 O	 -1	 -1	 0
-Joneses	 data/source_txt/t6_sociology_mkaplan_101.txt	 8596	 8603	 O	 -1	 -1	 0
-”	 data/source_txt/t6_sociology_mkaplan_101.txt	 8603	 8604	 O	 -1	 -1	 0
-—	 data/source_txt/t6_sociology_mkaplan_101.txt	 8604	 8605	 O	 -1	 -1	 0
-the	 data/source_txt/t6_sociology_mkaplan_101.txt	 8605	 8608	 O	 -1	 -1	 0
+Joneses”—the	 data/source_txt/t6_sociology_mkaplan_101.txt	 8596	 8608	 O	 -1	 -1	 0
 idea	 data/source_txt/t6_sociology_mkaplan_101.txt	 8609	 8613	 O	 -1	 -1	 0
 that	 data/source_txt/t6_sociology_mkaplan_101.txt	 8614	 8618	 O	 -1	 -1	 0
 you	 data/source_txt/t6_sociology_mkaplan_101.txt	 8619	 8622	 O	 -1	 -1	 0
@@ -1448,7 +1436,6 @@ making	 data/source_txt/t6_sociology_mkaplan_101.txt	 8911	 8917	 O	 -1	 -1	 0
 ends	 data/source_txt/t6_sociology_mkaplan_101.txt	 8918	 8922	 O	 -1	 -1	 0
 meet	 data/source_txt/t6_sociology_mkaplan_101.txt	 8923	 8927	 O	 -1	 -1	 0
 .	 data/source_txt/t6_sociology_mkaplan_101.txt	 8927	 8928	 O	 -1	 -1	 0
-
 Contrary	 data/source_txt/t6_sociology_mkaplan_101.txt	 8928	 8936	 O	 -1	 -1	 0
 to	 data/source_txt/t6_sociology_mkaplan_101.txt	 8937	 8939	 O	 -1	 -1	 0
 relative	 data/source_txt/t6_sociology_mkaplan_101.txt	 8940	 8948	 O	 -1	 -1	 0
@@ -1513,9 +1500,7 @@ day	 data/source_txt/t6_sociology_mkaplan_101.txt	 9222	 9225	 I-Definition	 T52
 .	 data/source_txt/t6_sociology_mkaplan_101.txt	 9558	 9559	 O	 -1	 -1	 0
 
 Dependency	 data/source_txt/t6_sociology_mkaplan_101.txt	 9569	 9579	 O	 -1	 -1	 0
-Theory	 data/source_txt/t6_sociology_mkaplan_101.txt	 9580	 9586	 O	 -1	 -1	 0
-
-Dependency	 data/source_txt/t6_sociology_mkaplan_101.txt	 9586	 9596	 B-Term	 T55	 0	 Refers-To
+TheoryDependency	 data/source_txt/t6_sociology_mkaplan_101.txt	 9580	 9596	 B-Term	 T55	 0	 Refers-To
 theory	 data/source_txt/t6_sociology_mkaplan_101.txt	 9597	 9603	 I-Term	 T55	 0	 Refers-To
 was	 data/source_txt/t6_sociology_mkaplan_101.txt	 9604	 9607	 O	 -1	 -1	 0
 created	 data/source_txt/t6_sociology_mkaplan_101.txt	 9608	 9615	 O	 -1	 -1	 0
@@ -1608,28 +1593,6 @@ of	 data/source_txt/t6_sociology_mkaplan_101.txt	 10044	 10046	 I-Definition	 T6
 a	 data/source_txt/t6_sociology_mkaplan_101.txt	 10047	 10048	 I-Definition	 T61	 T60	 Direct-Defines
 group	 data/source_txt/t6_sociology_mkaplan_101.txt	 10049	 10054	 I-Definition	 T61	 T60	 Direct-Defines
 .	 data/source_txt/t6_sociology_mkaplan_101.txt	 10054	 10055	 O	 -1	 -1	 0
-
-Ethnicity	 data/source_txt/t6_sociology_mkaplan_101.txt	 9959	 9968	 B-Term	 T58	 0	 Direct-Defines
-is	 data/source_txt/t6_sociology_mkaplan_101.txt	 9969	 9971	 O	 -1	 -1	 0
-a	 data/source_txt/t6_sociology_mkaplan_101.txt	 9972	 9973	 B-Definition	 T59	 T58	 Direct-Defines
-term	 data/source_txt/t6_sociology_mkaplan_101.txt	 9974	 9978	 I-Definition	 T59	 T58	 Direct-Defines
-that	 data/source_txt/t6_sociology_mkaplan_101.txt	 9979	 9983	 I-Definition	 T59	 T58	 Direct-Defines
-describes	 data/source_txt/t6_sociology_mkaplan_101.txt	 9984	 9993	 I-Definition	 T59	 T58	 Direct-Defines
-shared	 data/source_txt/t6_sociology_mkaplan_101.txt	 9994	 10000	 I-Definition	 T59	 T58	 Direct-Defines
-culture	 data/source_txt/t6_sociology_mkaplan_101.txt	 10001	 10008	 I-Definition	 T59	 T58	 Direct-Defines
-—	 data/source_txt/t6_sociology_mkaplan_101.txt	 10008	 10009	 I-Definition	 T59	 T58	 Direct-Defines
-the	 data/source_txt/t6_sociology_mkaplan_101.txt	 10009	 10012	 I-Definition	 T59	 T58	 Direct-Defines
-practices	 data/source_txt/t6_sociology_mkaplan_101.txt	 10013	 10022	 I-Definition	 T59	 T58	 Direct-Defines
-,	 data/source_txt/t6_sociology_mkaplan_101.txt	 10022	 10023	 I-Definition	 T59	 T58	 Direct-Defines
-values	 data/source_txt/t6_sociology_mkaplan_101.txt	 10024	 10030	 I-Definition	 T59	 T58	 Direct-Defines
-,	 data/source_txt/t6_sociology_mkaplan_101.txt	 10030	 10031	 I-Definition	 T59	 T58	 Direct-Defines
-and	 data/source_txt/t6_sociology_mkaplan_101.txt	 10032	 10035	 I-Definition	 T59	 T58	 Direct-Defines
-beliefs	 data/source_txt/t6_sociology_mkaplan_101.txt	 10036	 10043	 I-Definition	 T59	 T58	 Direct-Defines
-of	 data/source_txt/t6_sociology_mkaplan_101.txt	 10044	 10046	 I-Definition	 T59	 T58	 Direct-Defines
-a	 data/source_txt/t6_sociology_mkaplan_101.txt	 10047	 10048	 I-Definition	 T59	 T58	 Direct-Defines
-group	 data/source_txt/t6_sociology_mkaplan_101.txt	 10049	 10054	 I-Definition	 T59	 T58	 Direct-Defines
-.	 data/source_txt/t6_sociology_mkaplan_101.txt	 10054	 10055	 O	 -1	 -1	 0
-
 This	 data/source_txt/t6_sociology_mkaplan_101.txt	 10062	 10066	 O	 -1	 -1	 0
 culture	 data/source_txt/t6_sociology_mkaplan_101.txt	 10067	 10074	 O	 -1	 -1	 0
 might	 data/source_txt/t6_sociology_mkaplan_101.txt	 10075	 10080	 O	 -1	 -1	 0
@@ -1959,14 +1922,8 @@ racial	 data/source_txt/t6_sociology_mkaplan_101.txt	 11824	 11830	 O	 -1	 -1	 0
 inequalities	 data/source_txt/t6_sociology_mkaplan_101.txt	 11831	 11843	 O	 -1	 -1	 0
 (	 data/source_txt/t6_sociology_mkaplan_101.txt	 11844	 11845	 O	 -1	 -1	 0
 Bouie	 data/source_txt/t6_sociology_mkaplan_101.txt	 11845	 11850	 O	 -1	 -1	 0
-2014	 data/source_txt/t6_sociology_mkaplan_101.txt	 11851	 11855	 O	 -1	 -1	 0
-)	 data/source_txt/t6_sociology_mkaplan_101.txt	 11855	 11856	 O	 -1	 -1	 0
-.	 data/source_txt/t6_sociology_mkaplan_101.txt	 11856	 11857	 O	 -1	 -1	 0
-
-Multiple	 data/source_txt/t6_sociology_mkaplan_101.txt	 11857	 11865	 O	 -1	 -1	 0
-Identities	 data/source_txt/t6_sociology_mkaplan_101.txt	 11866	 11876	 O	 -1	 -1	 0
-
-Golfer	 data/source_txt/t6_sociology_mkaplan_101.txt	 11876	 11882	 O	 -1	 -1	 0
+2014).Multiple	 data/source_txt/t6_sociology_mkaplan_101.txt	 11851	 11865	 O	 -1	 -1	 0
+IdentitiesGolfer	 data/source_txt/t6_sociology_mkaplan_101.txt	 11866	 11882	 O	 -1	 -1	 0
 Tiger	 data/source_txt/t6_sociology_mkaplan_101.txt	 11883	 11888	 O	 -1	 -1	 0
 Woods	 data/source_txt/t6_sociology_mkaplan_101.txt	 11889	 11894	 O	 -1	 -1	 0
 has	 data/source_txt/t6_sociology_mkaplan_101.txt	 11895	 11898	 O	 -1	 -1	 0
@@ -2222,11 +2179,7 @@ when	 data/source_txt/t6_sociology_mkaplan_101.txt	 14098	 14102	 I-Definition	 
 the	 data/source_txt/t6_sociology_mkaplan_101.txt	 14103	 14106	 I-Definition	 T85	 T84	 Direct-Defines
 Q	 data/source_txt/t6_sociology_mkaplan_101.txt	 14107	 14108	 I-Definition	 T85	 T84	 Direct-Defines
 is	 data/source_txt/t6_sociology_mkaplan_101.txt	 14109	 14111	 I-Definition	 T85	 T84	 Direct-Defines
-added	 data/source_txt/t6_sociology_mkaplan_101.txt	 14112	 14117	 I-Definition	 T85	 T84	 Direct-Defines
-)	 data/source_txt/t6_sociology_mkaplan_101.txt	 14117	 14118	 I-Definition	 T85	 T84	 Direct-Defines
-.	 data/source_txt/t6_sociology_mkaplan_101.txt	 14118	 14119	 O	 -1	 -1	 0
-
-Sociologically	 data/source_txt/t6_sociology_mkaplan_101.txt	 14119	 14133	 O	 -1	 -1	 0
+added).Sociologically	 data/source_txt/t6_sociology_mkaplan_101.txt	 14112	 14133	 Definition	 T85	 T84	 Direct-Defines
 ,	 data/source_txt/t6_sociology_mkaplan_101.txt	 14133	 14134	 O	 -1	 -1	 0
 it	 data/source_txt/t6_sociology_mkaplan_101.txt	 14135	 14137	 O	 -1	 -1	 0
 is	 data/source_txt/t6_sociology_mkaplan_101.txt	 14138	 14140	 O	 -1	 -1	 0
@@ -2526,7 +2479,8 @@ or	 data/source_txt/t6_sociology_mkaplan_101.txt	 15697	 15699	 O	 -1	 -1	 0
 older	 data/source_txt/t6_sociology_mkaplan_101.txt	 15700	 15705	 O	 -1	 -1	 0
 (	 data/source_txt/t6_sociology_mkaplan_101.txt	 15706	 15707	 O	 -1	 -1	 0
 Diebel	 data/source_txt/t6_sociology_mkaplan_101.txt	 15707	 15713	 O	 -1	 -1	 0
-2014)	 data/source_txt/t6_sociology_mkaplan_101.txt	 15714	 15719	 O	 -1	 -1	 0
+2014	 data/source_txt/t6_sociology_mkaplan_101.txt	 15714	 15718	 O	 -1	 -1	 0
+)	 data/source_txt/t6_sociology_mkaplan_101.txt	 15718	 15719	 O	 -1	 -1	 0
 .	 data/source_txt/t6_sociology_mkaplan_101.txt	 15719	 15720	 O	 -1	 -1	 0
 
 Supercentenarians	 data/source_txt/t6_sociology_mkaplan_101.txt	 15720	 15737	 B-Term	 T97	 0	 Direct-Defines
@@ -2629,9 +2583,7 @@ dying	 data/source_txt/t6_sociology_mkaplan_101.txt	 16234	 16239	 O	 -1	 -1	 0
 .	 data/source_txt/t6_sociology_mkaplan_101.txt	 16248	 16249	 O	 -1	 -1	 0
 
 Baby	 data/source_txt/t6_sociology_mkaplan_101.txt	 16259	 16263	 O	 -1	 -1	 0
-Boomers	 data/source_txt/t6_sociology_mkaplan_101.txt	 16264	 16271	 O	 -1	 -1	 0
-
-Of	 data/source_txt/t6_sociology_mkaplan_101.txt	 16271	 16273	 O	 -1	 -1	 0
+BoomersOf	 data/source_txt/t6_sociology_mkaplan_101.txt	 16264	 16273	 O	 -1	 -1	 0
 particular	 data/source_txt/t6_sociology_mkaplan_101.txt	 16274	 16284	 O	 -1	 -1	 0
 interest	 data/source_txt/t6_sociology_mkaplan_101.txt	 16285	 16293	 O	 -1	 -1	 0
 to	 data/source_txt/t6_sociology_mkaplan_101.txt	 16294	 16296	 O	 -1	 -1	 0
@@ -3728,7 +3680,6 @@ be	 data/source_txt/t6_sociology_mkaplan_101.txt	 22000	 22002	 I-Definition	 T1
 spiritually	 data/source_txt/t6_sociology_mkaplan_101.txt	 22003	 22014	 I-Definition	 T139	 T138	 Direct-Defines
 significant	 data/source_txt/t6_sociology_mkaplan_101.txt	 22015	 22026	 I-Definition	 T139	 T138	 Direct-Defines
 .	 data/source_txt/t6_sociology_mkaplan_101.txt	 22026	 22027	 O	 -1	 -1	 0
-
 Does	 data/source_txt/t6_sociology_mkaplan_101.txt	 22027	 22031	 O	 -1	 -1	 0
 religion	 data/source_txt/t6_sociology_mkaplan_101.txt	 22032	 22040	 O	 -1	 -1	 0
 bring	 data/source_txt/t6_sociology_mkaplan_101.txt	 22041	 22046	 O	 -1	 -1	 0
@@ -3812,11 +3763,7 @@ sins	 data/source_txt/t6_sociology_mkaplan_101.txt	 22465	 22469	 I-Definition	 
 Barkan	 data/source_txt/t6_sociology_mkaplan_101.txt	 22471	 22477	 O	 -1	 -1	 0
 and	 data/source_txt/t6_sociology_mkaplan_101.txt	 22478	 22481	 O	 -1	 -1	 0
 Greenwood	 data/source_txt/t6_sociology_mkaplan_101.txt	 22482	 22491	 O	 -1	 -1	 0
-2003	 data/source_txt/t6_sociology_mkaplan_101.txt	 22492	 22496	 O	 -1	 -1	 0
-)	 data/source_txt/t6_sociology_mkaplan_101.txt	 22496	 22497	 O	 -1	 -1	 0
-.	 data/source_txt/t6_sociology_mkaplan_101.txt	 22497	 22498	 O	 -1	 -1	 0
-
-The	 data/source_txt/t6_sociology_mkaplan_101.txt	 22498	 22501	 O	 -1	 -1	 0
+2003).The	 data/source_txt/t6_sociology_mkaplan_101.txt	 22492	 22501	 O	 -1	 -1	 0
 History	 data/source_txt/t6_sociology_mkaplan_101.txt	 22502	 22509	 O	 -1	 -1	 0
 of	 data/source_txt/t6_sociology_mkaplan_101.txt	 22510	 22512	 O	 -1	 -1	 0
 Religion	 data/source_txt/t6_sociology_mkaplan_101.txt	 22513	 22521	 O	 -1	 -1	 0
