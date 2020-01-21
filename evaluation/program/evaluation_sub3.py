@@ -50,7 +50,7 @@ def get_relation_from(row):
     Returns:
         relation_from: string
     """
-    return row[-2]
+    return row[-2].strip()
 
 
 def get_relation_to(row):
@@ -60,7 +60,7 @@ def get_relation_to(row):
     Returns:
         relation_to: string
     """
-    return row[-3]
+    return row[-3].strip()
 
 
 def is_root(row):
@@ -110,9 +110,10 @@ def validate_tokens(gold_rows, pred_rows):
         pred_rows: list of lists of strings
     """
     for row_index in range(len(pred_rows)):
-        gold_token = get_token(gold_rows[row_index])
-        pred_token = get_token(pred_rows[row_index])
-        if pred_token != gold_token:
+        gold_token = get_token(gold_rows[row_index]).split()
+        pred_token = get_token(pred_rows[row_index]).split()
+
+        if len(gold_token) != len(pred_token):
             raise ValueError("Token mismatch row {}: Pred {} Gold {}".format(row_index, pred_token, gold_token))
 
 

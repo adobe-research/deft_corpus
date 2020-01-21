@@ -11,10 +11,10 @@
 
 "Linguistics"	"/Work/Documents/sample00.txt"	999	999	"B-Term"
 "is"	"/Work/Documents/sample00.txt"	999	999	"O"
-"the"	"/Work/Documents/sample00.txt"	999	999	"O"
-"scientific"	"/Work/Documents/sample00.txt"	999	999	"O"
-"study"	"/Work/Documents/sample00.txt"	999	999	"B-Definition"
+"the"	"/Work/Documents/sample00.txt"	999	999	"B-Definition"
+"scientific"	"/Work/Documents/sample00.txt"	999	999	"I-Definition"
+"study"	"/Work/Documents/sample00.txt"	999	999	"I-Definition"
 "of"	"/Work/Documents/sample00.txt"	999	999	"I-Definition"
 "language"	"/Work/Documents/sample00.txt"	999	999	"I-Definition"
-"."	"/Work/Documents/sample00.txt"	999	999	"I-Definition"
+"."	"/Work/Documents/sample00.txt"	999	999	"O"
 

@@ -66,10 +66,12 @@ def validate_tokens(gold_rows, pred_rows):
         pred_rows: list of lists of strings
     """
     for row_index in range(len(pred_rows)):
-        gold_token = get_token(gold_rows[row_index])
-        pred_token = get_token(pred_rows[row_index])
-        if pred_token != gold_token:
+        gold_token = get_token(gold_rows[row_index]).split()
+        pred_token = get_token(pred_rows[row_index]).split()
+
+        if len(gold_token) != len(pred_token):
             raise ValueError("Token mismatch row {}: Pred {} Gold {}".format(row_index, pred_token, gold_token))
+
 
 def validate_ref_labels(eval_labels, y_gold):
     for index, label in enumerate(y_gold):
