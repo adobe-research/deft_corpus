@@ -3943,7 +3943,7 @@ state	 data/source_txt/t7_government_1_303.deft	 26744	 26749	 O	 -1	 -1	 0
 Religious	 data/source_txt/t7_government_1_303.deft	 26752	 26761	 B-Term	 T38	 0	 Refers-To
 Freedom	 data/source_txt/t7_government_1_303.deft	 26762	 26769	 I-Term	 T38	 0	 Refers-To
 Restoration	 data/source_txt/t7_government_1_303.deft	 26770	 26781	 I-Term	 T38	 0	 Refers-To
-Act	 data/source_txt/t7_government_1_303.deft	 26782	 26785	 Term	 T38	 0	 Refers-To
+Act	 data/source_txt/t7_government_1_303.deft	 26782	 26785	 I-Term	 T38	 0	 Refers-To
 .	 data/source_txt/t7_government_1_303.deft	 26785	 26786	 O	 -1	 -1	 0
 
 “	 data/source_txt/t7_government_1_303.deft	 26786	 26787	 O	 -1	 -1	 0

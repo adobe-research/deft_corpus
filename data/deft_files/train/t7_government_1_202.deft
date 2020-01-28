@@ -1406,10 +1406,6 @@ sources	 data/source_txt/t7_government_1_202.deft	 7372	 7379	 O	 -1	 -1	 0
 .	 data/source_txt/t7_government_1_202.deft	 7379	 7380	 O	 -1	 -1	 0
 
 
-1954	 data/source_txt/t7_government_1_202.deft	 7639	 7643	 O	 -1	 -1	 0
-.	 data/source_txt/t7_government_1_202.deft	 7643	 7644	 O	 -1	 -1	 0
-
-
 6458	 data/source_txt/t7_government_1_202.deft	 7648	 7652	 O	 -1	 -1	 0
 .	 data/source_txt/t7_government_1_202.deft	 7652	 7653	 O	 -1	 -1	 0
 
@@ -3198,50 +3194,6 @@ the	 data/source_txt/t7_government_1_202.deft	 17218	 17221	 O	 -1	 -1	 0
 United	 data/source_txt/t7_government_1_202.deft	 17222	 17228	 O	 -1	 -1	 0
 States	 data/source_txt/t7_government_1_202.deft	 17229	 17235	 O	 -1	 -1	 0
 .	 data/source_txt/t7_government_1_202.deft	 17235	 17236	 O	 -1	 -1	 0
-
-
-2007	 data/source_txt/t7_government_1_202.deft	 17246	 17250	 O	 -1	 -1	 0
-.	 data/source_txt/t7_government_1_202.deft	 17250	 17251	 O	 -1	 -1	 0
-
-Encyclopedia	 data/source_txt/t7_government_1_202.deft	 17260	 17272	 O	 -1	 -1	 0
-of	 data/source_txt/t7_government_1_202.deft	 17273	 17275	 O	 -1	 -1	 0
-American	 data/source_txt/t7_government_1_202.deft	 17276	 17284	 O	 -1	 -1	 0
-Political	 data/source_txt/t7_government_1_202.deft	 17285	 17294	 O	 -1	 -1	 0
-Parties	 data/source_txt/t7_government_1_202.deft	 17295	 17302	 O	 -1	 -1	 0
-and	 data/source_txt/t7_government_1_202.deft	 17303	 17306	 O	 -1	 -1	 0
-Elections	 data/source_txt/t7_government_1_202.deft	 17307	 17316	 O	 -1	 -1	 0
-.	 data/source_txt/t7_government_1_202.deft	 17316	 17317	 O	 -1	 -1	 0
-
-New	 data/source_txt/t7_government_1_202.deft	 17318	 17321	 O	 -1	 -1	 0
-York	 data/source_txt/t7_government_1_202.deft	 17322	 17326	 O	 -1	 -1	 0
-:	 data/source_txt/t7_government_1_202.deft	 17326	 17327	 O	 -1	 -1	 0
-Checkmark	 data/source_txt/t7_government_1_202.deft	 17328	 17337	 O	 -1	 -1	 0
-Books	 data/source_txt/t7_government_1_202.deft	 17338	 17343	 O	 -1	 -1	 0
-,	 data/source_txt/t7_government_1_202.deft	 17343	 17344	 O	 -1	 -1	 0
-151	 data/source_txt/t7_government_1_202.deft	 17345	 17348	 O	 -1	 -1	 0
-.	 data/source_txt/t7_government_1_202.deft	 17348	 17349	 O	 -1	 -1	 0
-
-Anti	 data/source_txt/t7_government_1_202.deft	 17350	 17354	 O	 -1	 -1	 0
--	 data/source_txt/t7_government_1_202.deft	 17354	 17355	 O	 -1	 -1	 0
-Federalists	 data/source_txt/t7_government_1_202.deft	 17355	 17366	 O	 -1	 -1	 0
-preferred	 data/source_txt/t7_government_1_202.deft	 17367	 17376	 O	 -1	 -1	 0
-a	 data/source_txt/t7_government_1_202.deft	 17377	 17378	 O	 -1	 -1	 0
-more	 data/source_txt/t7_government_1_202.deft	 17379	 17383	 O	 -1	 -1	 0
-confederate	 data/source_txt/t7_government_1_202.deft	 17384	 17395	 O	 -1	 -1	 0
-system	 data/source_txt/t7_government_1_202.deft	 17396	 17402	 O	 -1	 -1	 0
-built	 data/source_txt/t7_government_1_202.deft	 17403	 17408	 O	 -1	 -1	 0
-on	 data/source_txt/t7_government_1_202.deft	 17409	 17411	 O	 -1	 -1	 0
-state	 data/source_txt/t7_government_1_202.deft	 17412	 17417	 O	 -1	 -1	 0
-equality	 data/source_txt/t7_government_1_202.deft	 17418	 17426	 O	 -1	 -1	 0
-and	 data/source_txt/t7_government_1_202.deft	 17427	 17430	 O	 -1	 -1	 0
-autonomy	 data/source_txt/t7_government_1_202.deft	 17431	 17439	 O	 -1	 -1	 0
-.	 data/source_txt/t7_government_1_202.deft	 17439	 17440	 O	 -1	 -1	 0
-
-Saul	 data/source_txt/t7_government_1_202.deft	 17440	 17444	 O	 -1	 -1	 0
-Cornell	 data/source_txt/t7_government_1_202.deft	 17445	 17452	 O	 -1	 -1	 0
-.	 data/source_txt/t7_government_1_202.deft	 17452	 17453	 O	 -1	 -1	 0
-2016	 data/source_txt/t7_government_1_202.deft	 17460	 17464	 O	 -1	 -1	 0
-.	 data/source_txt/t7_government_1_202.deft	 17464	 17465	 O	 -1	 -1	 0
 
 
 6518	 data/source_txt/t7_government_1_202.deft	 17469	 17473	 O	 -1	 -1	 0
@@ -8576,10 +8528,6 @@ had	 data/source_txt/t7_government_1_202.deft	 46574	 46577	 O	 -1	 -1	 0
 been	 data/source_txt/t7_government_1_202.deft	 46578	 46582	 O	 -1	 -1	 0
 done	 data/source_txt/t7_government_1_202.deft	 46583	 46587	 O	 -1	 -1	 0
 .	 data/source_txt/t7_government_1_202.deft	 46587	 46588	 O	 -1	 -1	 0
-
-
-1989	 data/source_txt/t7_government_1_202.deft	 47021	 47025	 O	 -1	 -1	 0
-.	 data/source_txt/t7_government_1_202.deft	 47025	 47026	 O	 -1	 -1	 0
 
 
 6698	 data/source_txt/t7_government_1_202.deft	 47030	 47034	 O	 -1	 -1	 0

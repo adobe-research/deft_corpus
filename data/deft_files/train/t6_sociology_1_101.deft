@@ -2179,7 +2179,7 @@ when	 data/source_txt/t6_sociology_1_101.deft	 14098	 14102	 I-Definition	 T85	 
 the	 data/source_txt/t6_sociology_1_101.deft	 14103	 14106	 I-Definition	 T85	 T84	 Direct-Defines
 Q	 data/source_txt/t6_sociology_1_101.deft	 14107	 14108	 I-Definition	 T85	 T84	 Direct-Defines
 is	 data/source_txt/t6_sociology_1_101.deft	 14109	 14111	 I-Definition	 T85	 T84	 Direct-Defines
-added).Sociologically	 data/source_txt/t6_sociology_1_101.deft	 14112	 14133	 Definition	 T85	 T84	 Direct-Defines
+added).Sociologically	 data/source_txt/t6_sociology_1_101.deft	 14112	 14133	 I-Definition	 T85	 T84	 Direct-Defines
 ,	 data/source_txt/t6_sociology_1_101.deft	 14133	 14134	 O	 -1	 -1	 0
 it	 data/source_txt/t6_sociology_1_101.deft	 14135	 14137	 O	 -1	 -1	 0
 is	 data/source_txt/t6_sociology_1_101.deft	 14138	 14140	 O	 -1	 -1	 0

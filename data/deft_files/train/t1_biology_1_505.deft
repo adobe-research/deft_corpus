@@ -800,7 +800,7 @@ is	 data/source_txt/t1_biology_1_505.deft	 5179	 5181	 O	 -1	 -1	 0
 called	 data/source_txt/t1_biology_1_505.deft	 5182	 5188	 O	 -1	 -1	 0
 a	 data/source_txt/t1_biology_1_505.deft	 5189	 5190	 B-Term	 T21	 0	 Direct-Defines
 diabetogenic	 data/source_txt/t1_biology_1_505.deft	 5191	 5203	 I-Term	 T21	 0	 Direct-Defines
-effect	 data/source_txt/t1_biology_1_505.deft	 5204	 5210	 Term	 T21	 0	 Direct-Defines
+effect	 data/source_txt/t1_biology_1_505.deft	 5204	 5210	 I-Term	 T21	 0	 Direct-Defines
 because	 data/source_txt/t1_biology_1_505.deft	 5211	 5218	 O	 -1	 -1	 0
 it	 data/source_txt/t1_biology_1_505.deft	 5219	 5221	 O	 -1	 -1	 0
 is	 data/source_txt/t1_biology_1_505.deft	 5222	 5224	 O	 -1	 -1	 0
@@ -3689,7 +3689,7 @@ volume	 data/source_txt/t1_biology_1_505.deft	 20009	 20015	 O	 -1	 -1	 0
 
 The	 data/source_txt/t1_biology_1_505.deft	 20025	 20028	 B-Term	 T169	 0	 AKA
 inspiratory	 data/source_txt/t1_biology_1_505.deft	 20029	 20040	 I-Term	 T169	 0	 AKA
-capacity	 data/source_txt/t1_biology_1_505.deft	 20041	 20049	 Term	 T169	 0	 AKA
+capacity	 data/source_txt/t1_biology_1_505.deft	 20041	 20049	 I-Term	 T169	 0	 AKA
 (	 data/source_txt/t1_biology_1_505.deft	 20050	 20051	 O	 -1	 -1	 0
 IC	 data/source_txt/t1_biology_1_505.deft	 20051	 20053	 B-Alias-Term	 T170	 T169	 AKA
 )	 data/source_txt/t1_biology_1_505.deft	 20053	 20054	 O	 -1	 -1	 0

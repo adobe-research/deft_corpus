@@ -472,6 +472,10 @@ J.	 data/source_txt/t7_government_0_0.deft	 3331	 3333	 O	 -1	 -1	 0
 Hrebenar	 data/source_txt/t7_government_0_0.deft	 3334	 3342	 O	 -1	 -1	 0
 .	 data/source_txt/t7_government_0_0.deft	 3342	 3343	 O	 -1	 -1	 0
 
+1997	 data/source_txt/t7_government_0_0.deft	 3350	 3354	 O	 -1	 -1	 0
+.	 data/source_txt/t7_government_0_0.deft	 3354	 3355	 O	 -1	 -1	 0
+
+
 5832	 data/source_txt/t7_government_0_0.deft	 3359	 3363	 O	 -1	 -1	 0
 .	 data/source_txt/t7_government_0_0.deft	 3363	 3364	 O	 -1	 -1	 0
 
@@ -943,10 +947,6 @@ nation	 data/source_txt/t7_government_0_0.deft	 6483	 6489	 I-Definition	 T18	 T
 ’s	 data/source_txt/t7_government_0_0.deft	 6489	 6491	 I-Definition	 T18	 T17	 Direct-Defines
 citizens	 data/source_txt/t7_government_0_0.deft	 6492	 6500	 I-Definition	 T18	 T17	 Direct-Defines
 .	 data/source_txt/t7_government_0_0.deft	 6500	 6501	 O	 -1	 -1	 0
-
-
-2006	 data/source_txt/t7_government_0_0.deft	 6890	 6894	 O	 -1	 -1	 0
-.	 data/source_txt/t7_government_0_0.deft	 6894	 6895	 O	 -1	 -1	 0
 
 
 5859	 data/source_txt/t7_government_0_0.deft	 6899	 6903	 O	 -1	 -1	 0
@@ -4346,10 +4346,6 @@ housing	 data/source_txt/t7_government_0_0.deft	 28456	 28463	 O	 -1	 -1	 0
 .	 data/source_txt/t7_government_0_0.deft	 28463	 28464	 O	 -1	 -1	 0
 
 
-2007	 data/source_txt/t7_government_0_0.deft	 29453	 29457	 O	 -1	 -1	 0
-.	 data/source_txt/t7_government_0_0.deft	 29457	 29458	 O	 -1	 -1	 0
-
-
 6009	 data/source_txt/t7_government_0_0.deft	 29462	 29466	 O	 -1	 -1	 0
 .	 data/source_txt/t7_government_0_0.deft	 29466	 29467	 O	 -1	 -1	 0
 
@@ -4790,8 +4786,8 @@ Stephanie	 data/source_txt/t7_government_0_0.deft	 31856	 31865	 O	 -1	 -1	 0
 Schardin	 data/source_txt/t7_government_0_0.deft	 31866	 31874	 O	 -1	 -1	 0
 .	 data/source_txt/t7_government_0_0.deft	 31874	 31875	 O	 -1	 -1	 0
 
-1987	 data/source_txt/t7_government_0_0.deft	 32278	 32282	 O	 -1	 -1	 0
-.	 data/source_txt/t7_government_0_0.deft	 32282	 32283	 O	 -1	 -1	 0
+2014	 data/source_txt/t7_government_0_0.deft	 31882	 31886	 O	 -1	 -1	 0
+.	 data/source_txt/t7_government_0_0.deft	 31886	 31887	 O	 -1	 -1	 0
 
 
 6027	 data/source_txt/t7_government_0_0.deft	 32697	 32701	 O	 -1	 -1	 0

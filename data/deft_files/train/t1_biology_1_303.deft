@@ -133,6 +133,81 @@ pollen	 data/source_txt/t1_biology_1_303.deft	 1024	 1030	 I-Definition	 T18	 T1
 grains	 data/source_txt/t1_biology_1_303.deft	 1031	 1037	 I-Definition	 T18	 T17	 Direct-Defines
 .	 data/source_txt/t1_biology_1_303.deft	 1037	 1038	 O	 -1	 -1	 0
 
+922	 data/source_txt/t1_biology_1_303.deft	 1048	 1051	 O	 -1	 -1	 0
+.	 data/source_txt/t1_biology_1_303.deft	 1051	 1052	 O	 -1	 -1	 0
+
+Flowering	 data/source_txt/t1_biology_1_303.deft	 1053	 1062	 O	 -1	 -1	 0
+plants	 data/source_txt/t1_biology_1_303.deft	 1063	 1069	 O	 -1	 -1	 0
+are	 data/source_txt/t1_biology_1_303.deft	 1070	 1073	 O	 -1	 -1	 0
+divided	 data/source_txt/t1_biology_1_303.deft	 1074	 1081	 O	 -1	 -1	 0
+into	 data/source_txt/t1_biology_1_303.deft	 1082	 1086	 O	 -1	 -1	 0
+two	 data/source_txt/t1_biology_1_303.deft	 1087	 1090	 O	 -1	 -1	 0
+major	 data/source_txt/t1_biology_1_303.deft	 1091	 1096	 O	 -1	 -1	 0
+groups	 data/source_txt/t1_biology_1_303.deft	 1097	 1103	 O	 -1	 -1	 0
+,	 data/source_txt/t1_biology_1_303.deft	 1103	 1104	 O	 -1	 -1	 0
+according	 data/source_txt/t1_biology_1_303.deft	 1105	 1114	 O	 -1	 -1	 0
+to	 data/source_txt/t1_biology_1_303.deft	 1115	 1117	 O	 -1	 -1	 0
+the	 data/source_txt/t1_biology_1_303.deft	 1118	 1121	 O	 -1	 -1	 0
+structure	 data/source_txt/t1_biology_1_303.deft	 1122	 1131	 O	 -1	 -1	 0
+of	 data/source_txt/t1_biology_1_303.deft	 1132	 1134	 O	 -1	 -1	 0
+the	 data/source_txt/t1_biology_1_303.deft	 1135	 1138	 O	 -1	 -1	 0
+cotyledons	 data/source_txt/t1_biology_1_303.deft	 1139	 1149	 O	 -1	 -1	 0
+,	 data/source_txt/t1_biology_1_303.deft	 1149	 1150	 O	 -1	 -1	 0
+pollen	 data/source_txt/t1_biology_1_303.deft	 1151	 1157	 O	 -1	 -1	 0
+grains	 data/source_txt/t1_biology_1_303.deft	 1158	 1164	 O	 -1	 -1	 0
+,	 data/source_txt/t1_biology_1_303.deft	 1164	 1165	 O	 -1	 -1	 0
+and	 data/source_txt/t1_biology_1_303.deft	 1166	 1169	 O	 -1	 -1	 0
+other	 data/source_txt/t1_biology_1_303.deft	 1170	 1175	 O	 -1	 -1	 0
+structures	 data/source_txt/t1_biology_1_303.deft	 1176	 1186	 O	 -1	 -1	 0
+.	 data/source_txt/t1_biology_1_303.deft	 1186	 1187	 O	 -1	 -1	 0
+
+Monocots	 data/source_txt/t1_biology_1_303.deft	 1196	 1204	 O	 -1	 -1	 0
+include	 data/source_txt/t1_biology_1_303.deft	 1205	 1212	 O	 -1	 -1	 0
+grasses	 data/source_txt/t1_biology_1_303.deft	 1213	 1220	 O	 -1	 -1	 0
+and	 data/source_txt/t1_biology_1_303.deft	 1221	 1224	 O	 -1	 -1	 0
+lilies	 data/source_txt/t1_biology_1_303.deft	 1225	 1231	 O	 -1	 -1	 0
+,	 data/source_txt/t1_biology_1_303.deft	 1231	 1232	 O	 -1	 -1	 0
+and	 data/source_txt/t1_biology_1_303.deft	 1233	 1236	 O	 -1	 -1	 0
+eudicots	 data/source_txt/t1_biology_1_303.deft	 1237	 1245	 O	 -1	 -1	 0
+or	 data/source_txt/t1_biology_1_303.deft	 1246	 1248	 O	 -1	 -1	 0
+dicots	 data/source_txt/t1_biology_1_303.deft	 1249	 1255	 O	 -1	 -1	 0
+form	 data/source_txt/t1_biology_1_303.deft	 1256	 1260	 O	 -1	 -1	 0
+a	 data/source_txt/t1_biology_1_303.deft	 1261	 1262	 O	 -1	 -1	 0
+polyphyletic	 data/source_txt/t1_biology_1_303.deft	 1263	 1275	 O	 -1	 -1	 0
+group	 data/source_txt/t1_biology_1_303.deft	 1276	 1281	 O	 -1	 -1	 0
+.	 data/source_txt/t1_biology_1_303.deft	 1281	 1282	 O	 -1	 -1	 0
+
+Basal	 data/source_txt/t1_biology_1_303.deft	 1289	 1294	 B-Term	 T19	 0	 Direct-Defines
+angiosperms	 data/source_txt/t1_biology_1_303.deft	 1295	 1306	 I-Term	 T19	 0	 Direct-Defines
+are	 data/source_txt/t1_biology_1_303.deft	 1307	 1310	 O	 -1	 -1	 0
+a	 data/source_txt/t1_biology_1_303.deft	 1311	 1312	 B-Definition	 T20	 T19	 Direct-Defines
+group	 data/source_txt/t1_biology_1_303.deft	 1313	 1318	 I-Definition	 T20	 T19	 Direct-Defines
+of	 data/source_txt/t1_biology_1_303.deft	 1319	 1321	 I-Definition	 T20	 T19	 Direct-Defines
+plants	 data/source_txt/t1_biology_1_303.deft	 1322	 1328	 I-Definition	 T20	 T19	 Direct-Defines
+that	 data/source_txt/t1_biology_1_303.deft	 1329	 1333	 I-Definition	 T20	 T19	 Direct-Defines
+are	 data/source_txt/t1_biology_1_303.deft	 1334	 1337	 I-Definition	 T20	 T19	 Direct-Defines
+believed	 data/source_txt/t1_biology_1_303.deft	 1338	 1346	 I-Definition	 T20	 T19	 Direct-Defines
+to	 data/source_txt/t1_biology_1_303.deft	 1347	 1349	 I-Definition	 T20	 T19	 Direct-Defines
+have	 data/source_txt/t1_biology_1_303.deft	 1350	 1354	 I-Definition	 T20	 T19	 Direct-Defines
+branched	 data/source_txt/t1_biology_1_303.deft	 1355	 1363	 I-Definition	 T20	 T19	 Direct-Defines
+off	 data/source_txt/t1_biology_1_303.deft	 1364	 1367	 I-Definition	 T20	 T19	 Direct-Defines
+before	 data/source_txt/t1_biology_1_303.deft	 1368	 1374	 I-Definition	 T20	 T19	 Direct-Defines
+the	 data/source_txt/t1_biology_1_303.deft	 1375	 1378	 I-Definition	 T20	 T19	 Direct-Defines
+separation	 data/source_txt/t1_biology_1_303.deft	 1379	 1389	 I-Definition	 T20	 T19	 Direct-Defines
+into	 data/source_txt/t1_biology_1_303.deft	 1390	 1394	 I-Definition	 T20	 T19	 Direct-Defines
+monocots	 data/source_txt/t1_biology_1_303.deft	 1395	 1403	 I-Definition	 T20	 T19	 Direct-Defines
+and	 data/source_txt/t1_biology_1_303.deft	 1404	 1407	 I-Definition	 T20	 T19	 Direct-Defines
+eudicots	 data/source_txt/t1_biology_1_303.deft	 1408	 1416	 I-Definition	 T20	 T19	 Direct-Defines
+because	 data/source_txt/t1_biology_1_303.deft	 1417	 1424	 I-Definition	 T20	 T19	 Direct-Defines
+they	 data/source_txt/t1_biology_1_303.deft	 1425	 1429	 I-Definition	 T20	 T19	 Direct-Defines
+exhibit	 data/source_txt/t1_biology_1_303.deft	 1430	 1437	 I-Definition	 T20	 T19	 Direct-Defines
+traits	 data/source_txt/t1_biology_1_303.deft	 1438	 1444	 I-Definition	 T20	 T19	 Direct-Defines
+from	 data/source_txt/t1_biology_1_303.deft	 1445	 1449	 I-Definition	 T20	 T19	 Direct-Defines
+both	 data/source_txt/t1_biology_1_303.deft	 1450	 1454	 I-Definition	 T20	 T19	 Direct-Defines
+groups	 data/source_txt/t1_biology_1_303.deft	 1455	 1461	 I-Definition	 T20	 T19	 Direct-Defines
+.	 data/source_txt/t1_biology_1_303.deft	 1461	 1462	 O	 -1	 -1	 0
+
+
 925	 data/source_txt/t1_biology_1_303.deft	 1466	 1469	 O	 -1	 -1	 0
 .	 data/source_txt/t1_biology_1_303.deft	 1469	 1470	 O	 -1	 -1	 0
 
@@ -1469,7 +1544,7 @@ that	 data/source_txt/t1_biology_1_303.deft	 11594	 11598	 I-Definition	 T95	 T9
 protrude	 data/source_txt/t1_biology_1_303.deft	 11599	 11607	 I-Definition	 T95	 T94	 Direct-Defines
 from	 data/source_txt/t1_biology_1_303.deft	 11608	 11612	 I-Definition	 T95	 T94	 Direct-Defines
 each	 data/source_txt/t1_biology_1_303.deft	 11613	 11617	 I-Definition	 T95	 T94	 Direct-Defines
-segment	 data/source_txt/t1_biology_1_303.deft	 11618	 11625	 Definition	 T95	 T94	 Direct-Defines
+segment	 data/source_txt/t1_biology_1_303.deft	 11618	 11625	 I-Definition	 T95	 T94	 Direct-Defines
 called	 data/source_txt/t1_biology_1_303.deft	 11626	 11632	 O	 -1	 -1	 0
 parapodia	 data/source_txt/t1_biology_1_303.deft	 11633	 11642	 B-Term	 T94	 0	 Direct-Defines
 ,	 data/source_txt/t1_biology_1_303.deft	 11642	 11643	 O	 -1	 -1	 0

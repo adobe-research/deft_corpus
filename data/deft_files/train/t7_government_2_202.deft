@@ -178,7 +178,9 @@ of	 data/source_txt/t7_government_2_202.deft	 1014	 1016	 O	 -1	 -1	 0
 their	 data/source_txt/t7_government_2_202.deft	 1017	 1022	 O	 -1	 -1	 0
 value	 data/source_txt/t7_government_2_202.deft	 1023	 1028	 O	 -1	 -1	 0
 .	 data/source_txt/t7_government_2_202.deft	 1028	 1029	 O	 -1	 -1	 0
-“FDR	 data/source_txt/t7_government_2_202.deft	 1029	 1033	 O	 -1	 -1	 0
+
+“	 data/source_txt/t7_government_2_202.deft	 1029	 1030	 O	 -1	 -1	 0
+FDR	 data/source_txt/t7_government_2_202.deft	 1030	 1033	 O	 -1	 -1	 0
 :	 data/source_txt/t7_government_2_202.deft	 1033	 1034	 O	 -1	 -1	 0
 A	 data/source_txt/t7_government_2_202.deft	 1035	 1036	 O	 -1	 -1	 0
 Voice	 data/source_txt/t7_government_2_202.deft	 1037	 1042	 O	 -1	 -1	 0
@@ -248,6 +250,7 @@ their	 data/source_txt/t7_government_2_202.deft	 1378	 1383	 O	 -1	 -1	 0
 traditional	 data/source_txt/t7_government_2_202.deft	 1384	 1395	 O	 -1	 -1	 0
 roles	 data/source_txt/t7_government_2_202.deft	 1396	 1401	 O	 -1	 -1	 0
 .	 data/source_txt/t7_government_2_202.deft	 1401	 1402	 O	 -1	 -1	 0
+
 Mary	 data/source_txt/t7_government_2_202.deft	 1402	 1406	 O	 -1	 -1	 0
 E.	 data/source_txt/t7_government_2_202.deft	 1407	 1409	 O	 -1	 -1	 0
 Stuckey	 data/source_txt/t7_government_2_202.deft	 1410	 1417	 O	 -1	 -1	 0
@@ -368,7 +371,9 @@ No	 data/source_txt/t7_government_2_202.deft	 1983	 1985	 O	 -1	 -1	 0
 
 4	 data/source_txt/t7_government_2_202.deft	 1995	 1996	 O	 -1	 -1	 0
 :	 data/source_txt/t7_government_2_202.deft	 1996	 1997	 O	 -1	 -1	 0
-1065–1085	 data/source_txt/t7_government_2_202.deft	 1998	 2007	 O	 -1	 -1	 0
+1065	 data/source_txt/t7_government_2_202.deft	 1998	 2002	 O	 -1	 -1	 0
+–	 data/source_txt/t7_government_2_202.deft	 2002	 2003	 O	 -1	 -1	 0
+1085	 data/source_txt/t7_government_2_202.deft	 2003	 2007	 O	 -1	 -1	 0
 .	 data/source_txt/t7_government_2_202.deft	 2007	 2008	 O	 -1	 -1	 0
 
 In	 data/source_txt/t7_government_2_202.deft	 2009	 2011	 O	 -1	 -1	 0
@@ -425,7 +430,9 @@ with	 data/source_txt/t7_government_2_202.deft	 2300	 2304	 O	 -1	 -1	 0
 good	 data/source_txt/t7_government_2_202.deft	 2305	 2309	 O	 -1	 -1	 0
 acts	 data/source_txt/t7_government_2_202.deft	 2310	 2314	 O	 -1	 -1	 0
 .	 data/source_txt/t7_government_2_202.deft	 2314	 2315	 O	 -1	 -1	 0
-“William	 data/source_txt/t7_government_2_202.deft	 2315	 2323	 O	 -1	 -1	 0
+
+“	 data/source_txt/t7_government_2_202.deft	 2315	 2316	 O	 -1	 -1	 0
+William	 data/source_txt/t7_government_2_202.deft	 2316	 2323	 O	 -1	 -1	 0
 Jefferson	 data/source_txt/t7_government_2_202.deft	 2324	 2333	 O	 -1	 -1	 0
 Clinton	 data/source_txt/t7_government_2_202.deft	 2334	 2341	 O	 -1	 -1	 0
 :	 data/source_txt/t7_government_2_202.deft	 2341	 2342	 O	 -1	 -1	 0
@@ -506,7 +513,12 @@ surprise	 data/source_txt/t7_government_2_202.deft	 2792	 2800	 O	 -1	 -1	 0
 
 2	 data/source_txt/t7_government_2_202.deft	 2811	 2812	 O	 -1	 -1	 0
 :	 data/source_txt/t7_government_2_202.deft	 2812	 2813	 O	 -1	 -1	 0
-109–130.In	 data/source_txt/t7_government_2_202.deft	 2814	 2824	 O	 -1	 -1	 0
+109	 data/source_txt/t7_government_2_202.deft	 2814	 2817	 O	 -1	 -1	 0
+–	 data/source_txt/t7_government_2_202.deft	 2817	 2818	 O	 -1	 -1	 0
+130	 data/source_txt/t7_government_2_202.deft	 2818	 2821	 O	 -1	 -1	 0
+.	 data/source_txt/t7_government_2_202.deft	 2821	 2822	 O	 -1	 -1	 0
+
+In	 data/source_txt/t7_government_2_202.deft	 2822	 2824	 O	 -1	 -1	 0
 June	 data/source_txt/t7_government_2_202.deft	 2825	 2829	 O	 -1	 -1	 0
 2009	 data/source_txt/t7_government_2_202.deft	 2830	 2834	 O	 -1	 -1	 0
 ,	 data/source_txt/t7_government_2_202.deft	 2834	 2835	 O	 -1	 -1	 0
@@ -664,6 +676,7 @@ supporters	 data/source_txt/t7_government_2_202.deft	 4469	 4479	 O	 -1	 -1	 0
 were	 data/source_txt/t7_government_2_202.deft	 4480	 4484	 O	 -1	 -1	 0
 not	 data/source_txt/t7_government_2_202.deft	 4485	 4488	 O	 -1	 -1	 0
 .	 data/source_txt/t7_government_2_202.deft	 4488	 4489	 O	 -1	 -1	 0
+
 Sue	 data/source_txt/t7_government_2_202.deft	 4489	 4492	 O	 -1	 -1	 0
 Wilson	 data/source_txt/t7_government_2_202.deft	 4493	 4499	 O	 -1	 -1	 0
 ,	 data/source_txt/t7_government_2_202.deft	 4499	 4500	 O	 -1	 -1	 0
@@ -743,6 +756,7 @@ dead	 data/source_txt/t7_government_2_202.deft	 4857	 4861	 O	 -1	 -1	 0
 fairness	 data/source_txt/t7_government_2_202.deft	 4862	 4870	 O	 -1	 -1	 0
 doctrine	 data/source_txt/t7_government_2_202.deft	 4871	 4879	 O	 -1	 -1	 0
 .	 data/source_txt/t7_government_2_202.deft	 4879	 4880	 O	 -1	 -1	 0
+
 William	 data/source_txt/t7_government_2_202.deft	 4880	 4887	 O	 -1	 -1	 0
 Lake	 data/source_txt/t7_government_2_202.deft	 4888	 4892	 O	 -1	 -1	 0
 ,	 data/source_txt/t7_government_2_202.deft	 4892	 4893	 O	 -1	 -1	 0
@@ -965,6 +979,7 @@ confidential	 data/source_txt/t7_government_2_202.deft	 7132	 7144	 O	 -1	 -1	 0
 government	 data/source_txt/t7_government_2_202.deft	 7145	 7155	 O	 -1	 -1	 0
 source	 data/source_txt/t7_government_2_202.deft	 7156	 7162	 O	 -1	 -1	 0
 .	 data/source_txt/t7_government_2_202.deft	 7162	 7163	 O	 -1	 -1	 0
+
 Don	 data/source_txt/t7_government_2_202.deft	 7163	 7166	 O	 -1	 -1	 0
 Van	 data/source_txt/t7_government_2_202.deft	 7167	 7170	 O	 -1	 -1	 0
 Natta	 data/source_txt/t7_government_2_202.deft	 7171	 7176	 O	 -1	 -1	 0
@@ -977,7 +992,6 @@ and	 data/source_txt/t7_government_2_202.deft	 7195	 7198	 O	 -1	 -1	 0
 Clifford	 data/source_txt/t7_government_2_202.deft	 7199	 7207	 O	 -1	 -1	 0
 J	 data/source_txt/t7_government_2_202.deft	 7208	 7209	 O	 -1	 -1	 0
 .	 data/source_txt/t7_government_2_202.deft	 7209	 7210	 O	 -1	 -1	 0
-
 Levy	 data/source_txt/t7_government_2_202.deft	 7217	 7221	 O	 -1	 -1	 0
 ,	 data/source_txt/t7_government_2_202.deft	 7221	 7222	 O	 -1	 -1	 0
 “	 data/source_txt/t7_government_2_202.deft	 7223	 7224	 O	 -1	 -1	 0
@@ -1038,10 +1052,6 @@ questionable	 data/source_txt/t7_government_2_202.deft	 7502	 7514	 O	 -1	 -1	 0
 government	 data/source_txt/t7_government_2_202.deft	 7515	 7525	 O	 -1	 -1	 0
 practices	 data/source_txt/t7_government_2_202.deft	 7526	 7535	 O	 -1	 -1	 0
 .	 data/source_txt/t7_government_2_202.deft	 7535	 7536	 O	 -1	 -1	 0
-
-
-1922	 data/source_txt/t7_government_2_202.deft	 7803	 7807	 O	 -1	 -1	 0
-.	 data/source_txt/t7_government_2_202.deft	 7807	 7808	 O	 -1	 -1	 0
 
 
 6457	 data/source_txt/t7_government_2_202.deft	 7812	 7816	 O	 -1	 -1	 0
@@ -1144,6 +1154,7 @@ report	 data/source_txt/t7_government_2_202.deft	 8287	 8293	 O	 -1	 -1	 0
 on	 data/source_txt/t7_government_2_202.deft	 8294	 8296	 O	 -1	 -1	 0
 it	 data/source_txt/t7_government_2_202.deft	 8297	 8299	 O	 -1	 -1	 0
 .	 data/source_txt/t7_government_2_202.deft	 8299	 8300	 O	 -1	 -1	 0
+
 Craig	 data/source_txt/t7_government_2_202.deft	 8300	 8305	 O	 -1	 -1	 0
 Fehrman	 data/source_txt/t7_government_2_202.deft	 8306	 8313	 O	 -1	 -1	 0
 ,	 data/source_txt/t7_government_2_202.deft	 8313	 8314	 O	 -1	 -1	 0
@@ -1231,7 +1242,9 @@ than	 data/source_txt/t7_government_2_202.deft	 8826	 8830	 O	 -1	 -1	 0
 true	 data/source_txt/t7_government_2_202.deft	 8831	 8835	 O	 -1	 -1	 0
 debating	 data/source_txt/t7_government_2_202.deft	 8836	 8844	 O	 -1	 -1	 0
 .	 data/source_txt/t7_government_2_202.deft	 8844	 8845	 O	 -1	 -1	 0
-“Crossfire	 data/source_txt/t7_government_2_202.deft	 8845	 8855	 O	 -1	 -1	 0
+
+“	 data/source_txt/t7_government_2_202.deft	 8845	 8846	 O	 -1	 -1	 0
+Crossfire	 data/source_txt/t7_government_2_202.deft	 8846	 8855	 O	 -1	 -1	 0
 :	 data/source_txt/t7_government_2_202.deft	 8855	 8856	 O	 -1	 -1	 0
 Jon	 data/source_txt/t7_government_2_202.deft	 8857	 8860	 O	 -1	 -1	 0
 Stewart	 data/source_txt/t7_government_2_202.deft	 8861	 8868	 O	 -1	 -1	 0
@@ -1270,6 +1283,7 @@ from	 data/source_txt/t7_government_2_202.deft	 9059	 9063	 O	 -1	 -1	 0
 the	 data/source_txt/t7_government_2_202.deft	 9064	 9067	 O	 -1	 -1	 0
 air	 data/source_txt/t7_government_2_202.deft	 9068	 9071	 O	 -1	 -1	 0
 .	 data/source_txt/t7_government_2_202.deft	 9071	 9072	 O	 -1	 -1	 0
+
 Paul	 data/source_txt/t7_government_2_202.deft	 9072	 9076	 O	 -1	 -1	 0
 Begala	 data/source_txt/t7_government_2_202.deft	 9077	 9083	 O	 -1	 -1	 0
 ,	 data/source_txt/t7_government_2_202.deft	 9083	 9084	 O	 -1	 -1	 0
@@ -1362,148 +1376,14 @@ to	 data/source_txt/t7_government_2_202.deft	 9471	 9473	 O	 -1	 -1	 0
 the	 data/source_txt/t7_government_2_202.deft	 9474	 9477	 O	 -1	 -1	 0
 wall	 data/source_txt/t7_government_2_202.deft	 9478	 9482	 O	 -1	 -1	 0
 .	 data/source_txt/t7_government_2_202.deft	 9482	 9483	 O	 -1	 -1	 0
-”Kay	 data/source_txt/t7_government_2_202.deft	 9483	 9487	 O	 -1	 -1	 0
+
+”	 data/source_txt/t7_government_2_202.deft	 9483	 9484	 O	 -1	 -1	 0
+Kay	 data/source_txt/t7_government_2_202.deft	 9484	 9487	 O	 -1	 -1	 0
 Mills	 data/source_txt/t7_government_2_202.deft	 9488	 9493	 O	 -1	 -1	 0
 .	 data/source_txt/t7_government_2_202.deft	 9493	 9494	 O	 -1	 -1	 0
 
 1996	 data/source_txt/t7_government_2_202.deft	 9501	 9505	 O	 -1	 -1	 0
 .	 data/source_txt/t7_government_2_202.deft	 9505	 9506	 O	 -1	 -1	 0
-
-
-2005	 data/source_txt/t7_government_2_202.deft	 9516	 9520	 O	 -1	 -1	 0
-.	 data/source_txt/t7_government_2_202.deft	 9520	 9521	 O	 -1	 -1	 0
-
-It	 data/source_txt/t7_government_2_202.deft	 9530	 9532	 O	 -1	 -1	 0
-Takes	 data/source_txt/t7_government_2_202.deft	 9533	 9538	 O	 -1	 -1	 0
-a	 data/source_txt/t7_government_2_202.deft	 9539	 9540	 O	 -1	 -1	 0
-Candidate	 data/source_txt/t7_government_2_202.deft	 9541	 9550	 O	 -1	 -1	 0
-:	 data/source_txt/t7_government_2_202.deft	 9550	 9551	 O	 -1	 -1	 0
-Why	 data/source_txt/t7_government_2_202.deft	 9552	 9555	 O	 -1	 -1	 0
-Women	 data/source_txt/t7_government_2_202.deft	 9556	 9561	 O	 -1	 -1	 0
-Do	 data/source_txt/t7_government_2_202.deft	 9562	 9564	 O	 -1	 -1	 0
-n’t	 data/source_txt/t7_government_2_202.deft	 9564	 9567	 O	 -1	 -1	 0
-Run	 data/source_txt/t7_government_2_202.deft	 9568	 9571	 O	 -1	 -1	 0
-for	 data/source_txt/t7_government_2_202.deft	 9572	 9575	 O	 -1	 -1	 0
-Office	 data/source_txt/t7_government_2_202.deft	 9576	 9582	 O	 -1	 -1	 0
-.	 data/source_txt/t7_government_2_202.deft	 9582	 9583	 O	 -1	 -1	 0
-
-Cambridge	 data/source_txt/t7_government_2_202.deft	 9584	 9593	 O	 -1	 -1	 0
-:	 data/source_txt/t7_government_2_202.deft	 9593	 9594	 O	 -1	 -1	 0
-Cambridge	 data/source_txt/t7_government_2_202.deft	 9595	 9604	 O	 -1	 -1	 0
-University	 data/source_txt/t7_government_2_202.deft	 9605	 9615	 O	 -1	 -1	 0
-Press	 data/source_txt/t7_government_2_202.deft	 9616	 9621	 O	 -1	 -1	 0
-.	 data/source_txt/t7_government_2_202.deft	 9621	 9622	 O	 -1	 -1	 0
-
-Many	 data/source_txt/t7_government_2_202.deft	 9623	 9627	 O	 -1	 -1	 0
-women	 data/source_txt/t7_government_2_202.deft	 9628	 9633	 O	 -1	 -1	 0
-do	 data/source_txt/t7_government_2_202.deft	 9634	 9636	 O	 -1	 -1	 0
-not	 data/source_txt/t7_government_2_202.deft	 9637	 9640	 O	 -1	 -1	 0
-wish	 data/source_txt/t7_government_2_202.deft	 9641	 9645	 O	 -1	 -1	 0
-to	 data/source_txt/t7_government_2_202.deft	 9646	 9648	 O	 -1	 -1	 0
-expose	 data/source_txt/t7_government_2_202.deft	 9649	 9655	 O	 -1	 -1	 0
-their	 data/source_txt/t7_government_2_202.deft	 9656	 9661	 O	 -1	 -1	 0
-children	 data/source_txt/t7_government_2_202.deft	 9662	 9670	 O	 -1	 -1	 0
-or	 data/source_txt/t7_government_2_202.deft	 9671	 9673	 O	 -1	 -1	 0
-spouses	 data/source_txt/t7_government_2_202.deft	 9674	 9681	 O	 -1	 -1	 0
-to	 data/source_txt/t7_government_2_202.deft	 9682	 9684	 O	 -1	 -1	 0
-criticism	 data/source_txt/t7_government_2_202.deft	 9685	 9694	 O	 -1	 -1	 0
-.	 data/source_txt/t7_government_2_202.deft	 9694	 9695	 O	 -1	 -1	 0
-Brittany	 data/source_txt/t7_government_2_202.deft	 9695	 9703	 O	 -1	 -1	 0
-L.	 data/source_txt/t7_government_2_202.deft	 9704	 9706	 O	 -1	 -1	 0
-Stalsburg	 data/source_txt/t7_government_2_202.deft	 9707	 9716	 O	 -1	 -1	 0
-,	 data/source_txt/t7_government_2_202.deft	 9716	 9717	 O	 -1	 -1	 0
-“	 data/source_txt/t7_government_2_202.deft	 9718	 9719	 O	 -1	 -1	 0
-Running	 data/source_txt/t7_government_2_202.deft	 9719	 9726	 O	 -1	 -1	 0
-with	 data/source_txt/t7_government_2_202.deft	 9727	 9731	 O	 -1	 -1	 0
-Strollers	 data/source_txt/t7_government_2_202.deft	 9732	 9741	 O	 -1	 -1	 0
-:	 data/source_txt/t7_government_2_202.deft	 9741	 9742	 O	 -1	 -1	 0
-The	 data/source_txt/t7_government_2_202.deft	 9743	 9746	 O	 -1	 -1	 0
-Impact	 data/source_txt/t7_government_2_202.deft	 9747	 9753	 O	 -1	 -1	 0
-of	 data/source_txt/t7_government_2_202.deft	 9754	 9756	 O	 -1	 -1	 0
-Family	 data/source_txt/t7_government_2_202.deft	 9757	 9763	 O	 -1	 -1	 0
-Life	 data/source_txt/t7_government_2_202.deft	 9764	 9768	 O	 -1	 -1	 0
-on	 data/source_txt/t7_government_2_202.deft	 9769	 9771	 O	 -1	 -1	 0
-Political	 data/source_txt/t7_government_2_202.deft	 9772	 9781	 O	 -1	 -1	 0
-Ambition	 data/source_txt/t7_government_2_202.deft	 9782	 9790	 O	 -1	 -1	 0
-,	 data/source_txt/t7_government_2_202.deft	 9790	 9791	 O	 -1	 -1	 0
-”	 data/source_txt/t7_government_2_202.deft	 9791	 9792	 O	 -1	 -1	 0
-Eagleton	 data/source_txt/t7_government_2_202.deft	 9793	 9801	 O	 -1	 -1	 0
-Institute	 data/source_txt/t7_government_2_202.deft	 9802	 9811	 O	 -1	 -1	 0
-of	 data/source_txt/t7_government_2_202.deft	 9812	 9814	 O	 -1	 -1	 0
-Politics	 data/source_txt/t7_government_2_202.deft	 9815	 9823	 O	 -1	 -1	 0
-,	 data/source_txt/t7_government_2_202.deft	 9823	 9824	 O	 -1	 -1	 0
-Spring	 data/source_txt/t7_government_2_202.deft	 9825	 9831	 O	 -1	 -1	 0
-2012	 data/source_txt/t7_government_2_202.deft	 9832	 9836	 O	 -1	 -1	 0
-,	 data/source_txt/t7_government_2_202.deft	 9836	 9837	 O	 -1	 -1	 0
-Unpublished	 data/source_txt/t7_government_2_202.deft	 9838	 9849	 O	 -1	 -1	 0
-Paper	 data/source_txt/t7_government_2_202.deft	 9850	 9855	 O	 -1	 -1	 0
-,	 data/source_txt/t7_government_2_202.deft	 9855	 9856	 O	 -1	 -1	 0
-http://www.eagleton.rutgers.edu	 data/source_txt/t7_government_2_202.deft	 9857	 9888	 O	 -1	 -1	 0
-/	 data/source_txt/t7_government_2_202.deft	 9888	 9889	 O	 -1	 -1	 0
-research	 data/source_txt/t7_government_2_202.deft	 9889	 9897	 O	 -1	 -1	 0
-/	 data/source_txt/t7_government_2_202.deft	 9897	 9898	 O	 -1	 -1	 0
-documents	 data/source_txt/t7_government_2_202.deft	 9898	 9907	 O	 -1	 -1	 0
-/	 data/source_txt/t7_government_2_202.deft	 9907	 9908	 O	 -1	 -1	 0
-Stalsburg	 data/source_txt/t7_government_2_202.deft	 9908	 9917	 O	 -1	 -1	 0
--	 data/source_txt/t7_government_2_202.deft	 9917	 9918	 O	 -1	 -1	 0
-FamilyLife	 data/source_txt/t7_government_2_202.deft	 9918	 9928	 O	 -1	 -1	 0
--	 data/source_txt/t7_government_2_202.deft	 9928	 9929	 O	 -1	 -1	 0
-Political	 data/source_txt/t7_government_2_202.deft	 9929	 9938	 O	 -1	 -1	 0
--	 data/source_txt/t7_government_2_202.deft	 9938	 9939	 O	 -1	 -1	 0
-Ambition.pdf	 data/source_txt/t7_government_2_202.deft	 9939	 9951	 O	 -1	 -1	 0
-(	 data/source_txt/t7_government_2_202.deft	 9952	 9953	 O	 -1	 -1	 0
-August	 data/source_txt/t7_government_2_202.deft	 9953	 9959	 O	 -1	 -1	 0
-28	 data/source_txt/t7_government_2_202.deft	 9960	 9962	 O	 -1	 -1	 0
-,	 data/source_txt/t7_government_2_202.deft	 9962	 9963	 O	 -1	 -1	 0
-2015	 data/source_txt/t7_government_2_202.deft	 9964	 9968	 O	 -1	 -1	 0
-)	 data/source_txt/t7_government_2_202.deft	 9968	 9969	 O	 -1	 -1	 0
-.	 data/source_txt/t7_government_2_202.deft	 9969	 9970	 O	 -1	 -1	 0
-
-In	 data/source_txt/t7_government_2_202.deft	 9971	 9973	 O	 -1	 -1	 0
-2008	 data/source_txt/t7_government_2_202.deft	 9974	 9978	 O	 -1	 -1	 0
-,	 data/source_txt/t7_government_2_202.deft	 9978	 9979	 O	 -1	 -1	 0
-the	 data/source_txt/t7_government_2_202.deft	 9980	 9983	 O	 -1	 -1	 0
-nomination	 data/source_txt/t7_government_2_202.deft	 9984	 9994	 O	 -1	 -1	 0
-of	 data/source_txt/t7_government_2_202.deft	 9995	 9997	 O	 -1	 -1	 0
-Sarah	 data/source_txt/t7_government_2_202.deft	 9998	 10003	 O	 -1	 -1	 0
-Palin	 data/source_txt/t7_government_2_202.deft	 10004	 10009	 O	 -1	 -1	 0
-as	 data/source_txt/t7_government_2_202.deft	 10010	 10012	 O	 -1	 -1	 0
-Republican	 data/source_txt/t7_government_2_202.deft	 10013	 10023	 O	 -1	 -1	 0
-candidate	 data/source_txt/t7_government_2_202.deft	 10024	 10033	 O	 -1	 -1	 0
-John	 data/source_txt/t7_government_2_202.deft	 10034	 10038	 O	 -1	 -1	 0
-McCain	 data/source_txt/t7_government_2_202.deft	 10039	 10045	 O	 -1	 -1	 0
-’s	 data/source_txt/t7_government_2_202.deft	 10045	 10047	 O	 -1	 -1	 0
-running	 data/source_txt/t7_government_2_202.deft	 10048	 10055	 O	 -1	 -1	 0
-mate	 data/source_txt/t7_government_2_202.deft	 10056	 10060	 O	 -1	 -1	 0
-validated	 data/source_txt/t7_government_2_202.deft	 10061	 10070	 O	 -1	 -1	 0
-this	 data/source_txt/t7_government_2_202.deft	 10071	 10075	 O	 -1	 -1	 0
-concern	 data/source_txt/t7_government_2_202.deft	 10076	 10083	 O	 -1	 -1	 0
-(	 data/source_txt/t7_government_2_202.deft	 10084	 10085	 O	 -1	 -1	 0
-[	 data/source_txt/t7_government_2_202.deft	 10085	 10086	 O	 -1	 -1	 0
-link	 data/source_txt/t7_government_2_202.deft	 10086	 10090	 O	 -1	 -1	 0
-]	 data/source_txt/t7_government_2_202.deft	 10090	 10091	 O	 -1	 -1	 0
-)	 data/source_txt/t7_government_2_202.deft	 10091	 10092	 O	 -1	 -1	 0
-.	 data/source_txt/t7_government_2_202.deft	 10092	 10093	 O	 -1	 -1	 0
-
-Some	 data/source_txt/t7_government_2_202.deft	 10100	 10104	 O	 -1	 -1	 0
-articles	 data/source_txt/t7_government_2_202.deft	 10105	 10113	 O	 -1	 -1	 0
-focused	 data/source_txt/t7_government_2_202.deft	 10114	 10121	 O	 -1	 -1	 0
-on	 data/source_txt/t7_government_2_202.deft	 10122	 10124	 O	 -1	 -1	 0
-her	 data/source_txt/t7_government_2_202.deft	 10125	 10128	 O	 -1	 -1	 0
-qualifications	 data/source_txt/t7_government_2_202.deft	 10129	 10143	 O	 -1	 -1	 0
-to	 data/source_txt/t7_government_2_202.deft	 10144	 10146	 O	 -1	 -1	 0
-be	 data/source_txt/t7_government_2_202.deft	 10147	 10149	 O	 -1	 -1	 0
-a	 data/source_txt/t7_government_2_202.deft	 10150	 10151	 O	 -1	 -1	 0
-potential	 data/source_txt/t7_government_2_202.deft	 10152	 10161	 O	 -1	 -1	 0
-future	 data/source_txt/t7_government_2_202.deft	 10162	 10168	 O	 -1	 -1	 0
-president	 data/source_txt/t7_government_2_202.deft	 10169	 10178	 O	 -1	 -1	 0
-or	 data/source_txt/t7_government_2_202.deft	 10179	 10181	 O	 -1	 -1	 0
-her	 data/source_txt/t7_government_2_202.deft	 10182	 10185	 O	 -1	 -1	 0
-record	 data/source_txt/t7_government_2_202.deft	 10186	 10192	 O	 -1	 -1	 0
-on	 data/source_txt/t7_government_2_202.deft	 10193	 10195	 O	 -1	 -1	 0
-the	 data/source_txt/t7_government_2_202.deft	 10196	 10199	 O	 -1	 -1	 0
-issues	 data/source_txt/t7_government_2_202.deft	 10200	 10206	 O	 -1	 -1	 0
-.	 data/source_txt/t7_government_2_202.deft	 10206	 10207	 O	 -1	 -1	 0
 
 
 6469	 data/source_txt/t7_government_2_202.deft	 10211	 10215	 O	 -1	 -1	 0
@@ -2838,10 +2718,6 @@ elections	 data/source_txt/t7_government_2_202.deft	 17262	 17271	 O	 -1	 -1	 0
 .	 data/source_txt/t7_government_2_202.deft	 17271	 17272	 O	 -1	 -1	 0
 
 
-2007	 data/source_txt/t7_government_2_202.deft	 17679	 17683	 O	 -1	 -1	 0
-.	 data/source_txt/t7_government_2_202.deft	 17683	 17684	 O	 -1	 -1	 0
-
-
 6517	 data/source_txt/t7_government_2_202.deft	 17688	 17692	 O	 -1	 -1	 0
 .	 data/source_txt/t7_government_2_202.deft	 17692	 17693	 O	 -1	 -1	 0
 
@@ -3735,6 +3611,10 @@ public	 data/source_txt/t7_government_2_202.deft	 22555	 22561	 O	 -1	 -1	 0
 Ken	 data/source_txt/t7_government_2_202.deft	 22562	 22565	 O	 -1	 -1	 0
 Kollman	 data/source_txt/t7_government_2_202.deft	 22566	 22573	 O	 -1	 -1	 0
 .	 data/source_txt/t7_government_2_202.deft	 22573	 22574	 O	 -1	 -1	 0
+
+1998	 data/source_txt/t7_government_2_202.deft	 22581	 22585	 O	 -1	 -1	 0
+.	 data/source_txt/t7_government_2_202.deft	 22585	 22586	 O	 -1	 -1	 0
+
 
 6544	 data/source_txt/t7_government_2_202.deft	 22590	 22594	 O	 -1	 -1	 0
 .	 data/source_txt/t7_government_2_202.deft	 22594	 22595	 O	 -1	 -1	 0
@@ -6169,6 +6049,10 @@ S.	 data/source_txt/t7_government_2_202.deft	 36030	 36032	 O	 -1	 -1	 0
 Smith	 data/source_txt/t7_government_2_202.deft	 36033	 36038	 O	 -1	 -1	 0
 .	 data/source_txt/t7_government_2_202.deft	 36038	 36039	 O	 -1	 -1	 0
 
+1999	 data/source_txt/t7_government_2_202.deft	 36046	 36050	 O	 -1	 -1	 0
+.	 data/source_txt/t7_government_2_202.deft	 36050	 36051	 O	 -1	 -1	 0
+
+
 6637	 data/source_txt/t7_government_2_202.deft	 36055	 36059	 O	 -1	 -1	 0
 .	 data/source_txt/t7_government_2_202.deft	 36059	 36060	 O	 -1	 -1	 0
 
@@ -7642,6 +7526,10 @@ Jeffrey	 data/source_txt/t7_government_2_202.deft	 43974	 43981	 O	 -1	 -1	 0
 S.	 data/source_txt/t7_government_2_202.deft	 43982	 43984	 O	 -1	 -1	 0
 Peake	 data/source_txt/t7_government_2_202.deft	 43985	 43990	 O	 -1	 -1	 0
 .	 data/source_txt/t7_government_2_202.deft	 43990	 43991	 O	 -1	 -1	 0
+
+2009	 data/source_txt/t7_government_2_202.deft	 43998	 44002	 O	 -1	 -1	 0
+.	 data/source_txt/t7_government_2_202.deft	 44002	 44003	 O	 -1	 -1	 0
+
 
 6682	 data/source_txt/t7_government_2_202.deft	 44007	 44011	 O	 -1	 -1	 0
 .	 data/source_txt/t7_government_2_202.deft	 44011	 44012	 O	 -1	 -1	 0

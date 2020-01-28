@@ -229,6 +229,10 @@ Federalist	 data/source_txt/t7_government_1_0.deft	 15513	 15523	 O	 -1	 -1	 0
 No	 data/source_txt/t7_government_1_0.deft	 15524	 15526	 O	 -1	 -1	 0
 .	 data/source_txt/t7_government_1_0.deft	 15526	 15527	 O	 -1	 -1	 0
 
+10	 data/source_txt/t7_government_1_0.deft	 15534	 15536	 O	 -1	 -1	 0
+.	 data/source_txt/t7_government_1_0.deft	 15536	 15537	 O	 -1	 -1	 0
+
+
 5921	 data/source_txt/t7_government_1_0.deft	 16019	 16023	 O	 -1	 -1	 0
 .	 data/source_txt/t7_government_1_0.deft	 16023	 16024	 O	 -1	 -1	 0
 
@@ -723,71 +727,5 @@ and	 data/source_txt/t7_government_1_0.deft	 29175	 29178	 O	 -1	 -1	 0
 consumer	 data/source_txt/t7_government_1_0.deft	 29179	 29187	 O	 -1	 -1	 0
 protection	 data/source_txt/t7_government_1_0.deft	 29188	 29198	 O	 -1	 -1	 0
 .	 data/source_txt/t7_government_1_0.deft	 29198	 29199	 O	 -1	 -1	 0
-
-
-2014	 data/source_txt/t7_government_1_0.deft	 35868	 35872	 O	 -1	 -1	 0
-.	 data/source_txt/t7_government_1_0.deft	 35872	 35873	 O	 -1	 -1	 0
-
-“	 data/source_txt/t7_government_1_0.deft	 35882	 35883	 O	 -1	 -1	 0
-Op	 data/source_txt/t7_government_1_0.deft	 35883	 35885	 O	 -1	 -1	 0
--	 data/source_txt/t7_government_1_0.deft	 35885	 35886	 O	 -1	 -1	 0
-ed	 data/source_txt/t7_government_1_0.deft	 35886	 35888	 O	 -1	 -1	 0
-:	 data/source_txt/t7_government_1_0.deft	 35888	 35889	 O	 -1	 -1	 0
-In	 data/source_txt/t7_government_1_0.deft	 35890	 35892	 O	 -1	 -1	 0
-the	 data/source_txt/t7_government_1_0.deft	 35893	 35896	 O	 -1	 -1	 0
-Wake	 data/source_txt/t7_government_1_0.deft	 35897	 35901	 O	 -1	 -1	 0
-of	 data/source_txt/t7_government_1_0.deft	 35902	 35904	 O	 -1	 -1	 0
-Windsor	 data/source_txt/t7_government_1_0.deft	 35905	 35912	 O	 -1	 -1	 0
-,	 data/source_txt/t7_government_1_0.deft	 35912	 35913	 O	 -1	 -1	 0
-”	 data/source_txt/t7_government_1_0.deft	 35913	 35914	 O	 -1	 -1	 0
-June	 data/source_txt/t7_government_1_0.deft	 35915	 35919	 O	 -1	 -1	 0
-26	 data/source_txt/t7_government_1_0.deft	 35920	 35922	 O	 -1	 -1	 0
-.	 data/source_txt/t7_government_1_0.deft	 35922	 35923	 O	 -1	 -1	 0
-http://www.advocate.com/commentary/2014/06/26/op-ed-wake-windsor	 data/source_txt/t7_government_1_0.deft	 35924	 35988	 O	 -1	 -1	 0
-(	 data/source_txt/t7_government_1_0.deft	 35989	 35990	 O	 -1	 -1	 0
-June	 data/source_txt/t7_government_1_0.deft	 35990	 35994	 O	 -1	 -1	 0
-24	 data/source_txt/t7_government_1_0.deft	 35995	 35997	 O	 -1	 -1	 0
-,	 data/source_txt/t7_government_1_0.deft	 35997	 35998	 O	 -1	 -1	 0
-2015	 data/source_txt/t7_government_1_0.deft	 35999	 36003	 O	 -1	 -1	 0
-)	 data/source_txt/t7_government_1_0.deft	 36003	 36004	 O	 -1	 -1	 0
-.	 data/source_txt/t7_government_1_0.deft	 36004	 36005	 O	 -1	 -1	 0
-
-In	 data/source_txt/t7_government_1_0.deft	 36006	 36008	 O	 -1	 -1	 0
-the	 data/source_txt/t7_government_1_0.deft	 36009	 36012	 O	 -1	 -1	 0
-final	 data/source_txt/t7_government_1_0.deft	 36013	 36018	 O	 -1	 -1	 0
-analysis	 data/source_txt/t7_government_1_0.deft	 36019	 36027	 O	 -1	 -1	 0
-,	 data/source_txt/t7_government_1_0.deft	 36027	 36028	 O	 -1	 -1	 0
-same	 data/source_txt/t7_government_1_0.deft	 36029	 36033	 B-Definition	 T177	 T176	 Direct-Defines
--	 data/source_txt/t7_government_1_0.deft	 36033	 36034	 I-Definition	 T177	 T176	 Direct-Defines
-sex	 data/source_txt/t7_government_1_0.deft	 36034	 36037	 I-Definition	 T177	 T176	 Direct-Defines
-marriage	 data/source_txt/t7_government_1_0.deft	 36038	 36046	 I-Definition	 T177	 T176	 Direct-Defines
-is	 data/source_txt/t7_government_1_0.deft	 36047	 36049	 I-Definition	 T177	 T176	 Direct-Defines
-a	 data/source_txt/t7_government_1_0.deft	 36050	 36051	 I-Definition	 T177	 T176	 Direct-Defines
-protected	 data/source_txt/t7_government_1_0.deft	 36052	 36061	 I-Definition	 T177	 T176	 Direct-Defines
-constitutional	 data/source_txt/t7_government_1_0.deft	 36062	 36076	 I-Definition	 T177	 T176	 Direct-Defines
-right	 data/source_txt/t7_government_1_0.deft	 36077	 36082	 I-Definition	 T177	 T176	 Direct-Defines
-as	 data/source_txt/t7_government_1_0.deft	 36083	 36085	 I-Definition	 T177	 T176	 Direct-Defines
-decided	 data/source_txt/t7_government_1_0.deft	 36086	 36093	 I-Definition	 T177	 T176	 Direct-Defines
-by	 data/source_txt/t7_government_1_0.deft	 36094	 36096	 I-Definition	 T177	 T176	 Direct-Defines
-the	 data/source_txt/t7_government_1_0.deft	 36097	 36100	 I-Definition	 T177	 T176	 Direct-Defines
-U.S.	 data/source_txt/t7_government_1_0.deft	 36101	 36105	 Definition	 T177	 T176	 Direct-Defines
-Supreme	 data/source_txt/t7_government_1_0.deft	 36106	 36113	 O	 -1	 -1	 0
-Court	 data/source_txt/t7_government_1_0.deft	 36114	 36119	 O	 -1	 -1	 0
-,	 data/source_txt/t7_government_1_0.deft	 36119	 36120	 O	 -1	 -1	 0
-which	 data/source_txt/t7_government_1_0.deft	 36121	 36126	 O	 -1	 -1	 0
-took	 data/source_txt/t7_government_1_0.deft	 36127	 36131	 O	 -1	 -1	 0
-up	 data/source_txt/t7_government_1_0.deft	 36132	 36134	 O	 -1	 -1	 0
-the	 data/source_txt/t7_government_1_0.deft	 36135	 36138	 O	 -1	 -1	 0
-issue	 data/source_txt/t7_government_1_0.deft	 36139	 36144	 O	 -1	 -1	 0
-again	 data/source_txt/t7_government_1_0.deft	 36145	 36150	 O	 -1	 -1	 0
-when	 data/source_txt/t7_government_1_0.deft	 36151	 36155	 O	 -1	 -1	 0
-it	 data/source_txt/t7_government_1_0.deft	 36156	 36158	 O	 -1	 -1	 0
-heard	 data/source_txt/t7_government_1_0.deft	 36159	 36164	 O	 -1	 -1	 0
-Obergefell	 data/source_txt/t7_government_1_0.deft	 36165	 36175	 B-Term	 T176	 0	 Direct-Defines
-v.	 data/source_txt/t7_government_1_0.deft	 36176	 36178	 I-Term	 T176	 0	 Direct-Defines
-Hodges	 data/source_txt/t7_government_1_0.deft	 36179	 36185	 I-Term	 T176	 0	 Direct-Defines
-in	 data/source_txt/t7_government_1_0.deft	 36186	 36188	 O	 -1	 -1	 0
-2015	 data/source_txt/t7_government_1_0.deft	 36189	 36193	 O	 -1	 -1	 0
-.	 data/source_txt/t7_government_1_0.deft	 36193	 36194	 O	 -1	 -1	 0
 
 

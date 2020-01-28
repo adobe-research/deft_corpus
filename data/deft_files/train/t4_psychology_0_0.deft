@@ -882,7 +882,7 @@ levels	 data/source_txt/t4_psychology_0_0.deft	 6529	 6535	 I-Definition	 T58	 T
 
 The	 data/source_txt/t4_psychology_0_0.deft	 6560	 6563	 B-Term	 T59	 0	 Direct-Defines
 Spinal	 data/source_txt/t4_psychology_0_0.deft	 6564	 6570	 I-Term	 T59	 0	 Direct-Defines
-CordIt	 data/source_txt/t4_psychology_0_0.deft	 6571	 6577	 Term	 T59	 0	 Direct-Defines
+CordIt	 data/source_txt/t4_psychology_0_0.deft	 6571	 6577	 I-Term	 T59	 0	 Direct-Defines
 can	 data/source_txt/t4_psychology_0_0.deft	 6578	 6581	 O	 -1	 -1	 0
 be	 data/source_txt/t4_psychology_0_0.deft	 6582	 6584	 O	 -1	 -1	 0
 said	 data/source_txt/t4_psychology_0_0.deft	 6585	 6589	 O	 -1	 -1	 0

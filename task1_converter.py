@@ -51,7 +51,8 @@ def write_converted(source_file, output_file):
             new_sentence = new_sentence + ' ' + line_parts[0]
             if line_parts[4][3:] == 'Definition':
                 has_def = 1
-
+        if len(new_sentence) > 0:
+            sentences = sentences.append({'sentence': new_sentence, 'label': has_def}, ignore_index=True)
     sentences.to_csv(output_file, header=False, index=False, quoting=csv.QUOTE_ALL, sep='\t')
 
 if __name__ == '__main__':

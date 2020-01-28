@@ -3402,7 +3402,7 @@ one	 data/source_txt/t1_biology_1_404.deft	 19322	 19325	 I-Referential-Definiti
 node	 data/source_txt/t1_biology_1_404.deft	 19326	 19330	 I-Referential-Definition	 T193	 T192	 Indirect-Defines
 to	 data/source_txt/t1_biology_1_404.deft	 19331	 19333	 I-Referential-Definition	 T193	 T192	 Indirect-Defines
 the	 data/source_txt/t1_biology_1_404.deft	 19334	 19337	 I-Referential-Definition	 T193	 T192	 Indirect-Defines
-next	 data/source_txt/t1_biology_1_404.deft	 19338	 19342	 Referential-Definition	 T193	 T192	 Indirect-Defines
+next	 data/source_txt/t1_biology_1_404.deft	 19338	 19342	 I-Referential-Definition	 T193	 T192	 Indirect-Defines
 is	 data/source_txt/t1_biology_1_404.deft	 19343	 19345	 O	 -1	 -1	 0
 called	 data/source_txt/t1_biology_1_404.deft	 19346	 19352	 O	 -1	 -1	 0
 saltatory	 data/source_txt/t1_biology_1_404.deft	 19353	 19362	 B-Term	 T192	 0	 Indirect-Defines
@@ -4166,7 +4166,7 @@ from	 data/source_txt/t1_biology_1_404.deft	 23303	 23307	 O	 -1	 -1	 0
 or	 data/source_txt/t1_biology_1_404.deft	 23308	 23310	 O	 -1	 -1	 0
 enter	 data/source_txt/t1_biology_1_404.deft	 23311	 23316	 O	 -1	 -1	 0
 the	 data/source_txt/t1_biology_1_404.deft	 23317	 23320	 B-Definition	 T233	 T234	 Direct-Defines
-skull	 data/source_txt/t1_biology_1_404.deft	 23321	 23326	 Definition	 T233	 T234	 Direct-Defines
+skull	 data/source_txt/t1_biology_1_404.deft	 23321	 23326	 I-Definition	 T233	 T234	 Direct-Defines
 (	 data/source_txt/t1_biology_1_404.deft	 23327	 23328	 O	 -1	 -1	 0
 cranium	 data/source_txt/t1_biology_1_404.deft	 23328	 23335	 B-Term	 T234	 0	 Direct-Defines
 )	 data/source_txt/t1_biology_1_404.deft	 23335	 23336	 O	 -1	 -1	 0

@@ -2848,7 +2848,7 @@ to	 data/source_txt/t3_physics_0_101.deft	 16067	 16069	 O	 -1	 -1	 0
 be	 data/source_txt/t3_physics_0_101.deft	 16070	 16072	 O	 -1	 -1	 0
 the	 data/source_txt/t3_physics_0_101.deft	 16073	 16076	 B-Term	 T121	 0	 Direct-Defines
 focal	 data/source_txt/t3_physics_0_101.deft	 16077	 16082	 I-Term	 T121	 0	 Direct-Defines
-lengthff	 data/source_txt/t3_physics_0_101.deft	 16083	 16091	 Term	 T121	 0	 Direct-Defines
+lengthff	 data/source_txt/t3_physics_0_101.deft	 16083	 16091	 I-Term	 T121	 0	 Direct-Defines
 size	 data/source_txt/t3_physics_0_101.deft	 16092	 16096	 O	 -1	 -1	 0
 12	 data/source_txt/t3_physics_0_101.deft	 16097	 16099	 O	 -1	 -1	 0
 {	 data/source_txt/t3_physics_0_101.deft	 16099	 16100	 O	 -1	 -1	 0

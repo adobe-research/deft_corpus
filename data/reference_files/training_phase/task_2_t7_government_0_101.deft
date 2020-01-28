@@ -71,7 +71,7 @@ regulated	 data/source_txt/t7_government_0_101.deft	 957	 966	 I-Definition
 militia	 data/source_txt/t7_government_0_101.deft	 967	 974	 I-Definition
 .	 data/source_txt/t7_government_0_101.deft	 974	 975	 I-Definition
 
-”United	 data/source_txt/t7_government_0_101.deft	 975	 982	 Definition
+”United	 data/source_txt/t7_government_0_101.deft	 975	 982	 I-Definition
 States	 data/source_txt/t7_government_0_101.deft	 983	 989	 O
 v.	 data/source_txt/t7_government_0_101.deft	 990	 992	 O
 Miller	 data/source_txt/t7_government_0_101.deft	 993	 999	 O
@@ -782,10 +782,6 @@ U.S.	 data/source_txt/t7_government_0_101.deft	 13608	 13612	 O
 .	 data/source_txt/t7_government_0_101.deft	 13623	 13624	 O
 
 
-2002	 data/source_txt/t7_government_0_101.deft	 15037	 15041	 O
-.	 data/source_txt/t7_government_0_101.deft	 15041	 15042	 O
-
-
 6216	 data/source_txt/t7_government_0_101.deft	 19866	 19870	 O
 .	 data/source_txt/t7_government_0_101.deft	 19870	 19871	 O
 
@@ -957,9 +953,5 @@ in	 data/source_txt/t7_government_0_101.deft	 28977	 28979	 O
 conducting	 data/source_txt/t7_government_0_101.deft	 28980	 28990	 O
 polls	 data/source_txt/t7_government_0_101.deft	 28991	 28996	 O
 .	 data/source_txt/t7_government_0_101.deft	 28996	 28997	 O
-
-
-2014	 data/source_txt/t7_government_0_101.deft	 33625	 33629	 O
-.	 data/source_txt/t7_government_0_101.deft	 33629	 33630	 O
 
 

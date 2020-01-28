@@ -2001,7 +2001,7 @@ the	 data/source_txt/t1_biology_1_101.deft	 10788	 10791	 I-Definition	 T87	 T86
 positive	 data/source_txt/t1_biology_1_101.deft	 10792	 10800	 I-Definition	 T87	 T86	 Direct-Defines
 cell	 data/source_txt/t1_biology_1_101.deft	 10801	 10805	 I-Definition	 T87	 T86	 Direct-Defines
 cycle	 data/source_txt/t1_biology_1_101.deft	 10806	 10811	 I-Definition	 T87	 T86	 Direct-Defines
-regulators	 data/source_txt/t1_biology_1_101.deft	 10812	 10822	 Definition	 T87	 T86	 Direct-Defines
+regulators	 data/source_txt/t1_biology_1_101.deft	 10812	 10822	 I-Definition	 T87	 T86	 Direct-Defines
 are	 data/source_txt/t1_biology_1_101.deft	 10823	 10826	 O	 -1	 -1	 0
 called	 data/source_txt/t1_biology_1_101.deft	 10827	 10833	 O	 -1	 -1	 0
 proto	 data/source_txt/t1_biology_1_101.deft	 10834	 10839	 B-Term	 T86	 0	 Direct-Defines
@@ -4502,7 +4502,7 @@ ends	 data/source_txt/t1_biology_1_101.deft	 24512	 24516	 I-Definition	 T194	 T
 of	 data/source_txt/t1_biology_1_101.deft	 24517	 24519	 I-Definition	 T194	 T193	 Direct-Defines
 the	 data/source_txt/t1_biology_1_101.deft	 24520	 24523	 I-Definition	 T194	 T193	 Direct-Defines
 linear	 data/source_txt/t1_biology_1_101.deft	 24524	 24530	 I-Definition	 T194	 T193	 Direct-Defines
-chromosomes	 data/source_txt/t1_biology_1_101.deft	 24531	 24542	 Definition	 T194	 T193	 Direct-Defines
+chromosomes	 data/source_txt/t1_biology_1_101.deft	 24531	 24542	 I-Definition	 T194	 T193	 Direct-Defines
 are	 data/source_txt/t1_biology_1_101.deft	 24543	 24546	 O	 -1	 -1	 0
 known	 data/source_txt/t1_biology_1_101.deft	 24547	 24552	 O	 -1	 -1	 0
 as	 data/source_txt/t1_biology_1_101.deft	 24553	 24555	 O	 -1	 -1	 0

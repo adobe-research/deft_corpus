@@ -1343,7 +1343,7 @@ ostia	 data/source_txt/t1_biology_0_303.deft	 8186	 8191	 O	 -1	 -1	 0
 are	 data/source_txt/t1_biology_0_303.deft	 8192	 8195	 O	 -1	 -1	 0
 formed	 data/source_txt/t1_biology_0_303.deft	 8196	 8202	 O	 -1	 -1	 0
 by	 data/source_txt/t1_biology_0_303.deft	 8203	 8205	 O	 -1	 -1	 0
-porocytes	 data/source_txt/t1_biology_0_303.deft	 8206	 8215	 Term	 T115	 0	 Direct-Defines
+porocytes	 data/source_txt/t1_biology_0_303.deft	 8206	 8215	 B-Term	 T115	 0	 Direct-Defines
 ,	 data/source_txt/t1_biology_0_303.deft	 8215	 8216	 O	 -1	 -1	 0
 single	 data/source_txt/t1_biology_0_303.deft	 8217	 8223	 B-Definition	 T116	 T115	 Direct-Defines
 tube	 data/source_txt/t1_biology_0_303.deft	 8224	 8228	 I-Definition	 T116	 T115	 Direct-Defines
