@@ -160,8 +160,10 @@ def write_to_scores(report, output_fname):
       """
     with open(output_fname, 'a+') as scores_file:
 
-        scores_file.write('subtask_2_f1-score_macro: ' + str(report['macro avg']['f1-score']) + '\n')
-
+        if report is not None:
+            scores_file.write('subtask_2_f1-score_macro: ' + str(report['macro avg']['f1-score']) + '\n')
+        else:
+            scores_file.write('subtask_2_f1-score_macro: -1\n')
 
 
 def task_2_eval_main(ref_path, res_path, output_dir, eval_labels):
@@ -194,6 +196,7 @@ def task_2_eval_main(ref_path, res_path, output_dir, eval_labels):
     if len(results_files) == 0:
         message = "No subtask 2 files to evaluate."
         warnings.warn(message)
+        write_to_scores(None, Path(output_dir).joinpath('scores.txt'))
         return None
 
     for child in ref_path.iterdir():

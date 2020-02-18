@@ -32,8 +32,8 @@ systems	 data/source_txt/t1_biology_1_202.deft	 1589	 1596	 O	 -1	 -1	 0
 biology	 data/source_txt/t1_biology_1_202.deft	 1597	 1604	 O	 -1	 -1	 0
 .	 data/source_txt/t1_biology_1_202.deft	 1604	 1605	 O	 -1	 -1	 0
 
-Systems	 data/source_txt/t1_biology_1_202.deft	 1614	 1621	 B-Term	 T7	 0	 Direct-Defines
-biology	 data/source_txt/t1_biology_1_202.deft	 1622	 1629	 I-Term	 T7	 0	 Direct-Defines
+Systems	 data/source_txt/t1_biology_1_202.deft	 1614	 1621	 B-Term	 T7	 0	 0
+biology	 data/source_txt/t1_biology_1_202.deft	 1622	 1629	 I-Term	 T7	 0	 0
 is	 data/source_txt/t1_biology_1_202.deft	 1630	 1632	 O	 -1	 -1	 0
 the	 data/source_txt/t1_biology_1_202.deft	 1633	 1636	 B-Definition	 T8	 T7	 Direct-Defines
 study	 data/source_txt/t1_biology_1_202.deft	 1637	 1642	 I-Definition	 T8	 T7	 Direct-Defines
@@ -114,8 +114,8 @@ diseases	 data/source_txt/t1_biology_1_202.deft	 24425	 24433	 O	 -1	 -1	 0
 affecting	 data/source_txt/t1_biology_1_202.deft	 24434	 24443	 O	 -1	 -1	 0
 humans	 data/source_txt/t1_biology_1_202.deft	 24444	 24450	 O	 -1	 -1	 0
 are	 data/source_txt/t1_biology_1_202.deft	 24451	 24454	 O	 -1	 -1	 0
-zoonotic	 data/source_txt/t1_biology_1_202.deft	 24455	 24463	 B-Term	 T154	 0	 Direct-Defines
-diseases	 data/source_txt/t1_biology_1_202.deft	 24464	 24472	 I-Term	 T154	 0	 Direct-Defines
+zoonotic	 data/source_txt/t1_biology_1_202.deft	 24455	 24463	 B-Term	 T154	 0	 0
+diseases	 data/source_txt/t1_biology_1_202.deft	 24464	 24472	 I-Term	 T154	 0	 0
 ,	 data/source_txt/t1_biology_1_202.deft	 24472	 24473	 O	 -1	 -1	 0
 zoonoses	 data/source_txt/t1_biology_1_202.deft	 24474	 24482	 B-Alias-Term	 T155	 T154	 AKA
 ,	 data/source_txt/t1_biology_1_202.deft	 24482	 24483	 O	 -1	 -1	 0
@@ -161,8 +161,8 @@ some	 data/source_txt/t1_biology_1_202.deft	 24694	 24698	 O	 -1	 -1	 0
 regions	 data/source_txt/t1_biology_1_202.deft	 24699	 24706	 O	 -1	 -1	 0
 ,	 data/source_txt/t1_biology_1_202.deft	 24706	 24707	 O	 -1	 -1	 0
 and	 data/source_txt/t1_biology_1_202.deft	 24708	 24711	 O	 -1	 -1	 0
-necrotizing	 data/source_txt/t1_biology_1_202.deft	 24712	 24723	 B-Term	 T291	 0	 Direct-Defines
-fasciitis	 data/source_txt/t1_biology_1_202.deft	 24724	 24733	 I-Term	 T291	 0	 Direct-Defines
+necrotizing	 data/source_txt/t1_biology_1_202.deft	 24712	 24723	 B-Term	 T291	 0	 0
+fasciitis	 data/source_txt/t1_biology_1_202.deft	 24724	 24733	 I-Term	 T291	 0	 0
 (	 data/source_txt/t1_biology_1_202.deft	 24734	 24735	 O	 -1	 -1	 0
 commonly	 data/source_txt/t1_biology_1_202.deft	 24735	 24743	 O	 -1	 -1	 0
 known	 data/source_txt/t1_biology_1_202.deft	 24744	 24749	 O	 -1	 -1	 0
@@ -239,8 +239,8 @@ biologist	 data/source_txt/t1_biology_1_202.deft	 26211	 26220	 O	 -1	 -1	 0
 Lynn	 data/source_txt/t1_biology_1_202.deft	 26221	 26225	 O	 -1	 -1	 0
 Margulis	 data/source_txt/t1_biology_1_202.deft	 26226	 26234	 O	 -1	 -1	 0
 developed	 data/source_txt/t1_biology_1_202.deft	 26235	 26244	 O	 -1	 -1	 0
-endosymbiotic	 data/source_txt/t1_biology_1_202.deft	 26245	 26258	 B-Term	 T161	 0	 Direct-Defines
-theory	 data/source_txt/t1_biology_1_202.deft	 26259	 26265	 I-Term	 T161	 0	 Direct-Defines
+endosymbiotic	 data/source_txt/t1_biology_1_202.deft	 26245	 26258	 B-Term	 T161	 0	 0
+theory	 data/source_txt/t1_biology_1_202.deft	 26259	 26265	 I-Term	 T161	 0	 0
 ,	 data/source_txt/t1_biology_1_202.deft	 26265	 26266	 O	 -1	 -1	 0
 which	 data/source_txt/t1_biology_1_202.deft	 26267	 26272	 O	 -1	 -1	 0
 states	 data/source_txt/t1_biology_1_202.deft	 26273	 26279	 O	 -1	 -1	 0
@@ -312,8 +312,8 @@ requirement	 data/source_txt/t1_biology_1_202.deft	 29728	 29739	 O	 -1	 -1	 0
 Most	 data/source_txt/t1_biology_1_202.deft	 29749	 29753	 O	 -1	 -1	 0
 fungi	 data/source_txt/t1_biology_1_202.deft	 29754	 29759	 O	 -1	 -1	 0
 are	 data/source_txt/t1_biology_1_202.deft	 29760	 29763	 O	 -1	 -1	 0
-obligate	 data/source_txt/t1_biology_1_202.deft	 29764	 29772	 B-Term	 T181	 0	 Direct-Defines
-aerobes	 data/source_txt/t1_biology_1_202.deft	 29773	 29780	 I-Term	 T181	 0	 Direct-Defines
+obligate	 data/source_txt/t1_biology_1_202.deft	 29764	 29772	 B-Term	 T181	 0	 0
+aerobes	 data/source_txt/t1_biology_1_202.deft	 29773	 29780	 I-Term	 T181	 0	 0
 ,	 data/source_txt/t1_biology_1_202.deft	 29780	 29781	 O	 -1	 -1	 0
 requiring	 data/source_txt/t1_biology_1_202.deft	 29782	 29791	 B-Definition	 T182	 T181	 Direct-Defines
 oxygen	 data/source_txt/t1_biology_1_202.deft	 29792	 29798	 I-Definition	 T182	 T181	 Direct-Defines
@@ -338,8 +338,8 @@ cattle	 data/source_txt/t1_biology_1_202.deft	 29888	 29894	 O	 -1	 -1	 0
 ,	 data/source_txt/t1_biology_1_202.deft	 29894	 29895	 O	 -1	 -1	 0
 are	 data/source_txt/t1_biology_1_202.deft	 29896	 29899	 O	 -1	 -1	 0
 are	 data/source_txt/t1_biology_1_202.deft	 29900	 29903	 O	 -1	 -1	 0
-obligate	 data/source_txt/t1_biology_1_202.deft	 29904	 29912	 B-Term	 T183	 0	 Direct-Defines
-anaerobes	 data/source_txt/t1_biology_1_202.deft	 29913	 29922	 I-Term	 T183	 0	 Direct-Defines
+obligate	 data/source_txt/t1_biology_1_202.deft	 29904	 29912	 B-Term	 T183	 0	 0
+anaerobes	 data/source_txt/t1_biology_1_202.deft	 29913	 29922	 I-Term	 T183	 0	 0
 ,	 data/source_txt/t1_biology_1_202.deft	 29922	 29923	 O	 -1	 -1	 0
 in	 data/source_txt/t1_biology_1_202.deft	 29924	 29926	 O	 -1	 -1	 0
 that	 data/source_txt/t1_biology_1_202.deft	 29927	 29931	 O	 -1	 -1	 0

@@ -15,7 +15,7 @@ administrators	 data/source_txt/t2_history_2_0.deft	 1637	 1651	 O	 -1	 -1	 0
 
 Runners	 data/source_txt/t2_history_2_0.deft	 1661	 1668	 B-Definition	 T181	 T180	 Direct-Defines
 called	 data/source_txt/t2_history_2_0.deft	 1669	 1675	 O	 -1	 -1	 0
-chasquis	 data/source_txt/t2_history_2_0.deft	 1676	 1684	 B-Term	 T180	 0	 Direct-Defines
+chasquis	 data/source_txt/t2_history_2_0.deft	 1676	 1684	 B-Term	 T180	 0	 0
 traversed	 data/source_txt/t2_history_2_0.deft	 1685	 1694	 B-Qualifier	 T182	 T181	 Supplements
 the	 data/source_txt/t2_history_2_0.deft	 1695	 1698	 I-Qualifier	 T182	 T181	 Supplements
 roads	 data/source_txt/t2_history_2_0.deft	 1699	 1704	 I-Qualifier	 T182	 T181	 Supplements

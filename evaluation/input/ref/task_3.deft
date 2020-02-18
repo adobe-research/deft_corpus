@@ -22,9 +22,9 @@ in	data/source_txt/dev/t1_biology_0_0.txt	 106	 108	 O	 -1	 -1	 0
 science	data/source_txt/dev/t1_biology_0_0.txt	 109	 116	 O	 -1	 -1	 0
 .	data/source_txt/dev/t1_biology_0_0.txt	 116	 117	 O	 -1	 -1	 0
 
-The	data/source_txt/dev/t1_biology_0_0.txt	 126	 129	 B-Term	 T125	 0	 Direct-Defines
-scientific	data/source_txt/dev/t1_biology_0_0.txt	 130	 140	 I-Term	 T125	 0	 Direct-Defines
-method	data/source_txt/dev/t1_biology_0_0.txt	 141	 147	 I-Term	 T125	 0	 Direct-Defines
+The	data/source_txt/dev/t1_biology_0_0.txt	 126	 129	 B-Term	 T125	 0	 0
+scientific	data/source_txt/dev/t1_biology_0_0.txt	 130	 140	 I-Term	 T125	 0	 0
+method	data/source_txt/dev/t1_biology_0_0.txt	 141	 147	 I-Term	 T125	 0	 0
 is	data/source_txt/dev/t1_biology_0_0.txt	 148	 150	 O	 -1	 -1	 0
 a	data/source_txt/dev/t1_biology_0_0.txt	 151	 152	 B-Definition	 T126	 T125	 Direct-Defines
 method	data/source_txt/dev/t1_biology_0_0.txt	 153	 159	 I-Definition	 T126	 T125	 Direct-Defines
@@ -53,8 +53,8 @@ an	data/source_txt/dev/t1_biology_0_0.txt	 3633	 3635	 O	 -1	 -1	 0
 ecosystem	data/source_txt/dev/t1_biology_0_0.txt	 3636	 3645	 O	 -1	 -1	 0
 .	data/source_txt/dev/t1_biology_0_0.txt	 3645	 3646	 O	 -1	 -1	 0
 
-An	data/source_txt/dev/t1_biology_0_0.txt	 3655	 3657	 B-Term	 T162	 0	 Direct-Defines
-ecosystem	data/source_txt/dev/t1_biology_0_0.txt	 3658	 3667	 I-Term	 T162	 0	 Direct-Defines
+An	data/source_txt/dev/t1_biology_0_0.txt	 3655	 3657	 B-Term	 T162	 0	 0
+ecosystem	data/source_txt/dev/t1_biology_0_0.txt	 3658	 3667	 I-Term	 T162	 0	 0
 consists	data/source_txt/dev/t1_biology_0_0.txt	 3668	 3676	 B-Definition	 T163	 T162	 Direct-Defines
 of	data/source_txt/dev/t1_biology_0_0.txt	 3677	 3679	 I-Definition	 T163	 T162	 Direct-Defines
 all	data/source_txt/dev/t1_biology_0_0.txt	 3680	 3683	 I-Definition	 T163	 T162	 Direct-Defines
@@ -100,8 +100,8 @@ link	data/source_txt/dev/t1_biology_0_0.txt	 3876	 3880	 O	 -1	 -1	 0
 ]	data/source_txt/dev/t1_biology_0_0.txt	 3880	 3881	 O	 -1	 -1	 0
 )	data/source_txt/dev/t1_biology_0_0.txt	 3881	 3882	 O	 -1	 -1	 0
 ,	data/source_txt/dev/t1_biology_0_0.txt	 3882	 3883	 O	 -1	 -1	 0
-the	data/source_txt/dev/t1_biology_0_0.txt	 3884	 3887	 B-Term	 T164	 0	 Direct-Defines
-biosphere	data/source_txt/dev/t1_biology_0_0.txt	 3888	 3897	 I-Term	 T164	 0	 Direct-Defines
+the	data/source_txt/dev/t1_biology_0_0.txt	 3884	 3887	 B-Term	 T164	 0	 0
+biosphere	data/source_txt/dev/t1_biology_0_0.txt	 3888	 3897	 I-Term	 T164	 0	 0
 is	data/source_txt/dev/t1_biology_0_0.txt	 3898	 3900	 O	 -1	 -1	 0
 the	data/source_txt/dev/t1_biology_0_0.txt	 3901	 3904	 B-Definition	 T165	 T164	 Direct-Defines
 collection	data/source_txt/dev/t1_biology_0_0.txt	 3905	 3915	 I-Definition	 T165	 T164	 Direct-Defines

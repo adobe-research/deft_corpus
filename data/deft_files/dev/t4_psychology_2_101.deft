@@ -18,8 +18,8 @@ space	 data/source_txt/t4_psychology_2_101.deft	 88	 93	 I-Definition	 T2	 T1	 D
 is	 data/source_txt/t4_psychology_2_101.deft	 94	 96	 O	 -1	 -1	 0
 known	 data/source_txt/t4_psychology_2_101.deft	 97	 102	 O	 -1	 -1	 0
 as	 data/source_txt/t4_psychology_2_101.deft	 103	 105	 O	 -1	 -1	 0
-depth	 data/source_txt/t4_psychology_2_101.deft	 106	 111	 B-Term	 T1	 0	 Direct-Defines
-perception	 data/source_txt/t4_psychology_2_101.deft	 112	 122	 I-Term	 T1	 0	 Direct-Defines
+depth	 data/source_txt/t4_psychology_2_101.deft	 106	 111	 B-Term	 T1	 0	 0
+perception	 data/source_txt/t4_psychology_2_101.deft	 112	 122	 I-Term	 T1	 0	 0
 .	 data/source_txt/t4_psychology_2_101.deft	 122	 123	 O	 -1	 -1	 0
 
 With	 data/source_txt/t4_psychology_2_101.deft	 130	 134	 O	 -1	 -1	 0
@@ -64,8 +64,8 @@ which	 data/source_txt/t4_psychology_2_101.deft	 2172	 2177	 O	 -1	 -1	 0
 is	 data/source_txt/t4_psychology_2_101.deft	 2178	 2180	 O	 -1	 -1	 0
 known	 data/source_txt/t4_psychology_2_101.deft	 2181	 2186	 O	 -1	 -1	 0
 as	 data/source_txt/t4_psychology_2_101.deft	 2187	 2189	 O	 -1	 -1	 0
-congenital	 data/source_txt/t4_psychology_2_101.deft	 2190	 2200	 B-Term	 T19	 0	 Direct-Defines
-deafness	 data/source_txt/t4_psychology_2_101.deft	 2201	 2209	 I-Term	 T19	 0	 Direct-Defines
+congenital	 data/source_txt/t4_psychology_2_101.deft	 2190	 2200	 B-Term	 T19	 0	 0
+deafness	 data/source_txt/t4_psychology_2_101.deft	 2201	 2209	 I-Term	 T19	 0	 0
 .	 data/source_txt/t4_psychology_2_101.deft	 2209	 2210	 O	 -1	 -1	 0
 
 Many	 data/source_txt/t4_psychology_2_101.deft	 2219	 2223	 O	 -1	 -1	 0
@@ -168,8 +168,8 @@ and	 data/source_txt/t4_psychology_2_101.deft	 3483	 3486	 O	 -1	 -1	 0
 throat	 data/source_txt/t4_psychology_2_101.deft	 3487	 3493	 O	 -1	 -1	 0
 .	 data/source_txt/t4_psychology_2_101.deft	 3493	 3494	 O	 -1	 -1	 0
 
-Taste	 data/source_txt/t4_psychology_2_101.deft	 3503	 3508	 B-Term	 T190	 0	 Direct-Defines
-buds	 data/source_txt/t4_psychology_2_101.deft	 3509	 3513	 I-Term	 T190	 0	 Direct-Defines
+Taste	 data/source_txt/t4_psychology_2_101.deft	 3503	 3508	 B-Term	 T190	 0	 0
+buds	 data/source_txt/t4_psychology_2_101.deft	 3509	 3513	 I-Term	 T190	 0	 0
 are	 data/source_txt/t4_psychology_2_101.deft	 3514	 3517	 O	 -1	 -1	 0
 formed	 data/source_txt/t4_psychology_2_101.deft	 3518	 3524	 B-Definition	 T191	 T190	 Direct-Defines
 by	 data/source_txt/t4_psychology_2_101.deft	 3525	 3527	 I-Definition	 T191	 T190	 Direct-Defines
@@ -252,11 +252,11 @@ intelligence	 data/source_txt/t4_psychology_2_101.deft	 16958	 16970	 O	 -1	 -1	
 which	 data/source_txt/t4_psychology_2_101.deft	 16972	 16977	 O	 -1	 -1	 0
 he	 data/source_txt/t4_psychology_2_101.deft	 16978	 16980	 O	 -1	 -1	 0
 titled	 data/source_txt/t4_psychology_2_101.deft	 16981	 16987	 O	 -1	 -1	 0
-the	 data/source_txt/t4_psychology_2_101.deft	 16988	 16991	 B-Term	 T97	 0	 Direct-Defines
-triarchic	 data/source_txt/t4_psychology_2_101.deft	 16992	 17001	 I-Term	 T97	 0	 Direct-Defines
-theory	 data/source_txt/t4_psychology_2_101.deft	 17002	 17008	 I-Term	 T97	 0	 Direct-Defines
-of	 data/source_txt/t4_psychology_2_101.deft	 17009	 17011	 I-Term	 T97	 0	 Direct-Defines
-intelligence	 data/source_txt/t4_psychology_2_101.deft	 17012	 17024	 I-Term	 T97	 0	 Direct-Defines
+the	 data/source_txt/t4_psychology_2_101.deft	 16988	 16991	 B-Term	 T97	 0	 0
+triarchic	 data/source_txt/t4_psychology_2_101.deft	 16992	 17001	 I-Term	 T97	 0	 0
+theory	 data/source_txt/t4_psychology_2_101.deft	 17002	 17008	 I-Term	 T97	 0	 0
+of	 data/source_txt/t4_psychology_2_101.deft	 17009	 17011	 I-Term	 T97	 0	 0
+intelligence	 data/source_txt/t4_psychology_2_101.deft	 17012	 17024	 I-Term	 T97	 0	 0
 because	 data/source_txt/t4_psychology_2_101.deft	 17025	 17032	 O	 -1	 -1	 0
 it	 data/source_txt/t4_psychology_2_101.deft	 17033	 17035	 O	 -1	 -1	 0
 sees	 data/source_txt/t4_psychology_2_101.deft	 17036	 17040	 B-Definition	 T98	 T97	 Direct-Defines
@@ -332,9 +332,9 @@ intelligence	 data/source_txt/t4_psychology_2_101.deft	 17660	 17672	 I-Definiti
 sometimes	 data/source_txt/t4_psychology_2_101.deft	 17674	 17683	 O	 -1	 -1	 0
 referred	 data/source_txt/t4_psychology_2_101.deft	 17684	 17692	 O	 -1	 -1	 0
 to	 data/source_txt/t4_psychology_2_101.deft	 17693	 17695	 O	 -1	 -1	 0
-as	 data/source_txt/t4_psychology_2_101.deft	 17696	 17698	 B-Term	 T101	 0	 Direct-Defines
-cultural	 data/source_txt/t4_psychology_2_101.deft	 17699	 17707	 I-Term	 T101	 0	 Direct-Defines
-competence	 data/source_txt/t4_psychology_2_101.deft	 17708	 17718	 I-Term	 T101	 0	 Direct-Defines
+as	 data/source_txt/t4_psychology_2_101.deft	 17696	 17698	 B-Term	 T101	 0	 0
+cultural	 data/source_txt/t4_psychology_2_101.deft	 17699	 17707	 I-Term	 T101	 0	 0
+competence	 data/source_txt/t4_psychology_2_101.deft	 17708	 17718	 I-Term	 T101	 0	 0
 .	 data/source_txt/t4_psychology_2_101.deft	 17718	 17719	 O	 -1	 -1	 0
 
 

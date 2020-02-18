@@ -30,7 +30,7 @@ strategies	 data/source_txt/t4_psychology_2_202.deft	 114	 124	 O	 -1	 -1	 0
 One	 data/source_txt/t4_psychology_2_202.deft	 134	 137	 O	 -1	 -1	 0
 strategy	 data/source_txt/t4_psychology_2_202.deft	 138	 146	 O	 -1	 -1	 0
 is	 data/source_txt/t4_psychology_2_202.deft	 147	 149	 O	 -1	 -1	 0
-rehearsal	 data/source_txt/t4_psychology_2_202.deft	 150	 159	 B-Term	 T1	 0	 Direct-Defines
+rehearsal	 data/source_txt/t4_psychology_2_202.deft	 150	 159	 B-Term	 T1	 0	 0
 ,	 data/source_txt/t4_psychology_2_202.deft	 159	 160	 O	 -1	 -1	 0
 or	 data/source_txt/t4_psychology_2_202.deft	 161	 163	 O	 -1	 -1	 0
 the	 data/source_txt/t4_psychology_2_202.deft	 164	 167	 B-Definition	 T2	 T1	 Direct-Defines
@@ -67,8 +67,8 @@ child	 data/source_txt/t4_psychology_2_202.deft	 312	 317	 O	 -1	 -1	 0
 3920	 data/source_txt/t4_psychology_2_202.deft	 322	 326	 O	 -1	 -1	 0
 .	 data/source_txt/t4_psychology_2_202.deft	 326	 327	 O	 -1	 -1	 0
 
-Mnemonic	 data/source_txt/t4_psychology_2_202.deft	 337	 345	 B-Term	 T3	 0	 Direct-Defines
-devices	 data/source_txt/t4_psychology_2_202.deft	 346	 353	 I-Term	 T3	 0	 Direct-Defines
+Mnemonic	 data/source_txt/t4_psychology_2_202.deft	 337	 345	 B-Term	 T3	 0	 0
+devices	 data/source_txt/t4_psychology_2_202.deft	 346	 353	 I-Term	 T3	 0	 0
 are	 data/source_txt/t4_psychology_2_202.deft	 354	 357	 O	 -1	 -1	 0
 memory	 data/source_txt/t4_psychology_2_202.deft	 358	 364	 B-Definition	 T4	 T3	 Direct-Defines
 aids	 data/source_txt/t4_psychology_2_202.deft	 365	 369	 I-Definition	 T4	 T3	 Direct-Defines
@@ -123,8 +123,8 @@ Bellezza	 data/source_txt/t4_psychology_2_202.deft	 564	 572	 O	 -1	 -1	 0
 3923	 data/source_txt/t4_psychology_2_202.deft	 584	 588	 O	 -1	 -1	 0
 .	 data/source_txt/t4_psychology_2_202.deft	 588	 589	 O	 -1	 -1	 0
 
-Physical	 data/source_txt/t4_psychology_2_202.deft	 590	 598	 B-Term	 T5	 0	 Direct-Defines
-development	 data/source_txt/t4_psychology_2_202.deft	 599	 610	 I-Term	 T5	 0	 Direct-Defines
+Physical	 data/source_txt/t4_psychology_2_202.deft	 590	 598	 B-Term	 T5	 0	 0
+development	 data/source_txt/t4_psychology_2_202.deft	 599	 610	 I-Term	 T5	 0	 0
 involves	 data/source_txt/t4_psychology_2_202.deft	 611	 619	 O	 -1	 -1	 0
 growth	 data/source_txt/t4_psychology_2_202.deft	 620	 626	 B-Definition	 T6	 T5	 Direct-Defines
 and	 data/source_txt/t4_psychology_2_202.deft	 627	 630	 I-Definition	 T6	 T5	 Direct-Defines
@@ -147,8 +147,8 @@ and	 data/source_txt/t4_psychology_2_202.deft	 699	 702	 I-Definition	 T6	 T5	 D
 wellness	 data/source_txt/t4_psychology_2_202.deft	 703	 711	 I-Definition	 T6	 T5	 Direct-Defines
 .	 data/source_txt/t4_psychology_2_202.deft	 711	 712	 O	 -1	 -1	 0
 
-Cognitive	 data/source_txt/t4_psychology_2_202.deft	 721	 730	 B-Term	 T7	 0	 Direct-Defines
-development	 data/source_txt/t4_psychology_2_202.deft	 731	 742	 I-Term	 T7	 0	 Direct-Defines
+Cognitive	 data/source_txt/t4_psychology_2_202.deft	 721	 730	 B-Term	 T7	 0	 0
+development	 data/source_txt/t4_psychology_2_202.deft	 731	 742	 I-Term	 T7	 0	 0
 involves	 data/source_txt/t4_psychology_2_202.deft	 743	 751	 O	 -1	 -1	 0
 learning	 data/source_txt/t4_psychology_2_202.deft	 752	 760	 B-Definition	 T8	 T7	 Direct-Defines
 ,	 data/source_txt/t4_psychology_2_202.deft	 760	 761	 I-Definition	 T8	 T7	 Direct-Defines
@@ -166,8 +166,8 @@ and	 data/source_txt/t4_psychology_2_202.deft	 812	 815	 I-Definition	 T8	 T7	 D
 creativity	 data/source_txt/t4_psychology_2_202.deft	 816	 826	 I-Definition	 T8	 T7	 Direct-Defines
 .	 data/source_txt/t4_psychology_2_202.deft	 826	 827	 O	 -1	 -1	 0
 
-Psychosocial	 data/source_txt/t4_psychology_2_202.deft	 834	 846	 B-Term	 T9	 0	 Direct-Defines
-development	 data/source_txt/t4_psychology_2_202.deft	 847	 858	 I-Term	 T9	 0	 Direct-Defines
+Psychosocial	 data/source_txt/t4_psychology_2_202.deft	 834	 846	 B-Term	 T9	 0	 0
+development	 data/source_txt/t4_psychology_2_202.deft	 847	 858	 I-Term	 T9	 0	 0
 involves	 data/source_txt/t4_psychology_2_202.deft	 859	 867	 O	 -1	 -1	 0
 emotions	 data/source_txt/t4_psychology_2_202.deft	 868	 876	 B-Definition	 T10	 T9	 Direct-Defines
 ,	 data/source_txt/t4_psychology_2_202.deft	 876	 877	 I-Definition	 T10	 T9	 Direct-Defines
@@ -336,7 +336,7 @@ personality	 data/source_txt/t4_psychology_2_202.deft	 2110	 2121	 O	 -1	 -1	 0
 traits	 data/source_txt/t4_psychology_2_202.deft	 2122	 2128	 O	 -1	 -1	 0
 .	 data/source_txt/t4_psychology_2_202.deft	 2128	 2129	 O	 -1	 -1	 0
 
-Heritability	 data/source_txt/t4_psychology_2_202.deft	 2138	 2150	 B-Term	 T11	 0	 Direct-Defines
+Heritability	 data/source_txt/t4_psychology_2_202.deft	 2138	 2150	 B-Term	 T11	 0	 0
 refers	 data/source_txt/t4_psychology_2_202.deft	 2151	 2157	 O	 -1	 -1	 0
 to	 data/source_txt/t4_psychology_2_202.deft	 2158	 2160	 O	 -1	 -1	 0
 the	 data/source_txt/t4_psychology_2_202.deft	 2161	 2164	 B-Definition	 T12	 T11	 Direct-Defines
@@ -477,9 +477,9 @@ the	 data/source_txt/t4_psychology_2_202.deft	 2868	 2871	 I-Definition	 T186	 T
 body	 data/source_txt/t4_psychology_2_202.deft	 2872	 2876	 I-Definition	 T186	 T185	 Direct-Defines
 ,	 data/source_txt/t4_psychology_2_202.deft	 2876	 2877	 O	 -1	 -1	 0
 called	 data/source_txt/t4_psychology_2_202.deft	 2878	 2884	 O	 -1	 -1	 0
-an	 data/source_txt/t4_psychology_2_202.deft	 2885	 2887	 B-Term	 T185	 0	 Direct-Defines
-erogenous	 data/source_txt/t4_psychology_2_202.deft	 2888	 2897	 I-Term	 T185	 0	 Direct-Defines
-zone	 data/source_txt/t4_psychology_2_202.deft	 2898	 2902	 I-Term	 T185	 0	 Direct-Defines
+an	 data/source_txt/t4_psychology_2_202.deft	 2885	 2887	 B-Term	 T185	 0	 0
+erogenous	 data/source_txt/t4_psychology_2_202.deft	 2888	 2897	 I-Term	 T185	 0	 0
+zone	 data/source_txt/t4_psychology_2_202.deft	 2898	 2902	 I-Term	 T185	 0	 0
 ,	 data/source_txt/t4_psychology_2_202.deft	 2902	 2903	 O	 -1	 -1	 0
 at	 data/source_txt/t4_psychology_2_202.deft	 2904	 2906	 B-Definition-frag	 T186-frag	 T186	 fragment
 each	 data/source_txt/t4_psychology_2_202.deft	 2907	 2911	 I-Definition-frag	 T186-frag	 T186	 fragment
@@ -551,7 +551,7 @@ their	 data/source_txt/t4_psychology_2_202.deft	 3472	 3477	 O	 -1	 -1	 0
 current	 data/source_txt/t4_psychology_2_202.deft	 3478	 3485	 O	 -1	 -1	 0
 schemata	 data/source_txt/t4_psychology_2_202.deft	 3486	 3494	 O	 -1	 -1	 0
 :	 data/source_txt/t4_psychology_2_202.deft	 3494	 3495	 O	 -1	 -1	 0
-assimilation	 data/source_txt/t4_psychology_2_202.deft	 3496	 3508	 B-Term	 T13	 0	 Direct-Defines
+assimilation	 data/source_txt/t4_psychology_2_202.deft	 3496	 3508	 B-Term	 T13	 0	 0
 is	 data/source_txt/t4_psychology_2_202.deft	 3509	 3511	 O	 -1	 -1	 0
 when	 data/source_txt/t4_psychology_2_202.deft	 3512	 3516	 O	 -1	 -1	 0
 they	 data/source_txt/t4_psychology_2_202.deft	 3517	 3521	 B-Definition	 T14	 T13	 Direct-Defines
@@ -568,7 +568,7 @@ already	 data/source_txt/t4_psychology_2_202.deft	 3574	 3581	 I-Definition	 T14
 know	 data/source_txt/t4_psychology_2_202.deft	 3582	 3586	 I-Definition	 T14	 T13	 Direct-Defines
 .	 data/source_txt/t4_psychology_2_202.deft	 3586	 3587	 O	 -1	 -1	 0
 
-Accommodation	 data/source_txt/t4_psychology_2_202.deft	 3596	 3609	 B-Term	 T15	 0	 Direct-Defines
+Accommodation	 data/source_txt/t4_psychology_2_202.deft	 3596	 3609	 B-Term	 T15	 0	 0
 describes	 data/source_txt/t4_psychology_2_202.deft	 3610	 3619	 O	 -1	 -1	 0
 when	 data/source_txt/t4_psychology_2_202.deft	 3620	 3624	 O	 -1	 -1	 0
 they	 data/source_txt/t4_psychology_2_202.deft	 3625	 3629	 B-Definition	 T16	 T15	 Direct-Defines
@@ -601,19 +601,19 @@ Piaget	 data/source_txt/t4_psychology_2_202.deft	 3769	 3775	 O	 -1	 -1	 0
 second	 data/source_txt/t4_psychology_2_202.deft	 3778	 3784	 O	 -1	 -1	 0
 stage	 data/source_txt/t4_psychology_2_202.deft	 3785	 3790	 O	 -1	 -1	 0
 is	 data/source_txt/t4_psychology_2_202.deft	 3791	 3793	 O	 -1	 -1	 0
-the	 data/source_txt/t4_psychology_2_202.deft	 3794	 3797	 B-Term	 T17	 0	 Direct-Defines
-preoperational	 data/source_txt/t4_psychology_2_202.deft	 3798	 3812	 I-Term	 T17	 0	 Direct-Defines
-stage	 data/source_txt/t4_psychology_2_202.deft	 3813	 3818	 I-Term	 T17	 0	 Direct-Defines
+the	 data/source_txt/t4_psychology_2_202.deft	 3794	 3797	 B-Term	 T17	 0	 0
+preoperational	 data/source_txt/t4_psychology_2_202.deft	 3798	 3812	 I-Term	 T17	 0	 0
+stage	 data/source_txt/t4_psychology_2_202.deft	 3813	 3818	 I-Term	 T17	 0	 0
 ,	 data/source_txt/t4_psychology_2_202.deft	 3818	 3819	 O	 -1	 -1	 0
 which	 data/source_txt/t4_psychology_2_202.deft	 3820	 3825	 O	 -1	 -1	 0
 is	 data/source_txt/t4_psychology_2_202.deft	 3826	 3828	 O	 -1	 -1	 0
-from	 data/source_txt/t4_psychology_2_202.deft	 3829	 3833	 B-Definition	 T187	 0	 Supplements
-approximately	 data/source_txt/t4_psychology_2_202.deft	 3834	 3847	 I-Definition	 T187	 0	 Supplements
-2	 data/source_txt/t4_psychology_2_202.deft	 3848	 3849	 I-Definition	 T187	 0	 Supplements
-to	 data/source_txt/t4_psychology_2_202.deft	 3850	 3852	 I-Definition	 T187	 0	 Supplements
-7	 data/source_txt/t4_psychology_2_202.deft	 3853	 3854	 I-Definition	 T187	 0	 Supplements
-years	 data/source_txt/t4_psychology_2_202.deft	 3855	 3860	 I-Definition	 T187	 0	 Supplements
-old	 data/source_txt/t4_psychology_2_202.deft	 3861	 3864	 I-Definition	 T187	 0	 Supplements
+from	 data/source_txt/t4_psychology_2_202.deft	 3829	 3833	 B-Definition	 T187	 T17	 Direct-Defines
+approximately	 data/source_txt/t4_psychology_2_202.deft	 3834	 3847	 I-Definition	 T187	 T17	 Direct-Defines
+2	 data/source_txt/t4_psychology_2_202.deft	 3848	 3849	 I-Definition	 T187	 T17	 Direct-Defines
+to	 data/source_txt/t4_psychology_2_202.deft	 3850	 3852	 I-Definition	 T187	 T17	 Direct-Defines
+7	 data/source_txt/t4_psychology_2_202.deft	 3853	 3854	 I-Definition	 T187	 T17	 Direct-Defines
+years	 data/source_txt/t4_psychology_2_202.deft	 3855	 3860	 I-Definition	 T187	 T17	 Direct-Defines
+old	 data/source_txt/t4_psychology_2_202.deft	 3861	 3864	 I-Definition	 T187	 T17	 Direct-Defines
 .	 data/source_txt/t4_psychology_2_202.deft	 3864	 3865	 O	 -1	 -1	 0
 
 In	 data/source_txt/t4_psychology_2_202.deft	 3872	 3874	 B-Secondary-Definition	 T18	 T187	 Supplements
@@ -655,20 +655,20 @@ Piaget	 data/source_txt/t4_psychology_2_202.deft	 4028	 4034	 O	 -1	 -1	 0
 third	 data/source_txt/t4_psychology_2_202.deft	 4037	 4042	 O	 -1	 -1	 0
 stage	 data/source_txt/t4_psychology_2_202.deft	 4043	 4048	 O	 -1	 -1	 0
 is	 data/source_txt/t4_psychology_2_202.deft	 4049	 4051	 O	 -1	 -1	 0
-the	 data/source_txt/t4_psychology_2_202.deft	 4052	 4055	 B-Term	 T20	 0	 Direct-Defines
-concrete	 data/source_txt/t4_psychology_2_202.deft	 4056	 4064	 I-Term	 T20	 0	 Direct-Defines
-operational	 data/source_txt/t4_psychology_2_202.deft	 4065	 4076	 I-Term	 T20	 0	 Direct-Defines
-stage	 data/source_txt/t4_psychology_2_202.deft	 4077	 4082	 I-Term	 T20	 0	 Direct-Defines
+the	 data/source_txt/t4_psychology_2_202.deft	 4052	 4055	 B-Term	 T20	 0	 0
+concrete	 data/source_txt/t4_psychology_2_202.deft	 4056	 4064	 I-Term	 T20	 0	 0
+operational	 data/source_txt/t4_psychology_2_202.deft	 4065	 4076	 I-Term	 T20	 0	 0
+stage	 data/source_txt/t4_psychology_2_202.deft	 4077	 4082	 I-Term	 T20	 0	 0
 ,	 data/source_txt/t4_psychology_2_202.deft	 4082	 4083	 O	 -1	 -1	 0
 which	 data/source_txt/t4_psychology_2_202.deft	 4084	 4089	 O	 -1	 -1	 0
-occurs	 data/source_txt/t4_psychology_2_202.deft	 4090	 4096	 B-Definition	 T19	 0	 Supplements
-from	 data/source_txt/t4_psychology_2_202.deft	 4097	 4101	 I-Definition	 T19	 0	 Supplements
-about	 data/source_txt/t4_psychology_2_202.deft	 4102	 4107	 I-Definition	 T19	 0	 Supplements
-7	 data/source_txt/t4_psychology_2_202.deft	 4108	 4109	 I-Definition	 T19	 0	 Supplements
-to	 data/source_txt/t4_psychology_2_202.deft	 4110	 4112	 I-Definition	 T19	 0	 Supplements
-11	 data/source_txt/t4_psychology_2_202.deft	 4113	 4115	 I-Definition	 T19	 0	 Supplements
-years	 data/source_txt/t4_psychology_2_202.deft	 4116	 4121	 I-Definition	 T19	 0	 Supplements
-old	 data/source_txt/t4_psychology_2_202.deft	 4122	 4125	 I-Definition	 T19	 0	 Supplements
+occurs	 data/source_txt/t4_psychology_2_202.deft	 4090	 4096	 B-Definition	 T19	 T20	 Direct-Defines
+from	 data/source_txt/t4_psychology_2_202.deft	 4097	 4101	 I-Definition	 T19	 T20	 Direct-Defines
+about	 data/source_txt/t4_psychology_2_202.deft	 4102	 4107	 I-Definition	 T19	 T20	 Direct-Defines
+7	 data/source_txt/t4_psychology_2_202.deft	 4108	 4109	 I-Definition	 T19	 T20	 Direct-Defines
+to	 data/source_txt/t4_psychology_2_202.deft	 4110	 4112	 I-Definition	 T19	 T20	 Direct-Defines
+11	 data/source_txt/t4_psychology_2_202.deft	 4113	 4115	 I-Definition	 T19	 T20	 Direct-Defines
+years	 data/source_txt/t4_psychology_2_202.deft	 4116	 4121	 I-Definition	 T19	 T20	 Direct-Defines
+old	 data/source_txt/t4_psychology_2_202.deft	 4122	 4125	 I-Definition	 T19	 T20	 Direct-Defines
 .	 data/source_txt/t4_psychology_2_202.deft	 4125	 4126	 O	 -1	 -1	 0
 
 In	 data/source_txt/t4_psychology_2_202.deft	 4133	 4135	 B-Secondary-Definition	 T21	 T19	 Supplements
@@ -780,8 +780,8 @@ interpersonal	 data/source_txt/t4_psychology_2_202.deft	 4713	 4726	 O	 -1	 -1	 
 levels	 data/source_txt/t4_psychology_2_202.deft	 4727	 4733	 O	 -1	 -1	 0
 .	 data/source_txt/t4_psychology_2_202.deft	 4733	 4734	 O	 -1	 -1	 0
 
-Intrapersonal	 data/source_txt/t4_psychology_2_202.deft	 4743	 4756	 B-Term	 T23	 0	 Direct-Defines
-topics	 data/source_txt/t4_psychology_2_202.deft	 4757	 4763	 I-Term	 T23	 0	 Direct-Defines
+Intrapersonal	 data/source_txt/t4_psychology_2_202.deft	 4743	 4756	 B-Term	 T23	 0	 0
+topics	 data/source_txt/t4_psychology_2_202.deft	 4757	 4763	 I-Term	 T23	 0	 0
 (	 data/source_txt/t4_psychology_2_202.deft	 4764	 4765	 B-Definition	 T24	 T23	 Direct-Defines
 those	 data/source_txt/t4_psychology_2_202.deft	 4765	 4770	 I-Definition	 T24	 T23	 Direct-Defines
 that	 data/source_txt/t4_psychology_2_202.deft	 4771	 4775	 I-Definition	 T24	 T23	 Direct-Defines
@@ -815,8 +815,8 @@ others	 data/source_txt/t4_psychology_2_202.deft	 4914	 4920	 I-Definition	 T24	
 )	 data/source_txt/t4_psychology_2_202.deft	 4920	 4921	 I-Definition	 T24	 T23	 Direct-Defines
 .	 data/source_txt/t4_psychology_2_202.deft	 4921	 4922	 O	 -1	 -1	 0
 
-Interpersonal	 data/source_txt/t4_psychology_2_202.deft	 4929	 4942	 B-Term	 T25	 0	 Direct-Defines
-topics	 data/source_txt/t4_psychology_2_202.deft	 4943	 4949	 I-Term	 T25	 0	 Direct-Defines
+Interpersonal	 data/source_txt/t4_psychology_2_202.deft	 4929	 4942	 B-Term	 T25	 0	 0
+topics	 data/source_txt/t4_psychology_2_202.deft	 4943	 4949	 I-Term	 T25	 0	 0
 (	 data/source_txt/t4_psychology_2_202.deft	 4950	 4951	 B-Definition	 T26	 T25	 Direct-Defines
 those	 data/source_txt/t4_psychology_2_202.deft	 4951	 4956	 I-Definition	 T26	 T25	 Direct-Defines
 that	 data/source_txt/t4_psychology_2_202.deft	 4957	 4961	 I-Definition	 T26	 T25	 Direct-Defines
@@ -858,7 +858,7 @@ relationships	 data/source_txt/t4_psychology_2_202.deft	 5139	 5152	 I-Definitio
 3956	 data/source_txt/t4_psychology_2_202.deft	 5157	 5161	 O	 -1	 -1	 0
 .	 data/source_txt/t4_psychology_2_202.deft	 5161	 5162	 O	 -1	 -1	 0
 
-Situationism	 data/source_txt/t4_psychology_2_202.deft	 5163	 5175	 B-Term	 T27	 0	 Direct-Defines
+Situationism	 data/source_txt/t4_psychology_2_202.deft	 5163	 5175	 B-Term	 T27	 0	 0
 is	 data/source_txt/t4_psychology_2_202.deft	 5176	 5178	 O	 -1	 -1	 0
 the	 data/source_txt/t4_psychology_2_202.deft	 5179	 5182	 B-Definition	 T28	 T27	 Direct-Defines
 view	 data/source_txt/t4_psychology_2_202.deft	 5183	 5187	 I-Definition	 T28	 T27	 Direct-Defines
@@ -880,7 +880,7 @@ surroundings	 data/source_txt/t4_psychology_2_202.deft	 5266	 5278	 I-Definition
 In	 data/source_txt/t4_psychology_2_202.deft	 5288	 5290	 O	 -1	 -1	 0
 contrast	 data/source_txt/t4_psychology_2_202.deft	 5291	 5299	 O	 -1	 -1	 0
 ,	 data/source_txt/t4_psychology_2_202.deft	 5299	 5300	 O	 -1	 -1	 0
-dispositionism	 data/source_txt/t4_psychology_2_202.deft	 5301	 5315	 B-Term	 T29	 0	 Direct-Defines
+dispositionism	 data/source_txt/t4_psychology_2_202.deft	 5301	 5315	 B-Term	 T29	 0	 0
 holds	 data/source_txt/t4_psychology_2_202.deft	 5316	 5321	 B-Definition	 T30	 T29	 Direct-Defines
 that	 data/source_txt/t4_psychology_2_202.deft	 5322	 5326	 I-Definition	 T30	 T29	 Direct-Defines
 our	 data/source_txt/t4_psychology_2_202.deft	 5327	 5330	 I-Definition	 T30	 T29	 Direct-Defines
@@ -897,9 +897,9 @@ Heider	 data/source_txt/t4_psychology_2_202.deft	 5375	 5381	 O	 -1	 -1	 0
 )	 data/source_txt/t4_psychology_2_202.deft	 5387	 5388	 O	 -1	 -1	 0
 .	 data/source_txt/t4_psychology_2_202.deft	 5388	 5389	 O	 -1	 -1	 0
 
-An	 data/source_txt/t4_psychology_2_202.deft	 5396	 5398	 B-Term	 T31	 0	 Direct-Defines
-internal	 data/source_txt/t4_psychology_2_202.deft	 5399	 5407	 I-Term	 T31	 0	 Direct-Defines
-factor	 data/source_txt/t4_psychology_2_202.deft	 5408	 5414	 I-Term	 T31	 0	 Direct-Defines
+An	 data/source_txt/t4_psychology_2_202.deft	 5396	 5398	 B-Term	 T31	 0	 0
+internal	 data/source_txt/t4_psychology_2_202.deft	 5399	 5407	 I-Term	 T31	 0	 0
+factor	 data/source_txt/t4_psychology_2_202.deft	 5408	 5414	 I-Term	 T31	 0	 0
 is	 data/source_txt/t4_psychology_2_202.deft	 5415	 5417	 O	 -1	 -1	 0
 an	 data/source_txt/t4_psychology_2_202.deft	 5418	 5420	 B-Definition	 T32	 T31	 Direct-Defines
 attribute	 data/source_txt/t4_psychology_2_202.deft	 5421	 5430	 I-Definition	 T32	 T31	 Direct-Defines
@@ -998,11 +998,11 @@ outcomes	 data/source_txt/t4_psychology_2_202.deft	 6291	 6299	 I-Definition	 T3
 is	 data/source_txt/t4_psychology_2_202.deft	 6300	 6302	 O	 -1	 -1	 0
 known	 data/source_txt/t4_psychology_2_202.deft	 6303	 6308	 O	 -1	 -1	 0
 as	 data/source_txt/t4_psychology_2_202.deft	 6309	 6311	 O	 -1	 -1	 0
-the	 data/source_txt/t4_psychology_2_202.deft	 6312	 6315	 B-Term	 T35	 0	 Direct-Defines
-self	 data/source_txt/t4_psychology_2_202.deft	 6316	 6320	 I-Term	 T35	 0	 Direct-Defines
--	 data/source_txt/t4_psychology_2_202.deft	 6320	 6321	 I-Term	 T35	 0	 Direct-Defines
-serving	 data/source_txt/t4_psychology_2_202.deft	 6321	 6328	 I-Term	 T35	 0	 Direct-Defines
-bias	 data/source_txt/t4_psychology_2_202.deft	 6329	 6333	 I-Term	 T35	 0	 Direct-Defines
+the	 data/source_txt/t4_psychology_2_202.deft	 6312	 6315	 B-Term	 T35	 0	 0
+self	 data/source_txt/t4_psychology_2_202.deft	 6316	 6320	 I-Term	 T35	 0	 0
+-	 data/source_txt/t4_psychology_2_202.deft	 6320	 6321	 I-Term	 T35	 0	 0
+serving	 data/source_txt/t4_psychology_2_202.deft	 6321	 6328	 I-Term	 T35	 0	 0
+bias	 data/source_txt/t4_psychology_2_202.deft	 6329	 6333	 I-Term	 T35	 0	 0
 (	 data/source_txt/t4_psychology_2_202.deft	 6334	 6335	 O	 -1	 -1	 0
 Miller	 data/source_txt/t4_psychology_2_202.deft	 6335	 6341	 O	 -1	 -1	 0
 &	 data/source_txt/t4_psychology_2_202.deft	 6342	 6343	 O	 -1	 -1	 0
@@ -1026,41 +1026,41 @@ esteem	 data/source_txt/t4_psychology_2_202.deft	 6396	 6402	 O	 -1	 -1	 0
 3968	 data/source_txt/t4_psychology_2_202.deft	 6592	 6596	 O	 -1	 -1	 0
 .	 data/source_txt/t4_psychology_2_202.deft	 6596	 6597	 O	 -1	 -1	 0
 
-During	 data/source_txt/t4_psychology_2_202.deft	 6598	 6604	 B-Definition	 T38	 0	 Refers-To
-the	 data/source_txt/t4_psychology_2_202.deft	 6605	 6608	 I-Definition	 T38	 0	 Refers-To
-first	 data/source_txt/t4_psychology_2_202.deft	 6609	 6614	 I-Definition	 T38	 0	 Refers-To
-week	 data/source_txt/t4_psychology_2_202.deft	 6615	 6619	 I-Definition	 T38	 0	 Refers-To
-after	 data/source_txt/t4_psychology_2_202.deft	 6620	 6625	 I-Definition	 T38	 0	 Refers-To
-conception	 data/source_txt/t4_psychology_2_202.deft	 6626	 6636	 I-Definition	 T38	 0	 Refers-To
-,	 data/source_txt/t4_psychology_2_202.deft	 6636	 6637	 I-Definition	 T38	 0	 Refers-To
-the	 data/source_txt/t4_psychology_2_202.deft	 6638	 6641	 I-Definition	 T38	 0	 Refers-To
-zygote	 data/source_txt/t4_psychology_2_202.deft	 6642	 6648	 I-Definition	 T38	 0	 Refers-To
-divides	 data/source_txt/t4_psychology_2_202.deft	 6649	 6656	 I-Definition	 T38	 0	 Refers-To
-and	 data/source_txt/t4_psychology_2_202.deft	 6657	 6660	 I-Definition	 T38	 0	 Refers-To
-multiplies	 data/source_txt/t4_psychology_2_202.deft	 6661	 6671	 I-Definition	 T38	 0	 Refers-To
-,	 data/source_txt/t4_psychology_2_202.deft	 6671	 6672	 I-Definition	 T38	 0	 Refers-To
-going	 data/source_txt/t4_psychology_2_202.deft	 6673	 6678	 I-Definition	 T38	 0	 Refers-To
-from	 data/source_txt/t4_psychology_2_202.deft	 6679	 6683	 I-Definition	 T38	 0	 Refers-To
-a	 data/source_txt/t4_psychology_2_202.deft	 6684	 6685	 I-Definition	 T38	 0	 Refers-To
-one	 data/source_txt/t4_psychology_2_202.deft	 6686	 6689	 I-Definition	 T38	 0	 Refers-To
--	 data/source_txt/t4_psychology_2_202.deft	 6689	 6690	 I-Definition	 T38	 0	 Refers-To
-cell	 data/source_txt/t4_psychology_2_202.deft	 6690	 6694	 I-Definition	 T38	 0	 Refers-To
-structure	 data/source_txt/t4_psychology_2_202.deft	 6695	 6704	 I-Definition	 T38	 0	 Refers-To
-to	 data/source_txt/t4_psychology_2_202.deft	 6705	 6707	 I-Definition	 T38	 0	 Refers-To
-two	 data/source_txt/t4_psychology_2_202.deft	 6708	 6711	 I-Definition	 T38	 0	 Refers-To
-cells	 data/source_txt/t4_psychology_2_202.deft	 6712	 6717	 I-Definition	 T38	 0	 Refers-To
-,	 data/source_txt/t4_psychology_2_202.deft	 6717	 6718	 I-Definition	 T38	 0	 Refers-To
-then	 data/source_txt/t4_psychology_2_202.deft	 6719	 6723	 I-Definition	 T38	 0	 Refers-To
-four	 data/source_txt/t4_psychology_2_202.deft	 6724	 6728	 I-Definition	 T38	 0	 Refers-To
-cells	 data/source_txt/t4_psychology_2_202.deft	 6729	 6734	 I-Definition	 T38	 0	 Refers-To
-,	 data/source_txt/t4_psychology_2_202.deft	 6734	 6735	 I-Definition	 T38	 0	 Refers-To
-then	 data/source_txt/t4_psychology_2_202.deft	 6736	 6740	 I-Definition	 T38	 0	 Refers-To
-eight	 data/source_txt/t4_psychology_2_202.deft	 6741	 6746	 I-Definition	 T38	 0	 Refers-To
-cells	 data/source_txt/t4_psychology_2_202.deft	 6747	 6752	 I-Definition	 T38	 0	 Refers-To
-,	 data/source_txt/t4_psychology_2_202.deft	 6752	 6753	 I-Definition	 T38	 0	 Refers-To
-and	 data/source_txt/t4_psychology_2_202.deft	 6754	 6757	 I-Definition	 T38	 0	 Refers-To
-so	 data/source_txt/t4_psychology_2_202.deft	 6758	 6760	 I-Definition	 T38	 0	 Refers-To
-on	 data/source_txt/t4_psychology_2_202.deft	 6761	 6763	 I-Definition	 T38	 0	 Refers-To
+During	 data/source_txt/t4_psychology_2_202.deft	 6598	 6604	 B-Definition	 T38	 0	 0
+the	 data/source_txt/t4_psychology_2_202.deft	 6605	 6608	 I-Definition	 T38	 0	 0
+first	 data/source_txt/t4_psychology_2_202.deft	 6609	 6614	 I-Definition	 T38	 0	 0
+week	 data/source_txt/t4_psychology_2_202.deft	 6615	 6619	 I-Definition	 T38	 0	 0
+after	 data/source_txt/t4_psychology_2_202.deft	 6620	 6625	 I-Definition	 T38	 0	 0
+conception	 data/source_txt/t4_psychology_2_202.deft	 6626	 6636	 I-Definition	 T38	 0	 0
+,	 data/source_txt/t4_psychology_2_202.deft	 6636	 6637	 I-Definition	 T38	 0	 0
+the	 data/source_txt/t4_psychology_2_202.deft	 6638	 6641	 I-Definition	 T38	 0	 0
+zygote	 data/source_txt/t4_psychology_2_202.deft	 6642	 6648	 I-Definition	 T38	 0	 0
+divides	 data/source_txt/t4_psychology_2_202.deft	 6649	 6656	 I-Definition	 T38	 0	 0
+and	 data/source_txt/t4_psychology_2_202.deft	 6657	 6660	 I-Definition	 T38	 0	 0
+multiplies	 data/source_txt/t4_psychology_2_202.deft	 6661	 6671	 I-Definition	 T38	 0	 0
+,	 data/source_txt/t4_psychology_2_202.deft	 6671	 6672	 I-Definition	 T38	 0	 0
+going	 data/source_txt/t4_psychology_2_202.deft	 6673	 6678	 I-Definition	 T38	 0	 0
+from	 data/source_txt/t4_psychology_2_202.deft	 6679	 6683	 I-Definition	 T38	 0	 0
+a	 data/source_txt/t4_psychology_2_202.deft	 6684	 6685	 I-Definition	 T38	 0	 0
+one	 data/source_txt/t4_psychology_2_202.deft	 6686	 6689	 I-Definition	 T38	 0	 0
+-	 data/source_txt/t4_psychology_2_202.deft	 6689	 6690	 I-Definition	 T38	 0	 0
+cell	 data/source_txt/t4_psychology_2_202.deft	 6690	 6694	 I-Definition	 T38	 0	 0
+structure	 data/source_txt/t4_psychology_2_202.deft	 6695	 6704	 I-Definition	 T38	 0	 0
+to	 data/source_txt/t4_psychology_2_202.deft	 6705	 6707	 I-Definition	 T38	 0	 0
+two	 data/source_txt/t4_psychology_2_202.deft	 6708	 6711	 I-Definition	 T38	 0	 0
+cells	 data/source_txt/t4_psychology_2_202.deft	 6712	 6717	 I-Definition	 T38	 0	 0
+,	 data/source_txt/t4_psychology_2_202.deft	 6717	 6718	 I-Definition	 T38	 0	 0
+then	 data/source_txt/t4_psychology_2_202.deft	 6719	 6723	 I-Definition	 T38	 0	 0
+four	 data/source_txt/t4_psychology_2_202.deft	 6724	 6728	 I-Definition	 T38	 0	 0
+cells	 data/source_txt/t4_psychology_2_202.deft	 6729	 6734	 I-Definition	 T38	 0	 0
+,	 data/source_txt/t4_psychology_2_202.deft	 6734	 6735	 I-Definition	 T38	 0	 0
+then	 data/source_txt/t4_psychology_2_202.deft	 6736	 6740	 I-Definition	 T38	 0	 0
+eight	 data/source_txt/t4_psychology_2_202.deft	 6741	 6746	 I-Definition	 T38	 0	 0
+cells	 data/source_txt/t4_psychology_2_202.deft	 6747	 6752	 I-Definition	 T38	 0	 0
+,	 data/source_txt/t4_psychology_2_202.deft	 6752	 6753	 I-Definition	 T38	 0	 0
+and	 data/source_txt/t4_psychology_2_202.deft	 6754	 6757	 I-Definition	 T38	 0	 0
+so	 data/source_txt/t4_psychology_2_202.deft	 6758	 6760	 I-Definition	 T38	 0	 0
+on	 data/source_txt/t4_psychology_2_202.deft	 6761	 6763	 I-Definition	 T38	 0	 0
 .	 data/source_txt/t4_psychology_2_202.deft	 6763	 6764	 O	 -1	 -1	 0
 
 This	 data/source_txt/t4_psychology_2_202.deft	 6773	 6777	 B-Referential-Definition	 T39	 T37	 Indirect-Defines
@@ -1070,7 +1070,7 @@ cell	 data/source_txt/t4_psychology_2_202.deft	 6789	 6793	 I-Referential-Defini
 division	 data/source_txt/t4_psychology_2_202.deft	 6794	 6802	 I-Referential-Definition	 T39	 T37	 Indirect-Defines
 is	 data/source_txt/t4_psychology_2_202.deft	 6803	 6805	 O	 -1	 -1	 0
 called	 data/source_txt/t4_psychology_2_202.deft	 6806	 6812	 O	 -1	 -1	 0
-mitosis	 data/source_txt/t4_psychology_2_202.deft	 6813	 6820	 B-Term	 T37	 0	 Indirect-Defines
+mitosis	 data/source_txt/t4_psychology_2_202.deft	 6813	 6820	 B-Term	 T37	 0	 0
 .	 data/source_txt/t4_psychology_2_202.deft	 6820	 6821	 O	 -1	 -1	 0
 
 Mitosis	 data/source_txt/t4_psychology_2_202.deft	 6828	 6835	 O	 -1	 -1	 0
@@ -1131,8 +1131,8 @@ of	 data/source_txt/t4_psychology_2_202.deft	 7080	 7082	 O	 -1	 -1	 0
 herself	 data/source_txt/t4_psychology_2_202.deft	 7083	 7090	 O	 -1	 -1	 0
 and	 data/source_txt/t4_psychology_2_202.deft	 7091	 7094	 O	 -1	 -1	 0
 receives	 data/source_txt/t4_psychology_2_202.deft	 7095	 7103	 O	 -1	 -1	 0
-prenatal	 data/source_txt/t4_psychology_2_202.deft	 7104	 7112	 B-Term	 T40	 0	 Direct-Defines
-care	 data/source_txt/t4_psychology_2_202.deft	 7113	 7117	 I-Term	 T40	 0	 Direct-Defines
+prenatal	 data/source_txt/t4_psychology_2_202.deft	 7104	 7112	 B-Term	 T40	 0	 0
+care	 data/source_txt/t4_psychology_2_202.deft	 7113	 7117	 I-Term	 T40	 0	 0
 ,	 data/source_txt/t4_psychology_2_202.deft	 7117	 7118	 O	 -1	 -1	 0
 which	 data/source_txt/t4_psychology_2_202.deft	 7119	 7124	 O	 -1	 -1	 0
 is	 data/source_txt/t4_psychology_2_202.deft	 7125	 7127	 O	 -1	 -1	 0
@@ -1233,8 +1233,8 @@ babies	 data/source_txt/t4_psychology_2_202.deft	 7610	 7616	 O	 -1	 -1	 0
 are	 data/source_txt/t4_psychology_2_202.deft	 7617	 7620	 O	 -1	 -1	 0
 born	 data/source_txt/t4_psychology_2_202.deft	 7621	 7625	 O	 -1	 -1	 0
 with	 data/source_txt/t4_psychology_2_202.deft	 7626	 7630	 O	 -1	 -1	 0
-newborn	 data/source_txt/t4_psychology_2_202.deft	 7631	 7638	 B-Term	 T42	 0	 Direct-Defines
-reflexes	 data/source_txt/t4_psychology_2_202.deft	 7639	 7647	 I-Term	 T42	 0	 Direct-Defines
+newborn	 data/source_txt/t4_psychology_2_202.deft	 7631	 7638	 B-Term	 T42	 0	 0
+reflexes	 data/source_txt/t4_psychology_2_202.deft	 7639	 7647	 I-Term	 T42	 0	 0
 :	 data/source_txt/t4_psychology_2_202.deft	 7647	 7648	 O	 -1	 -1	 0
 inborn	 data/source_txt/t4_psychology_2_202.deft	 7649	 7655	 B-Definition	 T43	 T42	 Direct-Defines
 automatic	 data/source_txt/t4_psychology_2_202.deft	 7656	 7665	 I-Definition	 T43	 T42	 Direct-Defines
@@ -1272,9 +1272,9 @@ survival	 data/source_txt/t4_psychology_2_202.deft	 7828	 7836	 O	 -1	 -1	 0
 3977	 data/source_txt/t4_psychology_2_202.deft	 7841	 7845	 O	 -1	 -1	 0
 .	 data/source_txt/t4_psychology_2_202.deft	 7845	 7846	 O	 -1	 -1	 0
 
-Fine	 data/source_txt/t4_psychology_2_202.deft	 7847	 7851	 B-Term	 T44	 0	 Direct-Defines
-motor	 data/source_txt/t4_psychology_2_202.deft	 7852	 7857	 I-Term	 T44	 0	 Direct-Defines
-skills	 data/source_txt/t4_psychology_2_202.deft	 7858	 7864	 I-Term	 T44	 0	 Direct-Defines
+Fine	 data/source_txt/t4_psychology_2_202.deft	 7847	 7851	 B-Term	 T44	 0	 0
+motor	 data/source_txt/t4_psychology_2_202.deft	 7852	 7857	 I-Term	 T44	 0	 0
+skills	 data/source_txt/t4_psychology_2_202.deft	 7858	 7864	 I-Term	 T44	 0	 0
 focus	 data/source_txt/t4_psychology_2_202.deft	 7865	 7870	 B-Definition	 T45	 T44	 Direct-Defines
 on	 data/source_txt/t4_psychology_2_202.deft	 7871	 7873	 I-Definition	 T45	 T44	 Direct-Defines
 the	 data/source_txt/t4_psychology_2_202.deft	 7874	 7877	 I-Definition	 T45	 T44	 Direct-Defines
@@ -1313,9 +1313,9 @@ spoon	 data/source_txt/t4_psychology_2_202.deft	 8017	 8022	 I-Definition	 T45	 
 )	 data/source_txt/t4_psychology_2_202.deft	 8022	 8023	 I-Definition	 T45	 T44	 Direct-Defines
 .	 data/source_txt/t4_psychology_2_202.deft	 8023	 8024	 O	 -1	 -1	 0
 
-Gross	 data/source_txt/t4_psychology_2_202.deft	 8033	 8038	 B-Term	 T46	 0	 Direct-Defines
-motor	 data/source_txt/t4_psychology_2_202.deft	 8039	 8044	 I-Term	 T46	 0	 Direct-Defines
-skills	 data/source_txt/t4_psychology_2_202.deft	 8045	 8051	 I-Term	 T46	 0	 Direct-Defines
+Gross	 data/source_txt/t4_psychology_2_202.deft	 8033	 8038	 B-Term	 T46	 0	 0
+motor	 data/source_txt/t4_psychology_2_202.deft	 8039	 8044	 I-Term	 T46	 0	 0
+skills	 data/source_txt/t4_psychology_2_202.deft	 8045	 8051	 I-Term	 T46	 0	 0
 focus	 data/source_txt/t4_psychology_2_202.deft	 8052	 8057	 B-Definition	 T47	 T46	 Direct-Defines
 on	 data/source_txt/t4_psychology_2_202.deft	 8058	 8060	 I-Definition	 T47	 T46	 Direct-Defines
 large	 data/source_txt/t4_psychology_2_202.deft	 8061	 8066	 I-Definition	 T47	 T46	 Direct-Defines
@@ -1477,7 +1477,7 @@ called	 data/source_txt/t4_psychology_2_202.deft	 9077	 9083	 O	 -1	 -1	 0
 adolescence	 data/source_txt/t4_psychology_2_202.deft	 9084	 9095	 O	 -1	 -1	 0
 .	 data/source_txt/t4_psychology_2_202.deft	 9095	 9096	 O	 -1	 -1	 0
 
-Adolescence	 data/source_txt/t4_psychology_2_202.deft	 9105	 9116	 B-Term	 T48	 0	 Direct-Defines
+Adolescence	 data/source_txt/t4_psychology_2_202.deft	 9105	 9116	 B-Term	 T48	 0	 0
 is	 data/source_txt/t4_psychology_2_202.deft	 9117	 9119	 O	 -1	 -1	 0
 the	 data/source_txt/t4_psychology_2_202.deft	 9120	 9123	 B-Definition	 T49	 T48	 Direct-Defines
 period	 data/source_txt/t4_psychology_2_202.deft	 9124	 9130	 I-Definition	 T49	 T48	 Direct-Defines
@@ -1531,9 +1531,9 @@ link	 data/source_txt/t4_psychology_2_202.deft	 9358	 9362	 O	 -1	 -1	 0
 3992	 data/source_txt/t4_psychology_2_202.deft	 9369	 9373	 O	 -1	 -1	 0
 .	 data/source_txt/t4_psychology_2_202.deft	 9373	 9374	 O	 -1	 -1	 0
 
-Primary	 data/source_txt/t4_psychology_2_202.deft	 9375	 9382	 B-Term	 T50	 0	 Direct-Defines
-sexual	 data/source_txt/t4_psychology_2_202.deft	 9383	 9389	 I-Term	 T50	 0	 Direct-Defines
-characteristics	 data/source_txt/t4_psychology_2_202.deft	 9390	 9405	 I-Term	 T50	 0	 Direct-Defines
+Primary	 data/source_txt/t4_psychology_2_202.deft	 9375	 9382	 B-Term	 T50	 0	 0
+sexual	 data/source_txt/t4_psychology_2_202.deft	 9383	 9389	 I-Term	 T50	 0	 0
+characteristics	 data/source_txt/t4_psychology_2_202.deft	 9390	 9405	 I-Term	 T50	 0	 0
 are	 data/source_txt/t4_psychology_2_202.deft	 9406	 9409	 O	 -1	 -1	 0
 organs	 data/source_txt/t4_psychology_2_202.deft	 9410	 9416	 B-Definition	 T51	 T50	 Direct-Defines
 specifically	 data/source_txt/t4_psychology_2_202.deft	 9417	 9429	 I-Definition	 T51	 T50	 Direct-Defines
@@ -1554,9 +1554,9 @@ in	 data/source_txt/t4_psychology_2_202.deft	 9505	 9507	 I-Definition	 T51	 T50
 males	 data/source_txt/t4_psychology_2_202.deft	 9508	 9513	 I-Definition	 T51	 T50	 Direct-Defines
 .	 data/source_txt/t4_psychology_2_202.deft	 9513	 9514	 O	 -1	 -1	 0
 
-Secondary	 data/source_txt/t4_psychology_2_202.deft	 9523	 9532	 B-Term	 T52	 0	 Direct-Defines
-sexual	 data/source_txt/t4_psychology_2_202.deft	 9533	 9539	 I-Term	 T52	 0	 Direct-Defines
-characteristics	 data/source_txt/t4_psychology_2_202.deft	 9540	 9555	 I-Term	 T52	 0	 Direct-Defines
+Secondary	 data/source_txt/t4_psychology_2_202.deft	 9523	 9532	 B-Term	 T52	 0	 0
+sexual	 data/source_txt/t4_psychology_2_202.deft	 9533	 9539	 I-Term	 T52	 0	 0
+characteristics	 data/source_txt/t4_psychology_2_202.deft	 9540	 9555	 I-Term	 T52	 0	 0
 are	 data/source_txt/t4_psychology_2_202.deft	 9556	 9559	 O	 -1	 -1	 0
 physical	 data/source_txt/t4_psychology_2_202.deft	 9560	 9568	 B-Definition	 T53	 T52	 Direct-Defines
 signs	 data/source_txt/t4_psychology_2_202.deft	 9569	 9574	 I-Definition	 T53	 T52	 Direct-Defines
@@ -1596,7 +1596,7 @@ boys	 data/source_txt/t4_psychology_2_202.deft	 9742	 9746	 I-Definition	 T53	 T
 
 Girls	 data/source_txt/t4_psychology_2_202.deft	 9754	 9759	 O	 -1	 -1	 0
 experience	 data/source_txt/t4_psychology_2_202.deft	 9760	 9770	 O	 -1	 -1	 0
-menarche	 data/source_txt/t4_psychology_2_202.deft	 9771	 9779	 B-Term	 T54	 0	 Direct-Defines
+menarche	 data/source_txt/t4_psychology_2_202.deft	 9771	 9779	 B-Term	 T54	 0	 0
 ,	 data/source_txt/t4_psychology_2_202.deft	 9779	 9780	 O	 -1	 -1	 0
 the	 data/source_txt/t4_psychology_2_202.deft	 9781	 9784	 B-Definition	 T55	 T54	 Direct-Defines
 beginning	 data/source_txt/t4_psychology_2_202.deft	 9785	 9794	 I-Definition	 T55	 T54	 Direct-Defines
@@ -1613,7 +1613,7 @@ old	 data/source_txt/t4_psychology_2_202.deft	 9844	 9847	 I-Definition	 T55	 T5
 and	 data/source_txt/t4_psychology_2_202.deft	 9849	 9852	 O	 -1	 -1	 0
 boys	 data/source_txt/t4_psychology_2_202.deft	 9853	 9857	 O	 -1	 -1	 0
 experience	 data/source_txt/t4_psychology_2_202.deft	 9858	 9868	 O	 -1	 -1	 0
-spermarche	 data/source_txt/t4_psychology_2_202.deft	 9869	 9879	 B-Term	 T56	 0	 Direct-Defines
+spermarche	 data/source_txt/t4_psychology_2_202.deft	 9869	 9879	 B-Term	 T56	 0	 0
 ,	 data/source_txt/t4_psychology_2_202.deft	 9879	 9880	 O	 -1	 -1	 0
 the	 data/source_txt/t4_psychology_2_202.deft	 9881	 9884	 B-Definition	 T57	 T56	 Direct-Defines
 first	 data/source_txt/t4_psychology_2_202.deft	 9885	 9890	 I-Definition	 T57	 T56	 Direct-Defines
@@ -1642,9 +1642,9 @@ social	 data/source_txt/t4_psychology_2_202.deft	 10268	 10274	 O	 -1	 -1	 0
 roles	 data/source_txt/t4_psychology_2_202.deft	 10275	 10280	 O	 -1	 -1	 0
 .	 data/source_txt/t4_psychology_2_202.deft	 10280	 10281	 O	 -1	 -1	 0
 
-A	 data/source_txt/t4_psychology_2_202.deft	 10290	 10291	 B-Term	 T61	 0	 Direct-Defines
-social	 data/source_txt/t4_psychology_2_202.deft	 10292	 10298	 I-Term	 T61	 0	 Direct-Defines
-role	 data/source_txt/t4_psychology_2_202.deft	 10299	 10303	 I-Term	 T61	 0	 Direct-Defines
+A	 data/source_txt/t4_psychology_2_202.deft	 10290	 10291	 B-Term	 T61	 0	 0
+social	 data/source_txt/t4_psychology_2_202.deft	 10292	 10298	 I-Term	 T61	 0	 0
+role	 data/source_txt/t4_psychology_2_202.deft	 10299	 10303	 I-Term	 T61	 0	 0
 is	 data/source_txt/t4_psychology_2_202.deft	 10304	 10306	 O	 -1	 -1	 0
 a	 data/source_txt/t4_psychology_2_202.deft	 10307	 10308	 B-Definition	 T62	 T61	 Direct-Defines
 pattern	 data/source_txt/t4_psychology_2_202.deft	 10309	 10316	 I-Definition	 T62	 T61	 Direct-Defines
@@ -1705,8 +1705,8 @@ familiar	 data/source_txt/t4_psychology_2_202.deft	 10548	 10556	 O	 -1	 -1	 0
 settings	 data/source_txt/t4_psychology_2_202.deft	 10557	 10565	 O	 -1	 -1	 0
 .	 data/source_txt/t4_psychology_2_202.deft	 10565	 10566	 O	 -1	 -1	 0
 
-A	 data/source_txt/t4_psychology_2_202.deft	 10575	 10576	 B-Term	 T63	 0	 Direct-Defines
-script	 data/source_txt/t4_psychology_2_202.deft	 10577	 10583	 I-Term	 T63	 0	 Direct-Defines
+A	 data/source_txt/t4_psychology_2_202.deft	 10575	 10576	 B-Term	 T63	 0	 0
+script	 data/source_txt/t4_psychology_2_202.deft	 10577	 10583	 I-Term	 T63	 0	 0
 is	 data/source_txt/t4_psychology_2_202.deft	 10584	 10586	 O	 -1	 -1	 0
 a	 data/source_txt/t4_psychology_2_202.deft	 10587	 10588	 B-Definition	 T64	 T63	 Direct-Defines
 person	 data/source_txt/t4_psychology_2_202.deft	 10589	 10595	 I-Definition	 T64	 T63	 Direct-Defines
@@ -1889,7 +1889,7 @@ them	 data/source_txt/t4_psychology_2_202.deft	 11489	 11493	 O	 -1	 -1	 0
 consonant	 data/source_txt/t4_psychology_2_202.deft	 11494	 11503	 O	 -1	 -1	 0
 .	 data/source_txt/t4_psychology_2_202.deft	 11503	 11504	 O	 -1	 -1	 0
 
-Persuasion	 data/source_txt/t4_psychology_2_202.deft	 11513	 11523	 B-Term	 T65	 0	 Direct-Defines
+Persuasion	 data/source_txt/t4_psychology_2_202.deft	 11513	 11523	 B-Term	 T65	 0	 0
 is	 data/source_txt/t4_psychology_2_202.deft	 11524	 11526	 O	 -1	 -1	 0
 the	 data/source_txt/t4_psychology_2_202.deft	 11527	 11530	 B-Definition	 T66	 T65	 Direct-Defines
 process	 data/source_txt/t4_psychology_2_202.deft	 11531	 11538	 I-Definition	 T66	 T65	 Direct-Defines
@@ -1955,15 +1955,15 @@ Saari	 data/source_txt/t4_psychology_2_202.deft	 12399	 12404	 O	 -1	 -1	 0
 .	 data/source_txt/t4_psychology_2_202.deft	 12411	 12412	 O	 -1	 -1	 0
 
 Using	 data/source_txt/t4_psychology_2_202.deft	 12421	 12426	 O	 -1	 -1	 0
-the	 data/source_txt/t4_psychology_2_202.deft	 12427	 12430	 B-Term	 T69	 0	 Direct-Defines
-foot	 data/source_txt/t4_psychology_2_202.deft	 12431	 12435	 I-Term	 T69	 0	 Direct-Defines
--	 data/source_txt/t4_psychology_2_202.deft	 12435	 12436	 I-Term	 T69	 0	 Direct-Defines
-in	 data/source_txt/t4_psychology_2_202.deft	 12436	 12438	 I-Term	 T69	 0	 Direct-Defines
--	 data/source_txt/t4_psychology_2_202.deft	 12438	 12439	 I-Term	 T69	 0	 Direct-Defines
-the	 data/source_txt/t4_psychology_2_202.deft	 12439	 12442	 I-Term	 T69	 0	 Direct-Defines
--	 data/source_txt/t4_psychology_2_202.deft	 12442	 12443	 I-Term	 T69	 0	 Direct-Defines
-door	 data/source_txt/t4_psychology_2_202.deft	 12443	 12447	 I-Term	 T69	 0	 Direct-Defines
-technique	 data/source_txt/t4_psychology_2_202.deft	 12448	 12457	 I-Term	 T69	 0	 Direct-Defines
+the	 data/source_txt/t4_psychology_2_202.deft	 12427	 12430	 B-Term	 T69	 0	 0
+foot	 data/source_txt/t4_psychology_2_202.deft	 12431	 12435	 I-Term	 T69	 0	 0
+-	 data/source_txt/t4_psychology_2_202.deft	 12435	 12436	 I-Term	 T69	 0	 0
+in	 data/source_txt/t4_psychology_2_202.deft	 12436	 12438	 I-Term	 T69	 0	 0
+-	 data/source_txt/t4_psychology_2_202.deft	 12438	 12439	 I-Term	 T69	 0	 0
+the	 data/source_txt/t4_psychology_2_202.deft	 12439	 12442	 I-Term	 T69	 0	 0
+-	 data/source_txt/t4_psychology_2_202.deft	 12442	 12443	 I-Term	 T69	 0	 0
+door	 data/source_txt/t4_psychology_2_202.deft	 12443	 12447	 I-Term	 T69	 0	 0
+technique	 data/source_txt/t4_psychology_2_202.deft	 12448	 12457	 I-Term	 T69	 0	 0
 ,	 data/source_txt/t4_psychology_2_202.deft	 12457	 12458	 O	 -1	 -1	 0
 the	 data/source_txt/t4_psychology_2_202.deft	 12459	 12462	 B-Definition	 T70	 T69	 Direct-Defines
 persuader	 data/source_txt/t4_psychology_2_202.deft	 12463	 12472	 I-Definition	 T70	 T69	 Direct-Defines
@@ -2091,7 +2091,7 @@ incorrect	 data/source_txt/t4_psychology_2_202.deft	 13016	 13025	 O	 -1	 -1	 0
 line	 data/source_txt/t4_psychology_2_202.deft	 13026	 13030	 O	 -1	 -1	 0
 .	 data/source_txt/t4_psychology_2_202.deft	 13030	 13031	 O	 -1	 -1	 0
 
-Conformity	 data/source_txt/t4_psychology_2_202.deft	 13040	 13050	 B-Term	 T71	 0	 Direct-Defines
+Conformity	 data/source_txt/t4_psychology_2_202.deft	 13040	 13050	 B-Term	 T71	 0	 0
 is	 data/source_txt/t4_psychology_2_202.deft	 13051	 13053	 O	 -1	 -1	 0
 the	 data/source_txt/t4_psychology_2_202.deft	 13054	 13057	 B-Definition	 T72	 T71	 Direct-Defines
 change	 data/source_txt/t4_psychology_2_202.deft	 13058	 13064	 I-Definition	 T72	 T71	 Direct-Defines
@@ -2131,8 +2131,8 @@ answer	 data/source_txt/t4_psychology_2_202.deft	 13196	 13202	 O	 -1	 -1	 0
 4025	 data/source_txt/t4_psychology_2_202.deft	 13544	 13548	 O	 -1	 -1	 0
 .	 data/source_txt/t4_psychology_2_202.deft	 13548	 13549	 O	 -1	 -1	 0
 
-Stanley	 data/source_txt/t4_psychology_2_202.deft	 13558	 13565	 B-Term	 T77	 0	 Direct-Defines
-Milgram	 data/source_txt/t4_psychology_2_202.deft	 13566	 13573	 I-Term	 T77	 0	 Direct-Defines
+Stanley	 data/source_txt/t4_psychology_2_202.deft	 13558	 13565	 B-Term	 T77	 0	 0
+Milgram	 data/source_txt/t4_psychology_2_202.deft	 13566	 13573	 I-Term	 T77	 0	 0
 was	 data/source_txt/t4_psychology_2_202.deft	 13574	 13577	 O	 -1	 -1	 0
 a	 data/source_txt/t4_psychology_2_202.deft	 13578	 13579	 B-Definition	 T78	 T77	 Direct-Defines
 social	 data/source_txt/t4_psychology_2_202.deft	 13580	 13586	 I-Definition	 T78	 T77	 Direct-Defines
@@ -2218,8 +2218,8 @@ group	 data/source_txt/t4_psychology_2_202.deft	 13991	 13996	 O	 -1	 -1	 0
 polarization	 data/source_txt/t4_psychology_2_202.deft	 13997	 14009	 O	 -1	 -1	 0
 .	 data/source_txt/t4_psychology_2_202.deft	 14009	 14010	 O	 -1	 -1	 0
 
-Group	 data/source_txt/t4_psychology_2_202.deft	 14019	 14024	 B-Term	 T79	 0	 Direct-Defines
-polarization	 data/source_txt/t4_psychology_2_202.deft	 14025	 14037	 I-Term	 T79	 0	 Direct-Defines
+Group	 data/source_txt/t4_psychology_2_202.deft	 14019	 14024	 B-Term	 T79	 0	 0
+polarization	 data/source_txt/t4_psychology_2_202.deft	 14025	 14037	 I-Term	 T79	 0	 0
 (	 data/source_txt/t4_psychology_2_202.deft	 14038	 14039	 O	 -1	 -1	 0
 Teger	 data/source_txt/t4_psychology_2_202.deft	 14039	 14044	 O	 -1	 -1	 0
 &	 data/source_txt/t4_psychology_2_202.deft	 14045	 14046	 O	 -1	 -1	 0
@@ -2294,15 +2294,15 @@ psychological	 data/source_txt/t4_psychology_2_202.deft	 14397	 14410	 O	 -1	 -1
 ways	 data/source_txt/t4_psychology_2_202.deft	 14411	 14415	 O	 -1	 -1	 0
 .	 data/source_txt/t4_psychology_2_202.deft	 14415	 14416	 O	 -1	 -1	 0
 
-Industrial	 data/source_txt/t4_psychology_2_202.deft	 14425	 14435	 B-Term	 T81	 0	 Direct-Defines
-and	 data/source_txt/t4_psychology_2_202.deft	 14436	 14439	 I-Term	 T81	 0	 Direct-Defines
-organizational	 data/source_txt/t4_psychology_2_202.deft	 14440	 14454	 I-Term	 T81	 0	 Direct-Defines
-(	 data/source_txt/t4_psychology_2_202.deft	 14455	 14456	 I-Term	 T81	 0	 Direct-Defines
-I	 data/source_txt/t4_psychology_2_202.deft	 14456	 14457	 I-Term	 T81	 0	 Direct-Defines
--	 data/source_txt/t4_psychology_2_202.deft	 14457	 14458	 I-Term	 T81	 0	 Direct-Defines
-O	 data/source_txt/t4_psychology_2_202.deft	 14458	 14459	 I-Term	 T81	 0	 Direct-Defines
-)	 data/source_txt/t4_psychology_2_202.deft	 14459	 14460	 I-Term	 T81	 0	 Direct-Defines
-psychology	 data/source_txt/t4_psychology_2_202.deft	 14461	 14471	 I-Term	 T81	 0	 Direct-Defines
+Industrial	 data/source_txt/t4_psychology_2_202.deft	 14425	 14435	 B-Term	 T81	 0	 0
+and	 data/source_txt/t4_psychology_2_202.deft	 14436	 14439	 I-Term	 T81	 0	 0
+organizational	 data/source_txt/t4_psychology_2_202.deft	 14440	 14454	 I-Term	 T81	 0	 0
+(	 data/source_txt/t4_psychology_2_202.deft	 14455	 14456	 I-Term	 T81	 0	 0
+I	 data/source_txt/t4_psychology_2_202.deft	 14456	 14457	 I-Term	 T81	 0	 0
+-	 data/source_txt/t4_psychology_2_202.deft	 14457	 14458	 I-Term	 T81	 0	 0
+O	 data/source_txt/t4_psychology_2_202.deft	 14458	 14459	 I-Term	 T81	 0	 0
+)	 data/source_txt/t4_psychology_2_202.deft	 14459	 14460	 I-Term	 T81	 0	 0
+psychology	 data/source_txt/t4_psychology_2_202.deft	 14461	 14471	 I-Term	 T81	 0	 0
 is	 data/source_txt/t4_psychology_2_202.deft	 14472	 14474	 O	 -1	 -1	 0
 a	 data/source_txt/t4_psychology_2_202.deft	 14475	 14476	 B-Definition	 T82	 T81	 Direct-Defines
 branch	 data/source_txt/t4_psychology_2_202.deft	 14477	 14483	 I-Definition	 T82	 T81	 Direct-Defines
@@ -2360,9 +2360,9 @@ workplace	 data/source_txt/t4_psychology_2_202.deft	 14776	 14785	 O	 -1	 -1	 0
 violence	 data/source_txt/t4_psychology_2_202.deft	 14786	 14794	 O	 -1	 -1	 0
 .	 data/source_txt/t4_psychology_2_202.deft	 14794	 14795	 O	 -1	 -1	 0
 
-Human	 data/source_txt/t4_psychology_2_202.deft	 14804	 14809	 B-Term	 T83	 0	 Direct-Defines
-factors	 data/source_txt/t4_psychology_2_202.deft	 14810	 14817	 I-Term	 T83	 0	 Direct-Defines
-psychology	 data/source_txt/t4_psychology_2_202.deft	 14818	 14828	 I-Term	 T83	 0	 Direct-Defines
+Human	 data/source_txt/t4_psychology_2_202.deft	 14804	 14809	 B-Term	 T83	 0	 0
+factors	 data/source_txt/t4_psychology_2_202.deft	 14810	 14817	 I-Term	 T83	 0	 0
+psychology	 data/source_txt/t4_psychology_2_202.deft	 14818	 14828	 I-Term	 T83	 0	 0
 is	 data/source_txt/t4_psychology_2_202.deft	 14829	 14831	 O	 -1	 -1	 0
 the	 data/source_txt/t4_psychology_2_202.deft	 14832	 14835	 B-Definition	 T84	 T83	 Direct-Defines
 study	 data/source_txt/t4_psychology_2_202.deft	 14836	 14841	 I-Definition	 T84	 T83	 Direct-Defines
@@ -2448,9 +2448,9 @@ led	 data/source_txt/t4_psychology_2_202.deft	 15240	 15243	 O	 -1	 -1	 0
 to	 data/source_txt/t4_psychology_2_202.deft	 15244	 15246	 O	 -1	 -1	 0
 the	 data/source_txt/t4_psychology_2_202.deft	 15247	 15250	 O	 -1	 -1	 0
 term	 data/source_txt/t4_psychology_2_202.deft	 15251	 15255	 O	 -1	 -1	 0
-the	 data/source_txt/t4_psychology_2_202.deft	 15256	 15259	 B-Term	 T85	 0	 Direct-Defines
-Hawthorne	 data/source_txt/t4_psychology_2_202.deft	 15260	 15269	 I-Term	 T85	 0	 Direct-Defines
-effect	 data/source_txt/t4_psychology_2_202.deft	 15270	 15276	 I-Term	 T85	 0	 Direct-Defines
+the	 data/source_txt/t4_psychology_2_202.deft	 15256	 15259	 B-Term	 T85	 0	 0
+Hawthorne	 data/source_txt/t4_psychology_2_202.deft	 15260	 15269	 I-Term	 T85	 0	 0
+effect	 data/source_txt/t4_psychology_2_202.deft	 15270	 15276	 I-Term	 T85	 0	 0
 ,	 data/source_txt/t4_psychology_2_202.deft	 15276	 15277	 O	 -1	 -1	 0
 which	 data/source_txt/t4_psychology_2_202.deft	 15278	 15283	 O	 -1	 -1	 0
 describes	 data/source_txt/t4_psychology_2_202.deft	 15284	 15293	 O	 -1	 -1	 0
@@ -2558,13 +2558,13 @@ this	 data/source_txt/t4_psychology_2_202.deft	 15773	 15777	 O	 -1	 -1	 0
 chapter	 data/source_txt/t4_psychology_2_202.deft	 15778	 15785	 O	 -1	 -1	 0
 .	 data/source_txt/t4_psychology_2_202.deft	 15785	 15786	 O	 -1	 -1	 0
 
-The	 data/source_txt/t4_psychology_2_202.deft	 15795	 15798	 B-Term	 T188	 0	 AKA
-Society	 data/source_txt/t4_psychology_2_202.deft	 15799	 15806	 I-Term	 T188	 0	 AKA
-for	 data/source_txt/t4_psychology_2_202.deft	 15807	 15810	 I-Term	 T188	 0	 AKA
-Industrial	 data/source_txt/t4_psychology_2_202.deft	 15811	 15821	 I-Term	 T188	 0	 AKA
-and	 data/source_txt/t4_psychology_2_202.deft	 15822	 15825	 I-Term	 T188	 0	 AKA
-Organizational	 data/source_txt/t4_psychology_2_202.deft	 15826	 15840	 I-Term	 T188	 0	 AKA
-Psychology	 data/source_txt/t4_psychology_2_202.deft	 15841	 15851	 I-Term	 T188	 0	 AKA
+The	 data/source_txt/t4_psychology_2_202.deft	 15795	 15798	 B-Term	 T188	 0	 0
+Society	 data/source_txt/t4_psychology_2_202.deft	 15799	 15806	 I-Term	 T188	 0	 0
+for	 data/source_txt/t4_psychology_2_202.deft	 15807	 15810	 I-Term	 T188	 0	 0
+Industrial	 data/source_txt/t4_psychology_2_202.deft	 15811	 15821	 I-Term	 T188	 0	 0
+and	 data/source_txt/t4_psychology_2_202.deft	 15822	 15825	 I-Term	 T188	 0	 0
+Organizational	 data/source_txt/t4_psychology_2_202.deft	 15826	 15840	 I-Term	 T188	 0	 0
+Psychology	 data/source_txt/t4_psychology_2_202.deft	 15841	 15851	 I-Term	 T188	 0	 0
 (	 data/source_txt/t4_psychology_2_202.deft	 15852	 15853	 O	 -1	 -1	 0
 SIOP	 data/source_txt/t4_psychology_2_202.deft	 15853	 15857	 B-Alias-Term	 T189	 T188	 AKA
 )	 data/source_txt/t4_psychology_2_202.deft	 15857	 15858	 O	 -1	 -1	 0
@@ -2694,7 +2694,7 @@ as	 data/source_txt/t4_psychology_2_202.deft	 16438	 16440	 O	 -1	 -1	 0
 discrimination	 data/source_txt/t4_psychology_2_202.deft	 16441	 16455	 O	 -1	 -1	 0
 .	 data/source_txt/t4_psychology_2_202.deft	 16455	 16456	 O	 -1	 -1	 0
 
-Discrimination	 data/source_txt/t4_psychology_2_202.deft	 16465	 16479	 B-Term	 T87	 0	 Direct-Defines
+Discrimination	 data/source_txt/t4_psychology_2_202.deft	 16465	 16479	 B-Term	 T87	 0	 0
 is	 data/source_txt/t4_psychology_2_202.deft	 16480	 16482	 O	 -1	 -1	 0
 negative	 data/source_txt/t4_psychology_2_202.deft	 16483	 16491	 B-Definition	 T88	 T87	 Direct-Defines
 action	 data/source_txt/t4_psychology_2_202.deft	 16492	 16498	 I-Definition	 T88	 T87	 Direct-Defines
@@ -2871,8 +2871,8 @@ process	 data/source_txt/t4_psychology_2_202.deft	 17740	 17747	 O	 -1	 -1	 0
 ,	 data/source_txt/t4_psychology_2_202.deft	 17747	 17748	 O	 -1	 -1	 0
 known	 data/source_txt/t4_psychology_2_202.deft	 17749	 17754	 O	 -1	 -1	 0
 as	 data/source_txt/t4_psychology_2_202.deft	 17755	 17757	 O	 -1	 -1	 0
-confirmation	 data/source_txt/t4_psychology_2_202.deft	 17758	 17770	 B-Term	 T91	 0	 Direct-Defines
-bias	 data/source_txt/t4_psychology_2_202.deft	 17771	 17775	 I-Term	 T91	 0	 Direct-Defines
+confirmation	 data/source_txt/t4_psychology_2_202.deft	 17758	 17770	 B-Term	 T91	 0	 0
+bias	 data/source_txt/t4_psychology_2_202.deft	 17771	 17775	 I-Term	 T91	 0	 0
 ,	 data/source_txt/t4_psychology_2_202.deft	 17775	 17776	 O	 -1	 -1	 0
 we	 data/source_txt/t4_psychology_2_202.deft	 17777	 17779	 B-Definition	 T92	 T91	 Direct-Defines
 seek	 data/source_txt/t4_psychology_2_202.deft	 17780	 17784	 I-Definition	 T92	 T91	 Direct-Defines
@@ -2965,10 +2965,10 @@ groups	 data/source_txt/t4_psychology_2_202.deft	 18244	 18250	 O	 -1	 -1	 0
 ,	 data/source_txt/t4_psychology_2_202.deft	 18250	 18251	 O	 -1	 -1	 0
 we	 data/source_txt/t4_psychology_2_202.deft	 18252	 18254	 O	 -1	 -1	 0
 develop	 data/source_txt/t4_psychology_2_202.deft	 18255	 18262	 O	 -1	 -1	 0
-in	 data/source_txt/t4_psychology_2_202.deft	 18263	 18265	 B-Term	 T93	 0	 Direct-Defines
--	 data/source_txt/t4_psychology_2_202.deft	 18265	 18266	 I-Term	 T93	 0	 Direct-Defines
-group	 data/source_txt/t4_psychology_2_202.deft	 18266	 18271	 I-Term	 T93	 0	 Direct-Defines
-bias	 data/source_txt/t4_psychology_2_202.deft	 18272	 18276	 I-Term	 T93	 0	 Direct-Defines
+in	 data/source_txt/t4_psychology_2_202.deft	 18263	 18265	 B-Term	 T93	 0	 0
+-	 data/source_txt/t4_psychology_2_202.deft	 18265	 18266	 I-Term	 T93	 0	 0
+group	 data/source_txt/t4_psychology_2_202.deft	 18266	 18271	 I-Term	 T93	 0	 0
+bias	 data/source_txt/t4_psychology_2_202.deft	 18272	 18276	 I-Term	 T93	 0	 0
 :	 data/source_txt/t4_psychology_2_202.deft	 18276	 18277	 O	 -1	 -1	 0
 a	 data/source_txt/t4_psychology_2_202.deft	 18278	 18279	 B-Definition	 T94	 T93	 Direct-Defines
 preference	 data/source_txt/t4_psychology_2_202.deft	 18280	 18290	 I-Definition	 T94	 T93	 Direct-Defines
@@ -3031,8 +3031,8 @@ or	 data/source_txt/t4_psychology_2_202.deft	 18565	 18567	 O	 -1	 -1	 0
 instrumental	 data/source_txt/t4_psychology_2_202.deft	 18568	 18580	 O	 -1	 -1	 0
 .	 data/source_txt/t4_psychology_2_202.deft	 18580	 18581	 O	 -1	 -1	 0
 
-Hostile	 data/source_txt/t4_psychology_2_202.deft	 18590	 18597	 B-Term	 T95	 0	 Direct-Defines
-aggression	 data/source_txt/t4_psychology_2_202.deft	 18598	 18608	 I-Term	 T95	 0	 Direct-Defines
+Hostile	 data/source_txt/t4_psychology_2_202.deft	 18590	 18597	 B-Term	 T95	 0	 0
+aggression	 data/source_txt/t4_psychology_2_202.deft	 18598	 18608	 I-Term	 T95	 0	 0
 is	 data/source_txt/t4_psychology_2_202.deft	 18609	 18611	 O	 -1	 -1	 0
 motivated	 data/source_txt/t4_psychology_2_202.deft	 18612	 18621	 B-Definition	 T96	 T95	 Direct-Defines
 by	 data/source_txt/t4_psychology_2_202.deft	 18622	 18624	 I-Definition	 T96	 T95	 Direct-Defines
@@ -3064,8 +3064,8 @@ aggression	 data/source_txt/t4_psychology_2_202.deft	 18728	 18738	 I-Definition
 In	 data/source_txt/t4_psychology_2_202.deft	 18746	 18748	 O	 -1	 -1	 0
 contrast	 data/source_txt/t4_psychology_2_202.deft	 18749	 18757	 O	 -1	 -1	 0
 ,	 data/source_txt/t4_psychology_2_202.deft	 18757	 18758	 O	 -1	 -1	 0
-instrumental	 data/source_txt/t4_psychology_2_202.deft	 18759	 18771	 B-Term	 T98	 0	 Direct-Defines
-aggression	 data/source_txt/t4_psychology_2_202.deft	 18772	 18782	 I-Term	 T98	 0	 Direct-Defines
+instrumental	 data/source_txt/t4_psychology_2_202.deft	 18759	 18771	 B-Term	 T98	 0	 0
+aggression	 data/source_txt/t4_psychology_2_202.deft	 18772	 18782	 I-Term	 T98	 0	 0
 is	 data/source_txt/t4_psychology_2_202.deft	 18783	 18785	 O	 -1	 -1	 0
 motivated	 data/source_txt/t4_psychology_2_202.deft	 18786	 18795	 B-Definition	 T97	 T98	 Direct-Defines
 by	 data/source_txt/t4_psychology_2_202.deft	 18796	 18798	 I-Definition	 T97	 T98	 Direct-Defines
@@ -3121,7 +3121,7 @@ is	 data/source_txt/t4_psychology_2_202.deft	 19062	 19064	 O	 -1	 -1	 0
 bullying	 data/source_txt/t4_psychology_2_202.deft	 19065	 19073	 O	 -1	 -1	 0
 .	 data/source_txt/t4_psychology_2_202.deft	 19073	 19074	 O	 -1	 -1	 0
 
-Bullying	 data/source_txt/t4_psychology_2_202.deft	 19083	 19091	 B-Term	 T99	 0	 Direct-Defines
+Bullying	 data/source_txt/t4_psychology_2_202.deft	 19083	 19091	 B-Term	 T99	 0	 0
 is	 data/source_txt/t4_psychology_2_202.deft	 19092	 19094	 O	 -1	 -1	 0
 repeated	 data/source_txt/t4_psychology_2_202.deft	 19095	 19103	 B-Definition	 T100	 T99	 Direct-Defines
 negative	 data/source_txt/t4_psychology_2_202.deft	 19104	 19112	 I-Definition	 T100	 T99	 Direct-Defines
@@ -3290,7 +3290,7 @@ be	 data/source_txt/t4_psychology_2_202.deft	 20086	 20088	 O	 -1	 -1	 0
 easy	 data/source_txt/t4_psychology_2_202.deft	 20089	 20093	 O	 -1	 -1	 0
 .	 data/source_txt/t4_psychology_2_202.deft	 20093	 20094	 O	 -1	 -1	 0
 
-Homophily	 data/source_txt/t4_psychology_2_202.deft	 20103	 20112	 B-Term	 T103	 0	 Direct-Defines
+Homophily	 data/source_txt/t4_psychology_2_202.deft	 20103	 20112	 B-Term	 T103	 0	 0
 is	 data/source_txt/t4_psychology_2_202.deft	 20113	 20115	 O	 -1	 -1	 0
 the	 data/source_txt/t4_psychology_2_202.deft	 20116	 20119	 B-Definition	 T104	 T103	 Direct-Defines
 tendency	 data/source_txt/t4_psychology_2_202.deft	 20120	 20128	 I-Definition	 T104	 T103	 Direct-Defines
@@ -3387,7 +3387,7 @@ link	 data/source_txt/t4_psychology_2_202.deft	 20580	 20584	 O	 -1	 -1	 0
 )	 data/source_txt/t4_psychology_2_202.deft	 20585	 20586	 O	 -1	 -1	 0
 .	 data/source_txt/t4_psychology_2_202.deft	 20586	 20587	 O	 -1	 -1	 0
 
-Intimacy	 data/source_txt/t4_psychology_2_202.deft	 20594	 20602	 B-Term	 T190	 0	 Direct-Defines
+Intimacy	 data/source_txt/t4_psychology_2_202.deft	 20594	 20602	 B-Term	 T190	 0	 0
 is	 data/source_txt/t4_psychology_2_202.deft	 20603	 20605	 O	 -1	 -1	 0
 the	 data/source_txt/t4_psychology_2_202.deft	 20606	 20609	 B-Definition	 T191	 T190	 Direct-Defines
 sharing	 data/source_txt/t4_psychology_2_202.deft	 20610	 20617	 I-Definition	 T191	 T190	 Direct-Defines
@@ -3404,8 +3404,8 @@ emotions	 data/source_txt/t4_psychology_2_202.deft	 20655	 20663	 I-Definition	 
 4076	 data/source_txt/t4_psychology_2_202.deft	 20668	 20672	 O	 -1	 -1	 0
 .	 data/source_txt/t4_psychology_2_202.deft	 20672	 20673	 O	 -1	 -1	 0
 
-Companionate	 data/source_txt/t4_psychology_2_202.deft	 20674	 20686	 B-Term	 T105	 0	 Direct-Defines
-love	 data/source_txt/t4_psychology_2_202.deft	 20687	 20691	 I-Term	 T105	 0	 Direct-Defines
+Companionate	 data/source_txt/t4_psychology_2_202.deft	 20674	 20686	 B-Term	 T105	 0	 0
+love	 data/source_txt/t4_psychology_2_202.deft	 20687	 20691	 I-Term	 T105	 0	 0
 ,	 data/source_txt/t4_psychology_2_202.deft	 20691	 20692	 O	 -1	 -1	 0
 which	 data/source_txt/t4_psychology_2_202.deft	 20693	 20698	 O	 -1	 -1	 0
 is	 data/source_txt/t4_psychology_2_202.deft	 20699	 20701	 O	 -1	 -1	 0
@@ -3427,8 +3427,8 @@ no	 data/source_txt/t4_psychology_2_202.deft	 20804	 20806	 I-Definition	 T106	 
 passion	 data/source_txt/t4_psychology_2_202.deft	 20807	 20814	 I-Definition	 T106	 T105	 Direct-Defines
 .	 data/source_txt/t4_psychology_2_202.deft	 20814	 20815	 O	 -1	 -1	 0
 
-Romantic	 data/source_txt/t4_psychology_2_202.deft	 20824	 20832	 B-Term	 T107	 0	 Direct-Defines
-love	 data/source_txt/t4_psychology_2_202.deft	 20833	 20837	 I-Term	 T107	 0	 Direct-Defines
+Romantic	 data/source_txt/t4_psychology_2_202.deft	 20824	 20832	 B-Term	 T107	 0	 0
+love	 data/source_txt/t4_psychology_2_202.deft	 20833	 20837	 I-Term	 T107	 0	 0
 is	 data/source_txt/t4_psychology_2_202.deft	 20838	 20840	 O	 -1	 -1	 0
 defined	 data/source_txt/t4_psychology_2_202.deft	 20841	 20848	 O	 -1	 -1	 0
 by	 data/source_txt/t4_psychology_2_202.deft	 20849	 20851	 O	 -1	 -1	 0
@@ -3444,8 +3444,8 @@ commitment	 data/source_txt/t4_psychology_2_202.deft	 20888	 20898	 I-Definition
 
 Finally	 data/source_txt/t4_psychology_2_202.deft	 20906	 20913	 O	 -1	 -1	 0
 ,	 data/source_txt/t4_psychology_2_202.deft	 20913	 20914	 O	 -1	 -1	 0
-fatuous	 data/source_txt/t4_psychology_2_202.deft	 20915	 20922	 B-Term	 T109	 0	 Direct-Defines
-love	 data/source_txt/t4_psychology_2_202.deft	 20923	 20927	 I-Term	 T109	 0	 Direct-Defines
+fatuous	 data/source_txt/t4_psychology_2_202.deft	 20915	 20922	 B-Term	 T109	 0	 0
+love	 data/source_txt/t4_psychology_2_202.deft	 20923	 20927	 I-Term	 T109	 0	 0
 is	 data/source_txt/t4_psychology_2_202.deft	 20928	 20930	 O	 -1	 -1	 0
 defined	 data/source_txt/t4_psychology_2_202.deft	 20931	 20938	 O	 -1	 -1	 0
 by	 data/source_txt/t4_psychology_2_202.deft	 20939	 20941	 O	 -1	 -1	 0
@@ -3630,10 +3630,10 @@ Act	 data/source_txt/t4_psychology_2_202.deft	 21843	 21846	 O	 -1	 -1	 0
 make	 data/source_txt/t4_psychology_2_202.deft	 21847	 21851	 O	 -1	 -1	 0
 provisions	 data/source_txt/t4_psychology_2_202.deft	 21852	 21862	 O	 -1	 -1	 0
 for	 data/source_txt/t4_psychology_2_202.deft	 21863	 21866	 O	 -1	 -1	 0
-bona	 data/source_txt/t4_psychology_2_202.deft	 21867	 21871	 B-Term	 T111	 0	 AKA
-fide	 data/source_txt/t4_psychology_2_202.deft	 21872	 21876	 I-Term	 T111	 0	 AKA
-occupational	 data/source_txt/t4_psychology_2_202.deft	 21877	 21889	 I-Term	 T111	 0	 AKA
-qualifications	 data/source_txt/t4_psychology_2_202.deft	 21890	 21904	 I-Term	 T111	 0	 AKA
+bona	 data/source_txt/t4_psychology_2_202.deft	 21867	 21871	 B-Term	 T111	 0	 0
+fide	 data/source_txt/t4_psychology_2_202.deft	 21872	 21876	 I-Term	 T111	 0	 0
+occupational	 data/source_txt/t4_psychology_2_202.deft	 21877	 21889	 I-Term	 T111	 0	 0
+qualifications	 data/source_txt/t4_psychology_2_202.deft	 21890	 21904	 I-Term	 T111	 0	 0
 (	 data/source_txt/t4_psychology_2_202.deft	 21905	 21906	 O	 -1	 -1	 0
 BFOQs	 data/source_txt/t4_psychology_2_202.deft	 21906	 21911	 B-Alias-Term	 T113	 T111	 AKA
 )	 data/source_txt/t4_psychology_2_202.deft	 21911	 21912	 O	 -1	 -1	 0
@@ -3790,10 +3790,10 @@ Yahoo	 data/source_txt/t4_psychology_2_202.deft	 22701	 22706	 O	 -1	 -1	 0
 .	 data/source_txt/t4_psychology_2_202.deft	 22715	 22716	 O	 -1	 -1	 0
 
 In	 data/source_txt/t4_psychology_2_202.deft	 22725	 22727	 O	 -1	 -1	 0
-the	 data/source_txt/t4_psychology_2_202.deft	 22728	 22731	 B-Term	 T114	 0	 Direct-Defines
-Theory	 data/source_txt/t4_psychology_2_202.deft	 22732	 22738	 I-Term	 T114	 0	 Direct-Defines
-Y	 data/source_txt/t4_psychology_2_202.deft	 22739	 22740	 I-Term	 T114	 0	 Direct-Defines
-approach	 data/source_txt/t4_psychology_2_202.deft	 22741	 22749	 I-Term	 T114	 0	 Direct-Defines
+the	 data/source_txt/t4_psychology_2_202.deft	 22728	 22731	 B-Term	 T114	 0	 0
+Theory	 data/source_txt/t4_psychology_2_202.deft	 22732	 22738	 I-Term	 T114	 0	 0
+Y	 data/source_txt/t4_psychology_2_202.deft	 22739	 22740	 I-Term	 T114	 0	 0
+approach	 data/source_txt/t4_psychology_2_202.deft	 22741	 22749	 I-Term	 T114	 0	 0
 ,	 data/source_txt/t4_psychology_2_202.deft	 22749	 22750	 O	 -1	 -1	 0
 on	 data/source_txt/t4_psychology_2_202.deft	 22751	 22753	 O	 -1	 -1	 0
 the	 data/source_txt/t4_psychology_2_202.deft	 22754	 22757	 O	 -1	 -1	 0
@@ -3993,8 +3993,8 @@ in	 data/source_txt/t4_psychology_2_202.deft	 23843	 23845	 O	 -1	 -1	 0
 organizations	 data/source_txt/t4_psychology_2_202.deft	 23846	 23859	 O	 -1	 -1	 0
 .	 data/source_txt/t4_psychology_2_202.deft	 23859	 23860	 O	 -1	 -1	 0
 
-Procedural	 data/source_txt/t4_psychology_2_202.deft	 23869	 23879	 B-Term	 T116	 0	 Direct-Defines
-justice	 data/source_txt/t4_psychology_2_202.deft	 23880	 23887	 I-Term	 T116	 0	 Direct-Defines
+Procedural	 data/source_txt/t4_psychology_2_202.deft	 23869	 23879	 B-Term	 T116	 0	 0
+justice	 data/source_txt/t4_psychology_2_202.deft	 23880	 23887	 I-Term	 T116	 0	 0
 refers	 data/source_txt/t4_psychology_2_202.deft	 23888	 23894	 O	 -1	 -1	 0
 to	 data/source_txt/t4_psychology_2_202.deft	 23895	 23897	 O	 -1	 -1	 0
 the	 data/source_txt/t4_psychology_2_202.deft	 23898	 23901	 B-Definition	 T117	 T116	 Direct-Defines
@@ -4175,7 +4175,7 @@ often	 data/source_txt/t4_psychology_2_202.deft	 24787	 24792	 O	 -1	 -1	 0
 referred	 data/source_txt/t4_psychology_2_202.deft	 24793	 24801	 O	 -1	 -1	 0
 to	 data/source_txt/t4_psychology_2_202.deft	 24802	 24804	 O	 -1	 -1	 0
 as	 data/source_txt/t4_psychology_2_202.deft	 24805	 24807	 O	 -1	 -1	 0
-stressors	 data/source_txt/t4_psychology_2_202.deft	 24808	 24817	 B-Term	 T119	 0	 Direct-Defines
+stressors	 data/source_txt/t4_psychology_2_202.deft	 24808	 24817	 B-Term	 T119	 0	 0
 )	 data/source_txt/t4_psychology_2_202.deft	 24817	 24818	 O	 -1	 -1	 0
 ;	 data/source_txt/t4_psychology_2_202.deft	 24818	 24819	 O	 -1	 -1	 0
 these	 data/source_txt/t4_psychology_2_202.deft	 24820	 24825	 O	 -1	 -1	 0
@@ -4246,7 +4246,7 @@ stress	 data/source_txt/t4_psychology_2_202.deft	 25147	 25153	 O	 -1	 -1	 0
 which	 data/source_txt/t4_psychology_2_202.deft	 25155	 25160	 O	 -1	 -1	 0
 Selye	 data/source_txt/t4_psychology_2_202.deft	 25161	 25166	 O	 -1	 -1	 0
 called	 data/source_txt/t4_psychology_2_202.deft	 25167	 25173	 O	 -1	 -1	 0
-eustress	 data/source_txt/t4_psychology_2_202.deft	 25174	 25182	 B-Term	 T120	 0	 Supplements
+eustress	 data/source_txt/t4_psychology_2_202.deft	 25174	 25182	 B-Term	 T120	 0	 0
 (	 data/source_txt/t4_psychology_2_202.deft	 25183	 25184	 O	 -1	 -1	 0
 from	 data/source_txt/t4_psychology_2_202.deft	 25184	 25188	 B-Qualifier	 T192	 T120	 Supplements
 the	 data/source_txt/t4_psychology_2_202.deft	 25189	 25192	 I-Qualifier	 T192	 T120	 Supplements
@@ -4394,10 +4394,10 @@ What	 data/source_txt/t4_psychology_2_202.deft	 25904	 25908	 O	 -1	 -1	 0
 Selye	 data/source_txt/t4_psychology_2_202.deft	 25909	 25914	 O	 -1	 -1	 0
 discovered	 data/source_txt/t4_psychology_2_202.deft	 25915	 25925	 O	 -1	 -1	 0
 was	 data/source_txt/t4_psychology_2_202.deft	 25926	 25929	 O	 -1	 -1	 0
-the	 data/source_txt/t4_psychology_2_202.deft	 25930	 25933	 B-Term	 T124	 0	 Direct-Defines
-general	 data/source_txt/t4_psychology_2_202.deft	 25934	 25941	 I-Term	 T124	 0	 Direct-Defines
-adaptation	 data/source_txt/t4_psychology_2_202.deft	 25942	 25952	 I-Term	 T124	 0	 Direct-Defines
-syndrome	 data/source_txt/t4_psychology_2_202.deft	 25953	 25961	 I-Term	 T124	 0	 Direct-Defines
+the	 data/source_txt/t4_psychology_2_202.deft	 25930	 25933	 B-Term	 T124	 0	 0
+general	 data/source_txt/t4_psychology_2_202.deft	 25934	 25941	 I-Term	 T124	 0	 0
+adaptation	 data/source_txt/t4_psychology_2_202.deft	 25942	 25952	 I-Term	 T124	 0	 0
+syndrome	 data/source_txt/t4_psychology_2_202.deft	 25953	 25961	 I-Term	 T124	 0	 0
 ,	 data/source_txt/t4_psychology_2_202.deft	 25961	 25962	 O	 -1	 -1	 0
 the	 data/source_txt/t4_psychology_2_202.deft	 25963	 25966	 B-Definition	 T125	 T124	 Direct-Defines
 body	 data/source_txt/t4_psychology_2_202.deft	 25967	 25971	 I-Definition	 T125	 T124	 Direct-Defines
@@ -4426,16 +4426,16 @@ period	 data/source_txt/t4_psychology_2_202.deft	 26093	 26099	 O	 -1	 -1	 0
 of	 data/source_txt/t4_psychology_2_202.deft	 26100	 26102	 O	 -1	 -1	 0
 time	 data/source_txt/t4_psychology_2_202.deft	 26103	 26107	 O	 -1	 -1	 0
 ,	 data/source_txt/t4_psychology_2_202.deft	 26107	 26108	 O	 -1	 -1	 0
-the	 data/source_txt/t4_psychology_2_202.deft	 26109	 26112	 B-Term	 T126	 0	 Refers-To
-stage	 data/source_txt/t4_psychology_2_202.deft	 26113	 26118	 I-Term	 T126	 0	 Refers-To
-of	 data/source_txt/t4_psychology_2_202.deft	 26119	 26121	 I-Term	 T126	 0	 Refers-To
-exhaustion	 data/source_txt/t4_psychology_2_202.deft	 26122	 26132	 I-Term	 T126	 0	 Refers-To
+the	 data/source_txt/t4_psychology_2_202.deft	 26109	 26112	 B-Term	 T126	 0	 0
+stage	 data/source_txt/t4_psychology_2_202.deft	 26113	 26118	 I-Term	 T126	 0	 0
+of	 data/source_txt/t4_psychology_2_202.deft	 26119	 26121	 I-Term	 T126	 0	 0
+exhaustion	 data/source_txt/t4_psychology_2_202.deft	 26122	 26132	 I-Term	 T126	 0	 0
 ensues	 data/source_txt/t4_psychology_2_202.deft	 26133	 26139	 O	 -1	 -1	 0
 .	 data/source_txt/t4_psychology_2_202.deft	 26139	 26140	 O	 -1	 -1	 0
 
 At	 data/source_txt/t4_psychology_2_202.deft	 26147	 26149	 O	 -1	 -1	 0
-this	 data/source_txt/t4_psychology_2_202.deft	 26150	 26154	 B-Referential-Term	 T128	 0	 Indirect-Defines
-stage	 data/source_txt/t4_psychology_2_202.deft	 26155	 26160	 I-Referential-Term	 T128	 0	 Indirect-Defines
+this	 data/source_txt/t4_psychology_2_202.deft	 26150	 26154	 B-Referential-Term	 T128	 T126	 Refers-To
+stage	 data/source_txt/t4_psychology_2_202.deft	 26155	 26160	 I-Referential-Term	 T128	 T126	 Refers-To
 ,	 data/source_txt/t4_psychology_2_202.deft	 26160	 26161	 O	 -1	 -1	 0
 the	 data/source_txt/t4_psychology_2_202.deft	 26162	 26165	 B-Definition	 T127	 T128	 Indirect-Defines
 person	 data/source_txt/t4_psychology_2_202.deft	 26166	 26172	 I-Definition	 T127	 T128	 Indirect-Defines
@@ -4573,14 +4573,14 @@ acute	 data/source_txt/t4_psychology_2_202.deft	 26836	 26841	 O	 -1	 -1	 0
 4130	 data/source_txt/t4_psychology_2_202.deft	 26846	 26850	 O	 -1	 -1	 0
 .	 data/source_txt/t4_psychology_2_202.deft	 26850	 26851	 O	 -1	 -1	 0
 
-The	 data/source_txt/t4_psychology_2_202.deft	 26860	 26863	 B-Term	 T131	 0	 AKA
-Holmes	 data/source_txt/t4_psychology_2_202.deft	 26864	 26870	 I-Term	 T131	 0	 AKA
-and	 data/source_txt/t4_psychology_2_202.deft	 26871	 26874	 I-Term	 T131	 0	 AKA
-Rahe	 data/source_txt/t4_psychology_2_202.deft	 26875	 26879	 I-Term	 T131	 0	 AKA
-Social	 data/source_txt/t4_psychology_2_202.deft	 26880	 26886	 I-Term	 T131	 0	 AKA
-Readjustment	 data/source_txt/t4_psychology_2_202.deft	 26887	 26899	 I-Term	 T131	 0	 AKA
-Rating	 data/source_txt/t4_psychology_2_202.deft	 26900	 26906	 I-Term	 T131	 0	 AKA
-Scale	 data/source_txt/t4_psychology_2_202.deft	 26907	 26912	 I-Term	 T131	 0	 AKA
+The	 data/source_txt/t4_psychology_2_202.deft	 26860	 26863	 B-Term	 T131	 0	 0
+Holmes	 data/source_txt/t4_psychology_2_202.deft	 26864	 26870	 I-Term	 T131	 0	 0
+and	 data/source_txt/t4_psychology_2_202.deft	 26871	 26874	 I-Term	 T131	 0	 0
+Rahe	 data/source_txt/t4_psychology_2_202.deft	 26875	 26879	 I-Term	 T131	 0	 0
+Social	 data/source_txt/t4_psychology_2_202.deft	 26880	 26886	 I-Term	 T131	 0	 0
+Readjustment	 data/source_txt/t4_psychology_2_202.deft	 26887	 26899	 I-Term	 T131	 0	 0
+Rating	 data/source_txt/t4_psychology_2_202.deft	 26900	 26906	 I-Term	 T131	 0	 0
+Scale	 data/source_txt/t4_psychology_2_202.deft	 26907	 26912	 I-Term	 T131	 0	 0
 (	 data/source_txt/t4_psychology_2_202.deft	 26913	 26914	 O	 -1	 -1	 0
 SRRS	 data/source_txt/t4_psychology_2_202.deft	 26914	 26918	 B-Alias-Term	 T130	 T131	 AKA
 )	 data/source_txt/t4_psychology_2_202.deft	 26918	 26919	 O	 -1	 -1	 0
@@ -4639,8 +4639,8 @@ work	 data/source_txt/t4_psychology_2_202.deft	 27220	 27224	 O	 -1	 -1	 0
 conditions	 data/source_txt/t4_psychology_2_202.deft	 27225	 27235	 O	 -1	 -1	 0
 can	 data/source_txt/t4_psychology_2_202.deft	 27236	 27239	 O	 -1	 -1	 0
 experience	 data/source_txt/t4_psychology_2_202.deft	 27240	 27250	 O	 -1	 -1	 0
-job	 data/source_txt/t4_psychology_2_202.deft	 27251	 27254	 B-Term	 T132	 0	 Direct-Defines
-burnout	 data/source_txt/t4_psychology_2_202.deft	 27255	 27262	 I-Term	 T132	 0	 Direct-Defines
+job	 data/source_txt/t4_psychology_2_202.deft	 27251	 27254	 B-Term	 T132	 0	 0
+burnout	 data/source_txt/t4_psychology_2_202.deft	 27255	 27262	 I-Term	 T132	 0	 0
 ,	 data/source_txt/t4_psychology_2_202.deft	 27262	 27263	 O	 -1	 -1	 0
 which	 data/source_txt/t4_psychology_2_202.deft	 27264	 27269	 O	 -1	 -1	 0
 is	 data/source_txt/t4_psychology_2_202.deft	 27270	 27272	 O	 -1	 -1	 0
@@ -4815,11 +4815,11 @@ stress	 data/source_txt/t4_psychology_2_202.deft	 28112	 28118	 O	 -1	 -1	 0
 hormones	 data/source_txt/t4_psychology_2_202.deft	 28119	 28127	 O	 -1	 -1	 0
 released	 data/source_txt/t4_psychology_2_202.deft	 28128	 28136	 O	 -1	 -1	 0
 during	 data/source_txt/t4_psychology_2_202.deft	 28137	 28143	 O	 -1	 -1	 0
-hypothalamic	 data/source_txt/t4_psychology_2_202.deft	 28144	 28156	 B-Term	 T122	 0	 AKA
--	 data/source_txt/t4_psychology_2_202.deft	 28156	 28157	 I-Term	 T122	 0	 AKA
-pituitary	 data/source_txt/t4_psychology_2_202.deft	 28157	 28166	 I-Term	 T122	 0	 AKA
--	 data/source_txt/t4_psychology_2_202.deft	 28166	 28167	 I-Term	 T122	 0	 AKA
-adrenal	 data/source_txt/t4_psychology_2_202.deft	 28167	 28174	 I-Term	 T122	 0	 AKA
+hypothalamic	 data/source_txt/t4_psychology_2_202.deft	 28144	 28156	 B-Term	 T122	 0	 0
+-	 data/source_txt/t4_psychology_2_202.deft	 28156	 28157	 I-Term	 T122	 0	 0
+pituitary	 data/source_txt/t4_psychology_2_202.deft	 28157	 28166	 I-Term	 T122	 0	 0
+-	 data/source_txt/t4_psychology_2_202.deft	 28166	 28167	 I-Term	 T122	 0	 0
+adrenal	 data/source_txt/t4_psychology_2_202.deft	 28167	 28174	 I-Term	 T122	 0	 0
 (	 data/source_txt/t4_psychology_2_202.deft	 28175	 28176	 O	 -1	 -1	 0
 HPA	 data/source_txt/t4_psychology_2_202.deft	 28176	 28179	 B-Alias-Term	 T123	 T122	 AKA
 )	 data/source_txt/t4_psychology_2_202.deft	 28179	 28180	 O	 -1	 -1	 0
@@ -4843,7 +4843,7 @@ inhibiting	 data/source_txt/t4_psychology_2_202.deft	 28270	 28280	 O	 -1	 -1	 0
 the	 data/source_txt/t4_psychology_2_202.deft	 28281	 28284	 O	 -1	 -1	 0
 production	 data/source_txt/t4_psychology_2_202.deft	 28285	 28295	 O	 -1	 -1	 0
 of	 data/source_txt/t4_psychology_2_202.deft	 28296	 28298	 O	 -1	 -1	 0
-lymphocytes	 data/source_txt/t4_psychology_2_202.deft	 28299	 28310	 B-Term	 T134	 0	 Direct-Defines
+lymphocytes	 data/source_txt/t4_psychology_2_202.deft	 28299	 28310	 B-Term	 T134	 0	 0
 ,	 data/source_txt/t4_psychology_2_202.deft	 28310	 28311	 O	 -1	 -1	 0
 white	 data/source_txt/t4_psychology_2_202.deft	 28312	 28317	 B-Definition	 T135	 T134	 Direct-Defines
 blood	 data/source_txt/t4_psychology_2_202.deft	 28318	 28323	 I-Definition	 T135	 T134	 Direct-Defines
@@ -4883,7 +4883,7 @@ for	 data/source_txt/t4_psychology_2_202.deft	 28476	 28479	 O	 -1	 -1	 0
 heart	 data/source_txt/t4_psychology_2_202.deft	 28480	 28485	 O	 -1	 -1	 0
 disease	 data/source_txt/t4_psychology_2_202.deft	 28486	 28493	 O	 -1	 -1	 0
 is	 data/source_txt/t4_psychology_2_202.deft	 28494	 28496	 O	 -1	 -1	 0
-hypertension	 data/source_txt/t4_psychology_2_202.deft	 28497	 28509	 B-Term	 T136	 0	 Direct-Defines
+hypertension	 data/source_txt/t4_psychology_2_202.deft	 28497	 28509	 B-Term	 T136	 0	 0
 ,	 data/source_txt/t4_psychology_2_202.deft	 28509	 28510	 O	 -1	 -1	 0
 which	 data/source_txt/t4_psychology_2_202.deft	 28511	 28516	 O	 -1	 -1	 0
 is	 data/source_txt/t4_psychology_2_202.deft	 28517	 28519	 O	 -1	 -1	 0
@@ -4951,8 +4951,8 @@ Bunde	 data/source_txt/t4_psychology_2_202.deft	 28828	 28833	 O	 -1	 -1	 0
 )	 data/source_txt/t4_psychology_2_202.deft	 28839	 28840	 O	 -1	 -1	 0
 .	 data/source_txt/t4_psychology_2_202.deft	 28840	 28841	 O	 -1	 -1	 0
 
-Negative	 data/source_txt/t4_psychology_2_202.deft	 28850	 28858	 B-Term	 T138	 0	 Direct-Defines
-affectivity	 data/source_txt/t4_psychology_2_202.deft	 28859	 28870	 I-Term	 T138	 0	 Direct-Defines
+Negative	 data/source_txt/t4_psychology_2_202.deft	 28850	 28858	 B-Term	 T138	 0	 0
+affectivity	 data/source_txt/t4_psychology_2_202.deft	 28859	 28870	 I-Term	 T138	 0	 0
 is	 data/source_txt/t4_psychology_2_202.deft	 28871	 28873	 O	 -1	 -1	 0
 a	 data/source_txt/t4_psychology_2_202.deft	 28874	 28875	 B-Definition	 T139	 T138	 Direct-Defines
 tendency	 data/source_txt/t4_psychology_2_202.deft	 28876	 28884	 I-Definition	 T139	 T138	 Direct-Defines
@@ -5028,8 +5028,8 @@ clinical	 data/source_txt/t4_psychology_2_202.deft	 29235	 29243	 O	 -1	 -1	 0
 needs	 data/source_txt/t4_psychology_2_202.deft	 29244	 29249	 O	 -1	 -1	 0
 .	 data/source_txt/t4_psychology_2_202.deft	 29249	 29250	 O	 -1	 -1	 0
 
-An	 data/source_txt/t4_psychology_2_202.deft	 29257	 29259	 B-Term	 T140	 0	 Direct-Defines
-intake	 data/source_txt/t4_psychology_2_202.deft	 29260	 29266	 I-Term	 T140	 0	 Direct-Defines
+An	 data/source_txt/t4_psychology_2_202.deft	 29257	 29259	 B-Term	 T140	 0	 0
+intake	 data/source_txt/t4_psychology_2_202.deft	 29260	 29266	 I-Term	 T140	 0	 0
 is	 data/source_txt/t4_psychology_2_202.deft	 29267	 29269	 O	 -1	 -1	 0
 the	 data/source_txt/t4_psychology_2_202.deft	 29270	 29273	 B-Definition	 T141	 T140	 Direct-Defines
 therapist	 data/source_txt/t4_psychology_2_202.deft	 29274	 29283	 I-Definition	 T141	 T140	 Direct-Defines
@@ -5046,8 +5046,8 @@ client	 data/source_txt/t4_psychology_2_202.deft	 29309	 29315	 I-Definition	 T1
 .	 data/source_txt/t4_psychology_2_202.deft	 29324	 29325	 O	 -1	 -1	 0
 
 In	 data/source_txt/t4_psychology_2_202.deft	 29334	 29336	 O	 -1	 -1	 0
-group	 data/source_txt/t4_psychology_2_202.deft	 29337	 29342	 B-Term	 T142	 0	 Direct-Defines
-therapy	 data/source_txt/t4_psychology_2_202.deft	 29343	 29350	 I-Term	 T142	 0	 Direct-Defines
+group	 data/source_txt/t4_psychology_2_202.deft	 29337	 29342	 B-Term	 T142	 0	 0
+therapy	 data/source_txt/t4_psychology_2_202.deft	 29343	 29350	 I-Term	 T142	 0	 0
 ,	 data/source_txt/t4_psychology_2_202.deft	 29350	 29351	 O	 -1	 -1	 0
 a	 data/source_txt/t4_psychology_2_202.deft	 29352	 29353	 B-Definition	 T143	 T142	 Direct-Defines
 clinician	 data/source_txt/t4_psychology_2_202.deft	 29354	 29363	 I-Definition	 T143	 T142	 Direct-Defines
@@ -5102,9 +5102,9 @@ therapy	 data/source_txt/t4_psychology_2_202.deft	 29602	 29609	 O	 -1	 -1	 0
 .	 data/source_txt/t4_psychology_2_202.deft	 29609	 29610	 O	 -1	 -1	 0
 
 In	 data/source_txt/t4_psychology_2_202.deft	 29619	 29621	 O	 -1	 -1	 0
-structural	 data/source_txt/t4_psychology_2_202.deft	 29622	 29632	 B-Term	 T144	 0	 Direct-Defines
-family	 data/source_txt/t4_psychology_2_202.deft	 29633	 29639	 I-Term	 T144	 0	 Direct-Defines
-therapy	 data/source_txt/t4_psychology_2_202.deft	 29640	 29647	 I-Term	 T144	 0	 Direct-Defines
+structural	 data/source_txt/t4_psychology_2_202.deft	 29622	 29632	 B-Term	 T144	 0	 0
+family	 data/source_txt/t4_psychology_2_202.deft	 29633	 29639	 I-Term	 T144	 0	 0
+therapy	 data/source_txt/t4_psychology_2_202.deft	 29640	 29647	 I-Term	 T144	 0	 0
 ,	 data/source_txt/t4_psychology_2_202.deft	 29647	 29648	 O	 -1	 -1	 0
 the	 data/source_txt/t4_psychology_2_202.deft	 29649	 29652	 B-Definition	 T145	 T144	 Direct-Defines
 therapist	 data/source_txt/t4_psychology_2_202.deft	 29653	 29662	 I-Definition	 T145	 T144	 Direct-Defines
@@ -5203,8 +5203,8 @@ discussed	 data/source_txt/t4_psychology_2_202.deft	 30101	 30110	 O	 -1	 -1	 0
 later	 data/source_txt/t4_psychology_2_202.deft	 30111	 30116	 O	 -1	 -1	 0
 .	 data/source_txt/t4_psychology_2_202.deft	 30116	 30117	 O	 -1	 -1	 0
 
-Biomedical	 data/source_txt/t4_psychology_2_202.deft	 30126	 30136	 B-Term	 T146	 0	 Direct-Defines
-therapy	 data/source_txt/t4_psychology_2_202.deft	 30137	 30144	 I-Term	 T146	 0	 Direct-Defines
+Biomedical	 data/source_txt/t4_psychology_2_202.deft	 30126	 30136	 B-Term	 T146	 0	 0
+therapy	 data/source_txt/t4_psychology_2_202.deft	 30137	 30144	 I-Term	 T146	 0	 0
 involves	 data/source_txt/t4_psychology_2_202.deft	 30145	 30153	 O	 -1	 -1	 0
 medication	 data/source_txt/t4_psychology_2_202.deft	 30154	 30164	 B-Definition	 T147	 T146	 Direct-Defines
 and/or	 data/source_txt/t4_psychology_2_202.deft	 30165	 30171	 I-Definition	 T147	 T146	 Direct-Defines
@@ -5264,8 +5264,8 @@ situations	 data/source_txt/t4_psychology_2_202.deft	 30482	 30492	 O	 -1	 -1	 0
 .	 data/source_txt/t4_psychology_2_202.deft	 30492	 30493	 O	 -1	 -1	 0
 
 In	 data/source_txt/t4_psychology_2_202.deft	 30502	 30504	 O	 -1	 -1	 0
-dream	 data/source_txt/t4_psychology_2_202.deft	 30505	 30510	 B-Term	 T148	 0	 Direct-Defines
-analysis	 data/source_txt/t4_psychology_2_202.deft	 30511	 30519	 I-Term	 T148	 0	 Direct-Defines
+dream	 data/source_txt/t4_psychology_2_202.deft	 30505	 30510	 B-Term	 T148	 0	 0
+analysis	 data/source_txt/t4_psychology_2_202.deft	 30511	 30519	 I-Term	 T148	 0	 0
 ,	 data/source_txt/t4_psychology_2_202.deft	 30519	 30520	 O	 -1	 -1	 0
 a	 data/source_txt/t4_psychology_2_202.deft	 30521	 30522	 B-Definition	 T149	 T148	 Direct-Defines
 therapist	 data/source_txt/t4_psychology_2_202.deft	 30523	 30532	 I-Definition	 T149	 T148	 Direct-Defines
@@ -5281,8 +5281,8 @@ dreams	 data/source_txt/t4_psychology_2_202.deft	 30570	 30576	 I-Definition	 T1
 4166	 data/source_txt/t4_psychology_2_202.deft	 30587	 30591	 O	 -1	 -1	 0
 .	 data/source_txt/t4_psychology_2_202.deft	 30591	 30592	 O	 -1	 -1	 0
 
-Play	 data/source_txt/t4_psychology_2_202.deft	 30601	 30605	 B-Term	 T150	 0	 Refers-To
-therapy	 data/source_txt/t4_psychology_2_202.deft	 30606	 30613	 I-Term	 T150	 0	 Refers-To
+Play	 data/source_txt/t4_psychology_2_202.deft	 30601	 30605	 B-Term	 T150	 0	 0
+therapy	 data/source_txt/t4_psychology_2_202.deft	 30606	 30613	 I-Term	 T150	 0	 0
 is	 data/source_txt/t4_psychology_2_202.deft	 30614	 30616	 O	 -1	 -1	 0
 often	 data/source_txt/t4_psychology_2_202.deft	 30617	 30622	 O	 -1	 -1	 0
 used	 data/source_txt/t4_psychology_2_202.deft	 30623	 30627	 O	 -1	 -1	 0
@@ -5310,8 +5310,8 @@ talk	 data/source_txt/t4_psychology_2_202.deft	 30735	 30739	 O	 -1	 -1	 0
 therapy	 data/source_txt/t4_psychology_2_202.deft	 30740	 30747	 O	 -1	 -1	 0
 .	 data/source_txt/t4_psychology_2_202.deft	 30747	 30748	 O	 -1	 -1	 0
 
-This	 data/source_txt/t4_psychology_2_202.deft	 30755	 30759	 B-Referential-Term	 T151	 0	 Indirect-Defines
-technique	 data/source_txt/t4_psychology_2_202.deft	 30760	 30769	 I-Referential-Term	 T151	 0	 Indirect-Defines
+This	 data/source_txt/t4_psychology_2_202.deft	 30755	 30759	 B-Referential-Term	 T151	 T150	 Refers-To
+technique	 data/source_txt/t4_psychology_2_202.deft	 30760	 30769	 I-Referential-Term	 T151	 T150	 Refers-To
 uses	 data/source_txt/t4_psychology_2_202.deft	 30770	 30774	 O	 -1	 -1	 0
 a	 data/source_txt/t4_psychology_2_202.deft	 30775	 30776	 B-Definition	 T152	 T151	 Indirect-Defines
 therapeutic	 data/source_txt/t4_psychology_2_202.deft	 30777	 30788	 I-Definition	 T152	 T151	 Indirect-Defines
@@ -5354,7 +5354,7 @@ conditioning	 data/source_txt/t4_psychology_2_202.deft	 30964	 30976	 O	 -1	 -1	
 therapeutic	 data/source_txt/t4_psychology_2_202.deft	 30977	 30988	 O	 -1	 -1	 0
 technique	 data/source_txt/t4_psychology_2_202.deft	 30989	 30998	 O	 -1	 -1	 0
 is	 data/source_txt/t4_psychology_2_202.deft	 30999	 31001	 O	 -1	 -1	 0
-counterconditioning	 data/source_txt/t4_psychology_2_202.deft	 31002	 31021	 B-Term	 T153	 0	 Direct-Defines
+counterconditioning	 data/source_txt/t4_psychology_2_202.deft	 31002	 31021	 B-Term	 T153	 0	 0
 :	 data/source_txt/t4_psychology_2_202.deft	 31021	 31022	 O	 -1	 -1	 0
 a	 data/source_txt/t4_psychology_2_202.deft	 31023	 31024	 B-Definition	 T154	 T153	 Direct-Defines
 client	 data/source_txt/t4_psychology_2_202.deft	 31025	 31031	 I-Definition	 T154	 T153	 Direct-Defines
@@ -5425,8 +5425,8 @@ of	 data/source_txt/t4_psychology_2_202.deft	 31392	 31394	 O	 -1	 -1	 0
 exposure	 data/source_txt/t4_psychology_2_202.deft	 31395	 31403	 O	 -1	 -1	 0
 therapy	 data/source_txt/t4_psychology_2_202.deft	 31404	 31411	 O	 -1	 -1	 0
 is	 data/source_txt/t4_psychology_2_202.deft	 31412	 31414	 O	 -1	 -1	 0
-systematic	 data/source_txt/t4_psychology_2_202.deft	 31415	 31425	 B-Term	 T155	 0	 Direct-Defines
-desensitization	 data/source_txt/t4_psychology_2_202.deft	 31426	 31441	 I-Term	 T155	 0	 Direct-Defines
+systematic	 data/source_txt/t4_psychology_2_202.deft	 31415	 31425	 B-Term	 T155	 0	 0
+desensitization	 data/source_txt/t4_psychology_2_202.deft	 31426	 31441	 I-Term	 T155	 0	 0
 ,	 data/source_txt/t4_psychology_2_202.deft	 31441	 31442	 O	 -1	 -1	 0
 wherein	 data/source_txt/t4_psychology_2_202.deft	 31443	 31450	 O	 -1	 -1	 0
 a	 data/source_txt/t4_psychology_2_202.deft	 31451	 31452	 B-Definition	 T156	 T155	 Direct-Defines
@@ -5468,8 +5468,8 @@ time	 data/source_txt/t4_psychology_2_202.deft	 31621	 31625	 O	 -1	 -1	 0
 4175	 data/source_txt/t4_psychology_2_202.deft	 31630	 31634	 O	 -1	 -1	 0
 .	 data/source_txt/t4_psychology_2_202.deft	 31634	 31635	 O	 -1	 -1	 0
 
-Cognitive	 data/source_txt/t4_psychology_2_202.deft	 31644	 31653	 B-Term	 T157	 0	 Direct-Defines
-therapy	 data/source_txt/t4_psychology_2_202.deft	 31654	 31661	 I-Term	 T157	 0	 Direct-Defines
+Cognitive	 data/source_txt/t4_psychology_2_202.deft	 31644	 31653	 B-Term	 T157	 0	 0
+therapy	 data/source_txt/t4_psychology_2_202.deft	 31654	 31661	 I-Term	 T157	 0	 0
 is	 data/source_txt/t4_psychology_2_202.deft	 31662	 31664	 O	 -1	 -1	 0
 a	 data/source_txt/t4_psychology_2_202.deft	 31665	 31666	 B-Definition	 T158	 T157	 Direct-Defines
 form	 data/source_txt/t4_psychology_2_202.deft	 31667	 31671	 I-Definition	 T158	 T157	 Direct-Defines
@@ -5577,10 +5577,10 @@ Therapists	 data/source_txt/t4_psychology_2_202.deft	 32192	 32202	 O	 -1	 -1	 0
 )	 data/source_txt/t4_psychology_2_202.deft	 32208	 32209	 O	 -1	 -1	 0
 .	 data/source_txt/t4_psychology_2_202.deft	 32209	 32210	 O	 -1	 -1	 0
 
-Cognitive	 data/source_txt/t4_psychology_2_202.deft	 32210	 32219	 B-Term	 T161	 0	 AKA
--	 data/source_txt/t4_psychology_2_202.deft	 32219	 32220	 I-Term	 T161	 0	 AKA
-behavioral	 data/source_txt/t4_psychology_2_202.deft	 32220	 32230	 I-Term	 T161	 0	 AKA
-therapy	 data/source_txt/t4_psychology_2_202.deft	 32231	 32238	 I-Term	 T161	 0	 AKA
+Cognitive	 data/source_txt/t4_psychology_2_202.deft	 32210	 32219	 B-Term	 T161	 0	 0
+-	 data/source_txt/t4_psychology_2_202.deft	 32219	 32220	 I-Term	 T161	 0	 0
+behavioral	 data/source_txt/t4_psychology_2_202.deft	 32220	 32230	 I-Term	 T161	 0	 0
+therapy	 data/source_txt/t4_psychology_2_202.deft	 32231	 32238	 I-Term	 T161	 0	 0
 (	 data/source_txt/t4_psychology_2_202.deft	 32239	 32240	 O	 -1	 -1	 0
 CBT	 data/source_txt/t4_psychology_2_202.deft	 32240	 32243	 B-Alias-Term	 T160	 T161	 AKA
 )	 data/source_txt/t4_psychology_2_202.deft	 32243	 32244	 O	 -1	 -1	 0
@@ -5641,8 +5641,8 @@ is	 data/source_txt/t4_psychology_2_202.deft	 32521	 32523	 O	 -1	 -1	 0
 a	 data/source_txt/t4_psychology_2_202.deft	 32524	 32525	 O	 -1	 -1	 0
 form	 data/source_txt/t4_psychology_2_202.deft	 32526	 32530	 O	 -1	 -1	 0
 of	 data/source_txt/t4_psychology_2_202.deft	 32531	 32533	 O	 -1	 -1	 0
-nondirective	 data/source_txt/t4_psychology_2_202.deft	 32534	 32546	 B-Term	 T162	 0	 Direct-Defines
-therapy	 data/source_txt/t4_psychology_2_202.deft	 32547	 32554	 I-Term	 T162	 0	 Direct-Defines
+nondirective	 data/source_txt/t4_psychology_2_202.deft	 32534	 32546	 B-Term	 T162	 0	 0
+therapy	 data/source_txt/t4_psychology_2_202.deft	 32547	 32554	 I-Term	 T162	 0	 0
 ,	 data/source_txt/t4_psychology_2_202.deft	 32554	 32555	 O	 -1	 -1	 0
 a	 data/source_txt/t4_psychology_2_202.deft	 32556	 32557	 B-Definition	 T163	 T162	 Direct-Defines
 therapeutic	 data/source_txt/t4_psychology_2_202.deft	 32558	 32569	 I-Definition	 T163	 T162	 Direct-Defines
@@ -5710,8 +5710,8 @@ although	 data/source_txt/t4_psychology_2_202.deft	 32921	 32929	 O	 -1	 -1	 0
 infrequently	 data/source_txt/t4_psychology_2_202.deft	 32930	 32942	 O	 -1	 -1	 0
 ,	 data/source_txt/t4_psychology_2_202.deft	 32942	 32943	 O	 -1	 -1	 0
 is	 data/source_txt/t4_psychology_2_202.deft	 32944	 32946	 O	 -1	 -1	 0
-electroconvulsive	 data/source_txt/t4_psychology_2_202.deft	 32947	 32964	 B-Term	 T165	 0	 AKA
-therapy	 data/source_txt/t4_psychology_2_202.deft	 32965	 32972	 I-Term	 T165	 0	 AKA
+electroconvulsive	 data/source_txt/t4_psychology_2_202.deft	 32947	 32964	 B-Term	 T165	 0	 0
+therapy	 data/source_txt/t4_psychology_2_202.deft	 32965	 32972	 I-Term	 T165	 0	 0
 (	 data/source_txt/t4_psychology_2_202.deft	 32973	 32974	 O	 -1	 -1	 0
 ECT	 data/source_txt/t4_psychology_2_202.deft	 32974	 32977	 B-Alias-Term	 T164	 T165	 AKA
 )	 data/source_txt/t4_psychology_2_202.deft	 32977	 32978	 O	 -1	 -1	 0
@@ -5728,7 +5728,7 @@ therapy	 data/source_txt/t4_psychology_2_202.deft	 33036	 33043	 I-Alias-Term	 T
 )	 data/source_txt/t4_psychology_2_202.deft	 33043	 33044	 O	 -1	 -1	 0
 .	 data/source_txt/t4_psychology_2_202.deft	 33044	 33045	 O	 -1	 -1	 0
 
-It	 data/source_txt/t4_psychology_2_202.deft	 33052	 33054	 B-Referential-Term	 T167	 0	 Indirect-Defines
+It	 data/source_txt/t4_psychology_2_202.deft	 33052	 33054	 B-Referential-Term	 T167	 T165	 Refers-To
 involves	 data/source_txt/t4_psychology_2_202.deft	 33055	 33063	 O	 -1	 -1	 0
 using	 data/source_txt/t4_psychology_2_202.deft	 33064	 33069	 B-Definition	 T168	 T167	 Indirect-Defines
 an	 data/source_txt/t4_psychology_2_202.deft	 33070	 33072	 I-Definition	 T168	 T167	 Indirect-Defines
@@ -5857,8 +5857,8 @@ later	 data/source_txt/t4_psychology_2_202.deft	 33710	 33715	 O	 -1	 -1	 0
 shocks	 data/source_txt/t4_psychology_2_202.deft	 33716	 33722	 O	 -1	 -1	 0
 were	 data/source_txt/t4_psychology_2_202.deft	 33723	 33727	 O	 -1	 -1	 0
 demonstrating	 data/source_txt/t4_psychology_2_202.deft	 33728	 33741	 O	 -1	 -1	 0
-learned	 data/source_txt/t4_psychology_2_202.deft	 33742	 33749	 B-Term	 T169	 0	 Direct-Defines
-helplessness	 data/source_txt/t4_psychology_2_202.deft	 33750	 33762	 I-Term	 T169	 0	 Direct-Defines
+learned	 data/source_txt/t4_psychology_2_202.deft	 33742	 33749	 B-Term	 T169	 0	 0
+helplessness	 data/source_txt/t4_psychology_2_202.deft	 33750	 33762	 I-Term	 T169	 0	 0
 :	 data/source_txt/t4_psychology_2_202.deft	 33762	 33763	 O	 -1	 -1	 0
 They	 data/source_txt/t4_psychology_2_202.deft	 33764	 33768	 O	 -1	 -1	 0
 had	 data/source_txt/t4_psychology_2_202.deft	 33769	 33772	 O	 -1	 -1	 0
@@ -6068,10 +6068,10 @@ Greenberg	 data/source_txt/t4_psychology_2_202.deft	 34907	 34916	 O	 -1	 -1	 0
 )	 data/source_txt/t4_psychology_2_202.deft	 34922	 34923	 O	 -1	 -1	 0
 .	 data/source_txt/t4_psychology_2_202.deft	 34923	 34924	 O	 -1	 -1	 0
 
-The	 data/source_txt/t4_psychology_2_202.deft	 34933	 34936	 B-Term	 T171	 0	 Direct-Defines
-relaxation	 data/source_txt/t4_psychology_2_202.deft	 34937	 34947	 I-Term	 T171	 0	 Direct-Defines
-response	 data/source_txt/t4_psychology_2_202.deft	 34948	 34956	 I-Term	 T171	 0	 Direct-Defines
-technique	 data/source_txt/t4_psychology_2_202.deft	 34957	 34966	 I-Term	 T171	 0	 Direct-Defines
+The	 data/source_txt/t4_psychology_2_202.deft	 34933	 34936	 B-Term	 T171	 0	 0
+relaxation	 data/source_txt/t4_psychology_2_202.deft	 34937	 34947	 I-Term	 T171	 0	 0
+response	 data/source_txt/t4_psychology_2_202.deft	 34948	 34956	 I-Term	 T171	 0	 0
+technique	 data/source_txt/t4_psychology_2_202.deft	 34957	 34966	 I-Term	 T171	 0	 0
 combines	 data/source_txt/t4_psychology_2_202.deft	 34967	 34975	 B-Definition	 T172	 T171	 Direct-Defines
 relaxation	 data/source_txt/t4_psychology_2_202.deft	 34976	 34986	 I-Definition	 T172	 T171	 Direct-Defines
 with	 data/source_txt/t4_psychology_2_202.deft	 34987	 34991	 I-Definition	 T172	 T171	 Direct-Defines
@@ -6102,7 +6102,7 @@ a	 data/source_txt/t4_psychology_2_202.deft	 35113	 35114	 O	 -1	 -1	 0
 precise	 data/source_txt/t4_psychology_2_202.deft	 35115	 35122	 O	 -1	 -1	 0
 definition	 data/source_txt/t4_psychology_2_202.deft	 35123	 35133	 O	 -1	 -1	 0
 of	 data/source_txt/t4_psychology_2_202.deft	 35134	 35136	 O	 -1	 -1	 0
-happiness	 data/source_txt/t4_psychology_2_202.deft	 35137	 35146	 B-Term	 T173	 0	 Direct-Defines
+happiness	 data/source_txt/t4_psychology_2_202.deft	 35137	 35146	 B-Term	 T173	 0	 0
 might	 data/source_txt/t4_psychology_2_202.deft	 35147	 35152	 O	 -1	 -1	 0
 incorporate	 data/source_txt/t4_psychology_2_202.deft	 35153	 35164	 O	 -1	 -1	 0
 each	 data/source_txt/t4_psychology_2_202.deft	 35165	 35169	 O	 -1	 -1	 0
@@ -6227,8 +6227,8 @@ very	 data/source_txt/t4_psychology_2_202.deft	 35773	 35777	 O	 -1	 -1	 0
 general	 data/source_txt/t4_psychology_2_202.deft	 35778	 35785	 O	 -1	 -1	 0
 sense	 data/source_txt/t4_psychology_2_202.deft	 35786	 35791	 O	 -1	 -1	 0
 ,	 data/source_txt/t4_psychology_2_202.deft	 35791	 35792	 O	 -1	 -1	 0
-positive	 data/source_txt/t4_psychology_2_202.deft	 35793	 35801	 B-Term	 T175	 0	 Direct-Defines
-psychology	 data/source_txt/t4_psychology_2_202.deft	 35802	 35812	 I-Term	 T175	 0	 Direct-Defines
+positive	 data/source_txt/t4_psychology_2_202.deft	 35793	 35801	 B-Term	 T175	 0	 0
+psychology	 data/source_txt/t4_psychology_2_202.deft	 35802	 35812	 I-Term	 T175	 0	 0
 can	 data/source_txt/t4_psychology_2_202.deft	 35813	 35816	 B-Definition	 T176	 T175	 Direct-Defines
 be	 data/source_txt/t4_psychology_2_202.deft	 35817	 35819	 I-Definition	 T176	 T175	 Direct-Defines
 thought	 data/source_txt/t4_psychology_2_202.deft	 35820	 35827	 I-Definition	 T176	 T175	 Direct-Defines
@@ -6333,7 +6333,7 @@ in	 data/source_txt/t4_psychology_2_202.deft	 36305	 36307	 O	 -1	 -1	 0
 life	 data/source_txt/t4_psychology_2_202.deft	 36308	 36312	 O	 -1	 -1	 0
 .	 data/source_txt/t4_psychology_2_202.deft	 36312	 36313	 O	 -1	 -1	 0
 
-Flow	 data/source_txt/t4_psychology_2_202.deft	 36322	 36326	 B-Term	 T177	 0	 Direct-Defines
+Flow	 data/source_txt/t4_psychology_2_202.deft	 36322	 36326	 B-Term	 T177	 0	 0
 is	 data/source_txt/t4_psychology_2_202.deft	 36327	 36329	 O	 -1	 -1	 0
 described	 data/source_txt/t4_psychology_2_202.deft	 36330	 36339	 O	 -1	 -1	 0
 as	 data/source_txt/t4_psychology_2_202.deft	 36340	 36342	 O	 -1	 -1	 0
@@ -6473,8 +6473,8 @@ seek	 data/source_txt/t4_psychology_2_202.deft	 37029	 37033	 O	 -1	 -1	 0
 treatment	 data/source_txt/t4_psychology_2_202.deft	 37034	 37043	 O	 -1	 -1	 0
 .	 data/source_txt/t4_psychology_2_202.deft	 37043	 37044	 O	 -1	 -1	 0
 
-Voluntary	 data/source_txt/t4_psychology_2_202.deft	 37053	 37062	 B-Term	 T179	 0	 Direct-Defines
-treatment	 data/source_txt/t4_psychology_2_202.deft	 37063	 37072	 I-Term	 T179	 0	 Direct-Defines
+Voluntary	 data/source_txt/t4_psychology_2_202.deft	 37053	 37062	 B-Term	 T179	 0	 0
+treatment	 data/source_txt/t4_psychology_2_202.deft	 37063	 37072	 I-Term	 T179	 0	 0
 means	 data/source_txt/t4_psychology_2_202.deft	 37073	 37078	 O	 -1	 -1	 0
 the	 data/source_txt/t4_psychology_2_202.deft	 37079	 37082	 B-Definition	 T180	 T179	 Direct-Defines
 person	 data/source_txt/t4_psychology_2_202.deft	 37083	 37089	 I-Definition	 T180	 T179	 Direct-Defines
@@ -6498,8 +6498,8 @@ called	 data/source_txt/t4_psychology_2_202.deft	 37166	 37172	 O	 -1	 -1	 0
 this	 data/source_txt/t4_psychology_2_202.deft	 37173	 37177	 O	 -1	 -1	 0
 condition	 data/source_txt/t4_psychology_2_202.deft	 37178	 37187	 O	 -1	 -1	 0
 early	 data/source_txt/t4_psychology_2_202.deft	 37188	 37193	 O	 -1	 -1	 0
-infantile	 data/source_txt/t4_psychology_2_202.deft	 37194	 37203	 B-Term	 T181	 0	 Direct-Defines
-autism	 data/source_txt/t4_psychology_2_202.deft	 37204	 37210	 I-Term	 T181	 0	 Direct-Defines
+infantile	 data/source_txt/t4_psychology_2_202.deft	 37194	 37203	 B-Term	 T181	 0	 0
+autism	 data/source_txt/t4_psychology_2_202.deft	 37204	 37210	 I-Term	 T181	 0	 0
 ,	 data/source_txt/t4_psychology_2_202.deft	 37210	 37211	 O	 -1	 -1	 0
 and	 data/source_txt/t4_psychology_2_202.deft	 37212	 37215	 O	 -1	 -1	 0
 it	 data/source_txt/t4_psychology_2_202.deft	 37216	 37218	 O	 -1	 -1	 0
@@ -6570,8 +6570,8 @@ work	 data/source_txt/t4_psychology_2_202.deft	 37556	 37560	 O	 -1	 -1	 0
 4217	 data/source_txt/t4_psychology_2_202.deft	 37571	 37575	 O	 -1	 -1	 0
 .	 data/source_txt/t4_psychology_2_202.deft	 37575	 37576	 O	 -1	 -1	 0
 
-Dissociative	 data/source_txt/t4_psychology_2_202.deft	 37586	 37598	 B-Term	 T183	 0	 Direct-Defines
-disorders	 data/source_txt/t4_psychology_2_202.deft	 37599	 37608	 I-Term	 T183	 0	 Direct-Defines
+Dissociative	 data/source_txt/t4_psychology_2_202.deft	 37586	 37598	 B-Term	 T183	 0	 0
+disorders	 data/source_txt/t4_psychology_2_202.deft	 37599	 37608	 I-Term	 T183	 0	 0
 are	 data/source_txt/t4_psychology_2_202.deft	 37609	 37612	 O	 -1	 -1	 0
 characterized	 data/source_txt/t4_psychology_2_202.deft	 37613	 37626	 B-Definition	 T184	 T183	 Direct-Defines
 by	 data/source_txt/t4_psychology_2_202.deft	 37627	 37629	 I-Definition	 T184	 T183	 Direct-Defines

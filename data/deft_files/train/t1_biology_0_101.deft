@@ -22,9 +22,9 @@ light	 data/source_txt/t1_biology_0_101.deft	 115	 120	 I-Definition	 T2	 T1	 Di
 ,	 data/source_txt/t1_biology_0_101.deft	 120	 121	 O	 -1	 -1	 0
 which	 data/source_txt/t1_biology_0_101.deft	 122	 127	 O	 -1	 -1	 0
 is	 data/source_txt/t1_biology_0_101.deft	 128	 130	 O	 -1	 -1	 0
-the	 data/source_txt/t1_biology_0_101.deft	 131	 134	 B-Term	 T1	 0	 Direct-Defines
-absorption	 data/source_txt/t1_biology_0_101.deft	 135	 145	 I-Term	 T1	 0	 Direct-Defines
-spectrum	 data/source_txt/t1_biology_0_101.deft	 146	 154	 I-Term	 T1	 0	 Direct-Defines
+the	 data/source_txt/t1_biology_0_101.deft	 131	 134	 B-Term	 T1	 0	 0
+absorption	 data/source_txt/t1_biology_0_101.deft	 135	 145	 I-Term	 T1	 0	 0
+spectrum	 data/source_txt/t1_biology_0_101.deft	 146	 154	 I-Term	 T1	 0	 0
 .	 data/source_txt/t1_biology_0_101.deft	 154	 155	 O	 -1	 -1	 0
 
 The	 data/source_txt/t1_biology_0_101.deft	 162	 165	 O	 -1	 -1	 0
@@ -51,9 +51,9 @@ of	 data/source_txt/t1_biology_0_101.deft	 256	 258	 I-Definition	 T3	 T296	 Dir
 carotenoid	 data/source_txt/t1_biology_0_101.deft	 259	 269	 I-Definition	 T3	 T296	 Direct-Defines
 pigment	 data/source_txt/t1_biology_0_101.deft	 270	 277	 I-Definition	 T3	 T296	 Direct-Defines
 called	 data/source_txt/t1_biology_0_101.deft	 278	 284	 O	 -1	 -1	 0
-β	 data/source_txt/t1_biology_0_101.deft	 285	 286	 B-Term	 T296	 0	 Direct-Defines
--	 data/source_txt/t1_biology_0_101.deft	 286	 287	 I-Term	 T296	 0	 Direct-Defines
-carotene	 data/source_txt/t1_biology_0_101.deft	 287	 295	 I-Term	 T296	 0	 Direct-Defines
+β	 data/source_txt/t1_biology_0_101.deft	 285	 286	 B-Term	 T296	 0	 0
+-	 data/source_txt/t1_biology_0_101.deft	 286	 287	 I-Term	 T296	 0	 0
+carotene	 data/source_txt/t1_biology_0_101.deft	 287	 295	 I-Term	 T296	 0	 0
 (	 data/source_txt/t1_biology_0_101.deft	 296	 297	 O	 -1	 -1	 0
 which	 data/source_txt/t1_biology_0_101.deft	 297	 302	 O	 -1	 -1	 0
 absorbs	 data/source_txt/t1_biology_0_101.deft	 303	 310	 B-Definition-frag	 T3-frag	 T3	 fragment
@@ -104,11 +104,11 @@ photosystem	 data/source_txt/t1_biology_0_101.deft	 551	 562	 O	 -1	 -1	 0
 is	 data/source_txt/t1_biology_0_101.deft	 563	 565	 O	 -1	 -1	 0
 serviced	 data/source_txt/t1_biology_0_101.deft	 566	 574	 O	 -1	 -1	 0
 by	 data/source_txt/t1_biology_0_101.deft	 575	 577	 O	 -1	 -1	 0
-the	 data/source_txt/t1_biology_0_101.deft	 578	 581	 B-Term	 T4	 0	 Direct-Defines
-light	 data/source_txt/t1_biology_0_101.deft	 582	 587	 I-Term	 T4	 0	 Direct-Defines
--	 data/source_txt/t1_biology_0_101.deft	 587	 588	 I-Term	 T4	 0	 Direct-Defines
-harvesting	 data/source_txt/t1_biology_0_101.deft	 588	 598	 I-Term	 T4	 0	 Direct-Defines
-complex	 data/source_txt/t1_biology_0_101.deft	 599	 606	 I-Term	 T4	 0	 Direct-Defines
+the	 data/source_txt/t1_biology_0_101.deft	 578	 581	 B-Term	 T4	 0	 0
+light	 data/source_txt/t1_biology_0_101.deft	 582	 587	 I-Term	 T4	 0	 0
+-	 data/source_txt/t1_biology_0_101.deft	 587	 588	 I-Term	 T4	 0	 0
+harvesting	 data/source_txt/t1_biology_0_101.deft	 588	 598	 I-Term	 T4	 0	 0
+complex	 data/source_txt/t1_biology_0_101.deft	 599	 606	 I-Term	 T4	 0	 0
 ,	 data/source_txt/t1_biology_0_101.deft	 606	 607	 O	 -1	 -1	 0
 which	 data/source_txt/t1_biology_0_101.deft	 608	 613	 O	 -1	 -1	 0
 passes	 data/source_txt/t1_biology_0_101.deft	 614	 620	 B-Definition	 T5	 T4	 Direct-Defines
@@ -261,13 +261,13 @@ energy	 data/source_txt/t1_biology_0_101.deft	 1365	 1371	 O	 -1	 -1	 0
 is	 data/source_txt/t1_biology_0_101.deft	 1372	 1374	 O	 -1	 -1	 0
 relayed	 data/source_txt/t1_biology_0_101.deft	 1375	 1382	 O	 -1	 -1	 0
 to	 data/source_txt/t1_biology_0_101.deft	 1383	 1385	 O	 -1	 -1	 0
-the	 data/source_txt/t1_biology_0_101.deft	 1386	 1389	 B-Definition	 T6	 0	 Supplements
-PSI	 data/source_txt/t1_biology_0_101.deft	 1390	 1393	 I-Definition	 T6	 0	 Supplements
-reaction	 data/source_txt/t1_biology_0_101.deft	 1394	 1402	 I-Definition	 T6	 0	 Supplements
-center	 data/source_txt/t1_biology_0_101.deft	 1403	 1409	 I-Definition	 T6	 0	 Supplements
+the	 data/source_txt/t1_biology_0_101.deft	 1386	 1389	 B-Definition	 T6	 T7	 Direct-Defines
+PSI	 data/source_txt/t1_biology_0_101.deft	 1390	 1393	 I-Definition	 T6	 T7	 Direct-Defines
+reaction	 data/source_txt/t1_biology_0_101.deft	 1394	 1402	 I-Definition	 T6	 T7	 Direct-Defines
+center	 data/source_txt/t1_biology_0_101.deft	 1403	 1409	 I-Definition	 T6	 T7	 Direct-Defines
 (	 data/source_txt/t1_biology_0_101.deft	 1410	 1411	 O	 -1	 -1	 0
 called	 data/source_txt/t1_biology_0_101.deft	 1411	 1417	 O	 -1	 -1	 0
-P700	 data/source_txt/t1_biology_0_101.deft	 1418	 1422	 B-Term	 T7	 0	 Direct-Defines
+P700	 data/source_txt/t1_biology_0_101.deft	 1418	 1422	 B-Term	 T7	 0	 0
 )	 data/source_txt/t1_biology_0_101.deft	 1422	 1423	 O	 -1	 -1	 0
 .	 data/source_txt/t1_biology_0_101.deft	 1423	 1424	 O	 -1	 -1	 0
 
@@ -310,8 +310,8 @@ by	 data/source_txt/t1_biology_0_101.deft	 1584	 1586	 O	 -1	 -1	 0
 
 Recall	 data/source_txt/t1_biology_0_101.deft	 1602	 1608	 O	 -1	 -1	 0
 that	 data/source_txt/t1_biology_0_101.deft	 1609	 1613	 O	 -1	 -1	 0
-a	 data/source_txt/t1_biology_0_101.deft	 1614	 1615	 B-Term	 T9	 0	 Direct-Defines
-reduction	 data/source_txt/t1_biology_0_101.deft	 1616	 1625	 I-Term	 T9	 0	 Direct-Defines
+a	 data/source_txt/t1_biology_0_101.deft	 1614	 1615	 B-Term	 T9	 0	 0
+reduction	 data/source_txt/t1_biology_0_101.deft	 1616	 1625	 I-Term	 T9	 0	 0
 is	 data/source_txt/t1_biology_0_101.deft	 1626	 1628	 O	 -1	 -1	 0
 the	 data/source_txt/t1_biology_0_101.deft	 1629	 1632	 B-Definition	 T10	 T9	 Direct-Defines
 gain	 data/source_txt/t1_biology_0_101.deft	 1633	 1637	 I-Definition	 T10	 T9	 Direct-Defines
@@ -409,8 +409,8 @@ called	 data/source_txt/t1_biology_0_101.deft	 2074	 2080	 O	 -1	 -1	 0
 ligands	 data/source_txt/t1_biology_0_101.deft	 2081	 2088	 O	 -1	 -1	 0
 .	 data/source_txt/t1_biology_0_101.deft	 2088	 2089	 O	 -1	 -1	 0
 
-A	 data/source_txt/t1_biology_0_101.deft	 2098	 2099	 B-Term	 T15	 0	 Direct-Defines
-ligand	 data/source_txt/t1_biology_0_101.deft	 2100	 2106	 I-Term	 T15	 0	 Direct-Defines
+A	 data/source_txt/t1_biology_0_101.deft	 2098	 2099	 B-Term	 T15	 0	 0
+ligand	 data/source_txt/t1_biology_0_101.deft	 2100	 2106	 I-Term	 T15	 0	 0
 is	 data/source_txt/t1_biology_0_101.deft	 2107	 2109	 O	 -1	 -1	 0
 a	 data/source_txt/t1_biology_0_101.deft	 2110	 2111	 B-Definition	 T16	 T15	 Direct-Defines
 molecule	 data/source_txt/t1_biology_0_101.deft	 2112	 2120	 I-Definition	 T16	 T15	 Direct-Defines
@@ -458,13 +458,13 @@ transmission	 data/source_txt/t1_biology_0_101.deft	 2325	 2337	 I-Definition	 T
 occurs	 data/source_txt/t1_biology_0_101.deft	 2338	 2344	 I-Definition	 T18	 T17	 Direct-Defines
 is	 data/source_txt/t1_biology_0_101.deft	 2345	 2347	 O	 -1	 -1	 0
 called	 data/source_txt/t1_biology_0_101.deft	 2348	 2354	 O	 -1	 -1	 0
-a	 data/source_txt/t1_biology_0_101.deft	 2355	 2356	 B-Term	 T17	 0	 Direct-Defines
-synapse	 data/source_txt/t1_biology_0_101.deft	 2357	 2364	 I-Term	 T17	 0	 Direct-Defines
+a	 data/source_txt/t1_biology_0_101.deft	 2355	 2356	 B-Term	 T17	 0	 0
+synapse	 data/source_txt/t1_biology_0_101.deft	 2357	 2364	 I-Term	 T17	 0	 0
 .	 data/source_txt/t1_biology_0_101.deft	 2364	 2365	 O	 -1	 -1	 0
 
-A	 data/source_txt/t1_biology_0_101.deft	 2374	 2375	 B-Term	 T19	 0	 Direct-Defines
-synaptic	 data/source_txt/t1_biology_0_101.deft	 2376	 2384	 I-Term	 T19	 0	 Direct-Defines
-signal	 data/source_txt/t1_biology_0_101.deft	 2385	 2391	 I-Term	 T19	 0	 Direct-Defines
+A	 data/source_txt/t1_biology_0_101.deft	 2374	 2375	 B-Term	 T19	 0	 0
+synaptic	 data/source_txt/t1_biology_0_101.deft	 2376	 2384	 I-Term	 T19	 0	 0
+signal	 data/source_txt/t1_biology_0_101.deft	 2385	 2391	 I-Term	 T19	 0	 0
 is	 data/source_txt/t1_biology_0_101.deft	 2392	 2394	 O	 -1	 -1	 0
 a	 data/source_txt/t1_biology_0_101.deft	 2395	 2396	 B-Definition	 T20	 T19	 Direct-Defines
 chemical	 data/source_txt/t1_biology_0_101.deft	 2397	 2405	 I-Definition	 T20	 T19	 Direct-Defines
@@ -495,14 +495,14 @@ impulses	 data/source_txt/t1_biology_0_101.deft	 2525	 2533	 O	 -1	 -1	 0
 326	 data/source_txt/t1_biology_0_101.deft	 2538	 2541	 O	 -1	 -1	 0
 .	 data/source_txt/t1_biology_0_101.deft	 2541	 2542	 O	 -1	 -1	 0
 
-Signals	 data/source_txt/t1_biology_0_101.deft	 2551	 2558	 B-Definition	 T22	 0	 Supplements
-from	 data/source_txt/t1_biology_0_101.deft	 2559	 2563	 I-Definition	 T22	 0	 Supplements
-distant	 data/source_txt/t1_biology_0_101.deft	 2564	 2571	 I-Definition	 T22	 0	 Supplements
-cells	 data/source_txt/t1_biology_0_101.deft	 2572	 2577	 I-Definition	 T22	 0	 Supplements
+Signals	 data/source_txt/t1_biology_0_101.deft	 2551	 2558	 B-Definition	 T22	 T21	 Direct-Defines
+from	 data/source_txt/t1_biology_0_101.deft	 2559	 2563	 I-Definition	 T22	 T21	 Direct-Defines
+distant	 data/source_txt/t1_biology_0_101.deft	 2564	 2571	 I-Definition	 T22	 T21	 Direct-Defines
+cells	 data/source_txt/t1_biology_0_101.deft	 2572	 2577	 I-Definition	 T22	 T21	 Direct-Defines
 are	 data/source_txt/t1_biology_0_101.deft	 2578	 2581	 O	 -1	 -1	 0
 called	 data/source_txt/t1_biology_0_101.deft	 2582	 2588	 O	 -1	 -1	 0
-endocrine	 data/source_txt/t1_biology_0_101.deft	 2589	 2598	 B-Term	 T21	 0	 Direct-Defines
-signals	 data/source_txt/t1_biology_0_101.deft	 2599	 2606	 I-Term	 T21	 0	 Direct-Defines
+endocrine	 data/source_txt/t1_biology_0_101.deft	 2589	 2598	 B-Term	 T21	 0	 0
+signals	 data/source_txt/t1_biology_0_101.deft	 2599	 2606	 I-Term	 T21	 0	 0
 ,	 data/source_txt/t1_biology_0_101.deft	 2606	 2607	 O	 -1	 -1	 0
 and	 data/source_txt/t1_biology_0_101.deft	 2608	 2611	 O	 -1	 -1	 0
 they	 data/source_txt/t1_biology_0_101.deft	 2612	 2616	 B-Secondary-Definition	 T23	 T22	 Supplements
@@ -546,8 +546,8 @@ gland	 data/source_txt/t1_biology_0_101.deft	 2786	 2791	 O	 -1	 -1	 0
 329	 data/source_txt/t1_biology_0_101.deft	 2797	 2800	 O	 -1	 -1	 0
 .	 data/source_txt/t1_biology_0_101.deft	 2800	 2801	 O	 -1	 -1	 0
 
-Internal	 data/source_txt/t1_biology_0_101.deft	 2810	 2818	 B-Term	 T24	 0	 Direct-Defines
-receptors	 data/source_txt/t1_biology_0_101.deft	 2819	 2828	 I-Term	 T24	 0	 Direct-Defines
+Internal	 data/source_txt/t1_biology_0_101.deft	 2810	 2818	 B-Term	 T24	 0	 0
+receptors	 data/source_txt/t1_biology_0_101.deft	 2819	 2828	 I-Term	 T24	 0	 0
 ,	 data/source_txt/t1_biology_0_101.deft	 2828	 2829	 O	 -1	 -1	 0
 also	 data/source_txt/t1_biology_0_101.deft	 2830	 2834	 O	 -1	 -1	 0
 known	 data/source_txt/t1_biology_0_101.deft	 2835	 2840	 O	 -1	 -1	 0
@@ -614,11 +614,11 @@ expression	 data/source_txt/t1_biology_0_101.deft	 3161	 3171	 O	 -1	 -1	 0
 332	 data/source_txt/t1_biology_0_101.deft	 3176	 3179	 O	 -1	 -1	 0
 .	 data/source_txt/t1_biology_0_101.deft	 3179	 3180	 O	 -1	 -1	 0
 
-Ion	 data/source_txt/t1_biology_0_101.deft	 3189	 3192	 B-Term	 T27	 0	 Direct-Defines
-channel	 data/source_txt/t1_biology_0_101.deft	 3193	 3200	 I-Term	 T27	 0	 Direct-Defines
--	 data/source_txt/t1_biology_0_101.deft	 3200	 3201	 I-Term	 T27	 0	 Direct-Defines
-linked	 data/source_txt/t1_biology_0_101.deft	 3201	 3207	 I-Term	 T27	 0	 Direct-Defines
-receptors	 data/source_txt/t1_biology_0_101.deft	 3208	 3217	 I-Term	 T27	 0	 Direct-Defines
+Ion	 data/source_txt/t1_biology_0_101.deft	 3189	 3192	 B-Term	 T27	 0	 0
+channel	 data/source_txt/t1_biology_0_101.deft	 3193	 3200	 I-Term	 T27	 0	 0
+-	 data/source_txt/t1_biology_0_101.deft	 3200	 3201	 I-Term	 T27	 0	 0
+linked	 data/source_txt/t1_biology_0_101.deft	 3201	 3207	 I-Term	 T27	 0	 0
+receptors	 data/source_txt/t1_biology_0_101.deft	 3208	 3217	 I-Term	 T27	 0	 0
 bind	 data/source_txt/t1_biology_0_101.deft	 3218	 3222	 B-Definition	 T28	 T27	 Direct-Defines
 a	 data/source_txt/t1_biology_0_101.deft	 3223	 3224	 I-Definition	 T28	 T27	 Direct-Defines
 ligand	 data/source_txt/t1_biology_0_101.deft	 3225	 3231	 I-Definition	 T28	 T27	 Direct-Defines
@@ -663,25 +663,25 @@ region	 data/source_txt/t1_biology_0_101.deft	 3410	 3416	 O	 -1	 -1	 0
 335	 data/source_txt/t1_biology_0_101.deft	 3421	 3424	 O	 -1	 -1	 0
 .	 data/source_txt/t1_biology_0_101.deft	 3424	 3425	 O	 -1	 -1	 0
 
-Once	 data/source_txt/t1_biology_0_101.deft	 3426	 3430	 B-Definition	 T30	 0	 Supplements
-a	 data/source_txt/t1_biology_0_101.deft	 3431	 3432	 I-Definition	 T30	 0	 Supplements
-ligand	 data/source_txt/t1_biology_0_101.deft	 3433	 3439	 I-Definition	 T30	 0	 Supplements
-binds	 data/source_txt/t1_biology_0_101.deft	 3440	 3445	 I-Definition	 T30	 0	 Supplements
-to	 data/source_txt/t1_biology_0_101.deft	 3446	 3448	 I-Definition	 T30	 0	 Supplements
-a	 data/source_txt/t1_biology_0_101.deft	 3449	 3450	 I-Definition	 T30	 0	 Supplements
-receptor	 data/source_txt/t1_biology_0_101.deft	 3451	 3459	 I-Definition	 T30	 0	 Supplements
-,	 data/source_txt/t1_biology_0_101.deft	 3459	 3460	 I-Definition	 T30	 0	 Supplements
-the	 data/source_txt/t1_biology_0_101.deft	 3461	 3464	 I-Definition	 T30	 0	 Supplements
-signal	 data/source_txt/t1_biology_0_101.deft	 3465	 3471	 I-Definition	 T30	 0	 Supplements
-is	 data/source_txt/t1_biology_0_101.deft	 3472	 3474	 I-Definition	 T30	 0	 Supplements
-transmitted	 data/source_txt/t1_biology_0_101.deft	 3475	 3486	 I-Definition	 T30	 0	 Supplements
-through	 data/source_txt/t1_biology_0_101.deft	 3487	 3494	 I-Definition	 T30	 0	 Supplements
-the	 data/source_txt/t1_biology_0_101.deft	 3495	 3498	 I-Definition	 T30	 0	 Supplements
-membrane	 data/source_txt/t1_biology_0_101.deft	 3499	 3507	 I-Definition	 T30	 0	 Supplements
-and	 data/source_txt/t1_biology_0_101.deft	 3508	 3511	 I-Definition	 T30	 0	 Supplements
-into	 data/source_txt/t1_biology_0_101.deft	 3512	 3516	 I-Definition	 T30	 0	 Supplements
-the	 data/source_txt/t1_biology_0_101.deft	 3517	 3520	 I-Definition	 T30	 0	 Supplements
-cytoplasm	 data/source_txt/t1_biology_0_101.deft	 3521	 3530	 I-Definition	 T30	 0	 Supplements
+Once	 data/source_txt/t1_biology_0_101.deft	 3426	 3430	 B-Definition	 T30	 T29	 Direct-Defines
+a	 data/source_txt/t1_biology_0_101.deft	 3431	 3432	 I-Definition	 T30	 T29	 Direct-Defines
+ligand	 data/source_txt/t1_biology_0_101.deft	 3433	 3439	 I-Definition	 T30	 T29	 Direct-Defines
+binds	 data/source_txt/t1_biology_0_101.deft	 3440	 3445	 I-Definition	 T30	 T29	 Direct-Defines
+to	 data/source_txt/t1_biology_0_101.deft	 3446	 3448	 I-Definition	 T30	 T29	 Direct-Defines
+a	 data/source_txt/t1_biology_0_101.deft	 3449	 3450	 I-Definition	 T30	 T29	 Direct-Defines
+receptor	 data/source_txt/t1_biology_0_101.deft	 3451	 3459	 I-Definition	 T30	 T29	 Direct-Defines
+,	 data/source_txt/t1_biology_0_101.deft	 3459	 3460	 I-Definition	 T30	 T29	 Direct-Defines
+the	 data/source_txt/t1_biology_0_101.deft	 3461	 3464	 I-Definition	 T30	 T29	 Direct-Defines
+signal	 data/source_txt/t1_biology_0_101.deft	 3465	 3471	 I-Definition	 T30	 T29	 Direct-Defines
+is	 data/source_txt/t1_biology_0_101.deft	 3472	 3474	 I-Definition	 T30	 T29	 Direct-Defines
+transmitted	 data/source_txt/t1_biology_0_101.deft	 3475	 3486	 I-Definition	 T30	 T29	 Direct-Defines
+through	 data/source_txt/t1_biology_0_101.deft	 3487	 3494	 I-Definition	 T30	 T29	 Direct-Defines
+the	 data/source_txt/t1_biology_0_101.deft	 3495	 3498	 I-Definition	 T30	 T29	 Direct-Defines
+membrane	 data/source_txt/t1_biology_0_101.deft	 3499	 3507	 I-Definition	 T30	 T29	 Direct-Defines
+and	 data/source_txt/t1_biology_0_101.deft	 3508	 3511	 I-Definition	 T30	 T29	 Direct-Defines
+into	 data/source_txt/t1_biology_0_101.deft	 3512	 3516	 I-Definition	 T30	 T29	 Direct-Defines
+the	 data/source_txt/t1_biology_0_101.deft	 3517	 3520	 I-Definition	 T30	 T29	 Direct-Defines
+cytoplasm	 data/source_txt/t1_biology_0_101.deft	 3521	 3530	 I-Definition	 T30	 T29	 Direct-Defines
 .	 data/source_txt/t1_biology_0_101.deft	 3530	 3531	 O	 -1	 -1	 0
 
 Continuation	 data/source_txt/t1_biology_0_101.deft	 3540	 3552	 O	 -1	 -1	 0
@@ -693,8 +693,8 @@ this	 data/source_txt/t1_biology_0_101.deft	 3568	 3572	 O	 -1	 -1	 0
 manner	 data/source_txt/t1_biology_0_101.deft	 3573	 3579	 O	 -1	 -1	 0
 is	 data/source_txt/t1_biology_0_101.deft	 3580	 3582	 O	 -1	 -1	 0
 called	 data/source_txt/t1_biology_0_101.deft	 3583	 3589	 O	 -1	 -1	 0
-signal	 data/source_txt/t1_biology_0_101.deft	 3590	 3596	 B-Term	 T29	 0	 Direct-Defines
-transduction	 data/source_txt/t1_biology_0_101.deft	 3597	 3609	 I-Term	 T29	 0	 Direct-Defines
+signal	 data/source_txt/t1_biology_0_101.deft	 3590	 3596	 B-Term	 T29	 0	 0
+transduction	 data/source_txt/t1_biology_0_101.deft	 3597	 3609	 I-Term	 T29	 0	 0
 .	 data/source_txt/t1_biology_0_101.deft	 3609	 3610	 O	 -1	 -1	 0
 
 Signal	 data/source_txt/t1_biology_0_101.deft	 3617	 3623	 B-Secondary-Definition	 T31	 T30	 Supplements
@@ -757,9 +757,9 @@ events	 data/source_txt/t1_biology_0_101.deft	 3936	 3942	 O	 -1	 -1	 0
 that	 data/source_txt/t1_biology_0_101.deft	 3943	 3947	 O	 -1	 -1	 0
 is	 data/source_txt/t1_biology_0_101.deft	 3948	 3950	 O	 -1	 -1	 0
 called	 data/source_txt/t1_biology_0_101.deft	 3951	 3957	 O	 -1	 -1	 0
-a	 data/source_txt/t1_biology_0_101.deft	 3958	 3959	 B-Term	 T32	 0	 Direct-Defines
-signaling	 data/source_txt/t1_biology_0_101.deft	 3960	 3969	 I-Term	 T32	 0	 Direct-Defines
-pathway	 data/source_txt/t1_biology_0_101.deft	 3970	 3977	 I-Term	 T32	 0	 Direct-Defines
+a	 data/source_txt/t1_biology_0_101.deft	 3958	 3959	 B-Term	 T32	 0	 0
+signaling	 data/source_txt/t1_biology_0_101.deft	 3960	 3969	 I-Term	 T32	 0	 0
+pathway	 data/source_txt/t1_biology_0_101.deft	 3970	 3977	 I-Term	 T32	 0	 0
 or	 data/source_txt/t1_biology_0_101.deft	 3978	 3980	 O	 -1	 -1	 0
 a	 data/source_txt/t1_biology_0_101.deft	 3981	 3982	 B-Alias-Term	 T33	 T32	 AKA
 signaling	 data/source_txt/t1_biology_0_101.deft	 3983	 3992	 I-Alias-Term	 T33	 T32	 AKA
@@ -815,30 +815,30 @@ link	 data/source_txt/t1_biology_0_101.deft	 4226	 4230	 O	 -1	 -1	 0
 341	 data/source_txt/t1_biology_0_101.deft	 4237	 4240	 O	 -1	 -1	 0
 .	 data/source_txt/t1_biology_0_101.deft	 4240	 4241	 O	 -1	 -1	 0
 
-Second	 data/source_txt/t1_biology_0_101.deft	 4250	 4256	 B-Term	 T34	 0	 Refers-To
-messengers	 data/source_txt/t1_biology_0_101.deft	 4257	 4267	 I-Term	 T34	 0	 Refers-To
+Second	 data/source_txt/t1_biology_0_101.deft	 4250	 4256	 B-Term	 T34	 0	 0
+messengers	 data/source_txt/t1_biology_0_101.deft	 4257	 4267	 I-Term	 T34	 0	 0
 are	 data/source_txt/t1_biology_0_101.deft	 4268	 4271	 O	 -1	 -1	 0
-small	 data/source_txt/t1_biology_0_101.deft	 4272	 4277	 B-Definition	 T36	 0	 Supplements
-molecules	 data/source_txt/t1_biology_0_101.deft	 4278	 4287	 I-Definition	 T36	 0	 Supplements
-that	 data/source_txt/t1_biology_0_101.deft	 4288	 4292	 I-Definition	 T36	 0	 Supplements
-propagate	 data/source_txt/t1_biology_0_101.deft	 4293	 4302	 I-Definition	 T36	 0	 Supplements
-a	 data/source_txt/t1_biology_0_101.deft	 4303	 4304	 I-Definition	 T36	 0	 Supplements
-signal	 data/source_txt/t1_biology_0_101.deft	 4305	 4311	 I-Definition	 T36	 0	 Supplements
-after	 data/source_txt/t1_biology_0_101.deft	 4312	 4317	 I-Definition	 T36	 0	 Supplements
-it	 data/source_txt/t1_biology_0_101.deft	 4318	 4320	 I-Definition	 T36	 0	 Supplements
-has	 data/source_txt/t1_biology_0_101.deft	 4321	 4324	 I-Definition	 T36	 0	 Supplements
-been	 data/source_txt/t1_biology_0_101.deft	 4325	 4329	 I-Definition	 T36	 0	 Supplements
-initiated	 data/source_txt/t1_biology_0_101.deft	 4330	 4339	 I-Definition	 T36	 0	 Supplements
-by	 data/source_txt/t1_biology_0_101.deft	 4340	 4342	 I-Definition	 T36	 0	 Supplements
-the	 data/source_txt/t1_biology_0_101.deft	 4343	 4346	 I-Definition	 T36	 0	 Supplements
-binding	 data/source_txt/t1_biology_0_101.deft	 4347	 4354	 I-Definition	 T36	 0	 Supplements
-of	 data/source_txt/t1_biology_0_101.deft	 4355	 4357	 I-Definition	 T36	 0	 Supplements
-the	 data/source_txt/t1_biology_0_101.deft	 4358	 4361	 I-Definition	 T36	 0	 Supplements
-signaling	 data/source_txt/t1_biology_0_101.deft	 4362	 4371	 I-Definition	 T36	 0	 Supplements
-molecule	 data/source_txt/t1_biology_0_101.deft	 4372	 4380	 I-Definition	 T36	 0	 Supplements
-to	 data/source_txt/t1_biology_0_101.deft	 4381	 4383	 I-Definition	 T36	 0	 Supplements
-the	 data/source_txt/t1_biology_0_101.deft	 4384	 4387	 I-Definition	 T36	 0	 Supplements
-receptor	 data/source_txt/t1_biology_0_101.deft	 4388	 4396	 I-Definition	 T36	 0	 Supplements
+small	 data/source_txt/t1_biology_0_101.deft	 4272	 4277	 B-Definition	 T36	 T34	 Direct-Defines
+molecules	 data/source_txt/t1_biology_0_101.deft	 4278	 4287	 I-Definition	 T36	 T34	 Direct-Defines
+that	 data/source_txt/t1_biology_0_101.deft	 4288	 4292	 I-Definition	 T36	 T34	 Direct-Defines
+propagate	 data/source_txt/t1_biology_0_101.deft	 4293	 4302	 I-Definition	 T36	 T34	 Direct-Defines
+a	 data/source_txt/t1_biology_0_101.deft	 4303	 4304	 I-Definition	 T36	 T34	 Direct-Defines
+signal	 data/source_txt/t1_biology_0_101.deft	 4305	 4311	 I-Definition	 T36	 T34	 Direct-Defines
+after	 data/source_txt/t1_biology_0_101.deft	 4312	 4317	 I-Definition	 T36	 T34	 Direct-Defines
+it	 data/source_txt/t1_biology_0_101.deft	 4318	 4320	 I-Definition	 T36	 T34	 Direct-Defines
+has	 data/source_txt/t1_biology_0_101.deft	 4321	 4324	 I-Definition	 T36	 T34	 Direct-Defines
+been	 data/source_txt/t1_biology_0_101.deft	 4325	 4329	 I-Definition	 T36	 T34	 Direct-Defines
+initiated	 data/source_txt/t1_biology_0_101.deft	 4330	 4339	 I-Definition	 T36	 T34	 Direct-Defines
+by	 data/source_txt/t1_biology_0_101.deft	 4340	 4342	 I-Definition	 T36	 T34	 Direct-Defines
+the	 data/source_txt/t1_biology_0_101.deft	 4343	 4346	 I-Definition	 T36	 T34	 Direct-Defines
+binding	 data/source_txt/t1_biology_0_101.deft	 4347	 4354	 I-Definition	 T36	 T34	 Direct-Defines
+of	 data/source_txt/t1_biology_0_101.deft	 4355	 4357	 I-Definition	 T36	 T34	 Direct-Defines
+the	 data/source_txt/t1_biology_0_101.deft	 4358	 4361	 I-Definition	 T36	 T34	 Direct-Defines
+signaling	 data/source_txt/t1_biology_0_101.deft	 4362	 4371	 I-Definition	 T36	 T34	 Direct-Defines
+molecule	 data/source_txt/t1_biology_0_101.deft	 4372	 4380	 I-Definition	 T36	 T34	 Direct-Defines
+to	 data/source_txt/t1_biology_0_101.deft	 4381	 4383	 I-Definition	 T36	 T34	 Direct-Defines
+the	 data/source_txt/t1_biology_0_101.deft	 4384	 4387	 I-Definition	 T36	 T34	 Direct-Defines
+receptor	 data/source_txt/t1_biology_0_101.deft	 4388	 4396	 I-Definition	 T36	 T34	 Direct-Defines
 .	 data/source_txt/t1_biology_0_101.deft	 4396	 4397	 O	 -1	 -1	 0
 
 These	 data/source_txt/t1_biology_0_101.deft	 4404	 4409	 B-Referential-Term	 T37	 T34	 Refers-To
@@ -874,8 +874,8 @@ the	 data/source_txt/t1_biology_0_101.deft	 4572	 4575	 O	 -1	 -1	 0
 plasma	 data/source_txt/t1_biology_0_101.deft	 4576	 4582	 O	 -1	 -1	 0
 membrane	 data/source_txt/t1_biology_0_101.deft	 4583	 4591	 O	 -1	 -1	 0
 ,	 data/source_txt/t1_biology_0_101.deft	 4591	 4592	 O	 -1	 -1	 0
-inositol	 data/source_txt/t1_biology_0_101.deft	 4593	 4601	 B-Term	 T39	 0	 Direct-Defines
-phospholipids	 data/source_txt/t1_biology_0_101.deft	 4602	 4615	 I-Term	 T39	 0	 Direct-Defines
+inositol	 data/source_txt/t1_biology_0_101.deft	 4593	 4601	 B-Term	 T39	 0	 0
+phospholipids	 data/source_txt/t1_biology_0_101.deft	 4602	 4615	 I-Term	 T39	 0	 0
 are	 data/source_txt/t1_biology_0_101.deft	 4616	 4619	 O	 -1	 -1	 0
 lipids	 data/source_txt/t1_biology_0_101.deft	 4620	 4626	 B-Definition	 T40	 T39	 Direct-Defines
 that	 data/source_txt/t1_biology_0_101.deft	 4627	 4631	 I-Definition	 T40	 T39	 Direct-Defines
@@ -939,8 +939,8 @@ cell	 data/source_txt/t1_biology_0_101.deft	 4941	 4945	 I-Definition	 T42	 T41	
 growth	 data/source_txt/t1_biology_0_101.deft	 4946	 4952	 I-Definition	 T42	 T41	 Direct-Defines
 are	 data/source_txt/t1_biology_0_101.deft	 4953	 4956	 O	 -1	 -1	 0
 called	 data/source_txt/t1_biology_0_101.deft	 4957	 4963	 O	 -1	 -1	 0
-growth	 data/source_txt/t1_biology_0_101.deft	 4964	 4970	 B-Term	 T41	 0	 Direct-Defines
-factors	 data/source_txt/t1_biology_0_101.deft	 4971	 4978	 I-Term	 T41	 0	 Direct-Defines
+growth	 data/source_txt/t1_biology_0_101.deft	 4964	 4970	 B-Term	 T41	 0	 0
+factors	 data/source_txt/t1_biology_0_101.deft	 4971	 4978	 I-Term	 T41	 0	 0
 .	 data/source_txt/t1_biology_0_101.deft	 4978	 4979	 O	 -1	 -1	 0
 
 Most	 data/source_txt/t1_biology_0_101.deft	 4986	 4990	 O	 -1	 -1	 0
@@ -967,7 +967,7 @@ kinases	 data/source_txt/t1_biology_0_101.deft	 5065	 5072	 O	 -1	 -1	 0
 For	 data/source_txt/t1_biology_0_101.deft	 5082	 5085	 O	 -1	 -1	 0
 example	 data/source_txt/t1_biology_0_101.deft	 5086	 5093	 O	 -1	 -1	 0
 ,	 data/source_txt/t1_biology_0_101.deft	 5093	 5094	 O	 -1	 -1	 0
-phosphatases	 data/source_txt/t1_biology_0_101.deft	 5095	 5107	 B-Term	 T43	 0	 Direct-Defines
+phosphatases	 data/source_txt/t1_biology_0_101.deft	 5095	 5107	 B-Term	 T43	 0	 0
 are	 data/source_txt/t1_biology_0_101.deft	 5108	 5111	 O	 -1	 -1	 0
 enzymes	 data/source_txt/t1_biology_0_101.deft	 5112	 5119	 B-Definition	 T44	 T43	 Direct-Defines
 that	 data/source_txt/t1_biology_0_101.deft	 5120	 5124	 I-Definition	 T44	 T43	 Direct-Defines
@@ -1039,7 +1039,7 @@ signaling	 data/source_txt/t1_biology_0_101.deft	 5475	 5484	 O	 -1	 -1	 0
 molecules	 data/source_txt/t1_biology_0_101.deft	 5485	 5494	 O	 -1	 -1	 0
 .	 data/source_txt/t1_biology_0_101.deft	 5494	 5495	 O	 -1	 -1	 0
 
-Autoinducers	 data/source_txt/t1_biology_0_101.deft	 5504	 5516	 B-Term	 T45	 0	 Direct-Defines
+Autoinducers	 data/source_txt/t1_biology_0_101.deft	 5504	 5516	 B-Term	 T45	 0	 0
 are	 data/source_txt/t1_biology_0_101.deft	 5517	 5520	 O	 -1	 -1	 0
 signaling	 data/source_txt/t1_biology_0_101.deft	 5521	 5530	 B-Definition	 T46	 T45	 Direct-Defines
 molecules	 data/source_txt/t1_biology_0_101.deft	 5531	 5540	 I-Definition	 T46	 T45	 Direct-Defines
@@ -1158,24 +1158,24 @@ a	 data/source_txt/t1_biology_0_101.deft	 6111	 6112	 O	 -1	 -1	 0
 configuration	 data/source_txt/t1_biology_0_101.deft	 6113	 6126	 O	 -1	 -1	 0
 known	 data/source_txt/t1_biology_0_101.deft	 6127	 6132	 O	 -1	 -1	 0
 as	 data/source_txt/t1_biology_0_101.deft	 6133	 6135	 O	 -1	 -1	 0
-diploid	 data/source_txt/t1_biology_0_101.deft	 6136	 6143	 B-Term	 T47	 0	 Direct-Defines
+diploid	 data/source_txt/t1_biology_0_101.deft	 6136	 6143	 B-Term	 T47	 0	 0
 .	 data/source_txt/t1_biology_0_101.deft	 6143	 6144	 O	 -1	 -1	 0
 
 
 359	 data/source_txt/t1_biology_0_101.deft	 6148	 6151	 O	 -1	 -1	 0
 .	 data/source_txt/t1_biology_0_101.deft	 6151	 6152	 O	 -1	 -1	 0
 
-Matched	 data/source_txt/t1_biology_0_101.deft	 6161	 6168	 B-Definition	 T50	 0	 Supplements
-pairs	 data/source_txt/t1_biology_0_101.deft	 6169	 6174	 I-Definition	 T50	 0	 Supplements
-of	 data/source_txt/t1_biology_0_101.deft	 6175	 6177	 I-Definition	 T50	 0	 Supplements
-chromosomes	 data/source_txt/t1_biology_0_101.deft	 6178	 6189	 I-Definition	 T50	 0	 Supplements
-in	 data/source_txt/t1_biology_0_101.deft	 6190	 6192	 I-Definition	 T50	 0	 Supplements
-a	 data/source_txt/t1_biology_0_101.deft	 6193	 6194	 I-Definition	 T50	 0	 Supplements
-diploid	 data/source_txt/t1_biology_0_101.deft	 6195	 6202	 I-Definition	 T50	 0	 Supplements
-organism	 data/source_txt/t1_biology_0_101.deft	 6203	 6211	 I-Definition	 T50	 0	 Supplements
+Matched	 data/source_txt/t1_biology_0_101.deft	 6161	 6168	 B-Definition	 T50	 T49	 Direct-Defines
+pairs	 data/source_txt/t1_biology_0_101.deft	 6169	 6174	 I-Definition	 T50	 T49	 Direct-Defines
+of	 data/source_txt/t1_biology_0_101.deft	 6175	 6177	 I-Definition	 T50	 T49	 Direct-Defines
+chromosomes	 data/source_txt/t1_biology_0_101.deft	 6178	 6189	 I-Definition	 T50	 T49	 Direct-Defines
+in	 data/source_txt/t1_biology_0_101.deft	 6190	 6192	 I-Definition	 T50	 T49	 Direct-Defines
+a	 data/source_txt/t1_biology_0_101.deft	 6193	 6194	 I-Definition	 T50	 T49	 Direct-Defines
+diploid	 data/source_txt/t1_biology_0_101.deft	 6195	 6202	 I-Definition	 T50	 T49	 Direct-Defines
+organism	 data/source_txt/t1_biology_0_101.deft	 6203	 6211	 I-Definition	 T50	 T49	 Direct-Defines
 are	 data/source_txt/t1_biology_0_101.deft	 6212	 6215	 O	 -1	 -1	 0
 called	 data/source_txt/t1_biology_0_101.deft	 6216	 6222	 O	 -1	 -1	 0
-homologous	 data/source_txt/t1_biology_0_101.deft	 6223	 6233	 B-Term	 T51	 0	 Direct-Defines
+homologous	 data/source_txt/t1_biology_0_101.deft	 6223	 6233	 B-Term	 T51	 0	 0
 (	 data/source_txt/t1_biology_0_101.deft	 6234	 6235	 O	 -1	 -1	 0
 “	 data/source_txt/t1_biology_0_101.deft	 6235	 6236	 O	 -1	 -1	 0
 same	 data/source_txt/t1_biology_0_101.deft	 6236	 6240	 B-Definition	 T52	 T51	 Direct-Defines
@@ -1204,7 +1204,7 @@ same	 data/source_txt/t1_biology_0_101.deft	 6381	 6385	 I-Definition	 T54	 T53	
 location	 data/source_txt/t1_biology_0_101.deft	 6386	 6394	 I-Definition	 T54	 T53	 Direct-Defines
 ,	 data/source_txt/t1_biology_0_101.deft	 6394	 6395	 O	 -1	 -1	 0
 or	 data/source_txt/t1_biology_0_101.deft	 6396	 6398	 O	 -1	 -1	 0
-locus	 data/source_txt/t1_biology_0_101.deft	 6399	 6404	 B-Term	 T53	 0	 Direct-Defines
+locus	 data/source_txt/t1_biology_0_101.deft	 6399	 6404	 B-Term	 T53	 0	 0
 .	 data/source_txt/t1_biology_0_101.deft	 6404	 6405	 O	 -1	 -1	 0
 
 
@@ -1218,7 +1218,7 @@ histone	 data/source_txt/t1_biology_0_101.deft	 6422	 6429	 I-Definition	 T57	 T
 complex	 data/source_txt/t1_biology_0_101.deft	 6430	 6437	 I-Definition	 T57	 T56	 Direct-Defines
 is	 data/source_txt/t1_biology_0_101.deft	 6438	 6440	 O	 -1	 -1	 0
 called	 data/source_txt/t1_biology_0_101.deft	 6441	 6447	 O	 -1	 -1	 0
-chromatin	 data/source_txt/t1_biology_0_101.deft	 6448	 6457	 B-Term	 T56	 0	 Direct-Defines
+chromatin	 data/source_txt/t1_biology_0_101.deft	 6448	 6457	 B-Term	 T56	 0	 0
 .	 data/source_txt/t1_biology_0_101.deft	 6457	 6458	 O	 -1	 -1	 0
 
 The	 data/source_txt/t1_biology_0_101.deft	 6467	 6470	 O	 -1	 -1	 0
@@ -1239,8 +1239,8 @@ the	 data/source_txt/t1_biology_0_101.deft	 6544	 6547	 I-Definition	 T58	 T59	 
 nucleosomes	 data/source_txt/t1_biology_0_101.deft	 6548	 6559	 I-Definition	 T58	 T59	 Direct-Defines
 is	 data/source_txt/t1_biology_0_101.deft	 6560	 6562	 O	 -1	 -1	 0
 called	 data/source_txt/t1_biology_0_101.deft	 6563	 6569	 O	 -1	 -1	 0
-linker	 data/source_txt/t1_biology_0_101.deft	 6570	 6576	 B-Term	 T59	 0	 Direct-Defines
-DNA	 data/source_txt/t1_biology_0_101.deft	 6577	 6580	 I-Term	 T59	 0	 Direct-Defines
+linker	 data/source_txt/t1_biology_0_101.deft	 6570	 6576	 B-Term	 T59	 0	 0
+DNA	 data/source_txt/t1_biology_0_101.deft	 6577	 6580	 I-Term	 T59	 0	 0
 .	 data/source_txt/t1_biology_0_101.deft	 6580	 6581	 O	 -1	 -1	 0
 
 A	 data/source_txt/t1_biology_0_101.deft	 6588	 6589	 O	 -1	 -1	 0
@@ -1289,9 +1289,9 @@ helix	 data/source_txt/t1_biology_0_101.deft	 6783	 6788	 O	 -1	 -1	 0
 365	 data/source_txt/t1_biology_0_101.deft	 6793	 6796	 O	 -1	 -1	 0
 .	 data/source_txt/t1_biology_0_101.deft	 6796	 6797	 O	 -1	 -1	 0
 
-The	 data/source_txt/t1_biology_0_101.deft	 6806	 6809	 B-Term	 T60	 0	 Direct-Defines
-cell	 data/source_txt/t1_biology_0_101.deft	 6810	 6814	 I-Term	 T60	 0	 Direct-Defines
-cycle	 data/source_txt/t1_biology_0_101.deft	 6815	 6820	 I-Term	 T60	 0	 Direct-Defines
+The	 data/source_txt/t1_biology_0_101.deft	 6806	 6809	 B-Term	 T60	 0	 0
+cell	 data/source_txt/t1_biology_0_101.deft	 6810	 6814	 I-Term	 T60	 0	 0
+cycle	 data/source_txt/t1_biology_0_101.deft	 6815	 6820	 I-Term	 T60	 0	 0
 is	 data/source_txt/t1_biology_0_101.deft	 6821	 6823	 O	 -1	 -1	 0
 an	 data/source_txt/t1_biology_0_101.deft	 6824	 6826	 B-Definition	 T61	 T60	 Direct-Defines
 ordered	 data/source_txt/t1_biology_0_101.deft	 6827	 6834	 I-Definition	 T61	 T60	 Direct-Defines
@@ -1352,16 +1352,16 @@ cells	 data/source_txt/t1_biology_0_101.deft	 7123	 7128	 O	 -1	 -1	 0
 368	 data/source_txt/t1_biology_0_101.deft	 7133	 7136	 O	 -1	 -1	 0
 .	 data/source_txt/t1_biology_0_101.deft	 7136	 7137	 O	 -1	 -1	 0
 
-The	 data/source_txt/t1_biology_0_101.deft	 7146	 7149	 B-Definition	 T63	 0	 Supplements
-first	 data/source_txt/t1_biology_0_101.deft	 7150	 7155	 I-Definition	 T63	 0	 Supplements
-stage	 data/source_txt/t1_biology_0_101.deft	 7156	 7161	 I-Definition	 T63	 0	 Supplements
-of	 data/source_txt/t1_biology_0_101.deft	 7162	 7164	 I-Definition	 T63	 0	 Supplements
-interphase	 data/source_txt/t1_biology_0_101.deft	 7165	 7175	 I-Definition	 T63	 0	 Supplements
+The	 data/source_txt/t1_biology_0_101.deft	 7146	 7149	 B-Definition	 T63	 T62	 Direct-Defines
+first	 data/source_txt/t1_biology_0_101.deft	 7150	 7155	 I-Definition	 T63	 T62	 Direct-Defines
+stage	 data/source_txt/t1_biology_0_101.deft	 7156	 7161	 I-Definition	 T63	 T62	 Direct-Defines
+of	 data/source_txt/t1_biology_0_101.deft	 7162	 7164	 I-Definition	 T63	 T62	 Direct-Defines
+interphase	 data/source_txt/t1_biology_0_101.deft	 7165	 7175	 I-Definition	 T63	 T62	 Direct-Defines
 is	 data/source_txt/t1_biology_0_101.deft	 7176	 7178	 O	 -1	 -1	 0
 called	 data/source_txt/t1_biology_0_101.deft	 7179	 7185	 O	 -1	 -1	 0
-the	 data/source_txt/t1_biology_0_101.deft	 7186	 7189	 B-Term	 T62	 0	 Direct-Defines
-G1	 data/source_txt/t1_biology_0_101.deft	 7190	 7192	 I-Term	 T62	 0	 Direct-Defines
-phase	 data/source_txt/t1_biology_0_101.deft	 7193	 7198	 I-Term	 T62	 0	 Direct-Defines
+the	 data/source_txt/t1_biology_0_101.deft	 7186	 7189	 B-Term	 T62	 0	 0
+G1	 data/source_txt/t1_biology_0_101.deft	 7190	 7192	 I-Term	 T62	 0	 0
+phase	 data/source_txt/t1_biology_0_101.deft	 7193	 7198	 I-Term	 T62	 0	 0
 (	 data/source_txt/t1_biology_0_101.deft	 7199	 7200	 O	 -1	 -1	 0
 first	 data/source_txt/t1_biology_0_101.deft	 7200	 7205	 B-Secondary-Definition	 T64	 T63	 Supplements
 gap	 data/source_txt/t1_biology_0_101.deft	 7206	 7209	 I-Secondary-Definition	 T64	 T63	 Supplements
@@ -1408,9 +1408,9 @@ will	 data/source_txt/t1_biology_0_101.deft	 7388	 7392	 O	 -1	 -1	 0
 give	 data/source_txt/t1_biology_0_101.deft	 7393	 7397	 O	 -1	 -1	 0
 rise	 data/source_txt/t1_biology_0_101.deft	 7398	 7402	 O	 -1	 -1	 0
 to	 data/source_txt/t1_biology_0_101.deft	 7403	 7405	 O	 -1	 -1	 0
-the	 data/source_txt/t1_biology_0_101.deft	 7406	 7409	 B-Term	 T65	 0	 Direct-Defines
-mitotic	 data/source_txt/t1_biology_0_101.deft	 7410	 7417	 I-Term	 T65	 0	 Direct-Defines
-spindle	 data/source_txt/t1_biology_0_101.deft	 7418	 7425	 I-Term	 T65	 0	 Direct-Defines
+the	 data/source_txt/t1_biology_0_101.deft	 7406	 7409	 B-Term	 T65	 0	 0
+mitotic	 data/source_txt/t1_biology_0_101.deft	 7410	 7417	 I-Term	 T65	 0	 0
+spindle	 data/source_txt/t1_biology_0_101.deft	 7418	 7425	 I-Term	 T65	 0	 0
 ,	 data/source_txt/t1_biology_0_101.deft	 7425	 7426	 O	 -1	 -1	 0
 the	 data/source_txt/t1_biology_0_101.deft	 7427	 7430	 B-Definition	 T66	 T65	 Direct-Defines
 apparatus	 data/source_txt/t1_biology_0_101.deft	 7431	 7440	 I-Definition	 T66	 T65	 Direct-Defines
@@ -1448,8 +1448,8 @@ rod	 data/source_txt/t1_biology_0_101.deft	 7608	 7611	 I-Definition	 T12	 T11	 
 like	 data/source_txt/t1_biology_0_101.deft	 7612	 7616	 I-Definition	 T12	 T11	 Direct-Defines
 objects	 data/source_txt/t1_biology_0_101.deft	 7617	 7624	 I-Definition	 T12	 T11	 Direct-Defines
 ,	 data/source_txt/t1_biology_0_101.deft	 7624	 7625	 O	 -1	 -1	 0
-the	 data/source_txt/t1_biology_0_101.deft	 7626	 7629	 B-Term	 T11	 0	 Direct-Defines
-centrioles	 data/source_txt/t1_biology_0_101.deft	 7630	 7640	 I-Term	 T11	 0	 Direct-Defines
+the	 data/source_txt/t1_biology_0_101.deft	 7626	 7629	 B-Term	 T11	 0	 0
+centrioles	 data/source_txt/t1_biology_0_101.deft	 7630	 7640	 I-Term	 T11	 0	 0
 ,	 data/source_txt/t1_biology_0_101.deft	 7640	 7641	 O	 -1	 -1	 0
 which	 data/source_txt/t1_biology_0_101.deft	 7642	 7647	 B-Definition-frag	 T12-frag	 T12	 fragment
 are	 data/source_txt/t1_biology_0_101.deft	 7648	 7651	 I-Definition-frag	 T12-frag	 T12	 fragment
@@ -1477,7 +1477,7 @@ Karyokinesis	 data/source_txt/t1_biology_0_101.deft	 7745	 7757	 B-Alias-Term	 T
 also	 data/source_txt/t1_biology_0_101.deft	 7759	 7763	 O	 -1	 -1	 0
 known	 data/source_txt/t1_biology_0_101.deft	 7764	 7769	 O	 -1	 -1	 0
 as	 data/source_txt/t1_biology_0_101.deft	 7770	 7772	 O	 -1	 -1	 0
-mitosis	 data/source_txt/t1_biology_0_101.deft	 7773	 7780	 B-Term	 T69	 0	 Direct-Defines
+mitosis	 data/source_txt/t1_biology_0_101.deft	 7773	 7780	 B-Term	 T69	 0	 0
 ,	 data/source_txt/t1_biology_0_101.deft	 7780	 7781	 O	 -1	 -1	 0
 is	 data/source_txt/t1_biology_0_101.deft	 7782	 7784	 B-Definition	 T67	 T69	 Direct-Defines
 divided	 data/source_txt/t1_biology_0_101.deft	 7785	 7792	 I-Definition	 T67	 T69	 Direct-Defines
@@ -1526,7 +1526,7 @@ mitosis	 data/source_txt/t1_biology_0_101.deft	 7968	 7975	 O	 -1	 -1	 0
 .	 data/source_txt/t1_biology_0_101.deft	 7983	 7984	 O	 -1	 -1	 0
 
 During	 data/source_txt/t1_biology_0_101.deft	 7993	 7999	 O	 -1	 -1	 0
-prometaphase	 data/source_txt/t1_biology_0_101.deft	 8000	 8012	 B-Term	 T72	 0	 Direct-Defines
+prometaphase	 data/source_txt/t1_biology_0_101.deft	 8000	 8012	 B-Term	 T72	 0	 0
 ,	 data/source_txt/t1_biology_0_101.deft	 8012	 8013	 O	 -1	 -1	 0
 the	 data/source_txt/t1_biology_0_101.deft	 8014	 8017	 O	 -1	 -1	 0
 “	 data/source_txt/t1_biology_0_101.deft	 8018	 8019	 O	 -1	 -1	 0
@@ -1561,7 +1561,7 @@ fragment	 data/source_txt/t1_biology_0_101.deft	 8147	 8155	 O	 -1	 -1	 0
 .	 data/source_txt/t1_biology_0_101.deft	 8163	 8164	 O	 -1	 -1	 0
 
 During	 data/source_txt/t1_biology_0_101.deft	 8173	 8179	 O	 -1	 -1	 0
-anaphase	 data/source_txt/t1_biology_0_101.deft	 8180	 8188	 B-Term	 T75	 0	 Direct-Defines
+anaphase	 data/source_txt/t1_biology_0_101.deft	 8180	 8188	 B-Term	 T75	 0	 0
 ,	 data/source_txt/t1_biology_0_101.deft	 8188	 8189	 O	 -1	 -1	 0
 the	 data/source_txt/t1_biology_0_101.deft	 8190	 8193	 O	 -1	 -1	 0
 “	 data/source_txt/t1_biology_0_101.deft	 8194	 8195	 O	 -1	 -1	 0
@@ -1636,9 +1636,9 @@ crack	 data/source_txt/t1_biology_0_101.deft	 8529	 8534	 O	 -1	 -1	 0
 ”	 data/source_txt/t1_biology_0_101.deft	 8535	 8536	 O	 -1	 -1	 0
 is	 data/source_txt/t1_biology_0_101.deft	 8537	 8539	 O	 -1	 -1	 0
 called	 data/source_txt/t1_biology_0_101.deft	 8540	 8546	 O	 -1	 -1	 0
-the	 data/source_txt/t1_biology_0_101.deft	 8547	 8550	 B-Term	 T78	 0	 Direct-Defines
-cleavage	 data/source_txt/t1_biology_0_101.deft	 8551	 8559	 I-Term	 T78	 0	 Direct-Defines
-furrow	 data/source_txt/t1_biology_0_101.deft	 8560	 8566	 I-Term	 T78	 0	 Direct-Defines
+the	 data/source_txt/t1_biology_0_101.deft	 8547	 8550	 B-Term	 T78	 0	 0
+cleavage	 data/source_txt/t1_biology_0_101.deft	 8551	 8559	 I-Term	 T78	 0	 0
+furrow	 data/source_txt/t1_biology_0_101.deft	 8560	 8566	 I-Term	 T78	 0	 0
 .	 data/source_txt/t1_biology_0_101.deft	 8566	 8567	 O	 -1	 -1	 0
 
 The	 data/source_txt/t1_biology_0_101.deft	 8574	 8577	 O	 -1	 -1	 0
@@ -1702,7 +1702,7 @@ cell	 data/source_txt/t1_biology_0_101.deft	 8823	 8827	 O	 -1	 -1	 0
 is	 data/source_txt/t1_biology_0_101.deft	 8828	 8830	 O	 -1	 -1	 0
 in	 data/source_txt/t1_biology_0_101.deft	 8831	 8833	 O	 -1	 -1	 0
 a	 data/source_txt/t1_biology_0_101.deft	 8834	 8835	 O	 -1	 -1	 0
-quiescent	 data/source_txt/t1_biology_0_101.deft	 8836	 8845	 B-Term	 T80	 0	 Direct-Defines
+quiescent	 data/source_txt/t1_biology_0_101.deft	 8836	 8845	 B-Term	 T80	 0	 0
 (	 data/source_txt/t1_biology_0_101.deft	 8846	 8847	 O	 -1	 -1	 0
 inactive	 data/source_txt/t1_biology_0_101.deft	 8847	 8855	 B-Definition	 T81	 T80	 Direct-Defines
 )	 data/source_txt/t1_biology_0_101.deft	 8855	 8856	 O	 -1	 -1	 0
@@ -1762,9 +1762,9 @@ become	 data/source_txt/t1_biology_0_101.deft	 9134	 9140	 O	 -1	 -1	 0
 cancerous	 data/source_txt/t1_biology_0_101.deft	 9141	 9150	 O	 -1	 -1	 0
 .	 data/source_txt/t1_biology_0_101.deft	 9150	 9151	 O	 -1	 -1	 0
 
-Tumor	 data/source_txt/t1_biology_0_101.deft	 9160	 9165	 B-Term	 T82	 0	 Direct-Defines
-suppressor	 data/source_txt/t1_biology_0_101.deft	 9166	 9176	 I-Term	 T82	 0	 Direct-Defines
-genes	 data/source_txt/t1_biology_0_101.deft	 9177	 9182	 I-Term	 T82	 0	 Direct-Defines
+Tumor	 data/source_txt/t1_biology_0_101.deft	 9160	 9165	 B-Term	 T82	 0	 0
+suppressor	 data/source_txt/t1_biology_0_101.deft	 9166	 9176	 I-Term	 T82	 0	 0
+genes	 data/source_txt/t1_biology_0_101.deft	 9177	 9182	 I-Term	 T82	 0	 0
 are	 data/source_txt/t1_biology_0_101.deft	 9183	 9186	 O	 -1	 -1	 0
 segments	 data/source_txt/t1_biology_0_101.deft	 9187	 9195	 O	 -1	 -1	 0
 of	 data/source_txt/t1_biology_0_101.deft	 9196	 9198	 O	 -1	 -1	 0
@@ -1772,9 +1772,9 @@ DNA	 data/source_txt/t1_biology_0_101.deft	 9199	 9202	 O	 -1	 -1	 0
 that	 data/source_txt/t1_biology_0_101.deft	 9203	 9207	 O	 -1	 -1	 0
 code	 data/source_txt/t1_biology_0_101.deft	 9208	 9212	 O	 -1	 -1	 0
 for	 data/source_txt/t1_biology_0_101.deft	 9213	 9216	 O	 -1	 -1	 0
-negative	 data/source_txt/t1_biology_0_101.deft	 9217	 9225	 B-Term	 T84	 0	 Direct-Defines
-regulator	 data/source_txt/t1_biology_0_101.deft	 9226	 9235	 I-Term	 T84	 0	 Direct-Defines
-proteins	 data/source_txt/t1_biology_0_101.deft	 9236	 9244	 I-Term	 T84	 0	 Direct-Defines
+negative	 data/source_txt/t1_biology_0_101.deft	 9217	 9225	 B-Term	 T84	 0	 0
+regulator	 data/source_txt/t1_biology_0_101.deft	 9226	 9235	 I-Term	 T84	 0	 0
+proteins	 data/source_txt/t1_biology_0_101.deft	 9236	 9244	 I-Term	 T84	 0	 0
 ,	 data/source_txt/t1_biology_0_101.deft	 9244	 9245	 O	 -1	 -1	 0
 the	 data/source_txt/t1_biology_0_101.deft	 9246	 9249	 B-Definition	 T85	 T84	 Direct-Defines
 type	 data/source_txt/t1_biology_0_101.deft	 9250	 9254	 I-Definition	 T85	 T84	 Direct-Defines
@@ -1855,8 +1855,8 @@ and	 data/source_txt/t1_biology_0_101.deft	 9645	 9648	 O	 -1	 -1	 0
 p21	 data/source_txt/t1_biology_0_101.deft	 9649	 9652	 O	 -1	 -1	 0
 .	 data/source_txt/t1_biology_0_101.deft	 9652	 9653	 O	 -1	 -1	 0
 
-Retinoblastoma	 data/source_txt/t1_biology_0_101.deft	 9660	 9674	 B-Term	 T86	 0	 Direct-Defines
-proteins	 data/source_txt/t1_biology_0_101.deft	 9675	 9683	 I-Term	 T86	 0	 Direct-Defines
+Retinoblastoma	 data/source_txt/t1_biology_0_101.deft	 9660	 9674	 B-Term	 T86	 0	 0
+proteins	 data/source_txt/t1_biology_0_101.deft	 9675	 9683	 I-Term	 T86	 0	 0
 are	 data/source_txt/t1_biology_0_101.deft	 9684	 9687	 O	 -1	 -1	 0
 a	 data/source_txt/t1_biology_0_101.deft	 9688	 9689	 B-Definition	 T87	 T86	 Direct-Defines
 group	 data/source_txt/t1_biology_0_101.deft	 9691	 9696	 I-Definition	 T87	 T86	 Direct-Defines
@@ -1950,7 +1950,7 @@ animals	 data/source_txt/t1_biology_0_101.deft	 10158	 10165	 O	 -1	 -1	 0
 and	 data/source_txt/t1_biology_0_101.deft	 10166	 10169	 O	 -1	 -1	 0
 plants	 data/source_txt/t1_biology_0_101.deft	 10170	 10176	 O	 -1	 -1	 0
 are	 data/source_txt/t1_biology_0_101.deft	 10177	 10180	 O	 -1	 -1	 0
-diploid	 data/source_txt/t1_biology_0_101.deft	 10181	 10188	 B-Term	 T88	 0	 Direct-Defines
+diploid	 data/source_txt/t1_biology_0_101.deft	 10181	 10188	 B-Term	 T88	 0	 0
 ,	 data/source_txt/t1_biology_0_101.deft	 10188	 10189	 O	 -1	 -1	 0
 containing	 data/source_txt/t1_biology_0_101.deft	 10190	 10200	 B-Definition	 T89	 T88	 Direct-Defines
 two	 data/source_txt/t1_biology_0_101.deft	 10201	 10204	 I-Definition	 T89	 T88	 Direct-Defines
@@ -1991,8 +1991,8 @@ each	 data/source_txt/t1_biology_0_101.deft	 10388	 10392	 I-Definition	 T91	 T9
 chromosome	 data/source_txt/t1_biology_0_101.deft	 10393	 10403	 I-Definition	 T91	 T90	 Direct-Defines
 ,	 data/source_txt/t1_biology_0_101.deft	 10403	 10404	 O	 -1	 -1	 0
 called	 data/source_txt/t1_biology_0_101.deft	 10405	 10411	 O	 -1	 -1	 0
-homologous	 data/source_txt/t1_biology_0_101.deft	 10412	 10422	 B-Term	 T90	 0	 Direct-Defines
-chromosomes	 data/source_txt/t1_biology_0_101.deft	 10423	 10434	 I-Term	 T90	 0	 Direct-Defines
+homologous	 data/source_txt/t1_biology_0_101.deft	 10412	 10422	 B-Term	 T90	 0	 0
+chromosomes	 data/source_txt/t1_biology_0_101.deft	 10423	 10434	 I-Term	 T90	 0	 0
 .	 data/source_txt/t1_biology_0_101.deft	 10434	 10435	 O	 -1	 -1	 0
 
 Somatic	 data/source_txt/t1_biology_0_101.deft	 10442	 10449	 O	 -1	 -1	 0
@@ -2071,8 +2071,8 @@ II	 data/source_txt/t1_biology_0_101.deft	 10771	 10773	 O	 -1	 -1	 0
 
 Thus	 data/source_txt/t1_biology_0_101.deft	 10776	 10780	 O	 -1	 -1	 0
 ,	 data/source_txt/t1_biology_0_101.deft	 10780	 10781	 O	 -1	 -1	 0
-meiosis	 data/source_txt/t1_biology_0_101.deft	 10782	 10789	 B-Term	 T92	 0	 Direct-Defines
-I	 data/source_txt/t1_biology_0_101.deft	 10790	 10791	 I-Term	 T92	 0	 Direct-Defines
+meiosis	 data/source_txt/t1_biology_0_101.deft	 10782	 10789	 B-Term	 T92	 0	 0
+I	 data/source_txt/t1_biology_0_101.deft	 10790	 10791	 I-Term	 T92	 0	 0
 is	 data/source_txt/t1_biology_0_101.deft	 10792	 10794	 O	 -1	 -1	 0
 the	 data/source_txt/t1_biology_0_101.deft	 10795	 10798	 B-Definition	 T93	 T92	 Direct-Defines
 first	 data/source_txt/t1_biology_0_101.deft	 10799	 10804	 I-Definition	 T93	 T92	 Direct-Defines
@@ -2094,8 +2094,8 @@ so	 data/source_txt/t1_biology_0_101.deft	 10879	 10881	 I-Definition	 T93	 T92	
 on	 data/source_txt/t1_biology_0_101.deft	 10882	 10884	 I-Definition	 T93	 T92	 Direct-Defines
 .	 data/source_txt/t1_biology_0_101.deft	 10884	 10885	 O	 -1	 -1	 0
 
-Meiosis	 data/source_txt/t1_biology_0_101.deft	 10892	 10899	 B-Term	 T94	 0	 Direct-Defines
-II	 data/source_txt/t1_biology_0_101.deft	 10900	 10902	 I-Term	 T94	 0	 Direct-Defines
+Meiosis	 data/source_txt/t1_biology_0_101.deft	 10892	 10899	 B-Term	 T94	 0	 0
+II	 data/source_txt/t1_biology_0_101.deft	 10900	 10902	 I-Term	 T94	 0	 0
 ,	 data/source_txt/t1_biology_0_101.deft	 10902	 10903	 O	 -1	 -1	 0
 in	 data/source_txt/t1_biology_0_101.deft	 10904	 10906	 O	 -1	 -1	 0
 which	 data/source_txt/t1_biology_0_101.deft	 10907	 10912	 O	 -1	 -1	 0
@@ -2158,9 +2158,9 @@ homologous	 data/source_txt/t1_biology_0_101.deft	 11173	 11183	 O	 -1	 -1	 0
 pair	 data/source_txt/t1_biology_0_101.deft	 11184	 11188	 O	 -1	 -1	 0
 .	 data/source_txt/t1_biology_0_101.deft	 11188	 11189	 O	 -1	 -1	 0
 
-The	 data/source_txt/t1_biology_0_101.deft	 11198	 11201	 B-Term	 T96	 0	 Direct-Defines
-synaptonemal	 data/source_txt/t1_biology_0_101.deft	 11202	 11214	 I-Term	 T96	 0	 Direct-Defines
-complex	 data/source_txt/t1_biology_0_101.deft	 11215	 11222	 I-Term	 T96	 0	 Direct-Defines
+The	 data/source_txt/t1_biology_0_101.deft	 11198	 11201	 B-Term	 T96	 0	 0
+synaptonemal	 data/source_txt/t1_biology_0_101.deft	 11202	 11214	 I-Term	 T96	 0	 0
+complex	 data/source_txt/t1_biology_0_101.deft	 11215	 11222	 I-Term	 T96	 0	 0
 ,	 data/source_txt/t1_biology_0_101.deft	 11222	 11223	 O	 -1	 -1	 0
 a	 data/source_txt/t1_biology_0_101.deft	 11224	 11225	 B-Definition	 T97	 T96	 Direct-Defines
 lattice	 data/source_txt/t1_biology_0_101.deft	 11226	 11233	 I-Definition	 T97	 T96	 Direct-Defines
@@ -2198,7 +2198,7 @@ homologous	 data/source_txt/t1_biology_0_101.deft	 11411	 11421	 I-Definition	 T
 chromosomes	 data/source_txt/t1_biology_0_101.deft	 11422	 11433	 I-Definition	 T98	 T99	 Direct-Defines
 is	 data/source_txt/t1_biology_0_101.deft	 11434	 11436	 O	 -1	 -1	 0
 called	 data/source_txt/t1_biology_0_101.deft	 11437	 11443	 O	 -1	 -1	 0
-synapsis	 data/source_txt/t1_biology_0_101.deft	 11444	 11452	 B-Term	 T99	 0	 Direct-Defines
+synapsis	 data/source_txt/t1_biology_0_101.deft	 11444	 11452	 B-Term	 T99	 0	 0
 .	 data/source_txt/t1_biology_0_101.deft	 11452	 11453	 O	 -1	 -1	 0
 
 
@@ -2217,12 +2217,12 @@ large	 data/source_txt/t1_biology_0_101.deft	 11526	 11531	 I-Secondary-Definiti
 protein	 data/source_txt/t1_biology_0_101.deft	 11532	 11539	 I-Secondary-Definition	 T101	 T103	 Supplements
 assemblies	 data/source_txt/t1_biology_0_101.deft	 11540	 11550	 I-Secondary-Definition	 T101	 T103	 Supplements
 called	 data/source_txt/t1_biology_0_101.deft	 11551	 11557	 O	 -1	 -1	 0
-recombination	 data/source_txt/t1_biology_0_101.deft	 11558	 11571	 B-Term	 T100	 0	 Refers-To
-nodules	 data/source_txt/t1_biology_0_101.deft	 11572	 11579	 I-Term	 T100	 0	 Refers-To
+recombination	 data/source_txt/t1_biology_0_101.deft	 11558	 11571	 B-Term	 T100	 0	 0
+nodules	 data/source_txt/t1_biology_0_101.deft	 11572	 11579	 I-Term	 T100	 0	 0
 .	 data/source_txt/t1_biology_0_101.deft	 11579	 11580	 O	 -1	 -1	 0
 
-These	 data/source_txt/t1_biology_0_101.deft	 11587	 11592	 B-Referential-Term	 T102	 0	 Indirect-Defines
-assemblies	 data/source_txt/t1_biology_0_101.deft	 11593	 11603	 I-Referential-Term	 T102	 0	 Indirect-Defines
+These	 data/source_txt/t1_biology_0_101.deft	 11587	 11592	 B-Referential-Term	 T102	 T100	 Refers-To
+assemblies	 data/source_txt/t1_biology_0_101.deft	 11593	 11603	 I-Referential-Term	 T102	 T100	 Refers-To
 mark	 data/source_txt/t1_biology_0_101.deft	 11604	 11608	 O	 -1	 -1	 0
 the	 data/source_txt/t1_biology_0_101.deft	 11609	 11612	 O	 -1	 -1	 0
 points	 data/source_txt/t1_biology_0_101.deft	 11613	 11619	 O	 -1	 -1	 0
@@ -2235,7 +2235,7 @@ the	 data/source_txt/t1_biology_0_101.deft	 11651	 11654	 O	 -1	 -1	 0
 multistep	 data/source_txt/t1_biology_0_101.deft	 11655	 11664	 O	 -1	 -1	 0
 process	 data/source_txt/t1_biology_0_101.deft	 11665	 11672	 O	 -1	 -1	 0
 of	 data/source_txt/t1_biology_0_101.deft	 11673	 11675	 O	 -1	 -1	 0
-crossover	 data/source_txt/t1_biology_0_101.deft	 11676	 11685	 B-Term	 T104	 0	 Direct-Defines
+crossover	 data/source_txt/t1_biology_0_101.deft	 11676	 11685	 B-Term	 T104	 0	 0
 —	 data/source_txt/t1_biology_0_101.deft	 11685	 11686	 O	 -1	 -1	 0
 or	 data/source_txt/t1_biology_0_101.deft	 11686	 11688	 O	 -1	 -1	 0
 genetic	 data/source_txt/t1_biology_0_101.deft	 11689	 11696	 B-Definition	 T105	 T104	 Direct-Defines
@@ -2289,7 +2289,7 @@ duplicated	 data/source_txt/t1_biology_0_101.deft	 11916	 11926	 O	 -1	 -1	 0
 413	 data/source_txt/t1_biology_0_101.deft	 11931	 11934	 O	 -1	 -1	 0
 .	 data/source_txt/t1_biology_0_101.deft	 11934	 11935	 O	 -1	 -1	 0
 
-Fertilization	 data/source_txt/t1_biology_0_101.deft	 11936	 11949	 B-Term	 T106	 0	 Direct-Defines
+Fertilization	 data/source_txt/t1_biology_0_101.deft	 11936	 11949	 B-Term	 T106	 0	 0
 ,	 data/source_txt/t1_biology_0_101.deft	 11949	 11950	 O	 -1	 -1	 0
 the	 data/source_txt/t1_biology_0_101.deft	 11951	 11954	 B-Definition	 T107	 T106	 Direct-Defines
 joining	 data/source_txt/t1_biology_0_101.deft	 11955	 11962	 I-Definition	 T107	 T106	 Direct-Defines
@@ -2316,9 +2316,9 @@ in	 data/source_txt/t1_biology_0_101.deft	 12074	 12076	 O	 -1	 -1	 0
 multicellular	 data/source_txt/t1_biology_0_101.deft	 12077	 12090	 O	 -1	 -1	 0
 organisms	 data/source_txt/t1_biology_0_101.deft	 12091	 12100	 O	 -1	 -1	 0
 :	 data/source_txt/t1_biology_0_101.deft	 12100	 12101	 O	 -1	 -1	 0
-diploid	 data/source_txt/t1_biology_0_101.deft	 12102	 12109	 B-Term	 T108	 0	 Direct-Defines
--	 data/source_txt/t1_biology_0_101.deft	 12109	 12110	 I-Term	 T108	 0	 Direct-Defines
-dominant	 data/source_txt/t1_biology_0_101.deft	 12110	 12118	 I-Term	 T108	 0	 Direct-Defines
+diploid	 data/source_txt/t1_biology_0_101.deft	 12102	 12109	 B-Term	 T108	 0	 0
+-	 data/source_txt/t1_biology_0_101.deft	 12109	 12110	 I-Term	 T108	 0	 0
+dominant	 data/source_txt/t1_biology_0_101.deft	 12110	 12118	 I-Term	 T108	 0	 0
 ,	 data/source_txt/t1_biology_0_101.deft	 12118	 12119	 O	 -1	 -1	 0
 in	 data/source_txt/t1_biology_0_101.deft	 12120	 12122	 O	 -1	 -1	 0
 which	 data/source_txt/t1_biology_0_101.deft	 12123	 12128	 O	 -1	 -1	 0
@@ -2341,9 +2341,9 @@ animals	 data/source_txt/t1_biology_0_101.deft	 12211	 12218	 I-Definition	 T109
 including	 data/source_txt/t1_biology_0_101.deft	 12219	 12228	 I-Definition	 T109	 T108	 Direct-Defines
 humans	 data/source_txt/t1_biology_0_101.deft	 12229	 12235	 I-Definition	 T109	 T108	 Direct-Defines
 ;	 data/source_txt/t1_biology_0_101.deft	 12235	 12236	 O	 -1	 -1	 0
-haploid	 data/source_txt/t1_biology_0_101.deft	 12237	 12244	 B-Term	 T110	 0	 Direct-Defines
--	 data/source_txt/t1_biology_0_101.deft	 12244	 12245	 I-Term	 T110	 0	 Direct-Defines
-dominant	 data/source_txt/t1_biology_0_101.deft	 12245	 12253	 I-Term	 T110	 0	 Direct-Defines
+haploid	 data/source_txt/t1_biology_0_101.deft	 12237	 12244	 B-Term	 T110	 0	 0
+-	 data/source_txt/t1_biology_0_101.deft	 12244	 12245	 I-Term	 T110	 0	 0
+dominant	 data/source_txt/t1_biology_0_101.deft	 12245	 12253	 I-Term	 T110	 0	 0
 ,	 data/source_txt/t1_biology_0_101.deft	 12253	 12254	 O	 -1	 -1	 0
 in	 data/source_txt/t1_biology_0_101.deft	 12255	 12257	 O	 -1	 -1	 0
 which	 data/source_txt/t1_biology_0_101.deft	 12258	 12263	 O	 -1	 -1	 0
@@ -2368,9 +2368,9 @@ some	 data/source_txt/t1_biology_0_101.deft	 12355	 12359	 I-Definition	 T111	 T
 algae	 data/source_txt/t1_biology_0_101.deft	 12360	 12365	 I-Definition	 T111	 T110	 Direct-Defines
 ;	 data/source_txt/t1_biology_0_101.deft	 12365	 12366	 O	 -1	 -1	 0
 and	 data/source_txt/t1_biology_0_101.deft	 12367	 12370	 O	 -1	 -1	 0
-alternation	 data/source_txt/t1_biology_0_101.deft	 12371	 12382	 B-Term	 T112	 0	 Direct-Defines
-of	 data/source_txt/t1_biology_0_101.deft	 12383	 12385	 I-Term	 T112	 0	 Direct-Defines
-generations	 data/source_txt/t1_biology_0_101.deft	 12386	 12397	 I-Term	 T112	 0	 Direct-Defines
+alternation	 data/source_txt/t1_biology_0_101.deft	 12371	 12382	 B-Term	 T112	 0	 0
+of	 data/source_txt/t1_biology_0_101.deft	 12383	 12385	 I-Term	 T112	 0	 0
+generations	 data/source_txt/t1_biology_0_101.deft	 12386	 12397	 I-Term	 T112	 0	 0
 ,	 data/source_txt/t1_biology_0_101.deft	 12397	 12398	 O	 -1	 -1	 0
 in	 data/source_txt/t1_biology_0_101.deft	 12399	 12401	 O	 -1	 -1	 0
 which	 data/source_txt/t1_biology_0_101.deft	 12402	 12407	 O	 -1	 -1	 0
@@ -2404,9 +2404,9 @@ between	 data/source_txt/t1_biology_0_101.deft	 12540	 12547	 I-Definition	 T115
 the	 data/source_txt/t1_biology_0_101.deft	 12548	 12551	 I-Definition	 T115	 T114	 Direct-Defines
 gametes	 data/source_txt/t1_biology_0_101.deft	 12552	 12559	 I-Definition	 T115	 T114	 Direct-Defines
 forms	 data/source_txt/t1_biology_0_101.deft	 12560	 12565	 O	 -1	 -1	 0
-a	 data/source_txt/t1_biology_0_101.deft	 12566	 12567	 B-Term	 T114	 0	 Direct-Defines
-diploid	 data/source_txt/t1_biology_0_101.deft	 12568	 12575	 I-Term	 T114	 0	 Direct-Defines
-zygote	 data/source_txt/t1_biology_0_101.deft	 12576	 12582	 I-Term	 T114	 0	 Direct-Defines
+a	 data/source_txt/t1_biology_0_101.deft	 12566	 12567	 B-Term	 T114	 0	 0
+diploid	 data/source_txt/t1_biology_0_101.deft	 12568	 12575	 I-Term	 T114	 0	 0
+zygote	 data/source_txt/t1_biology_0_101.deft	 12576	 12582	 I-Term	 T114	 0	 0
 .	 data/source_txt/t1_biology_0_101.deft	 12582	 12583	 O	 -1	 -1	 0
 
 The	 data/source_txt/t1_biology_0_101.deft	 12592	 12595	 O	 -1	 -1	 0
@@ -2426,8 +2426,8 @@ diploid	 data/source_txt/t1_biology_0_101.deft	 12658	 12665	 I-Definition	 T117
 multicellular	 data/source_txt/t1_biology_0_101.deft	 12666	 12679	 I-Definition	 T117	 T116	 Direct-Defines
 plant	 data/source_txt/t1_biology_0_101.deft	 12680	 12685	 I-Definition	 T117	 T116	 Direct-Defines
 called	 data/source_txt/t1_biology_0_101.deft	 12686	 12692	 O	 -1	 -1	 0
-a	 data/source_txt/t1_biology_0_101.deft	 12693	 12694	 B-Term	 T116	 0	 Direct-Defines
-sporophyte	 data/source_txt/t1_biology_0_101.deft	 12695	 12705	 I-Term	 T116	 0	 Direct-Defines
+a	 data/source_txt/t1_biology_0_101.deft	 12693	 12694	 B-Term	 T116	 0	 0
+sporophyte	 data/source_txt/t1_biology_0_101.deft	 12695	 12705	 I-Term	 T116	 0	 0
 .	 data/source_txt/t1_biology_0_101.deft	 12705	 12706	 O	 -1	 -1	 0
 
 Specialized	 data/source_txt/t1_biology_0_101.deft	 12713	 12724	 O	 -1	 -1	 0
@@ -2472,11 +2472,11 @@ continuous	 data/source_txt/t1_biology_0_101.deft	 12909	 12919	 O	 -1	 -1	 0
 variation	 data/source_txt/t1_biology_0_101.deft	 12920	 12929	 O	 -1	 -1	 0
 .	 data/source_txt/t1_biology_0_101.deft	 12929	 12930	 O	 -1	 -1	 0
 
-The	 data/source_txt/t1_biology_0_101.deft	 12939	 12942	 B-Term	 T118	 0	 Direct-Defines
-blending	 data/source_txt/t1_biology_0_101.deft	 12943	 12951	 I-Term	 T118	 0	 Direct-Defines
-theory	 data/source_txt/t1_biology_0_101.deft	 12952	 12958	 I-Term	 T118	 0	 Direct-Defines
-of	 data/source_txt/t1_biology_0_101.deft	 12959	 12961	 I-Term	 T118	 0	 Direct-Defines
-inheritance	 data/source_txt/t1_biology_0_101.deft	 12962	 12973	 I-Term	 T118	 0	 Direct-Defines
+The	 data/source_txt/t1_biology_0_101.deft	 12939	 12942	 B-Term	 T118	 0	 0
+blending	 data/source_txt/t1_biology_0_101.deft	 12943	 12951	 I-Term	 T118	 0	 0
+theory	 data/source_txt/t1_biology_0_101.deft	 12952	 12958	 I-Term	 T118	 0	 0
+of	 data/source_txt/t1_biology_0_101.deft	 12959	 12961	 I-Term	 T118	 0	 0
+inheritance	 data/source_txt/t1_biology_0_101.deft	 12962	 12973	 I-Term	 T118	 0	 0
 asserted	 data/source_txt/t1_biology_0_101.deft	 12974	 12982	 B-Definition	 T119	 T118	 Direct-Defines
 that	 data/source_txt/t1_biology_0_101.deft	 12983	 12987	 I-Definition	 T119	 T118	 Direct-Defines
 the	 data/source_txt/t1_biology_0_101.deft	 12988	 12991	 I-Definition	 T119	 T118	 Direct-Defines
@@ -2532,11 +2532,11 @@ called	 data/source_txt/t1_biology_0_101.deft	 13226	 13232	 O	 -1	 -1	 0
 P0	 data/source_txt/t1_biology_0_101.deft	 13233	 13235	 B-Alias-Term	 T121	 T68	 AKA
 ,	 data/source_txt/t1_biology_0_101.deft	 13235	 13236	 O	 -1	 -1	 0
 or	 data/source_txt/t1_biology_0_101.deft	 13237	 13239	 O	 -1	 -1	 0
-parental	 data/source_txt/t1_biology_0_101.deft	 13240	 13248	 B-Term	 T68	 0	 Direct-Defines
-generation	 data/source_txt/t1_biology_0_101.deft	 13249	 13259	 I-Term	 T68	 0	 Direct-Defines
-one	 data/source_txt/t1_biology_0_101.deft	 13260	 13263	 I-Term	 T68	 0	 Direct-Defines
-,	 data/source_txt/t1_biology_0_101.deft	 13263	 13264	 I-Term	 T68	 0	 Direct-Defines
-plants	 data/source_txt/t1_biology_0_101.deft	 13265	 13271	 I-Term	 T68	 0	 Direct-Defines
+parental	 data/source_txt/t1_biology_0_101.deft	 13240	 13248	 B-Term	 T68	 0	 0
+generation	 data/source_txt/t1_biology_0_101.deft	 13249	 13259	 I-Term	 T68	 0	 0
+one	 data/source_txt/t1_biology_0_101.deft	 13260	 13263	 I-Term	 T68	 0	 0
+,	 data/source_txt/t1_biology_0_101.deft	 13263	 13264	 I-Term	 T68	 0	 0
+plants	 data/source_txt/t1_biology_0_101.deft	 13265	 13271	 I-Term	 T68	 0	 0
 (	 data/source_txt/t1_biology_0_101.deft	 13272	 13273	 O	 -1	 -1	 0
 [	 data/source_txt/t1_biology_0_101.deft	 13273	 13274	 O	 -1	 -1	 0
 link	 data/source_txt/t1_biology_0_101.deft	 13274	 13278	 O	 -1	 -1	 0
@@ -2594,8 +2594,8 @@ contrasting	 data/source_txt/t1_biology_0_101.deft	 13541	 13552	 O	 -1	 -1	 0
 traits	 data/source_txt/t1_biology_0_101.deft	 13553	 13559	 O	 -1	 -1	 0
 .	 data/source_txt/t1_biology_0_101.deft	 13559	 13560	 O	 -1	 -1	 0
 
-A	 data/source_txt/t1_biology_0_101.deft	 13569	 13570	 B-Term	 T123	 0	 Direct-Defines
-trait	 data/source_txt/t1_biology_0_101.deft	 13571	 13576	 I-Term	 T123	 0	 Direct-Defines
+A	 data/source_txt/t1_biology_0_101.deft	 13569	 13570	 B-Term	 T123	 0	 0
+trait	 data/source_txt/t1_biology_0_101.deft	 13571	 13576	 I-Term	 T123	 0	 0
 is	 data/source_txt/t1_biology_0_101.deft	 13577	 13579	 O	 -1	 -1	 0
 defined	 data/source_txt/t1_biology_0_101.deft	 13580	 13587	 O	 -1	 -1	 0
 as	 data/source_txt/t1_biology_0_101.deft	 13588	 13590	 O	 -1	 -1	 0
@@ -2643,8 +2643,8 @@ position	 data/source_txt/t1_biology_0_101.deft	 13790	 13798	 O	 -1	 -1	 0
 428	 data/source_txt/t1_biology_0_101.deft	 13803	 13806	 O	 -1	 -1	 0
 .	 data/source_txt/t1_biology_0_101.deft	 13806	 13807	 O	 -1	 -1	 0
 
-Dominant	 data/source_txt/t1_biology_0_101.deft	 13808	 13816	 B-Term	 T125	 0	 Direct-Defines
-traits	 data/source_txt/t1_biology_0_101.deft	 13817	 13823	 I-Term	 T125	 0	 Direct-Defines
+Dominant	 data/source_txt/t1_biology_0_101.deft	 13808	 13816	 B-Term	 T125	 0	 0
+traits	 data/source_txt/t1_biology_0_101.deft	 13817	 13823	 I-Term	 T125	 0	 0
 are	 data/source_txt/t1_biology_0_101.deft	 13824	 13827	 O	 -1	 -1	 0
 those	 data/source_txt/t1_biology_0_101.deft	 13828	 13833	 B-Definition	 T126	 T125	 Direct-Defines
 that	 data/source_txt/t1_biology_0_101.deft	 13834	 13838	 I-Definition	 T126	 T125	 Direct-Defines
@@ -2656,20 +2656,20 @@ a	 data/source_txt/t1_biology_0_101.deft	 13866	 13867	 I-Definition	 T126	 T125
 hybridization	 data/source_txt/t1_biology_0_101.deft	 13868	 13881	 I-Definition	 T126	 T125	 Direct-Defines
 .	 data/source_txt/t1_biology_0_101.deft	 13881	 13882	 O	 -1	 -1	 0
 
-Recessive	 data/source_txt/t1_biology_0_101.deft	 13891	 13900	 B-Term	 T127	 0	 Direct-Defines
-traits	 data/source_txt/t1_biology_0_101.deft	 13901	 13907	 I-Term	 T127	 0	 Direct-Defines
-become	 data/source_txt/t1_biology_0_101.deft	 13908	 13914	 B-Definition	 T128	 0	 Supplements
-latent	 data/source_txt/t1_biology_0_101.deft	 13915	 13921	 I-Definition	 T128	 0	 Supplements
-,	 data/source_txt/t1_biology_0_101.deft	 13921	 13922	 I-Definition	 T128	 0	 Supplements
-or	 data/source_txt/t1_biology_0_101.deft	 13923	 13925	 I-Definition	 T128	 0	 Supplements
-disappear	 data/source_txt/t1_biology_0_101.deft	 13926	 13935	 I-Definition	 T128	 0	 Supplements
-,	 data/source_txt/t1_biology_0_101.deft	 13935	 13936	 I-Definition	 T128	 0	 Supplements
-in	 data/source_txt/t1_biology_0_101.deft	 13937	 13939	 I-Definition	 T128	 0	 Supplements
-the	 data/source_txt/t1_biology_0_101.deft	 13940	 13943	 I-Definition	 T128	 0	 Supplements
-offspring	 data/source_txt/t1_biology_0_101.deft	 13944	 13953	 I-Definition	 T128	 0	 Supplements
-of	 data/source_txt/t1_biology_0_101.deft	 13954	 13956	 I-Definition	 T128	 0	 Supplements
-a	 data/source_txt/t1_biology_0_101.deft	 13957	 13958	 I-Definition	 T128	 0	 Supplements
-hybridization	 data/source_txt/t1_biology_0_101.deft	 13959	 13972	 I-Definition	 T128	 0	 Supplements
+Recessive	 data/source_txt/t1_biology_0_101.deft	 13891	 13900	 B-Term	 T127	 0	 0
+traits	 data/source_txt/t1_biology_0_101.deft	 13901	 13907	 I-Term	 T127	 0	 0
+become	 data/source_txt/t1_biology_0_101.deft	 13908	 13914	 B-Definition	 T128	 T127	 Direct-Defines
+latent	 data/source_txt/t1_biology_0_101.deft	 13915	 13921	 I-Definition	 T128	 T127	 Direct-Defines
+,	 data/source_txt/t1_biology_0_101.deft	 13921	 13922	 I-Definition	 T128	 T127	 Direct-Defines
+or	 data/source_txt/t1_biology_0_101.deft	 13923	 13925	 I-Definition	 T128	 T127	 Direct-Defines
+disappear	 data/source_txt/t1_biology_0_101.deft	 13926	 13935	 I-Definition	 T128	 T127	 Direct-Defines
+,	 data/source_txt/t1_biology_0_101.deft	 13935	 13936	 I-Definition	 T128	 T127	 Direct-Defines
+in	 data/source_txt/t1_biology_0_101.deft	 13937	 13939	 I-Definition	 T128	 T127	 Direct-Defines
+the	 data/source_txt/t1_biology_0_101.deft	 13940	 13943	 I-Definition	 T128	 T127	 Direct-Defines
+offspring	 data/source_txt/t1_biology_0_101.deft	 13944	 13953	 I-Definition	 T128	 T127	 Direct-Defines
+of	 data/source_txt/t1_biology_0_101.deft	 13954	 13956	 I-Definition	 T128	 T127	 Direct-Defines
+a	 data/source_txt/t1_biology_0_101.deft	 13957	 13958	 I-Definition	 T128	 T127	 Direct-Defines
+hybridization	 data/source_txt/t1_biology_0_101.deft	 13959	 13972	 I-Definition	 T128	 T127	 Direct-Defines
 .	 data/source_txt/t1_biology_0_101.deft	 13972	 13973	 O	 -1	 -1	 0
 
 The	 data/source_txt/t1_biology_0_101.deft	 13980	 13983	 B-Secondary-Definition	 T71	 T128	 Supplements
@@ -2744,7 +2744,7 @@ homologous	 data/source_txt/t1_biology_0_101.deft	 14338	 14348	 I-Definition	 T
 chromosomes	 data/source_txt/t1_biology_0_101.deft	 14349	 14360	 I-Definition	 T130	 T129	 Direct-Defines
 are	 data/source_txt/t1_biology_0_101.deft	 14361	 14364	 O	 -1	 -1	 0
 called	 data/source_txt/t1_biology_0_101.deft	 14365	 14371	 O	 -1	 -1	 0
-alleles	 data/source_txt/t1_biology_0_101.deft	 14372	 14379	 B-Term	 T129	 0	 Direct-Defines
+alleles	 data/source_txt/t1_biology_0_101.deft	 14372	 14379	 B-Term	 T129	 0	 0
 .	 data/source_txt/t1_biology_0_101.deft	 14379	 14380	 O	 -1	 -1	 0
 
 Mendel	 data/source_txt/t1_biology_0_101.deft	 14387	 14393	 O	 -1	 -1	 0
@@ -2885,17 +2885,17 @@ seeds	 data/source_txt/t1_biology_0_101.deft	 15073	 15078	 O	 -1	 -1	 0
 respectively	 data/source_txt/t1_biology_0_101.deft	 15080	 15092	 O	 -1	 -1	 0
 .	 data/source_txt/t1_biology_0_101.deft	 15092	 15093	 O	 -1	 -1	 0
 
-A	 data/source_txt/t1_biology_0_101.deft	 15102	 15103	 B-Term	 T131	 0	 Direct-Defines
-Punnett	 data/source_txt/t1_biology_0_101.deft	 15104	 15111	 I-Term	 T131	 0	 Direct-Defines
-square	 data/source_txt/t1_biology_0_101.deft	 15112	 15118	 I-Term	 T131	 0	 Direct-Defines
+A	 data/source_txt/t1_biology_0_101.deft	 15102	 15103	 B-Term	 T131	 0	 0
+Punnett	 data/source_txt/t1_biology_0_101.deft	 15104	 15111	 I-Term	 T131	 0	 0
+square	 data/source_txt/t1_biology_0_101.deft	 15112	 15118	 I-Term	 T131	 0	 0
 ,	 data/source_txt/t1_biology_0_101.deft	 15118	 15119	 O	 -1	 -1	 0
 devised	 data/source_txt/t1_biology_0_101.deft	 15120	 15127	 O	 -1	 -1	 0
 by	 data/source_txt/t1_biology_0_101.deft	 15128	 15130	 O	 -1	 -1	 0
 the	 data/source_txt/t1_biology_0_101.deft	 15131	 15134	 B-Definition	 T133	 T134	 Direct-Defines
 British	 data/source_txt/t1_biology_0_101.deft	 15135	 15142	 I-Definition	 T133	 T134	 Direct-Defines
 geneticist	 data/source_txt/t1_biology_0_101.deft	 15143	 15153	 I-Definition	 T133	 T134	 Direct-Defines
-Reginald	 data/source_txt/t1_biology_0_101.deft	 15154	 15162	 B-Term	 T134	 0	 Direct-Defines
-Punnett	 data/source_txt/t1_biology_0_101.deft	 15163	 15170	 I-Term	 T134	 0	 Direct-Defines
+Reginald	 data/source_txt/t1_biology_0_101.deft	 15154	 15162	 B-Term	 T134	 0	 0
+Punnett	 data/source_txt/t1_biology_0_101.deft	 15163	 15170	 I-Term	 T134	 0	 0
 ,	 data/source_txt/t1_biology_0_101.deft	 15170	 15171	 O	 -1	 -1	 0
 can	 data/source_txt/t1_biology_0_101.deft	 15172	 15175	 O	 -1	 -1	 0
 be	 data/source_txt/t1_biology_0_101.deft	 15176	 15178	 O	 -1	 -1	 0
@@ -3001,8 +3001,8 @@ inheritance	 data/source_txt/t1_biology_0_101.deft	 15731	 15742	 O	 -1	 -1	 0
 is	 data/source_txt/t1_biology_0_101.deft	 15743	 15745	 O	 -1	 -1	 0
 described	 data/source_txt/t1_biology_0_101.deft	 15746	 15755	 O	 -1	 -1	 0
 as	 data/source_txt/t1_biology_0_101.deft	 15756	 15758	 O	 -1	 -1	 0
-incomplete	 data/source_txt/t1_biology_0_101.deft	 15759	 15769	 B-Term	 T135	 0	 Direct-Defines
-dominance	 data/source_txt/t1_biology_0_101.deft	 15770	 15779	 I-Term	 T135	 0	 Direct-Defines
+incomplete	 data/source_txt/t1_biology_0_101.deft	 15759	 15769	 B-Term	 T135	 0	 0
+dominance	 data/source_txt/t1_biology_0_101.deft	 15770	 15779	 I-Term	 T135	 0	 0
 ,	 data/source_txt/t1_biology_0_101.deft	 15779	 15780	 O	 -1	 -1	 0
 denoting	 data/source_txt/t1_biology_0_101.deft	 15781	 15789	 B-Definition	 T136	 T135	 Direct-Defines
 the	 data/source_txt/t1_biology_0_101.deft	 15790	 15793	 I-Definition	 T136	 T135	 Direct-Defines
@@ -3094,7 +3094,7 @@ or	 data/source_txt/t1_biology_0_101.deft	 16244	 16246	 O	 -1	 -1	 0
 genotypes	 data/source_txt/t1_biology_0_101.deft	 16247	 16256	 O	 -1	 -1	 0
 are	 data/source_txt/t1_biology_0_101.deft	 16257	 16260	 O	 -1	 -1	 0
 considered	 data/source_txt/t1_biology_0_101.deft	 16261	 16271	 O	 -1	 -1	 0
-variants	 data/source_txt/t1_biology_0_101.deft	 16272	 16280	 B-Term	 T120	 0	 Direct-Defines
+variants	 data/source_txt/t1_biology_0_101.deft	 16272	 16280	 B-Term	 T120	 0	 0
 of	 data/source_txt/t1_biology_0_101.deft	 16281	 16283	 O	 -1	 -1	 0
 this	 data/source_txt/t1_biology_0_101.deft	 16284	 16288	 O	 -1	 -1	 0
 standard	 data/source_txt/t1_biology_0_101.deft	 16289	 16297	 O	 -1	 -1	 0
@@ -3155,7 +3155,7 @@ are	 data/source_txt/t1_biology_0_101.deft	 16547	 16550	 O	 -1	 -1	 0
 said	 data/source_txt/t1_biology_0_101.deft	 16551	 16555	 O	 -1	 -1	 0
 to	 data/source_txt/t1_biology_0_101.deft	 16556	 16558	 O	 -1	 -1	 0
 be	 data/source_txt/t1_biology_0_101.deft	 16559	 16561	 O	 -1	 -1	 0
-hemizygous	 data/source_txt/t1_biology_0_101.deft	 16562	 16572	 B-Term	 T137	 0	 Direct-Defines
+hemizygous	 data/source_txt/t1_biology_0_101.deft	 16562	 16572	 B-Term	 T137	 0	 0
 ,	 data/source_txt/t1_biology_0_101.deft	 16572	 16573	 O	 -1	 -1	 0
 because	 data/source_txt/t1_biology_0_101.deft	 16574	 16581	 O	 -1	 -1	 0
 they	 data/source_txt/t1_biology_0_101.deft	 16582	 16586	 O	 -1	 -1	 0
@@ -3189,30 +3189,30 @@ males	 data/source_txt/t1_biology_0_101.deft	 16732	 16737	 O	 -1	 -1	 0
 449	 data/source_txt/t1_biology_0_101.deft	 16742	 16745	 O	 -1	 -1	 0
 .	 data/source_txt/t1_biology_0_101.deft	 16745	 16746	 O	 -1	 -1	 0
 
-Mendel	 data/source_txt/t1_biology_0_101.deft	 16756	 16762	 B-Term	 T139	 0	 Direct-Defines
-’s	 data/source_txt/t1_biology_0_101.deft	 16762	 16764	 I-Term	 T139	 0	 Direct-Defines
-law	 data/source_txt/t1_biology_0_101.deft	 16765	 16768	 I-Term	 T139	 0	 Direct-Defines
-of	 data/source_txt/t1_biology_0_101.deft	 16769	 16771	 I-Term	 T139	 0	 Direct-Defines
-dominance	 data/source_txt/t1_biology_0_101.deft	 16772	 16781	 I-Term	 T139	 0	 Direct-Defines
-states	 data/source_txt/t1_biology_0_101.deft	 16782	 16788	 B-Definition	 T140	 0	 Supplements
-that	 data/source_txt/t1_biology_0_101.deft	 16789	 16793	 I-Definition	 T140	 0	 Supplements
-in	 data/source_txt/t1_biology_0_101.deft	 16794	 16796	 I-Definition	 T140	 0	 Supplements
-a	 data/source_txt/t1_biology_0_101.deft	 16797	 16798	 I-Definition	 T140	 0	 Supplements
-heterozygote	 data/source_txt/t1_biology_0_101.deft	 16799	 16811	 I-Definition	 T140	 0	 Supplements
-,	 data/source_txt/t1_biology_0_101.deft	 16811	 16812	 I-Definition	 T140	 0	 Supplements
-one	 data/source_txt/t1_biology_0_101.deft	 16813	 16816	 I-Definition	 T140	 0	 Supplements
-trait	 data/source_txt/t1_biology_0_101.deft	 16817	 16822	 I-Definition	 T140	 0	 Supplements
-will	 data/source_txt/t1_biology_0_101.deft	 16823	 16827	 I-Definition	 T140	 0	 Supplements
-conceal	 data/source_txt/t1_biology_0_101.deft	 16828	 16835	 I-Definition	 T140	 0	 Supplements
-the	 data/source_txt/t1_biology_0_101.deft	 16836	 16839	 I-Definition	 T140	 0	 Supplements
-presence	 data/source_txt/t1_biology_0_101.deft	 16840	 16848	 I-Definition	 T140	 0	 Supplements
-of	 data/source_txt/t1_biology_0_101.deft	 16849	 16851	 I-Definition	 T140	 0	 Supplements
-another	 data/source_txt/t1_biology_0_101.deft	 16852	 16859	 I-Definition	 T140	 0	 Supplements
-trait	 data/source_txt/t1_biology_0_101.deft	 16860	 16865	 I-Definition	 T140	 0	 Supplements
-for	 data/source_txt/t1_biology_0_101.deft	 16866	 16869	 I-Definition	 T140	 0	 Supplements
-the	 data/source_txt/t1_biology_0_101.deft	 16870	 16873	 I-Definition	 T140	 0	 Supplements
-same	 data/source_txt/t1_biology_0_101.deft	 16874	 16878	 I-Definition	 T140	 0	 Supplements
-characteristic	 data/source_txt/t1_biology_0_101.deft	 16879	 16893	 I-Definition	 T140	 0	 Supplements
+Mendel	 data/source_txt/t1_biology_0_101.deft	 16756	 16762	 B-Term	 T139	 0	 0
+’s	 data/source_txt/t1_biology_0_101.deft	 16762	 16764	 I-Term	 T139	 0	 0
+law	 data/source_txt/t1_biology_0_101.deft	 16765	 16768	 I-Term	 T139	 0	 0
+of	 data/source_txt/t1_biology_0_101.deft	 16769	 16771	 I-Term	 T139	 0	 0
+dominance	 data/source_txt/t1_biology_0_101.deft	 16772	 16781	 I-Term	 T139	 0	 0
+states	 data/source_txt/t1_biology_0_101.deft	 16782	 16788	 B-Definition	 T140	 T139	 Direct-Defines
+that	 data/source_txt/t1_biology_0_101.deft	 16789	 16793	 I-Definition	 T140	 T139	 Direct-Defines
+in	 data/source_txt/t1_biology_0_101.deft	 16794	 16796	 I-Definition	 T140	 T139	 Direct-Defines
+a	 data/source_txt/t1_biology_0_101.deft	 16797	 16798	 I-Definition	 T140	 T139	 Direct-Defines
+heterozygote	 data/source_txt/t1_biology_0_101.deft	 16799	 16811	 I-Definition	 T140	 T139	 Direct-Defines
+,	 data/source_txt/t1_biology_0_101.deft	 16811	 16812	 I-Definition	 T140	 T139	 Direct-Defines
+one	 data/source_txt/t1_biology_0_101.deft	 16813	 16816	 I-Definition	 T140	 T139	 Direct-Defines
+trait	 data/source_txt/t1_biology_0_101.deft	 16817	 16822	 I-Definition	 T140	 T139	 Direct-Defines
+will	 data/source_txt/t1_biology_0_101.deft	 16823	 16827	 I-Definition	 T140	 T139	 Direct-Defines
+conceal	 data/source_txt/t1_biology_0_101.deft	 16828	 16835	 I-Definition	 T140	 T139	 Direct-Defines
+the	 data/source_txt/t1_biology_0_101.deft	 16836	 16839	 I-Definition	 T140	 T139	 Direct-Defines
+presence	 data/source_txt/t1_biology_0_101.deft	 16840	 16848	 I-Definition	 T140	 T139	 Direct-Defines
+of	 data/source_txt/t1_biology_0_101.deft	 16849	 16851	 I-Definition	 T140	 T139	 Direct-Defines
+another	 data/source_txt/t1_biology_0_101.deft	 16852	 16859	 I-Definition	 T140	 T139	 Direct-Defines
+trait	 data/source_txt/t1_biology_0_101.deft	 16860	 16865	 I-Definition	 T140	 T139	 Direct-Defines
+for	 data/source_txt/t1_biology_0_101.deft	 16866	 16869	 I-Definition	 T140	 T139	 Direct-Defines
+the	 data/source_txt/t1_biology_0_101.deft	 16870	 16873	 I-Definition	 T140	 T139	 Direct-Defines
+same	 data/source_txt/t1_biology_0_101.deft	 16874	 16878	 I-Definition	 T140	 T139	 Direct-Defines
+characteristic	 data/source_txt/t1_biology_0_101.deft	 16879	 16893	 I-Definition	 T140	 T139	 Direct-Defines
 .	 data/source_txt/t1_biology_0_101.deft	 16893	 16894	 O	 -1	 -1	 0
 
 Rather	 data/source_txt/t1_biology_0_101.deft	 16901	 16907	 B-Secondary-Definition	 T141	 T140	 Supplements
@@ -3237,12 +3237,12 @@ exclusively	 data/source_txt/t1_biology_0_101.deft	 16993	 17004	 I-Secondary-De
 452	 data/source_txt/t1_biology_0_101.deft	 17009	 17012	 O	 -1	 -1	 0
 .	 data/source_txt/t1_biology_0_101.deft	 17012	 17013	 O	 -1	 -1	 0
 
-Mendel	 data/source_txt/t1_biology_0_101.deft	 17014	 17020	 B-Term	 T142	 0	 Direct-Defines
-’s	 data/source_txt/t1_biology_0_101.deft	 17020	 17022	 I-Term	 T142	 0	 Direct-Defines
-law	 data/source_txt/t1_biology_0_101.deft	 17023	 17026	 I-Term	 T142	 0	 Direct-Defines
-of	 data/source_txt/t1_biology_0_101.deft	 17027	 17029	 I-Term	 T142	 0	 Direct-Defines
-independent	 data/source_txt/t1_biology_0_101.deft	 17030	 17041	 I-Term	 T142	 0	 Direct-Defines
-assortment	 data/source_txt/t1_biology_0_101.deft	 17042	 17052	 I-Term	 T142	 0	 Direct-Defines
+Mendel	 data/source_txt/t1_biology_0_101.deft	 17014	 17020	 B-Term	 T142	 0	 0
+’s	 data/source_txt/t1_biology_0_101.deft	 17020	 17022	 I-Term	 T142	 0	 0
+law	 data/source_txt/t1_biology_0_101.deft	 17023	 17026	 I-Term	 T142	 0	 0
+of	 data/source_txt/t1_biology_0_101.deft	 17027	 17029	 I-Term	 T142	 0	 0
+independent	 data/source_txt/t1_biology_0_101.deft	 17030	 17041	 I-Term	 T142	 0	 0
+assortment	 data/source_txt/t1_biology_0_101.deft	 17042	 17052	 I-Term	 T142	 0	 0
 states	 data/source_txt/t1_biology_0_101.deft	 17053	 17059	 B-Definition	 T143	 T142	 Direct-Defines
 that	 data/source_txt/t1_biology_0_101.deft	 17060	 17064	 I-Definition	 T143	 T142	 Direct-Defines
 genes	 data/source_txt/t1_biology_0_101.deft	 17065	 17070	 I-Definition	 T143	 T142	 Direct-Defines
@@ -3286,9 +3286,9 @@ can	 data/source_txt/t1_biology_0_101.deft	 17280	 17283	 O	 -1	 -1	 0
 be	 data/source_txt/t1_biology_0_101.deft	 17284	 17286	 O	 -1	 -1	 0
 illustrated	 data/source_txt/t1_biology_0_101.deft	 17287	 17298	 O	 -1	 -1	 0
 by	 data/source_txt/t1_biology_0_101.deft	 17299	 17301	 O	 -1	 -1	 0
-the	 data/source_txt/t1_biology_0_101.deft	 17302	 17305	 B-Term	 T144	 0	 Direct-Defines
-dihybrid	 data/source_txt/t1_biology_0_101.deft	 17306	 17314	 I-Term	 T144	 0	 Direct-Defines
-cross	 data/source_txt/t1_biology_0_101.deft	 17315	 17320	 I-Term	 T144	 0	 Direct-Defines
+the	 data/source_txt/t1_biology_0_101.deft	 17302	 17305	 B-Term	 T144	 0	 0
+dihybrid	 data/source_txt/t1_biology_0_101.deft	 17306	 17314	 I-Term	 T144	 0	 0
+cross	 data/source_txt/t1_biology_0_101.deft	 17315	 17320	 I-Term	 T144	 0	 0
 ,	 data/source_txt/t1_biology_0_101.deft	 17320	 17321	 O	 -1	 -1	 0
 a	 data/source_txt/t1_biology_0_101.deft	 17322	 17323	 B-Definition	 T145	 T144	 Direct-Defines
 cross	 data/source_txt/t1_biology_0_101.deft	 17324	 17329	 I-Definition	 T145	 T144	 Direct-Defines
@@ -3380,11 +3380,11 @@ to	 data/source_txt/t1_biology_0_101.deft	 17759	 17761	 O	 -1	 -1	 0
 the	 data/source_txt/t1_biology_0_101.deft	 17762	 17765	 O	 -1	 -1	 0
 development	 data/source_txt/t1_biology_0_101.deft	 17766	 17777	 O	 -1	 -1	 0
 of	 data/source_txt/t1_biology_0_101.deft	 17778	 17780	 O	 -1	 -1	 0
-the	 data/source_txt/t1_biology_0_101.deft	 17781	 17784	 B-Term	 T146	 0	 Direct-Defines
-Chromosomal	 data/source_txt/t1_biology_0_101.deft	 17785	 17796	 I-Term	 T146	 0	 Direct-Defines
-Theory	 data/source_txt/t1_biology_0_101.deft	 17797	 17803	 I-Term	 T146	 0	 Direct-Defines
-of	 data/source_txt/t1_biology_0_101.deft	 17804	 17806	 I-Term	 T146	 0	 Direct-Defines
-Inheritance	 data/source_txt/t1_biology_0_101.deft	 17807	 17818	 I-Term	 T146	 0	 Direct-Defines
+the	 data/source_txt/t1_biology_0_101.deft	 17781	 17784	 B-Term	 T146	 0	 0
+Chromosomal	 data/source_txt/t1_biology_0_101.deft	 17785	 17796	 I-Term	 T146	 0	 0
+Theory	 data/source_txt/t1_biology_0_101.deft	 17797	 17803	 I-Term	 T146	 0	 0
+of	 data/source_txt/t1_biology_0_101.deft	 17804	 17806	 I-Term	 T146	 0	 0
+Inheritance	 data/source_txt/t1_biology_0_101.deft	 17807	 17818	 I-Term	 T146	 0	 0
 ,	 data/source_txt/t1_biology_0_101.deft	 17818	 17819	 O	 -1	 -1	 0
 which	 data/source_txt/t1_biology_0_101.deft	 17820	 17825	 O	 -1	 -1	 0
 identified	 data/source_txt/t1_biology_0_101.deft	 17826	 17836	 B-Definition	 T147	 T146	 Direct-Defines
@@ -3428,8 +3428,8 @@ during	 data/source_txt/t1_biology_0_101.deft	 18066	 18072	 O	 -1	 -1	 0
 meiosis	 data/source_txt/t1_biology_0_101.deft	 18073	 18080	 O	 -1	 -1	 0
 .	 data/source_txt/t1_biology_0_101.deft	 18080	 18081	 O	 -1	 -1	 0
 
-Parental	 data/source_txt/t1_biology_0_101.deft	 18090	 18098	 B-Term	 T148	 0	 Direct-Defines
-types	 data/source_txt/t1_biology_0_101.deft	 18099	 18104	 I-Term	 T148	 0	 Direct-Defines
+Parental	 data/source_txt/t1_biology_0_101.deft	 18090	 18098	 B-Term	 T148	 0	 0
+types	 data/source_txt/t1_biology_0_101.deft	 18099	 18104	 I-Term	 T148	 0	 0
 are	 data/source_txt/t1_biology_0_101.deft	 18105	 18108	 O	 -1	 -1	 0
 progeny	 data/source_txt/t1_biology_0_101.deft	 18109	 18116	 B-Definition	 T149	 T148	 Direct-Defines
 that	 data/source_txt/t1_biology_0_101.deft	 18117	 18121	 I-Definition	 T149	 T148	 Direct-Defines
@@ -3509,8 +3509,8 @@ in	 data/source_txt/t1_biology_0_101.deft	 18553	 18555	 O	 -1	 -1	 0
 humans	 data/source_txt/t1_biology_0_101.deft	 18556	 18562	 O	 -1	 -1	 0
 .	 data/source_txt/t1_biology_0_101.deft	 18562	 18563	 O	 -1	 -1	 0
 
-A	 data/source_txt/t1_biology_0_101.deft	 18572	 18573	 B-Term	 T150	 0	 Direct-Defines
-karyotype	 data/source_txt/t1_biology_0_101.deft	 18574	 18583	 I-Term	 T150	 0	 Direct-Defines
+A	 data/source_txt/t1_biology_0_101.deft	 18572	 18573	 B-Term	 T150	 0	 0
+karyotype	 data/source_txt/t1_biology_0_101.deft	 18574	 18583	 I-Term	 T150	 0	 0
 is	 data/source_txt/t1_biology_0_101.deft	 18584	 18586	 O	 -1	 -1	 0
 the	 data/source_txt/t1_biology_0_101.deft	 18587	 18590	 B-Definition	 T151	 T150	 Direct-Defines
 number	 data/source_txt/t1_biology_0_101.deft	 18591	 18597	 I-Definition	 T151	 T150	 Direct-Defines
@@ -3558,7 +3558,7 @@ a	 data/source_txt/t1_biology_0_101.deft	 18834	 18835	 I-Definition	 T154	 T152
 chart	 data/source_txt/t1_biology_0_101.deft	 18836	 18841	 I-Definition	 T154	 T152	 Direct-Defines
 ,	 data/source_txt/t1_biology_0_101.deft	 18841	 18842	 O	 -1	 -1	 0
 or	 data/source_txt/t1_biology_0_101.deft	 18843	 18845	 O	 -1	 -1	 0
-karyogram	 data/source_txt/t1_biology_0_101.deft	 18846	 18855	 B-Term	 T152	 0	 AKA
+karyogram	 data/source_txt/t1_biology_0_101.deft	 18846	 18855	 B-Term	 T152	 0	 0
 ,	 data/source_txt/t1_biology_0_101.deft	 18855	 18856	 O	 -1	 -1	 0
 also	 data/source_txt/t1_biology_0_101.deft	 18857	 18861	 O	 -1	 -1	 0
 known	 data/source_txt/t1_biology_0_101.deft	 18862	 18867	 O	 -1	 -1	 0
@@ -3579,8 +3579,8 @@ link	 data/source_txt/t1_biology_0_101.deft	 18885	 18889	 O	 -1	 -1	 0
 For	 data/source_txt/t1_biology_0_101.deft	 18901	 18904	 O	 -1	 -1	 0
 instance	 data/source_txt/t1_biology_0_101.deft	 18905	 18913	 O	 -1	 -1	 0
 ,	 data/source_txt/t1_biology_0_101.deft	 18913	 18914	 O	 -1	 -1	 0
-Jacobsen	 data/source_txt/t1_biology_0_101.deft	 18915	 18923	 B-Term	 T155	 0	 Direct-Defines
-Syndrome	 data/source_txt/t1_biology_0_101.deft	 18924	 18932	 I-Term	 T155	 0	 Direct-Defines
+Jacobsen	 data/source_txt/t1_biology_0_101.deft	 18915	 18923	 B-Term	 T155	 0	 0
+Syndrome	 data/source_txt/t1_biology_0_101.deft	 18924	 18932	 I-Term	 T155	 0	 0
 —	 data/source_txt/t1_biology_0_101.deft	 18932	 18933	 O	 -1	 -1	 0
 which	 data/source_txt/t1_biology_0_101.deft	 18933	 18938	 O	 -1	 -1	 0
 involves	 data/source_txt/t1_biology_0_101.deft	 18939	 18947	 B-Definition	 T156	 T155	 Direct-Defines
@@ -3611,7 +3611,7 @@ the	 data/source_txt/t1_biology_0_101.deft	 19077	 19080	 O	 -1	 -1	 0
 karyotype	 data/source_txt/t1_biology_0_101.deft	 19081	 19090	 O	 -1	 -1	 0
 can	 data/source_txt/t1_biology_0_101.deft	 19091	 19094	 O	 -1	 -1	 0
 pinpoint	 data/source_txt/t1_biology_0_101.deft	 19095	 19103	 O	 -1	 -1	 0
-translocations	 data/source_txt/t1_biology_0_101.deft	 19104	 19118	 B-Term	 T157	 0	 Direct-Defines
+translocations	 data/source_txt/t1_biology_0_101.deft	 19104	 19118	 B-Term	 T157	 0	 0
 ,	 data/source_txt/t1_biology_0_101.deft	 19118	 19119	 O	 -1	 -1	 0
 which	 data/source_txt/t1_biology_0_101.deft	 19120	 19125	 O	 -1	 -1	 0
 occur	 data/source_txt/t1_biology_0_101.deft	 19126	 19131	 B-Definition	 T158	 T157	 Direct-Defines
@@ -3658,20 +3658,20 @@ leukemia	 data/source_txt/t1_biology_0_101.deft	 19364	 19372	 O	 -1	 -1	 0
 467	 data/source_txt/t1_biology_0_101.deft	 19377	 19380	 O	 -1	 -1	 0
 .	 data/source_txt/t1_biology_0_101.deft	 19380	 19381	 O	 -1	 -1	 0
 
-An	 data/source_txt/t1_biology_0_101.deft	 19382	 19384	 B-Definition	 T160	 0	 Supplements
-individual	 data/source_txt/t1_biology_0_101.deft	 19385	 19395	 I-Definition	 T160	 0	 Supplements
-with	 data/source_txt/t1_biology_0_101.deft	 19396	 19400	 I-Definition	 T160	 0	 Supplements
-the	 data/source_txt/t1_biology_0_101.deft	 19401	 19404	 I-Definition	 T160	 0	 Supplements
-appropriate	 data/source_txt/t1_biology_0_101.deft	 19405	 19416	 I-Definition	 T160	 0	 Supplements
-number	 data/source_txt/t1_biology_0_101.deft	 19417	 19423	 I-Definition	 T160	 0	 Supplements
-of	 data/source_txt/t1_biology_0_101.deft	 19424	 19426	 I-Definition	 T160	 0	 Supplements
-chromosomes	 data/source_txt/t1_biology_0_101.deft	 19427	 19438	 I-Definition	 T160	 0	 Supplements
-for	 data/source_txt/t1_biology_0_101.deft	 19439	 19442	 I-Definition	 T160	 0	 Supplements
-their	 data/source_txt/t1_biology_0_101.deft	 19443	 19448	 I-Definition	 T160	 0	 Supplements
-species	 data/source_txt/t1_biology_0_101.deft	 19449	 19456	 I-Definition	 T160	 0	 Supplements
+An	 data/source_txt/t1_biology_0_101.deft	 19382	 19384	 B-Definition	 T160	 T159	 Direct-Defines
+individual	 data/source_txt/t1_biology_0_101.deft	 19385	 19395	 I-Definition	 T160	 T159	 Direct-Defines
+with	 data/source_txt/t1_biology_0_101.deft	 19396	 19400	 I-Definition	 T160	 T159	 Direct-Defines
+the	 data/source_txt/t1_biology_0_101.deft	 19401	 19404	 I-Definition	 T160	 T159	 Direct-Defines
+appropriate	 data/source_txt/t1_biology_0_101.deft	 19405	 19416	 I-Definition	 T160	 T159	 Direct-Defines
+number	 data/source_txt/t1_biology_0_101.deft	 19417	 19423	 I-Definition	 T160	 T159	 Direct-Defines
+of	 data/source_txt/t1_biology_0_101.deft	 19424	 19426	 I-Definition	 T160	 T159	 Direct-Defines
+chromosomes	 data/source_txt/t1_biology_0_101.deft	 19427	 19438	 I-Definition	 T160	 T159	 Direct-Defines
+for	 data/source_txt/t1_biology_0_101.deft	 19439	 19442	 I-Definition	 T160	 T159	 Direct-Defines
+their	 data/source_txt/t1_biology_0_101.deft	 19443	 19448	 I-Definition	 T160	 T159	 Direct-Defines
+species	 data/source_txt/t1_biology_0_101.deft	 19449	 19456	 I-Definition	 T160	 T159	 Direct-Defines
 is	 data/source_txt/t1_biology_0_101.deft	 19457	 19459	 O	 -1	 -1	 0
 called	 data/source_txt/t1_biology_0_101.deft	 19460	 19466	 O	 -1	 -1	 0
-euploid	 data/source_txt/t1_biology_0_101.deft	 19467	 19474	 B-Term	 T159	 0	 Direct-Defines
+euploid	 data/source_txt/t1_biology_0_101.deft	 19467	 19474	 B-Term	 T159	 0	 0
 ;	 data/source_txt/t1_biology_0_101.deft	 19474	 19475	 O	 -1	 -1	 0
 in	 data/source_txt/t1_biology_0_101.deft	 19476	 19478	 B-Secondary-Definition	 T161	 T160	 Supplements
 humans	 data/source_txt/t1_biology_0_101.deft	 19479	 19485	 I-Secondary-Definition	 T161	 T160	 Supplements
@@ -3691,24 +3691,24 @@ sex	 data/source_txt/t1_biology_0_101.deft	 19549	 19552	 I-Secondary-Definition
 chromosomes	 data/source_txt/t1_biology_0_101.deft	 19553	 19564	 I-Secondary-Definition	 T161	 T160	 Supplements
 .	 data/source_txt/t1_biology_0_101.deft	 19564	 19565	 O	 -1	 -1	 0
 
-An	 data/source_txt/t1_biology_0_101.deft	 19574	 19576	 B-Definition	 T163	 0	 Supplements
-individual	 data/source_txt/t1_biology_0_101.deft	 19577	 19587	 I-Definition	 T163	 0	 Supplements
-with	 data/source_txt/t1_biology_0_101.deft	 19588	 19592	 I-Definition	 T163	 0	 Supplements
-an	 data/source_txt/t1_biology_0_101.deft	 19593	 19595	 I-Definition	 T163	 0	 Supplements
-error	 data/source_txt/t1_biology_0_101.deft	 19596	 19601	 I-Definition	 T163	 0	 Supplements
-in	 data/source_txt/t1_biology_0_101.deft	 19602	 19604	 I-Definition	 T163	 0	 Supplements
-chromosome	 data/source_txt/t1_biology_0_101.deft	 19605	 19615	 I-Definition	 T163	 0	 Supplements
-number	 data/source_txt/t1_biology_0_101.deft	 19616	 19622	 I-Definition	 T163	 0	 Supplements
+An	 data/source_txt/t1_biology_0_101.deft	 19574	 19576	 B-Definition	 T163	 T162	 Direct-Defines
+individual	 data/source_txt/t1_biology_0_101.deft	 19577	 19587	 I-Definition	 T163	 T162	 Direct-Defines
+with	 data/source_txt/t1_biology_0_101.deft	 19588	 19592	 I-Definition	 T163	 T162	 Direct-Defines
+an	 data/source_txt/t1_biology_0_101.deft	 19593	 19595	 I-Definition	 T163	 T162	 Direct-Defines
+error	 data/source_txt/t1_biology_0_101.deft	 19596	 19601	 I-Definition	 T163	 T162	 Direct-Defines
+in	 data/source_txt/t1_biology_0_101.deft	 19602	 19604	 I-Definition	 T163	 T162	 Direct-Defines
+chromosome	 data/source_txt/t1_biology_0_101.deft	 19605	 19615	 I-Definition	 T163	 T162	 Direct-Defines
+number	 data/source_txt/t1_biology_0_101.deft	 19616	 19622	 I-Definition	 T163	 T162	 Direct-Defines
 is	 data/source_txt/t1_biology_0_101.deft	 19623	 19625	 O	 -1	 -1	 0
 described	 data/source_txt/t1_biology_0_101.deft	 19626	 19635	 O	 -1	 -1	 0
 as	 data/source_txt/t1_biology_0_101.deft	 19636	 19638	 O	 -1	 -1	 0
-aneuploid	 data/source_txt/t1_biology_0_101.deft	 19639	 19648	 B-Term	 T162	 0	 Direct-Defines
+aneuploid	 data/source_txt/t1_biology_0_101.deft	 19639	 19648	 B-Term	 T162	 0	 0
 ,	 data/source_txt/t1_biology_0_101.deft	 19648	 19649	 O	 -1	 -1	 0
 a	 data/source_txt/t1_biology_0_101.deft	 19650	 19651	 O	 -1	 -1	 0
 term	 data/source_txt/t1_biology_0_101.deft	 19652	 19656	 O	 -1	 -1	 0
 that	 data/source_txt/t1_biology_0_101.deft	 19657	 19661	 O	 -1	 -1	 0
 includes	 data/source_txt/t1_biology_0_101.deft	 19662	 19670	 O	 -1	 -1	 0
-monosomy	 data/source_txt/t1_biology_0_101.deft	 19671	 19679	 B-Term	 T165	 0	 Direct-Defines
+monosomy	 data/source_txt/t1_biology_0_101.deft	 19671	 19679	 B-Term	 T165	 0	 0
 (	 data/source_txt/t1_biology_0_101.deft	 19680	 19681	 O	 -1	 -1	 0
 loss	 data/source_txt/t1_biology_0_101.deft	 19681	 19685	 B-Definition	 T166	 T165	 Direct-Defines
 of	 data/source_txt/t1_biology_0_101.deft	 19686	 19688	 I-Definition	 T166	 T165	 Direct-Defines
@@ -3716,7 +3716,7 @@ one	 data/source_txt/t1_biology_0_101.deft	 19689	 19692	 I-Definition	 T166	 T1
 chromosome	 data/source_txt/t1_biology_0_101.deft	 19693	 19703	 I-Definition	 T166	 T165	 Direct-Defines
 )	 data/source_txt/t1_biology_0_101.deft	 19703	 19704	 O	 -1	 -1	 0
 or	 data/source_txt/t1_biology_0_101.deft	 19705	 19707	 O	 -1	 -1	 0
-trisomy	 data/source_txt/t1_biology_0_101.deft	 19708	 19715	 B-Term	 T167	 0	 Direct-Defines
+trisomy	 data/source_txt/t1_biology_0_101.deft	 19708	 19715	 B-Term	 T167	 0	 0
 (	 data/source_txt/t1_biology_0_101.deft	 19716	 19717	 O	 -1	 -1	 0
 gain	 data/source_txt/t1_biology_0_101.deft	 19717	 19721	 B-Definition	 T168	 T167	 Direct-Defines
 of	 data/source_txt/t1_biology_0_101.deft	 19722	 19724	 I-Definition	 T168	 T167	 Direct-Defines
@@ -3753,9 +3753,9 @@ genes	 data/source_txt/t1_biology_0_101.deft	 19882	 19887	 O	 -1	 -1	 0
 470	 data/source_txt/t1_biology_0_101.deft	 19892	 19895	 O	 -1	 -1	 0
 .	 data/source_txt/t1_biology_0_101.deft	 19895	 19896	 O	 -1	 -1	 0
 
-A	 data/source_txt/t1_biology_0_101.deft	 19905	 19906	 B-Term	 T169	 0	 Direct-Defines
-chromosome	 data/source_txt/t1_biology_0_101.deft	 19907	 19917	 I-Term	 T169	 0	 Direct-Defines
-inversion	 data/source_txt/t1_biology_0_101.deft	 19918	 19927	 I-Term	 T169	 0	 Direct-Defines
+A	 data/source_txt/t1_biology_0_101.deft	 19905	 19906	 B-Term	 T169	 0	 0
+chromosome	 data/source_txt/t1_biology_0_101.deft	 19907	 19917	 I-Term	 T169	 0	 0
+inversion	 data/source_txt/t1_biology_0_101.deft	 19918	 19927	 I-Term	 T169	 0	 0
 is	 data/source_txt/t1_biology_0_101.deft	 19928	 19930	 O	 -1	 -1	 0
 the	 data/source_txt/t1_biology_0_101.deft	 19931	 19934	 B-Definition	 T170	 T169	 Direct-Defines
 detachment	 data/source_txt/t1_biology_0_101.deft	 19935	 19945	 I-Definition	 T170	 T169	 Direct-Defines
@@ -3790,8 +3790,8 @@ from	 data/source_txt/t1_biology_0_101.deft	 20076	 20080	 O	 -1	 -1	 0
 the	 data/source_txt/t1_biology_0_101.deft	 20081	 20084	 O	 -1	 -1	 0
 action	 data/source_txt/t1_biology_0_101.deft	 20085	 20091	 O	 -1	 -1	 0
 of	 data/source_txt/t1_biology_0_101.deft	 20092	 20094	 O	 -1	 -1	 0
-transposable	 data/source_txt/t1_biology_0_101.deft	 20095	 20107	 B-Term	 T171	 0	 Direct-Defines
-elements	 data/source_txt/t1_biology_0_101.deft	 20108	 20116	 I-Term	 T171	 0	 Direct-Defines
+transposable	 data/source_txt/t1_biology_0_101.deft	 20095	 20107	 B-Term	 T171	 0	 0
+elements	 data/source_txt/t1_biology_0_101.deft	 20108	 20116	 I-Term	 T171	 0	 0
 (	 data/source_txt/t1_biology_0_101.deft	 20117	 20118	 O	 -1	 -1	 0
 special	 data/source_txt/t1_biology_0_101.deft	 20118	 20125	 B-Definition	 T172	 T171	 Direct-Defines
 DNA	 data/source_txt/t1_biology_0_101.deft	 20126	 20129	 I-Definition	 T172	 T171	 Direct-Defines
@@ -3868,8 +3868,8 @@ the	 data/source_txt/t1_biology_0_101.deft	 20517	 20520	 O	 -1	 -1	 0
 first	 data/source_txt/t1_biology_0_101.deft	 20521	 20526	 O	 -1	 -1	 0
 demonstration	 data/source_txt/t1_biology_0_101.deft	 20527	 20540	 O	 -1	 -1	 0
 of	 data/source_txt/t1_biology_0_101.deft	 20541	 20543	 O	 -1	 -1	 0
-bacterial	 data/source_txt/t1_biology_0_101.deft	 20544	 20553	 B-Term	 T177	 0	 Direct-Defines
-transformation	 data/source_txt/t1_biology_0_101.deft	 20554	 20568	 I-Term	 T177	 0	 Direct-Defines
+bacterial	 data/source_txt/t1_biology_0_101.deft	 20544	 20553	 B-Term	 T177	 0	 0
+transformation	 data/source_txt/t1_biology_0_101.deft	 20554	 20568	 I-Term	 T177	 0	 0
 ,	 data/source_txt/t1_biology_0_101.deft	 20568	 20569	 O	 -1	 -1	 0
 a	 data/source_txt/t1_biology_0_101.deft	 20570	 20571	 B-Definition	 T178	 T177	 Direct-Defines
 process	 data/source_txt/t1_biology_0_101.deft	 20572	 20579	 I-Definition	 T178	 T177	 Direct-Defines
@@ -3895,8 +3895,8 @@ He	 data/source_txt/t1_biology_0_101.deft	 20675	 20677	 O	 -1	 -1	 0
 was	 data/source_txt/t1_biology_0_101.deft	 20678	 20681	 O	 -1	 -1	 0
 working	 data/source_txt/t1_biology_0_101.deft	 20682	 20689	 O	 -1	 -1	 0
 with	 data/source_txt/t1_biology_0_101.deft	 20690	 20694	 O	 -1	 -1	 0
-Streptococcus	 data/source_txt/t1_biology_0_101.deft	 20695	 20708	 B-Term	 T175	 0	 Direct-Defines
-pneumoniae	 data/source_txt/t1_biology_0_101.deft	 20709	 20719	 I-Term	 T175	 0	 Direct-Defines
+Streptococcus	 data/source_txt/t1_biology_0_101.deft	 20695	 20708	 B-Term	 T175	 0	 0
+pneumoniae	 data/source_txt/t1_biology_0_101.deft	 20709	 20719	 I-Term	 T175	 0	 0
 ,	 data/source_txt/t1_biology_0_101.deft	 20719	 20720	 O	 -1	 -1	 0
 the	 data/source_txt/t1_biology_0_101.deft	 20721	 20724	 B-Definition	 T176	 T175	 Direct-Defines
 bacterium	 data/source_txt/t1_biology_0_101.deft	 20725	 20734	 I-Definition	 T176	 T175	 Direct-Defines
@@ -3963,8 +3963,8 @@ proceeds	 data/source_txt/t1_biology_0_101.deft	 21021	 21029	 O	 -1	 -1	 0
 Another	 data/source_txt/t1_biology_0_101.deft	 21039	 21046	 O	 -1	 -1	 0
 enzyme	 data/source_txt/t1_biology_0_101.deft	 21047	 21053	 O	 -1	 -1	 0
 ,	 data/source_txt/t1_biology_0_101.deft	 21053	 21054	 O	 -1	 -1	 0
-RNA	 data/source_txt/t1_biology_0_101.deft	 21055	 21058	 B-Term	 T181	 0	 Direct-Defines
-primase	 data/source_txt/t1_biology_0_101.deft	 21059	 21066	 I-Term	 T181	 0	 Direct-Defines
+RNA	 data/source_txt/t1_biology_0_101.deft	 21055	 21058	 B-Term	 T181	 0	 0
+primase	 data/source_txt/t1_biology_0_101.deft	 21059	 21066	 I-Term	 T181	 0	 0
 ,	 data/source_txt/t1_biology_0_101.deft	 21066	 21067	 O	 -1	 -1	 0
 synthesizes	 data/source_txt/t1_biology_0_101.deft	 21068	 21079	 B-Definition	 T182	 T181	 Direct-Defines
 an	 data/source_txt/t1_biology_0_101.deft	 21080	 21082	 I-Definition	 T182	 T181	 Direct-Defines
@@ -4056,9 +4056,9 @@ fragments	 data/source_txt/t1_biology_0_101.deft	 21529	 21538	 I-Definition	 T1
 is	 data/source_txt/t1_biology_0_101.deft	 21539	 21541	 O	 -1	 -1	 0
 known	 data/source_txt/t1_biology_0_101.deft	 21542	 21547	 O	 -1	 -1	 0
 as	 data/source_txt/t1_biology_0_101.deft	 21548	 21550	 O	 -1	 -1	 0
-the	 data/source_txt/t1_biology_0_101.deft	 21551	 21554	 B-Term	 T183	 0	 Direct-Defines
-lagging	 data/source_txt/t1_biology_0_101.deft	 21555	 21562	 I-Term	 T183	 0	 Direct-Defines
-strand	 data/source_txt/t1_biology_0_101.deft	 21563	 21569	 I-Term	 T183	 0	 Direct-Defines
+the	 data/source_txt/t1_biology_0_101.deft	 21551	 21554	 B-Term	 T183	 0	 0
+lagging	 data/source_txt/t1_biology_0_101.deft	 21555	 21562	 I-Term	 T183	 0	 0
+strand	 data/source_txt/t1_biology_0_101.deft	 21563	 21569	 I-Term	 T183	 0	 0
 .	 data/source_txt/t1_biology_0_101.deft	 21569	 21570	 O	 -1	 -1	 0
 
 
@@ -4114,8 +4114,8 @@ sealed	 data/source_txt/t1_biology_0_101.deft	 21837	 21843	 O	 -1	 -1	 0
 by	 data/source_txt/t1_biology_0_101.deft	 21844	 21846	 O	 -1	 -1	 0
 the	 data/source_txt/t1_biology_0_101.deft	 21847	 21850	 O	 -1	 -1	 0
 enzyme	 data/source_txt/t1_biology_0_101.deft	 21851	 21857	 O	 -1	 -1	 0
-DNA	 data/source_txt/t1_biology_0_101.deft	 21858	 21861	 B-Term	 T185	 0	 Direct-Defines
-ligase	 data/source_txt/t1_biology_0_101.deft	 21862	 21868	 I-Term	 T185	 0	 Direct-Defines
+DNA	 data/source_txt/t1_biology_0_101.deft	 21858	 21861	 B-Term	 T185	 0	 0
+ligase	 data/source_txt/t1_biology_0_101.deft	 21862	 21868	 I-Term	 T185	 0	 0
 that	 data/source_txt/t1_biology_0_101.deft	 21869	 21873	 O	 -1	 -1	 0
 catalyzes	 data/source_txt/t1_biology_0_101.deft	 21874	 21883	 B-Definition	 T186	 T185	 Direct-Defines
 the	 data/source_txt/t1_biology_0_101.deft	 21884	 21887	 I-Definition	 T186	 T185	 Direct-Defines
@@ -4153,31 +4153,31 @@ of	 data/source_txt/t1_biology_0_101.deft	 22050	 22052	 O	 -1	 -1	 0
 repair	 data/source_txt/t1_biology_0_101.deft	 22053	 22059	 O	 -1	 -1	 0
 mechanism	 data/source_txt/t1_biology_0_101.deft	 22060	 22069	 O	 -1	 -1	 0
 ,	 data/source_txt/t1_biology_0_101.deft	 22069	 22070	 O	 -1	 -1	 0
-nucleotide	 data/source_txt/t1_biology_0_101.deft	 22071	 22081	 B-Term	 T187	 0	 Direct-Defines
-excision	 data/source_txt/t1_biology_0_101.deft	 22082	 22090	 I-Term	 T187	 0	 Direct-Defines
-repair	 data/source_txt/t1_biology_0_101.deft	 22091	 22097	 I-Term	 T187	 0	 Direct-Defines
+nucleotide	 data/source_txt/t1_biology_0_101.deft	 22071	 22081	 B-Term	 T187	 0	 0
+excision	 data/source_txt/t1_biology_0_101.deft	 22082	 22090	 I-Term	 T187	 0	 0
+repair	 data/source_txt/t1_biology_0_101.deft	 22091	 22097	 I-Term	 T187	 0	 0
 ,	 data/source_txt/t1_biology_0_101.deft	 22097	 22098	 O	 -1	 -1	 0
-enzymes	 data/source_txt/t1_biology_0_101.deft	 22099	 22106	 B-Definition	 T173	 0	 Supplements
-replace	 data/source_txt/t1_biology_0_101.deft	 22107	 22114	 I-Definition	 T173	 0	 Supplements
-incorrect	 data/source_txt/t1_biology_0_101.deft	 22115	 22124	 I-Definition	 T173	 0	 Supplements
-bases	 data/source_txt/t1_biology_0_101.deft	 22125	 22130	 I-Definition	 T173	 0	 Supplements
-by	 data/source_txt/t1_biology_0_101.deft	 22131	 22133	 I-Definition	 T173	 0	 Supplements
-making	 data/source_txt/t1_biology_0_101.deft	 22134	 22140	 I-Definition	 T173	 0	 Supplements
-a	 data/source_txt/t1_biology_0_101.deft	 22141	 22142	 I-Definition	 T173	 0	 Supplements
-cut	 data/source_txt/t1_biology_0_101.deft	 22143	 22146	 I-Definition	 T173	 0	 Supplements
-on	 data/source_txt/t1_biology_0_101.deft	 22147	 22149	 I-Definition	 T173	 0	 Supplements
-both	 data/source_txt/t1_biology_0_101.deft	 22150	 22154	 I-Definition	 T173	 0	 Supplements
-the	 data/source_txt/t1_biology_0_101.deft	 22155	 22158	 I-Definition	 T173	 0	 Supplements
-3	 data/source_txt/t1_biology_0_101.deft	 22159	 22160	 I-Definition	 T173	 0	 Supplements
-'	 data/source_txt/t1_biology_0_101.deft	 22160	 22161	 I-Definition	 T173	 0	 Supplements
-and	 data/source_txt/t1_biology_0_101.deft	 22162	 22165	 I-Definition	 T173	 0	 Supplements
-5	 data/source_txt/t1_biology_0_101.deft	 22166	 22167	 I-Definition	 T173	 0	 Supplements
-'	 data/source_txt/t1_biology_0_101.deft	 22167	 22168	 I-Definition	 T173	 0	 Supplements
-ends	 data/source_txt/t1_biology_0_101.deft	 22169	 22173	 I-Definition	 T173	 0	 Supplements
-of	 data/source_txt/t1_biology_0_101.deft	 22174	 22176	 I-Definition	 T173	 0	 Supplements
-the	 data/source_txt/t1_biology_0_101.deft	 22177	 22180	 I-Definition	 T173	 0	 Supplements
-incorrect	 data/source_txt/t1_biology_0_101.deft	 22181	 22190	 I-Definition	 T173	 0	 Supplements
-base	 data/source_txt/t1_biology_0_101.deft	 22191	 22195	 I-Definition	 T173	 0	 Supplements
+enzymes	 data/source_txt/t1_biology_0_101.deft	 22099	 22106	 B-Definition	 T173	 T187	 Direct-Defines
+replace	 data/source_txt/t1_biology_0_101.deft	 22107	 22114	 I-Definition	 T173	 T187	 Direct-Defines
+incorrect	 data/source_txt/t1_biology_0_101.deft	 22115	 22124	 I-Definition	 T173	 T187	 Direct-Defines
+bases	 data/source_txt/t1_biology_0_101.deft	 22125	 22130	 I-Definition	 T173	 T187	 Direct-Defines
+by	 data/source_txt/t1_biology_0_101.deft	 22131	 22133	 I-Definition	 T173	 T187	 Direct-Defines
+making	 data/source_txt/t1_biology_0_101.deft	 22134	 22140	 I-Definition	 T173	 T187	 Direct-Defines
+a	 data/source_txt/t1_biology_0_101.deft	 22141	 22142	 I-Definition	 T173	 T187	 Direct-Defines
+cut	 data/source_txt/t1_biology_0_101.deft	 22143	 22146	 I-Definition	 T173	 T187	 Direct-Defines
+on	 data/source_txt/t1_biology_0_101.deft	 22147	 22149	 I-Definition	 T173	 T187	 Direct-Defines
+both	 data/source_txt/t1_biology_0_101.deft	 22150	 22154	 I-Definition	 T173	 T187	 Direct-Defines
+the	 data/source_txt/t1_biology_0_101.deft	 22155	 22158	 I-Definition	 T173	 T187	 Direct-Defines
+3	 data/source_txt/t1_biology_0_101.deft	 22159	 22160	 I-Definition	 T173	 T187	 Direct-Defines
+'	 data/source_txt/t1_biology_0_101.deft	 22160	 22161	 I-Definition	 T173	 T187	 Direct-Defines
+and	 data/source_txt/t1_biology_0_101.deft	 22162	 22165	 I-Definition	 T173	 T187	 Direct-Defines
+5	 data/source_txt/t1_biology_0_101.deft	 22166	 22167	 I-Definition	 T173	 T187	 Direct-Defines
+'	 data/source_txt/t1_biology_0_101.deft	 22167	 22168	 I-Definition	 T173	 T187	 Direct-Defines
+ends	 data/source_txt/t1_biology_0_101.deft	 22169	 22173	 I-Definition	 T173	 T187	 Direct-Defines
+of	 data/source_txt/t1_biology_0_101.deft	 22174	 22176	 I-Definition	 T173	 T187	 Direct-Defines
+the	 data/source_txt/t1_biology_0_101.deft	 22177	 22180	 I-Definition	 T173	 T187	 Direct-Defines
+incorrect	 data/source_txt/t1_biology_0_101.deft	 22181	 22190	 I-Definition	 T173	 T187	 Direct-Defines
+base	 data/source_txt/t1_biology_0_101.deft	 22191	 22195	 I-Definition	 T173	 T187	 Direct-Defines
 (	 data/source_txt/t1_biology_0_101.deft	 22196	 22197	 O	 -1	 -1	 0
 [	 data/source_txt/t1_biology_0_101.deft	 22197	 22198	 O	 -1	 -1	 0
 link	 data/source_txt/t1_biology_0_101.deft	 22198	 22202	 O	 -1	 -1	 0
@@ -4210,8 +4210,8 @@ pol	 data/source_txt/t1_biology_0_101.deft	 22314	 22317	 I-Secondary-Definition
 491	 data/source_txt/t1_biology_0_101.deft	 22322	 22325	 O	 -1	 -1	 0
 .	 data/source_txt/t1_biology_0_101.deft	 22325	 22326	 O	 -1	 -1	 0
 
-Induced	 data/source_txt/t1_biology_0_101.deft	 22327	 22334	 B-Term	 T190	 0	 Direct-Defines
-mutations	 data/source_txt/t1_biology_0_101.deft	 22335	 22344	 I-Term	 T190	 0	 Direct-Defines
+Induced	 data/source_txt/t1_biology_0_101.deft	 22327	 22334	 B-Term	 T190	 0	 0
+mutations	 data/source_txt/t1_biology_0_101.deft	 22335	 22344	 I-Term	 T190	 0	 0
 are	 data/source_txt/t1_biology_0_101.deft	 22345	 22348	 O	 -1	 -1	 0
 those	 data/source_txt/t1_biology_0_101.deft	 22349	 22354	 B-Definition	 T191	 T190	 Direct-Defines
 that	 data/source_txt/t1_biology_0_101.deft	 22355	 22359	 I-Definition	 T191	 T190	 Direct-Defines
@@ -4236,8 +4236,8 @@ environmental	 data/source_txt/t1_biology_0_101.deft	 22429	 22442	 I-Definition
 agent	 data/source_txt/t1_biology_0_101.deft	 22443	 22448	 I-Definition	 T191	 T190	 Direct-Defines
 .	 data/source_txt/t1_biology_0_101.deft	 22448	 22449	 O	 -1	 -1	 0
 
-Spontaneous	 data/source_txt/t1_biology_0_101.deft	 22458	 22469	 B-Term	 T192	 0	 Direct-Defines
-mutations	 data/source_txt/t1_biology_0_101.deft	 22470	 22479	 I-Term	 T192	 0	 Direct-Defines
+Spontaneous	 data/source_txt/t1_biology_0_101.deft	 22458	 22469	 B-Term	 T192	 0	 0
+mutations	 data/source_txt/t1_biology_0_101.deft	 22470	 22479	 I-Term	 T192	 0	 0
 occur	 data/source_txt/t1_biology_0_101.deft	 22480	 22485	 B-Definition	 T193	 T192	 Direct-Defines
 without	 data/source_txt/t1_biology_0_101.deft	 22486	 22493	 I-Definition	 T193	 T192	 Direct-Defines
 any	 data/source_txt/t1_biology_0_101.deft	 22494	 22497	 I-Definition	 T193	 T192	 Direct-Defines
@@ -4278,8 +4278,8 @@ or	 data/source_txt/t1_biology_0_101.deft	 22664	 22666	 O	 -1	 -1	 0
 transversions	 data/source_txt/t1_biology_0_101.deft	 22667	 22680	 O	 -1	 -1	 0
 .	 data/source_txt/t1_biology_0_101.deft	 22680	 22681	 O	 -1	 -1	 0
 
-Transition	 data/source_txt/t1_biology_0_101.deft	 22690	 22700	 B-Term	 T194	 0	 Direct-Defines
-substitution	 data/source_txt/t1_biology_0_101.deft	 22701	 22713	 I-Term	 T194	 0	 Direct-Defines
+Transition	 data/source_txt/t1_biology_0_101.deft	 22690	 22700	 B-Term	 T194	 0	 0
+substitution	 data/source_txt/t1_biology_0_101.deft	 22701	 22713	 I-Term	 T194	 0	 0
 refers	 data/source_txt/t1_biology_0_101.deft	 22714	 22720	 O	 -1	 -1	 0
 to	 data/source_txt/t1_biology_0_101.deft	 22721	 22723	 O	 -1	 -1	 0
 a	 data/source_txt/t1_biology_0_101.deft	 22724	 22725	 B-Definition	 T174	 T194	 Direct-Defines
@@ -4313,8 +4313,8 @@ purine	 data/source_txt/t1_biology_0_101.deft	 22851	 22857	 O	 -1	 -1	 0
 guanine	 data/source_txt/t1_biology_0_101.deft	 22858	 22865	 O	 -1	 -1	 0
 .	 data/source_txt/t1_biology_0_101.deft	 22865	 22866	 O	 -1	 -1	 0
 
-Transversion	 data/source_txt/t1_biology_0_101.deft	 22873	 22885	 B-Term	 T196	 0	 Direct-Defines
-substitution	 data/source_txt/t1_biology_0_101.deft	 22886	 22898	 I-Term	 T196	 0	 Direct-Defines
+Transversion	 data/source_txt/t1_biology_0_101.deft	 22873	 22885	 B-Term	 T196	 0	 0
+substitution	 data/source_txt/t1_biology_0_101.deft	 22886	 22898	 I-Term	 T196	 0	 0
 refers	 data/source_txt/t1_biology_0_101.deft	 22899	 22905	 O	 -1	 -1	 0
 to	 data/source_txt/t1_biology_0_101.deft	 22906	 22908	 O	 -1	 -1	 0
 a	 data/source_txt/t1_biology_0_101.deft	 22909	 22910	 B-Definition	 T179	 T196	 Direct-Defines
@@ -4373,20 +4373,20 @@ are	 data/source_txt/t1_biology_0_101.deft	 23143	 23146	 O	 -1	 -1	 0
 maintained	 data/source_txt/t1_biology_0_101.deft	 23147	 23157	 O	 -1	 -1	 0
 .	 data/source_txt/t1_biology_0_101.deft	 23157	 23158	 O	 -1	 -1	 0
 
-The	 data/source_txt/t1_biology_0_101.deft	 23167	 23170	 B-Term	 T198	 0	 Direct-Defines
-telomerase	 data/source_txt/t1_biology_0_101.deft	 23171	 23181	 I-Term	 T198	 0	 Direct-Defines
-enzyme	 data/source_txt/t1_biology_0_101.deft	 23182	 23188	 I-Term	 T198	 0	 Direct-Defines
-contains	 data/source_txt/t1_biology_0_101.deft	 23189	 23197	 B-Definition	 T180	 0	 Supplements
-a	 data/source_txt/t1_biology_0_101.deft	 23198	 23199	 I-Definition	 T180	 0	 Supplements
-catalytic	 data/source_txt/t1_biology_0_101.deft	 23200	 23209	 I-Definition	 T180	 0	 Supplements
-part	 data/source_txt/t1_biology_0_101.deft	 23210	 23214	 I-Definition	 T180	 0	 Supplements
-and	 data/source_txt/t1_biology_0_101.deft	 23215	 23218	 I-Definition	 T180	 0	 Supplements
-a	 data/source_txt/t1_biology_0_101.deft	 23219	 23220	 I-Definition	 T180	 0	 Supplements
-built	 data/source_txt/t1_biology_0_101.deft	 23221	 23226	 I-Definition	 T180	 0	 Supplements
--	 data/source_txt/t1_biology_0_101.deft	 23226	 23227	 I-Definition	 T180	 0	 Supplements
-in	 data/source_txt/t1_biology_0_101.deft	 23227	 23229	 I-Definition	 T180	 0	 Supplements
-RNA	 data/source_txt/t1_biology_0_101.deft	 23230	 23233	 I-Definition	 T180	 0	 Supplements
-template	 data/source_txt/t1_biology_0_101.deft	 23234	 23242	 I-Definition	 T180	 0	 Supplements
+The	 data/source_txt/t1_biology_0_101.deft	 23167	 23170	 B-Term	 T198	 0	 0
+telomerase	 data/source_txt/t1_biology_0_101.deft	 23171	 23181	 I-Term	 T198	 0	 0
+enzyme	 data/source_txt/t1_biology_0_101.deft	 23182	 23188	 I-Term	 T198	 0	 0
+contains	 data/source_txt/t1_biology_0_101.deft	 23189	 23197	 B-Definition	 T180	 T198	 Direct-Defines
+a	 data/source_txt/t1_biology_0_101.deft	 23198	 23199	 I-Definition	 T180	 T198	 Direct-Defines
+catalytic	 data/source_txt/t1_biology_0_101.deft	 23200	 23209	 I-Definition	 T180	 T198	 Direct-Defines
+part	 data/source_txt/t1_biology_0_101.deft	 23210	 23214	 I-Definition	 T180	 T198	 Direct-Defines
+and	 data/source_txt/t1_biology_0_101.deft	 23215	 23218	 I-Definition	 T180	 T198	 Direct-Defines
+a	 data/source_txt/t1_biology_0_101.deft	 23219	 23220	 I-Definition	 T180	 T198	 Direct-Defines
+built	 data/source_txt/t1_biology_0_101.deft	 23221	 23226	 I-Definition	 T180	 T198	 Direct-Defines
+-	 data/source_txt/t1_biology_0_101.deft	 23226	 23227	 I-Definition	 T180	 T198	 Direct-Defines
+in	 data/source_txt/t1_biology_0_101.deft	 23227	 23229	 I-Definition	 T180	 T198	 Direct-Defines
+RNA	 data/source_txt/t1_biology_0_101.deft	 23230	 23233	 I-Definition	 T180	 T198	 Direct-Defines
+template	 data/source_txt/t1_biology_0_101.deft	 23234	 23242	 I-Definition	 T180	 T198	 Direct-Defines
 .	 data/source_txt/t1_biology_0_101.deft	 23242	 23243	 O	 -1	 -1	 0
 
 It	 data/source_txt/t1_biology_0_101.deft	 23250	 23252	 B-Secondary-Definition	 T188	 T180	 Supplements
@@ -4510,17 +4510,17 @@ of	 data/source_txt/t1_biology_0_101.deft	 23820	 23822	 O	 -1	 -1	 0
 the	 data/source_txt/t1_biology_0_101.deft	 23823	 23826	 O	 -1	 -1	 0
 64	 data/source_txt/t1_biology_0_101.deft	 23827	 23829	 O	 -1	 -1	 0
 codons	 data/source_txt/t1_biology_0_101.deft	 23830	 23836	 O	 -1	 -1	 0
-terminate	 data/source_txt/t1_biology_0_101.deft	 23837	 23846	 B-Definition	 T201	 0	 Refers-To
-protein	 data/source_txt/t1_biology_0_101.deft	 23847	 23854	 I-Definition	 T201	 0	 Refers-To
-synthesis	 data/source_txt/t1_biology_0_101.deft	 23855	 23864	 I-Definition	 T201	 0	 Refers-To
-and	 data/source_txt/t1_biology_0_101.deft	 23865	 23868	 I-Definition	 T201	 0	 Refers-To
-release	 data/source_txt/t1_biology_0_101.deft	 23869	 23876	 I-Definition	 T201	 0	 Refers-To
-the	 data/source_txt/t1_biology_0_101.deft	 23877	 23880	 I-Definition	 T201	 0	 Refers-To
-polypeptide	 data/source_txt/t1_biology_0_101.deft	 23881	 23892	 I-Definition	 T201	 0	 Refers-To
-from	 data/source_txt/t1_biology_0_101.deft	 23893	 23897	 I-Definition	 T201	 0	 Refers-To
-the	 data/source_txt/t1_biology_0_101.deft	 23898	 23901	 I-Definition	 T201	 0	 Refers-To
-translation	 data/source_txt/t1_biology_0_101.deft	 23902	 23913	 I-Definition	 T201	 0	 Refers-To
-machinery	 data/source_txt/t1_biology_0_101.deft	 23914	 23923	 I-Definition	 T201	 0	 Refers-To
+terminate	 data/source_txt/t1_biology_0_101.deft	 23837	 23846	 B-Definition	 T201	 0	 0
+protein	 data/source_txt/t1_biology_0_101.deft	 23847	 23854	 I-Definition	 T201	 0	 0
+synthesis	 data/source_txt/t1_biology_0_101.deft	 23855	 23864	 I-Definition	 T201	 0	 0
+and	 data/source_txt/t1_biology_0_101.deft	 23865	 23868	 I-Definition	 T201	 0	 0
+release	 data/source_txt/t1_biology_0_101.deft	 23869	 23876	 I-Definition	 T201	 0	 0
+the	 data/source_txt/t1_biology_0_101.deft	 23877	 23880	 I-Definition	 T201	 0	 0
+polypeptide	 data/source_txt/t1_biology_0_101.deft	 23881	 23892	 I-Definition	 T201	 0	 0
+from	 data/source_txt/t1_biology_0_101.deft	 23893	 23897	 I-Definition	 T201	 0	 0
+the	 data/source_txt/t1_biology_0_101.deft	 23898	 23901	 I-Definition	 T201	 0	 0
+translation	 data/source_txt/t1_biology_0_101.deft	 23902	 23913	 I-Definition	 T201	 0	 0
+machinery	 data/source_txt/t1_biology_0_101.deft	 23914	 23923	 I-Definition	 T201	 0	 0
 .	 data/source_txt/t1_biology_0_101.deft	 23923	 23924	 O	 -1	 -1	 0
 
 These	 data/source_txt/t1_biology_0_101.deft	 23933	 23938	 B-Referential-Definition	 T202	 T201	 Refers-To
@@ -4531,8 +4531,8 @@ nonsense	 data/source_txt/t1_biology_0_101.deft	 23959	 23967	 B-Alias-Term	 T20
 codons	 data/source_txt/t1_biology_0_101.deft	 23968	 23974	 I-Alias-Term	 T203	 T204	 AKA
 ,	 data/source_txt/t1_biology_0_101.deft	 23974	 23975	 O	 -1	 -1	 0
 or	 data/source_txt/t1_biology_0_101.deft	 23976	 23978	 O	 -1	 -1	 0
-stop	 data/source_txt/t1_biology_0_101.deft	 23979	 23983	 B-Term	 T204	 0	 Indirect-Defines
-codons	 data/source_txt/t1_biology_0_101.deft	 23984	 23990	 I-Term	 T204	 0	 Indirect-Defines
+stop	 data/source_txt/t1_biology_0_101.deft	 23979	 23983	 B-Term	 T204	 0	 0
+codons	 data/source_txt/t1_biology_0_101.deft	 23984	 23990	 I-Term	 T204	 0	 0
 .	 data/source_txt/t1_biology_0_101.deft	 23990	 23991	 O	 -1	 -1	 0
 
 Another	 data/source_txt/t1_biology_0_101.deft	 23998	 24005	 O	 -1	 -1	 0
@@ -4557,9 +4557,9 @@ of	 data/source_txt/t1_biology_0_101.deft	 24066	 24068	 I-Definition	 T206	 T20
 unwinding	 data/source_txt/t1_biology_0_101.deft	 24069	 24078	 I-Definition	 T206	 T205	 Direct-Defines
 is	 data/source_txt/t1_biology_0_101.deft	 24079	 24081	 O	 -1	 -1	 0
 called	 data/source_txt/t1_biology_0_101.deft	 24082	 24088	 O	 -1	 -1	 0
-a	 data/source_txt/t1_biology_0_101.deft	 24089	 24090	 B-Term	 T205	 0	 Direct-Defines
-transcription	 data/source_txt/t1_biology_0_101.deft	 24091	 24104	 I-Term	 T205	 0	 Direct-Defines
-bubble	 data/source_txt/t1_biology_0_101.deft	 24105	 24111	 I-Term	 T205	 0	 Direct-Defines
+a	 data/source_txt/t1_biology_0_101.deft	 24089	 24090	 B-Term	 T205	 0	 0
+transcription	 data/source_txt/t1_biology_0_101.deft	 24091	 24104	 I-Term	 T205	 0	 0
+bubble	 data/source_txt/t1_biology_0_101.deft	 24105	 24111	 I-Term	 T205	 0	 0
 .	 data/source_txt/t1_biology_0_101.deft	 24111	 24112	 O	 -1	 -1	 0
 
 Transcription	 data/source_txt/t1_biology_0_101.deft	 24113	 24126	 B-Definition	 T208	 T207	 Direct-Defines
@@ -4577,9 +4577,9 @@ gene	 data/source_txt/t1_biology_0_101.deft	 24177	 24181	 I-Definition	 T208	 T
 which	 data/source_txt/t1_biology_0_101.deft	 24183	 24188	 O	 -1	 -1	 0
 is	 data/source_txt/t1_biology_0_101.deft	 24189	 24191	 O	 -1	 -1	 0
 called	 data/source_txt/t1_biology_0_101.deft	 24192	 24198	 O	 -1	 -1	 0
-the	 data/source_txt/t1_biology_0_101.deft	 24199	 24202	 B-Term	 T207	 0	 Direct-Defines
-template	 data/source_txt/t1_biology_0_101.deft	 24203	 24211	 I-Term	 T207	 0	 Direct-Defines
-strand	 data/source_txt/t1_biology_0_101.deft	 24212	 24218	 I-Term	 T207	 0	 Direct-Defines
+the	 data/source_txt/t1_biology_0_101.deft	 24199	 24202	 B-Term	 T207	 0	 0
+template	 data/source_txt/t1_biology_0_101.deft	 24203	 24211	 I-Term	 T207	 0	 0
+strand	 data/source_txt/t1_biology_0_101.deft	 24212	 24218	 I-Term	 T207	 0	 0
 .	 data/source_txt/t1_biology_0_101.deft	 24218	 24219	 O	 -1	 -1	 0
 
 The	 data/source_txt/t1_biology_0_101.deft	 24228	 24231	 O	 -1	 -1	 0
@@ -4663,16 +4663,16 @@ numbering	 data/source_txt/t1_biology_0_101.deft	 24655	 24664	 I-Definition	 T1
 and	 data/source_txt/t1_biology_0_101.deft	 24665	 24668	 O	 -1	 -1	 0
 are	 data/source_txt/t1_biology_0_101.deft	 24669	 24672	 O	 -1	 -1	 0
 called	 data/source_txt/t1_biology_0_101.deft	 24673	 24679	 O	 -1	 -1	 0
-downstream	 data/source_txt/t1_biology_0_101.deft	 24680	 24690	 B-Term	 T199	 0	 Direct-Defines
-nucleotides	 data/source_txt/t1_biology_0_101.deft	 24691	 24702	 I-Term	 T199	 0	 Direct-Defines
+downstream	 data/source_txt/t1_biology_0_101.deft	 24680	 24690	 B-Term	 T199	 0	 0
+nucleotides	 data/source_txt/t1_biology_0_101.deft	 24691	 24702	 I-Term	 T199	 0	 0
 .	 data/source_txt/t1_biology_0_101.deft	 24702	 24703	 O	 -1	 -1	 0
 
 
 512	 data/source_txt/t1_biology_0_101.deft	 24713	 24716	 O	 -1	 -1	 0
 .	 data/source_txt/t1_biology_0_101.deft	 24716	 24717	 O	 -1	 -1	 0
 
-A	 data/source_txt/t1_biology_0_101.deft	 24726	 24727	 B-Term	 T209	 0	 Direct-Defines
-promoter	 data/source_txt/t1_biology_0_101.deft	 24728	 24736	 I-Term	 T209	 0	 Direct-Defines
+A	 data/source_txt/t1_biology_0_101.deft	 24726	 24727	 B-Term	 T209	 0	 0
+promoter	 data/source_txt/t1_biology_0_101.deft	 24728	 24736	 I-Term	 T209	 0	 0
 is	 data/source_txt/t1_biology_0_101.deft	 24737	 24739	 O	 -1	 -1	 0
 a	 data/source_txt/t1_biology_0_101.deft	 24740	 24741	 B-Definition	 T210	 T209	 Direct-Defines
 DNA	 data/source_txt/t1_biology_0_101.deft	 24742	 24745	 I-Definition	 T210	 T209	 Direct-Defines
@@ -4836,7 +4836,7 @@ special	 data/source_txt/t1_biology_0_101.deft	 25603	 25610	 O	 -1	 -1	 0
 protein	 data/source_txt/t1_biology_0_101.deft	 25611	 25618	 O	 -1	 -1	 0
 complex	 data/source_txt/t1_biology_0_101.deft	 25619	 25626	 O	 -1	 -1	 0
 called	 data/source_txt/t1_biology_0_101.deft	 25627	 25633	 O	 -1	 -1	 0
-FACT	 data/source_txt/t1_biology_0_101.deft	 25634	 25638	 B-Term	 T211	 0	 Direct-Defines
+FACT	 data/source_txt/t1_biology_0_101.deft	 25634	 25638	 B-Term	 T211	 0	 0
 ,	 data/source_txt/t1_biology_0_101.deft	 25638	 25639	 O	 -1	 -1	 0
 which	 data/source_txt/t1_biology_0_101.deft	 25640	 25645	 O	 -1	 -1	 0
 stands	 data/source_txt/t1_biology_0_101.deft	 25646	 25652	 O	 -1	 -1	 0
@@ -4889,9 +4889,9 @@ nucleosomes	 data/source_txt/t1_biology_0_101.deft	 25880	 25891	 O	 -1	 -1	 0
 .	 data/source_txt/t1_biology_0_101.deft	 25899	 25900	 O	 -1	 -1	 0
 .	 data/source_txt/t1_biology_0_101.deft	 25901	 25902	 O	 -1	 -1	 0
 
-The	 data/source_txt/t1_biology_0_101.deft	 25911	 25914	 B-Term	 T215	 0	 Direct-Defines
-initiator	 data/source_txt/t1_biology_0_101.deft	 25915	 25924	 I-Term	 T215	 0	 Direct-Defines
-tRNA	 data/source_txt/t1_biology_0_101.deft	 25925	 25929	 I-Term	 T215	 0	 Direct-Defines
+The	 data/source_txt/t1_biology_0_101.deft	 25911	 25914	 B-Term	 T215	 0	 0
+initiator	 data/source_txt/t1_biology_0_101.deft	 25915	 25924	 I-Term	 T215	 0	 0
+tRNA	 data/source_txt/t1_biology_0_101.deft	 25925	 25929	 I-Term	 T215	 0	 0
 interacts	 data/source_txt/t1_biology_0_101.deft	 25930	 25939	 B-Definition	 T216	 T215	 Direct-Defines
 with	 data/source_txt/t1_biology_0_101.deft	 25940	 25944	 I-Definition	 T216	 T215	 Direct-Defines
 the	 data/source_txt/t1_biology_0_101.deft	 25945	 25948	 I-Definition	 T216	 T215	 Direct-Defines
@@ -4930,8 +4930,8 @@ by	 data/source_txt/t1_biology_0_101.deft	 26093	 26095	 O	 -1	 -1	 0
 527	 data/source_txt/t1_biology_0_101.deft	 26099	 26102	 O	 -1	 -1	 0
 .	 data/source_txt/t1_biology_0_101.deft	 26102	 26103	 O	 -1	 -1	 0
 
-Peptide	 data/source_txt/t1_biology_0_101.deft	 26104	 26111	 B-Term	 T217	 0	 Direct-Defines
-bonds	 data/source_txt/t1_biology_0_101.deft	 26112	 26117	 I-Term	 T217	 0	 Direct-Defines
+Peptide	 data/source_txt/t1_biology_0_101.deft	 26104	 26111	 B-Term	 T217	 0	 0
+bonds	 data/source_txt/t1_biology_0_101.deft	 26112	 26117	 I-Term	 T217	 0	 0
 form	 data/source_txt/t1_biology_0_101.deft	 26118	 26122	 B-Definition	 T218	 T217	 Direct-Defines
 between	 data/source_txt/t1_biology_0_101.deft	 26123	 26130	 I-Definition	 T218	 T217	 Direct-Defines
 the	 data/source_txt/t1_biology_0_101.deft	 26131	 26134	 I-Definition	 T218	 T217	 Direct-Defines
@@ -4974,8 +4974,8 @@ bond	 data/source_txt/t1_biology_0_101.deft	 26301	 26305	 O	 -1	 -1	 0
 is	 data/source_txt/t1_biology_0_101.deft	 26306	 26308	 O	 -1	 -1	 0
 catalyzed	 data/source_txt/t1_biology_0_101.deft	 26309	 26318	 O	 -1	 -1	 0
 by	 data/source_txt/t1_biology_0_101.deft	 26319	 26321	 O	 -1	 -1	 0
-peptidyl	 data/source_txt/t1_biology_0_101.deft	 26322	 26330	 B-Term	 T219	 0	 Direct-Defines
-transferase	 data/source_txt/t1_biology_0_101.deft	 26331	 26342	 I-Term	 T219	 0	 Direct-Defines
+peptidyl	 data/source_txt/t1_biology_0_101.deft	 26322	 26330	 B-Term	 T219	 0	 0
+transferase	 data/source_txt/t1_biology_0_101.deft	 26331	 26342	 I-Term	 T219	 0	 0
 ,	 data/source_txt/t1_biology_0_101.deft	 26342	 26343	 O	 -1	 -1	 0
 an	 data/source_txt/t1_biology_0_101.deft	 26344	 26346	 B-Definition	 T220	 T219	 Direct-Defines
 RNA	 data/source_txt/t1_biology_0_101.deft	 26347	 26350	 I-Definition	 T220	 T219	 Direct-Defines
@@ -5050,7 +5050,7 @@ linkage	 data/source_txt/t1_biology_0_101.deft	 26699	 26706	 O	 -1	 -1	 0
 .	 data/source_txt/t1_biology_0_101.deft	 26706	 26707	 O	 -1	 -1	 0
 
 This	 data/source_txt/t1_biology_0_101.deft	 26714	 26718	 O	 -1	 -1	 0
-moiety	 data/source_txt/t1_biology_0_101.deft	 26719	 26725	 B-Term	 T221	 0	 Direct-Defines
+moiety	 data/source_txt/t1_biology_0_101.deft	 26719	 26725	 B-Term	 T221	 0	 0
 (	 data/source_txt/t1_biology_0_101.deft	 26726	 26727	 O	 -1	 -1	 0
 functional	 data/source_txt/t1_biology_0_101.deft	 26727	 26737	 B-Definition	 T222	 T221	 Direct-Defines
 group	 data/source_txt/t1_biology_0_101.deft	 26738	 26743	 I-Definition	 T222	 T221	 Direct-Defines
@@ -5106,7 +5106,7 @@ reconnecting	 data/source_txt/t1_biology_0_101.deft	 26993	 27005	 I-Definition	
 exons	 data/source_txt/t1_biology_0_101.deft	 27006	 27011	 I-Definition	 T224	 T195	 Direct-Defines
 is	 data/source_txt/t1_biology_0_101.deft	 27012	 27014	 O	 -1	 -1	 0
 called	 data/source_txt/t1_biology_0_101.deft	 27015	 27021	 O	 -1	 -1	 0
-splicing	 data/source_txt/t1_biology_0_101.deft	 27022	 27030	 B-Term	 T195	 0	 Direct-Defines
+splicing	 data/source_txt/t1_biology_0_101.deft	 27022	 27030	 B-Term	 T195	 0	 0
 (	 data/source_txt/t1_biology_0_101.deft	 27031	 27032	 O	 -1	 -1	 0
 [	 data/source_txt/t1_biology_0_101.deft	 27032	 27033	 O	 -1	 -1	 0
 link	 data/source_txt/t1_biology_0_101.deft	 27033	 27037	 O	 -1	 -1	 0
@@ -5172,8 +5172,8 @@ bind	 data/source_txt/t1_biology_0_101.deft	 27302	 27306	 I-Qualifier	 T305	 T1
 transcription	 data/source_txt/t1_biology_0_101.deft	 27307	 27320	 I-Qualifier	 T305	 T13	 Supplements
 factors	 data/source_txt/t1_biology_0_101.deft	 27321	 27328	 I-Qualifier	 T305	 T13	 Supplements
 (	 data/source_txt/t1_biology_0_101.deft	 27329	 27330	 O	 -1	 -1	 0
-epigenetic	 data/source_txt/t1_biology_0_101.deft	 27330	 27340	 B-Term	 T13	 0	 Direct-Defines
-level	 data/source_txt/t1_biology_0_101.deft	 27341	 27346	 I-Term	 T13	 0	 Direct-Defines
+epigenetic	 data/source_txt/t1_biology_0_101.deft	 27330	 27340	 B-Term	 T13	 0	 0
+level	 data/source_txt/t1_biology_0_101.deft	 27341	 27346	 I-Term	 T13	 0	 0
 )	 data/source_txt/t1_biology_0_101.deft	 27346	 27347	 O	 -1	 -1	 0
 ,	 data/source_txt/t1_biology_0_101.deft	 27347	 27348	 O	 -1	 -1	 0
 when	 data/source_txt/t1_biology_0_101.deft	 27349	 27353	 B-Qualifier	 T306	 T303	 Supplements
@@ -5182,8 +5182,8 @@ RNA	 data/source_txt/t1_biology_0_101.deft	 27358	 27361	 I-Qualifier	 T306	 T30
 is	 data/source_txt/t1_biology_0_101.deft	 27362	 27364	 I-Qualifier	 T306	 T303	 Supplements
 transcribed	 data/source_txt/t1_biology_0_101.deft	 27365	 27376	 I-Qualifier	 T306	 T303	 Supplements
 (	 data/source_txt/t1_biology_0_101.deft	 27377	 27378	 O	 -1	 -1	 0
-transcriptional	 data/source_txt/t1_biology_0_101.deft	 27378	 27393	 B-Term	 T303	 0	 Supplements
-level	 data/source_txt/t1_biology_0_101.deft	 27394	 27399	 I-Term	 T303	 0	 Supplements
+transcriptional	 data/source_txt/t1_biology_0_101.deft	 27378	 27393	 B-Term	 T303	 0	 0
+level	 data/source_txt/t1_biology_0_101.deft	 27394	 27399	 I-Term	 T303	 0	 0
 )	 data/source_txt/t1_biology_0_101.deft	 27399	 27400	 O	 -1	 -1	 0
 ,	 data/source_txt/t1_biology_0_101.deft	 27400	 27401	 O	 -1	 -1	 0
 when	 data/source_txt/t1_biology_0_101.deft	 27402	 27406	 B-Qualifier	 T307	 T301	 Supplements
@@ -5201,10 +5201,10 @@ it	 data/source_txt/t1_biology_0_101.deft	 27464	 27466	 I-Qualifier	 T307	 T301
 is	 data/source_txt/t1_biology_0_101.deft	 27467	 27469	 I-Qualifier	 T307	 T301	 Supplements
 transcribed	 data/source_txt/t1_biology_0_101.deft	 27470	 27481	 I-Qualifier	 T307	 T301	 Supplements
 (	 data/source_txt/t1_biology_0_101.deft	 27482	 27483	 O	 -1	 -1	 0
-post	 data/source_txt/t1_biology_0_101.deft	 27483	 27487	 B-Term	 T301	 0	 Supplements
--	 data/source_txt/t1_biology_0_101.deft	 27487	 27488	 I-Term	 T301	 0	 Supplements
-transcriptional	 data/source_txt/t1_biology_0_101.deft	 27488	 27503	 I-Term	 T301	 0	 Supplements
-level	 data/source_txt/t1_biology_0_101.deft	 27504	 27509	 I-Term	 T301	 0	 Supplements
+post	 data/source_txt/t1_biology_0_101.deft	 27483	 27487	 B-Term	 T301	 0	 0
+-	 data/source_txt/t1_biology_0_101.deft	 27487	 27488	 I-Term	 T301	 0	 0
+transcriptional	 data/source_txt/t1_biology_0_101.deft	 27488	 27503	 I-Term	 T301	 0	 0
+level	 data/source_txt/t1_biology_0_101.deft	 27504	 27509	 I-Term	 T301	 0	 0
 )	 data/source_txt/t1_biology_0_101.deft	 27509	 27510	 O	 -1	 -1	 0
 ,	 data/source_txt/t1_biology_0_101.deft	 27510	 27511	 O	 -1	 -1	 0
 when	 data/source_txt/t1_biology_0_101.deft	 27512	 27516	 B-Qualifier	 T308	 T302	 Supplements
@@ -5215,8 +5215,8 @@ translated	 data/source_txt/t1_biology_0_101.deft	 27528	 27538	 I-Qualifier	 T3
 into	 data/source_txt/t1_biology_0_101.deft	 27539	 27543	 I-Qualifier	 T308	 T302	 Supplements
 protein	 data/source_txt/t1_biology_0_101.deft	 27544	 27551	 I-Qualifier	 T308	 T302	 Supplements
 (	 data/source_txt/t1_biology_0_101.deft	 27552	 27553	 O	 -1	 -1	 0
-translational	 data/source_txt/t1_biology_0_101.deft	 27553	 27566	 B-Term	 T302	 0	 Supplements
-level	 data/source_txt/t1_biology_0_101.deft	 27567	 27572	 I-Term	 T302	 0	 Supplements
+translational	 data/source_txt/t1_biology_0_101.deft	 27553	 27566	 B-Term	 T302	 0	 0
+level	 data/source_txt/t1_biology_0_101.deft	 27567	 27572	 I-Term	 T302	 0	 0
 )	 data/source_txt/t1_biology_0_101.deft	 27572	 27573	 O	 -1	 -1	 0
 ,	 data/source_txt/t1_biology_0_101.deft	 27573	 27574	 O	 -1	 -1	 0
 or	 data/source_txt/t1_biology_0_101.deft	 27575	 27577	 O	 -1	 -1	 0
@@ -5227,10 +5227,10 @@ has	 data/source_txt/t1_biology_0_101.deft	 27596	 27599	 I-Qualifier	 T309	 T30
 been	 data/source_txt/t1_biology_0_101.deft	 27600	 27604	 I-Qualifier	 T309	 T304	 Supplements
 made	 data/source_txt/t1_biology_0_101.deft	 27605	 27609	 I-Qualifier	 T309	 T304	 Supplements
 (	 data/source_txt/t1_biology_0_101.deft	 27610	 27611	 O	 -1	 -1	 0
-post	 data/source_txt/t1_biology_0_101.deft	 27611	 27615	 B-Term	 T304	 0	 Supplements
--	 data/source_txt/t1_biology_0_101.deft	 27615	 27616	 I-Term	 T304	 0	 Supplements
-translational	 data/source_txt/t1_biology_0_101.deft	 27616	 27629	 I-Term	 T304	 0	 Supplements
-level	 data/source_txt/t1_biology_0_101.deft	 27630	 27635	 I-Term	 T304	 0	 Supplements
+post	 data/source_txt/t1_biology_0_101.deft	 27611	 27615	 B-Term	 T304	 0	 0
+-	 data/source_txt/t1_biology_0_101.deft	 27615	 27616	 I-Term	 T304	 0	 0
+translational	 data/source_txt/t1_biology_0_101.deft	 27616	 27629	 I-Term	 T304	 0	 0
+level	 data/source_txt/t1_biology_0_101.deft	 27630	 27635	 I-Term	 T304	 0	 0
 )	 data/source_txt/t1_biology_0_101.deft	 27635	 27636	 O	 -1	 -1	 0
 .	 data/source_txt/t1_biology_0_101.deft	 27636	 27637	 O	 -1	 -1	 0
 
@@ -5269,9 +5269,9 @@ A	 data/source_txt/t1_biology_0_101.deft	 27788	 27789	 O	 -1	 -1	 0
 DNA	 data/source_txt/t1_biology_0_101.deft	 27790	 27793	 O	 -1	 -1	 0
 sequence	 data/source_txt/t1_biology_0_101.deft	 27794	 27802	 O	 -1	 -1	 0
 called	 data/source_txt/t1_biology_0_101.deft	 27803	 27809	 O	 -1	 -1	 0
-the	 data/source_txt/t1_biology_0_101.deft	 27810	 27813	 B-Term	 T225	 0	 Refers-To
-operator	 data/source_txt/t1_biology_0_101.deft	 27814	 27822	 I-Term	 T225	 0	 Refers-To
-sequence	 data/source_txt/t1_biology_0_101.deft	 27823	 27831	 I-Term	 T225	 0	 Refers-To
+the	 data/source_txt/t1_biology_0_101.deft	 27810	 27813	 B-Term	 T225	 0	 0
+operator	 data/source_txt/t1_biology_0_101.deft	 27814	 27822	 I-Term	 T225	 0	 0
+sequence	 data/source_txt/t1_biology_0_101.deft	 27823	 27831	 I-Term	 T225	 0	 0
 is	 data/source_txt/t1_biology_0_101.deft	 27832	 27834	 O	 -1	 -1	 0
 encoded	 data/source_txt/t1_biology_0_101.deft	 27835	 27842	 B-Secondary-Definition	 T226	 T228	 Supplements
 between	 data/source_txt/t1_biology_0_101.deft	 27843	 27850	 I-Secondary-Definition	 T226	 T228	 Supplements
@@ -5286,19 +5286,19 @@ coding	 data/source_txt/t1_biology_0_101.deft	 27889	 27895	 I-Secondary-Definit
 gene	 data/source_txt/t1_biology_0_101.deft	 27896	 27900	 I-Secondary-Definition	 T226	 T228	 Supplements
 .	 data/source_txt/t1_biology_0_101.deft	 27900	 27901	 O	 -1	 -1	 0
 
-This	 data/source_txt/t1_biology_0_101.deft	 27910	 27914	 B-Referential-Term	 T227	 0	 Indirect-Defines
-operator	 data/source_txt/t1_biology_0_101.deft	 27915	 27923	 I-Referential-Term	 T227	 0	 Indirect-Defines
-contains	 data/source_txt/t1_biology_0_101.deft	 27924	 27932	 B-Definition	 T228	 0	 Supplements
-the	 data/source_txt/t1_biology_0_101.deft	 27933	 27936	 I-Definition	 T228	 0	 Supplements
-DNA	 data/source_txt/t1_biology_0_101.deft	 27937	 27940	 I-Definition	 T228	 0	 Supplements
-code	 data/source_txt/t1_biology_0_101.deft	 27941	 27945	 I-Definition	 T228	 0	 Supplements
-to	 data/source_txt/t1_biology_0_101.deft	 27946	 27948	 I-Definition	 T228	 0	 Supplements
-which	 data/source_txt/t1_biology_0_101.deft	 27949	 27954	 I-Definition	 T228	 0	 Supplements
-the	 data/source_txt/t1_biology_0_101.deft	 27955	 27958	 I-Definition	 T228	 0	 Supplements
-repressor	 data/source_txt/t1_biology_0_101.deft	 27959	 27968	 I-Definition	 T228	 0	 Supplements
-protein	 data/source_txt/t1_biology_0_101.deft	 27969	 27976	 I-Definition	 T228	 0	 Supplements
-can	 data/source_txt/t1_biology_0_101.deft	 27977	 27980	 I-Definition	 T228	 0	 Supplements
-bind	 data/source_txt/t1_biology_0_101.deft	 27981	 27985	 I-Definition	 T228	 0	 Supplements
+This	 data/source_txt/t1_biology_0_101.deft	 27910	 27914	 B-Referential-Term	 T227	 T225	 Refers-To
+operator	 data/source_txt/t1_biology_0_101.deft	 27915	 27923	 I-Referential-Term	 T227	 T225	 Refers-To
+contains	 data/source_txt/t1_biology_0_101.deft	 27924	 27932	 B-Definition	 T228	 T227	 Indirect-Defines
+the	 data/source_txt/t1_biology_0_101.deft	 27933	 27936	 I-Definition	 T228	 T227	 Indirect-Defines
+DNA	 data/source_txt/t1_biology_0_101.deft	 27937	 27940	 I-Definition	 T228	 T227	 Indirect-Defines
+code	 data/source_txt/t1_biology_0_101.deft	 27941	 27945	 I-Definition	 T228	 T227	 Indirect-Defines
+to	 data/source_txt/t1_biology_0_101.deft	 27946	 27948	 I-Definition	 T228	 T227	 Indirect-Defines
+which	 data/source_txt/t1_biology_0_101.deft	 27949	 27954	 I-Definition	 T228	 T227	 Indirect-Defines
+the	 data/source_txt/t1_biology_0_101.deft	 27955	 27958	 I-Definition	 T228	 T227	 Indirect-Defines
+repressor	 data/source_txt/t1_biology_0_101.deft	 27959	 27968	 I-Definition	 T228	 T227	 Indirect-Defines
+protein	 data/source_txt/t1_biology_0_101.deft	 27969	 27976	 I-Definition	 T228	 T227	 Indirect-Defines
+can	 data/source_txt/t1_biology_0_101.deft	 27977	 27980	 I-Definition	 T228	 T227	 Indirect-Defines
+bind	 data/source_txt/t1_biology_0_101.deft	 27981	 27985	 I-Definition	 T228	 T227	 Indirect-Defines
 .	 data/source_txt/t1_biology_0_101.deft	 27985	 27986	 O	 -1	 -1	 0
 
 When	 data/source_txt/t1_biology_0_101.deft	 27993	 27997	 O	 -1	 -1	 0
@@ -5350,9 +5350,9 @@ to	 data/source_txt/t1_biology_0_101.deft	 28221	 28223	 O	 -1	 -1	 0
 the	 data/source_txt/t1_biology_0_101.deft	 28224	 28227	 O	 -1	 -1	 0
 positive	 data/source_txt/t1_biology_0_101.deft	 28228	 28236	 O	 -1	 -1	 0
 regulator	 data/source_txt/t1_biology_0_101.deft	 28237	 28246	 O	 -1	 -1	 0
-catabolite	 data/source_txt/t1_biology_0_101.deft	 28247	 28257	 B-Term	 T229	 0	 Direct-Defines
-activator	 data/source_txt/t1_biology_0_101.deft	 28258	 28267	 I-Term	 T229	 0	 Direct-Defines
-protein	 data/source_txt/t1_biology_0_101.deft	 28268	 28275	 I-Term	 T229	 0	 Direct-Defines
+catabolite	 data/source_txt/t1_biology_0_101.deft	 28247	 28257	 B-Term	 T229	 0	 0
+activator	 data/source_txt/t1_biology_0_101.deft	 28258	 28267	 I-Term	 T229	 0	 0
+protein	 data/source_txt/t1_biology_0_101.deft	 28268	 28275	 I-Term	 T229	 0	 0
 (	 data/source_txt/t1_biology_0_101.deft	 28276	 28277	 O	 -1	 -1	 0
 CAP	 data/source_txt/t1_biology_0_101.deft	 28277	 28280	 B-Alias-Term	 T230	 T229	 AKA
 )	 data/source_txt/t1_biology_0_101.deft	 28280	 28281	 O	 -1	 -1	 0
@@ -5525,7 +5525,7 @@ These	 data/source_txt/t1_biology_0_101.deft	 29152	 29157	 O	 -1	 -1	 0
 regions	 data/source_txt/t1_biology_0_101.deft	 29158	 29165	 O	 -1	 -1	 0
 ,	 data/source_txt/t1_biology_0_101.deft	 29165	 29166	 O	 -1	 -1	 0
 called	 data/source_txt/t1_biology_0_101.deft	 29167	 29173	 O	 -1	 -1	 0
-enhancers	 data/source_txt/t1_biology_0_101.deft	 29174	 29183	 B-Term	 T232	 0	 Direct-Defines
+enhancers	 data/source_txt/t1_biology_0_101.deft	 29174	 29183	 B-Term	 T232	 0	 0
 ,	 data/source_txt/t1_biology_0_101.deft	 29183	 29184	 O	 -1	 -1	 0
 are	 data/source_txt/t1_biology_0_101.deft	 29185	 29188	 O	 -1	 -1	 0
 not	 data/source_txt/t1_biology_0_101.deft	 29189	 29192	 O	 -1	 -1	 0
@@ -5607,10 +5607,10 @@ stability	 data/source_txt/t1_biology_0_101.deft	 29528	 29537	 O	 -1	 -1	 0
 Proteins	 data/source_txt/t1_biology_0_101.deft	 29547	 29555	 O	 -1	 -1	 0
 ,	 data/source_txt/t1_biology_0_101.deft	 29555	 29556	 O	 -1	 -1	 0
 called	 data/source_txt/t1_biology_0_101.deft	 29557	 29563	 O	 -1	 -1	 0
-RNA	 data/source_txt/t1_biology_0_101.deft	 29564	 29567	 B-Term	 T234	 0	 Direct-Defines
--	 data/source_txt/t1_biology_0_101.deft	 29567	 29568	 I-Term	 T234	 0	 Direct-Defines
-binding	 data/source_txt/t1_biology_0_101.deft	 29568	 29575	 I-Term	 T234	 0	 Direct-Defines
-proteins	 data/source_txt/t1_biology_0_101.deft	 29576	 29584	 I-Term	 T234	 0	 Direct-Defines
+RNA	 data/source_txt/t1_biology_0_101.deft	 29564	 29567	 B-Term	 T234	 0	 0
+-	 data/source_txt/t1_biology_0_101.deft	 29567	 29568	 I-Term	 T234	 0	 0
+binding	 data/source_txt/t1_biology_0_101.deft	 29568	 29575	 I-Term	 T234	 0	 0
+proteins	 data/source_txt/t1_biology_0_101.deft	 29576	 29584	 I-Term	 T234	 0	 0
 ,	 data/source_txt/t1_biology_0_101.deft	 29584	 29585	 O	 -1	 -1	 0
 or	 data/source_txt/t1_biology_0_101.deft	 29586	 29588	 O	 -1	 -1	 0
 RBPs	 data/source_txt/t1_biology_0_101.deft	 29589	 29593	 B-Alias-Term	 T235	 T234	 AKA
@@ -5648,9 +5648,9 @@ into	 data/source_txt/t1_biology_0_101.deft	 29743	 29747	 I-Definition	 T242	 T
 protein	 data/source_txt/t1_biology_0_101.deft	 29748	 29755	 I-Definition	 T242	 T240	 Direct-Defines
 are	 data/source_txt/t1_biology_0_101.deft	 29756	 29759	 O	 -1	 -1	 0
 called	 data/source_txt/t1_biology_0_101.deft	 29760	 29766	 O	 -1	 -1	 0
-the	 data/source_txt/t1_biology_0_101.deft	 29767	 29770	 B-Term	 T240	 0	 Direct-Defines
-untranslated	 data/source_txt/t1_biology_0_101.deft	 29771	 29783	 I-Term	 T240	 0	 Direct-Defines
-regions	 data/source_txt/t1_biology_0_101.deft	 29784	 29791	 I-Term	 T240	 0	 Direct-Defines
+the	 data/source_txt/t1_biology_0_101.deft	 29767	 29770	 B-Term	 T240	 0	 0
+untranslated	 data/source_txt/t1_biology_0_101.deft	 29771	 29783	 I-Term	 T240	 0	 0
+regions	 data/source_txt/t1_biology_0_101.deft	 29784	 29791	 I-Term	 T240	 0	 0
 ,	 data/source_txt/t1_biology_0_101.deft	 29791	 29792	 O	 -1	 -1	 0
 or	 data/source_txt/t1_biology_0_101.deft	 29793	 29795	 O	 -1	 -1	 0
 UTRs	 data/source_txt/t1_biology_0_101.deft	 29796	 29800	 B-Alias-Term	 T241	 T240	 AKA
@@ -5690,7 +5690,7 @@ molecule	 data/source_txt/t1_biology_0_101.deft	 29945	 29953	 O	 -1	 -1	 0
 .	 data/source_txt/t1_biology_0_101.deft	 29953	 29954	 O	 -1	 -1	 0
 
 These	 data/source_txt/t1_biology_0_101.deft	 29963	 29968	 O	 -1	 -1	 0
-microRNAs	 data/source_txt/t1_biology_0_101.deft	 29969	 29978	 B-Term	 T237	 0	 Direct-Defines
+microRNAs	 data/source_txt/t1_biology_0_101.deft	 29969	 29978	 B-Term	 T237	 0	 0
 ,	 data/source_txt/t1_biology_0_101.deft	 29978	 29979	 O	 -1	 -1	 0
 or	 data/source_txt/t1_biology_0_101.deft	 29980	 29982	 O	 -1	 -1	 0
 miRNAs	 data/source_txt/t1_biology_0_101.deft	 29983	 29989	 B-Alias-Term	 T238	 T237	 AKA
@@ -5759,9 +5759,9 @@ is	 data/source_txt/t1_biology_0_101.deft	 30295	 30297	 O	 -1	 -1	 0
 referred	 data/source_txt/t1_biology_0_101.deft	 30298	 30306	 O	 -1	 -1	 0
 to	 data/source_txt/t1_biology_0_101.deft	 30307	 30309	 O	 -1	 -1	 0
 as	 data/source_txt/t1_biology_0_101.deft	 30310	 30312	 O	 -1	 -1	 0
-the	 data/source_txt/t1_biology_0_101.deft	 30313	 30316	 B-Term	 T244	 0	 Direct-Defines
-initiation	 data/source_txt/t1_biology_0_101.deft	 30317	 30327	 I-Term	 T244	 0	 Direct-Defines
-complex	 data/source_txt/t1_biology_0_101.deft	 30328	 30335	 I-Term	 T244	 0	 Direct-Defines
+the	 data/source_txt/t1_biology_0_101.deft	 30313	 30316	 B-Term	 T244	 0	 0
+initiation	 data/source_txt/t1_biology_0_101.deft	 30317	 30327	 I-Term	 T244	 0	 0
+complex	 data/source_txt/t1_biology_0_101.deft	 30328	 30335	 I-Term	 T244	 0	 0
 .	 data/source_txt/t1_biology_0_101.deft	 30335	 30336	 O	 -1	 -1	 0
 
 The	 data/source_txt/t1_biology_0_101.deft	 30343	 30346	 B-Definition	 T247	 T245	 Direct-Defines
@@ -5776,10 +5776,10 @@ to	 data/source_txt/t1_biology_0_101.deft	 30380	 30382	 I-Definition	 T247	 T24
 initiate	 data/source_txt/t1_biology_0_101.deft	 30383	 30391	 I-Definition	 T247	 T245	 Direct-Defines
 translation	 data/source_txt/t1_biology_0_101.deft	 30392	 30403	 I-Definition	 T247	 T245	 Direct-Defines
 is	 data/source_txt/t1_biology_0_101.deft	 30404	 30406	 O	 -1	 -1	 0
-the	 data/source_txt/t1_biology_0_101.deft	 30407	 30410	 B-Term	 T245	 0	 Direct-Defines
-eukaryotic	 data/source_txt/t1_biology_0_101.deft	 30411	 30421	 I-Term	 T245	 0	 Direct-Defines
-initiation	 data/source_txt/t1_biology_0_101.deft	 30422	 30432	 I-Term	 T245	 0	 Direct-Defines
-factor-2	 data/source_txt/t1_biology_0_101.deft	 30433	 30441	 I-Term	 T245	 0	 Direct-Defines
+the	 data/source_txt/t1_biology_0_101.deft	 30407	 30410	 B-Term	 T245	 0	 0
+eukaryotic	 data/source_txt/t1_biology_0_101.deft	 30411	 30421	 I-Term	 T245	 0	 0
+initiation	 data/source_txt/t1_biology_0_101.deft	 30422	 30432	 I-Term	 T245	 0	 0
+factor-2	 data/source_txt/t1_biology_0_101.deft	 30433	 30441	 I-Term	 T245	 0	 0
 (	 data/source_txt/t1_biology_0_101.deft	 30442	 30443	 O	 -1	 -1	 0
 eIF-2	 data/source_txt/t1_biology_0_101.deft	 30443	 30448	 B-Alias-Term	 T246	 T245	 AKA
 )	 data/source_txt/t1_biology_0_101.deft	 30448	 30449	 O	 -1	 -1	 0
@@ -5803,8 +5803,8 @@ high	 data/source_txt/t1_biology_0_101.deft	 30508	 30512	 O	 -1	 -1	 0
 -	 data/source_txt/t1_biology_0_101.deft	 30512	 30513	 O	 -1	 -1	 0
 energy	 data/source_txt/t1_biology_0_101.deft	 30513	 30519	 O	 -1	 -1	 0
 molecule	 data/source_txt/t1_biology_0_101.deft	 30520	 30528	 O	 -1	 -1	 0
-guanosine	 data/source_txt/t1_biology_0_101.deft	 30529	 30538	 B-Term	 T248	 0	 Direct-Defines
-triphosphate	 data/source_txt/t1_biology_0_101.deft	 30539	 30551	 I-Term	 T248	 0	 Direct-Defines
+guanosine	 data/source_txt/t1_biology_0_101.deft	 30529	 30538	 B-Term	 T248	 0	 0
+triphosphate	 data/source_txt/t1_biology_0_101.deft	 30539	 30551	 I-Term	 T248	 0	 0
 (	 data/source_txt/t1_biology_0_101.deft	 30552	 30553	 O	 -1	 -1	 0
 GTP	 data/source_txt/t1_biology_0_101.deft	 30553	 30556	 B-Alias-Term	 T249	 T248	 AKA
 )	 data/source_txt/t1_biology_0_101.deft	 30556	 30557	 O	 -1	 -1	 0
@@ -5851,7 +5851,7 @@ subunit	 data/source_txt/t1_biology_0_101.deft	 30750	 30757	 O	 -1	 -1	 0
 566	 data/source_txt/t1_biology_0_101.deft	 30762	 30765	 O	 -1	 -1	 0
 .	 data/source_txt/t1_biology_0_101.deft	 30765	 30766	 O	 -1	 -1	 0
 
-Ubiquitin	 data/source_txt/t1_biology_0_101.deft	 30767	 30776	 B-Term	 T251	 0	 Direct-Defines
+Ubiquitin	 data/source_txt/t1_biology_0_101.deft	 30767	 30776	 B-Term	 T251	 0	 0
 acts	 data/source_txt/t1_biology_0_101.deft	 30777	 30781	 B-Definition	 T252	 T251	 Direct-Defines
 like	 data/source_txt/t1_biology_0_101.deft	 30782	 30786	 I-Definition	 T252	 T251	 Direct-Defines
 a	 data/source_txt/t1_biology_0_101.deft	 30787	 30788	 I-Definition	 T252	 T251	 Direct-Defines
@@ -5870,8 +5870,8 @@ proteins	 data/source_txt/t1_biology_0_101.deft	 30858	 30866	 O	 -1	 -1	 0
 are	 data/source_txt/t1_biology_0_101.deft	 30867	 30870	 O	 -1	 -1	 0
 moved	 data/source_txt/t1_biology_0_101.deft	 30871	 30876	 O	 -1	 -1	 0
 to	 data/source_txt/t1_biology_0_101.deft	 30877	 30879	 O	 -1	 -1	 0
-the	 data/source_txt/t1_biology_0_101.deft	 30880	 30883	 B-Term	 T253	 0	 Direct-Defines
-proteasome	 data/source_txt/t1_biology_0_101.deft	 30884	 30894	 I-Term	 T253	 0	 Direct-Defines
+the	 data/source_txt/t1_biology_0_101.deft	 30880	 30883	 B-Term	 T253	 0	 0
+proteasome	 data/source_txt/t1_biology_0_101.deft	 30884	 30894	 I-Term	 T253	 0	 0
 ,	 data/source_txt/t1_biology_0_101.deft	 30894	 30895	 O	 -1	 -1	 0
 an	 data/source_txt/t1_biology_0_101.deft	 30896	 30898	 B-Definition	 T200	 T253	 Direct-Defines
 organelle	 data/source_txt/t1_biology_0_101.deft	 30899	 30908	 I-Definition	 T200	 T253	 Direct-Defines
@@ -5914,7 +5914,7 @@ protein	 data/source_txt/t1_biology_0_101.deft	 31055	 31062	 O	 -1	 -1	 0
 569	 data/source_txt/t1_biology_0_101.deft	 31067	 31070	 O	 -1	 -1	 0
 .	 data/source_txt/t1_biology_0_101.deft	 31070	 31071	 O	 -1	 -1	 0
 
-Biotechnology	 data/source_txt/t1_biology_0_101.deft	 31080	 31093	 B-Term	 T255	 0	 Direct-Defines
+Biotechnology	 data/source_txt/t1_biology_0_101.deft	 31080	 31093	 B-Term	 T255	 0	 0
 is	 data/source_txt/t1_biology_0_101.deft	 31094	 31096	 O	 -1	 -1	 0
 the	 data/source_txt/t1_biology_0_101.deft	 31097	 31100	 B-Definition	 T256	 T255	 Direct-Defines
 use	 data/source_txt/t1_biology_0_101.deft	 31101	 31104	 I-Definition	 T256	 T255	 Direct-Defines
@@ -5977,8 +5977,8 @@ electric	 data/source_txt/t1_biology_0_101.deft	 31424	 31432	 O	 -1	 -1	 0
 field	 data/source_txt/t1_biology_0_101.deft	 31433	 31438	 O	 -1	 -1	 0
 .	 data/source_txt/t1_biology_0_101.deft	 31438	 31439	 O	 -1	 -1	 0
 
-Gel	 data/source_txt/t1_biology_0_101.deft	 31448	 31451	 B-Term	 T257	 0	 Direct-Defines
-electrophoresis	 data/source_txt/t1_biology_0_101.deft	 31452	 31467	 I-Term	 T257	 0	 Direct-Defines
+Gel	 data/source_txt/t1_biology_0_101.deft	 31448	 31451	 B-Term	 T257	 0	 0
+electrophoresis	 data/source_txt/t1_biology_0_101.deft	 31452	 31467	 I-Term	 T257	 0	 0
 is	 data/source_txt/t1_biology_0_101.deft	 31468	 31470	 O	 -1	 -1	 0
 a	 data/source_txt/t1_biology_0_101.deft	 31471	 31472	 B-Definition	 T258	 T257	 Direct-Defines
 technique	 data/source_txt/t1_biology_0_101.deft	 31473	 31482	 I-Definition	 T258	 T257	 Direct-Defines
@@ -6043,7 +6043,7 @@ in	 data/source_txt/t1_biology_0_101.deft	 31793	 31795	 O	 -1	 -1	 0
 a	 data/source_txt/t1_biology_0_101.deft	 31796	 31797	 O	 -1	 -1	 0
 procedure	 data/source_txt/t1_biology_0_101.deft	 31798	 31807	 O	 -1	 -1	 0
 called	 data/source_txt/t1_biology_0_101.deft	 31808	 31814	 O	 -1	 -1	 0
-blotting	 data/source_txt/t1_biology_0_101.deft	 31815	 31823	 B-Term	 T223	 0	 Direct-Defines
+blotting	 data/source_txt/t1_biology_0_101.deft	 31815	 31823	 B-Term	 T223	 0	 0
 (	 data/source_txt/t1_biology_0_101.deft	 31824	 31825	 O	 -1	 -1	 0
 [	 data/source_txt/t1_biology_0_101.deft	 31825	 31826	 O	 -1	 -1	 0
 link	 data/source_txt/t1_biology_0_101.deft	 31826	 31830	 O	 -1	 -1	 0
@@ -6082,7 +6082,7 @@ sequences	 data/source_txt/t1_biology_0_101.deft	 31991	 32000	 O	 -1	 -1	 0
 578	 data/source_txt/t1_biology_0_101.deft	 32005	 32008	 O	 -1	 -1	 0
 .	 data/source_txt/t1_biology_0_101.deft	 32008	 32009	 O	 -1	 -1	 0
 
-Plasmids	 data/source_txt/t1_biology_0_101.deft	 32018	 32026	 B-Term	 T261	 0	 Direct-Defines
+Plasmids	 data/source_txt/t1_biology_0_101.deft	 32018	 32026	 B-Term	 T261	 0	 0
 occur	 data/source_txt/t1_biology_0_101.deft	 32027	 32032	 O	 -1	 -1	 0
 naturally	 data/source_txt/t1_biology_0_101.deft	 32033	 32042	 O	 -1	 -1	 0
 in	 data/source_txt/t1_biology_0_101.deft	 32043	 32045	 O	 -1	 -1	 0
@@ -6108,8 +6108,8 @@ organism	 data/source_txt/t1_biology_0_101.deft	 32154	 32162	 O	 -1	 -1	 0
 ,	 data/source_txt/t1_biology_0_101.deft	 32162	 32163	 O	 -1	 -1	 0
 such	 data/source_txt/t1_biology_0_101.deft	 32164	 32168	 O	 -1	 -1	 0
 as	 data/source_txt/t1_biology_0_101.deft	 32169	 32171	 O	 -1	 -1	 0
-antibiotic	 data/source_txt/t1_biology_0_101.deft	 32172	 32182	 B-Term	 T263	 0	 Direct-Defines
-resistance	 data/source_txt/t1_biology_0_101.deft	 32183	 32193	 I-Term	 T263	 0	 Direct-Defines
+antibiotic	 data/source_txt/t1_biology_0_101.deft	 32172	 32182	 B-Term	 T263	 0	 0
+resistance	 data/source_txt/t1_biology_0_101.deft	 32183	 32193	 I-Term	 T263	 0	 0
 (	 data/source_txt/t1_biology_0_101.deft	 32194	 32195	 O	 -1	 -1	 0
 the	 data/source_txt/t1_biology_0_101.deft	 32195	 32198	 B-Definition	 T264	 T263	 Direct-Defines
 ability	 data/source_txt/t1_biology_0_101.deft	 32199	 32206	 I-Definition	 T264	 T263	 Direct-Defines
@@ -6155,18 +6155,18 @@ hormone	 data/source_txt/t1_biology_0_101.deft	 32412	 32419	 I-Secondary-Defini
 581	 data/source_txt/t1_biology_0_101.deft	 32424	 32427	 O	 -1	 -1	 0
 .	 data/source_txt/t1_biology_0_101.deft	 32427	 32428	 O	 -1	 -1	 0
 
-Plasmids	 data/source_txt/t1_biology_0_101.deft	 32437	 32445	 B-Definition	 T267	 0	 Supplements
-with	 data/source_txt/t1_biology_0_101.deft	 32446	 32450	 I-Definition	 T267	 0	 Supplements
-foreign	 data/source_txt/t1_biology_0_101.deft	 32451	 32458	 I-Definition	 T267	 0	 Supplements
-DNA	 data/source_txt/t1_biology_0_101.deft	 32459	 32462	 I-Definition	 T267	 0	 Supplements
-inserted	 data/source_txt/t1_biology_0_101.deft	 32463	 32471	 I-Definition	 T267	 0	 Supplements
-into	 data/source_txt/t1_biology_0_101.deft	 32472	 32476	 I-Definition	 T267	 0	 Supplements
-them	 data/source_txt/t1_biology_0_101.deft	 32477	 32481	 I-Definition	 T267	 0	 Supplements
+Plasmids	 data/source_txt/t1_biology_0_101.deft	 32437	 32445	 B-Definition	 T267	 T266	 Direct-Defines
+with	 data/source_txt/t1_biology_0_101.deft	 32446	 32450	 I-Definition	 T267	 T266	 Direct-Defines
+foreign	 data/source_txt/t1_biology_0_101.deft	 32451	 32458	 I-Definition	 T267	 T266	 Direct-Defines
+DNA	 data/source_txt/t1_biology_0_101.deft	 32459	 32462	 I-Definition	 T267	 T266	 Direct-Defines
+inserted	 data/source_txt/t1_biology_0_101.deft	 32463	 32471	 I-Definition	 T267	 T266	 Direct-Defines
+into	 data/source_txt/t1_biology_0_101.deft	 32472	 32476	 I-Definition	 T267	 T266	 Direct-Defines
+them	 data/source_txt/t1_biology_0_101.deft	 32477	 32481	 I-Definition	 T267	 T266	 Direct-Defines
 are	 data/source_txt/t1_biology_0_101.deft	 32482	 32485	 O	 -1	 -1	 0
 called	 data/source_txt/t1_biology_0_101.deft	 32486	 32492	 O	 -1	 -1	 0
-recombinant	 data/source_txt/t1_biology_0_101.deft	 32493	 32504	 B-Term	 T266	 0	 Refers-To
-DNA	 data/source_txt/t1_biology_0_101.deft	 32505	 32508	 I-Term	 T266	 0	 Refers-To
-molecules	 data/source_txt/t1_biology_0_101.deft	 32509	 32518	 I-Term	 T266	 0	 Refers-To
+recombinant	 data/source_txt/t1_biology_0_101.deft	 32493	 32504	 B-Term	 T266	 0	 0
+DNA	 data/source_txt/t1_biology_0_101.deft	 32505	 32508	 I-Term	 T266	 0	 0
+molecules	 data/source_txt/t1_biology_0_101.deft	 32509	 32518	 I-Term	 T266	 0	 0
 because	 data/source_txt/t1_biology_0_101.deft	 32519	 32526	 O	 -1	 -1	 0
 they	 data/source_txt/t1_biology_0_101.deft	 32527	 32531	 O	 -1	 -1	 0
 are	 data/source_txt/t1_biology_0_101.deft	 32532	 32535	 O	 -1	 -1	 0
@@ -6216,8 +6216,8 @@ synthesis	 data/source_txt/t1_biology_0_101.deft	 32770	 32779	 I-Secondary-Defi
 584	 data/source_txt/t1_biology_0_101.deft	 32784	 32787	 O	 -1	 -1	 0
 .	 data/source_txt/t1_biology_0_101.deft	 32787	 32788	 O	 -1	 -1	 0
 
-Reproductive	 data/source_txt/t1_biology_0_101.deft	 32797	 32809	 B-Term	 T271	 0	 Direct-Defines
-cloning	 data/source_txt/t1_biology_0_101.deft	 32810	 32817	 I-Term	 T271	 0	 Direct-Defines
+Reproductive	 data/source_txt/t1_biology_0_101.deft	 32797	 32809	 B-Term	 T271	 0	 0
+cloning	 data/source_txt/t1_biology_0_101.deft	 32810	 32817	 I-Term	 T271	 0	 0
 is	 data/source_txt/t1_biology_0_101.deft	 32818	 32820	 O	 -1	 -1	 0
 a	 data/source_txt/t1_biology_0_101.deft	 32821	 32822	 B-Definition	 T272	 T271	 Direct-Defines
 method	 data/source_txt/t1_biology_0_101.deft	 32823	 32829	 I-Definition	 T272	 T271	 Direct-Defines
@@ -6241,9 +6241,9 @@ Most	 data/source_txt/t1_biology_0_101.deft	 32915	 32919	 O	 -1	 -1	 0
 multicellular	 data/source_txt/t1_biology_0_101.deft	 32920	 32933	 O	 -1	 -1	 0
 organisms	 data/source_txt/t1_biology_0_101.deft	 32934	 32943	 O	 -1	 -1	 0
 undergo	 data/source_txt/t1_biology_0_101.deft	 32944	 32951	 O	 -1	 -1	 0
-reproduction	 data/source_txt/t1_biology_0_101.deft	 32952	 32964	 B-Term	 T254	 0	 Direct-Defines
-by	 data/source_txt/t1_biology_0_101.deft	 32965	 32967	 I-Term	 T254	 0	 Direct-Defines
-sexual	 data/source_txt/t1_biology_0_101.deft	 32968	 32974	 I-Term	 T254	 0	 Direct-Defines
+reproduction	 data/source_txt/t1_biology_0_101.deft	 32952	 32964	 B-Term	 T254	 0	 0
+by	 data/source_txt/t1_biology_0_101.deft	 32965	 32967	 I-Term	 T254	 0	 0
+sexual	 data/source_txt/t1_biology_0_101.deft	 32968	 32974	 I-Term	 T254	 0	 0
 means	 data/source_txt/t1_biology_0_101.deft	 32975	 32980	 O	 -1	 -1	 0
 ,	 data/source_txt/t1_biology_0_101.deft	 32980	 32981	 O	 -1	 -1	 0
 which	 data/source_txt/t1_biology_0_101.deft	 32982	 32987	 O	 -1	 -1	 0
@@ -6287,10 +6287,10 @@ recombinant	 data/source_txt/t1_biology_0_101.deft	 33174	 33185	 I-Definition	 
 DNA	 data/source_txt/t1_biology_0_101.deft	 33186	 33189	 I-Definition	 T275	 T273	 Direct-Defines
 is	 data/source_txt/t1_biology_0_101.deft	 33190	 33192	 O	 -1	 -1	 0
 called	 data/source_txt/t1_biology_0_101.deft	 33193	 33199	 O	 -1	 -1	 0
-a	 data/source_txt/t1_biology_0_101.deft	 33200	 33201	 B-Term	 T273	 0	 AKA
-genetically	 data/source_txt/t1_biology_0_101.deft	 33202	 33213	 I-Term	 T273	 0	 AKA
-modified	 data/source_txt/t1_biology_0_101.deft	 33214	 33222	 I-Term	 T273	 0	 AKA
-organism	 data/source_txt/t1_biology_0_101.deft	 33223	 33231	 I-Term	 T273	 0	 AKA
+a	 data/source_txt/t1_biology_0_101.deft	 33200	 33201	 B-Term	 T273	 0	 0
+genetically	 data/source_txt/t1_biology_0_101.deft	 33202	 33213	 I-Term	 T273	 0	 0
+modified	 data/source_txt/t1_biology_0_101.deft	 33214	 33222	 I-Term	 T273	 0	 0
+organism	 data/source_txt/t1_biology_0_101.deft	 33223	 33231	 I-Term	 T273	 0	 0
 (	 data/source_txt/t1_biology_0_101.deft	 33232	 33233	 O	 -1	 -1	 0
 GMO	 data/source_txt/t1_biology_0_101.deft	 33233	 33236	 B-Alias-Term	 T274	 T273	 AKA
 )	 data/source_txt/t1_biology_0_101.deft	 33236	 33237	 O	 -1	 -1	 0
@@ -6314,7 +6314,7 @@ host	 data/source_txt/t1_biology_0_101.deft	 33321	 33325	 I-Definition	 T277	 T
 organism	 data/source_txt/t1_biology_0_101.deft	 33326	 33334	 I-Definition	 T277	 T276	 Direct-Defines
 is	 data/source_txt/t1_biology_0_101.deft	 33335	 33337	 O	 -1	 -1	 0
 called	 data/source_txt/t1_biology_0_101.deft	 33338	 33344	 O	 -1	 -1	 0
-transgenic	 data/source_txt/t1_biology_0_101.deft	 33345	 33355	 B-Term	 T276	 0	 Direct-Defines
+transgenic	 data/source_txt/t1_biology_0_101.deft	 33345	 33355	 B-Term	 T276	 0	 0
 .	 data/source_txt/t1_biology_0_101.deft	 33355	 33356	 O	 -1	 -1	 0
 
 Bacteria	 data/source_txt/t1_biology_0_101.deft	 33363	 33371	 O	 -1	 -1	 0
@@ -6347,8 +6347,8 @@ purposes	 data/source_txt/t1_biology_0_101.deft	 33498	 33506	 O	 -1	 -1	 0
 590	 data/source_txt/t1_biology_0_101.deft	 33511	 33514	 O	 -1	 -1	 0
 .	 data/source_txt/t1_biology_0_101.deft	 33514	 33515	 O	 -1	 -1	 0
 
-Gene	 data/source_txt/t1_biology_0_101.deft	 33524	 33528	 B-Term	 T278	 0	 Supplements
-therapy	 data/source_txt/t1_biology_0_101.deft	 33529	 33536	 I-Term	 T278	 0	 Supplements
+Gene	 data/source_txt/t1_biology_0_101.deft	 33524	 33528	 B-Term	 T278	 0	 0
+therapy	 data/source_txt/t1_biology_0_101.deft	 33529	 33536	 I-Term	 T278	 0	 0
 is	 data/source_txt/t1_biology_0_101.deft	 33537	 33539	 O	 -1	 -1	 0
 a	 data/source_txt/t1_biology_0_101.deft	 33540	 33541	 B-Definition	 T279	 T278	 Direct-Defines
 genetic	 data/source_txt/t1_biology_0_101.deft	 33542	 33549	 I-Definition	 T279	 T278	 Direct-Defines
@@ -6400,7 +6400,7 @@ gene	 data/source_txt/t1_biology_0_101.deft	 33758	 33762	 I-Secondary-Definitio
 593	 data/source_txt/t1_biology_0_101.deft	 33767	 33770	 O	 -1	 -1	 0
 .	 data/source_txt/t1_biology_0_101.deft	 33770	 33771	 O	 -1	 -1	 0
 
-Genomics	 data/source_txt/t1_biology_0_101.deft	 33772	 33780	 B-Term	 T281	 0	 Direct-Defines
+Genomics	 data/source_txt/t1_biology_0_101.deft	 33772	 33780	 B-Term	 T281	 0	 0
 is	 data/source_txt/t1_biology_0_101.deft	 33781	 33783	 O	 -1	 -1	 0
 the	 data/source_txt/t1_biology_0_101.deft	 33784	 33787	 B-Definition	 T282	 T281	 Direct-Defines
 study	 data/source_txt/t1_biology_0_101.deft	 33788	 33793	 I-Definition	 T282	 T281	 Direct-Defines
@@ -6433,8 +6433,8 @@ other	 data/source_txt/t1_biology_0_101.deft	 33943	 33948	 I-Definition	 T282	 
 species	 data/source_txt/t1_biology_0_101.deft	 33949	 33956	 I-Definition	 T282	 T281	 Direct-Defines
 .	 data/source_txt/t1_biology_0_101.deft	 33956	 33957	 O	 -1	 -1	 0
 
-Genome	 data/source_txt/t1_biology_0_101.deft	 33966	 33972	 B-Term	 T283	 0	 Direct-Defines
-mapping	 data/source_txt/t1_biology_0_101.deft	 33973	 33980	 I-Term	 T283	 0	 Direct-Defines
+Genome	 data/source_txt/t1_biology_0_101.deft	 33966	 33972	 B-Term	 T283	 0	 0
+mapping	 data/source_txt/t1_biology_0_101.deft	 33973	 33980	 I-Term	 T283	 0	 0
 is	 data/source_txt/t1_biology_0_101.deft	 33981	 33983	 O	 -1	 -1	 0
 the	 data/source_txt/t1_biology_0_101.deft	 33984	 33987	 B-Definition	 T284	 T283	 Direct-Defines
 process	 data/source_txt/t1_biology_0_101.deft	 33988	 33995	 I-Definition	 T284	 T283	 Direct-Defines
@@ -6494,9 +6494,9 @@ map	 data/source_txt/t1_biology_0_101.deft	 34268	 34271	 O	 -1	 -1	 0
 )	 data/source_txt/t1_biology_0_101.deft	 34271	 34272	 O	 -1	 -1	 0
 .	 data/source_txt/t1_biology_0_101.deft	 34272	 34273	 O	 -1	 -1	 0
 
-A	 data/source_txt/t1_biology_0_101.deft	 34282	 34283	 B-Term	 T285	 0	 Direct-Defines
-physical	 data/source_txt/t1_biology_0_101.deft	 34284	 34292	 I-Term	 T285	 0	 Direct-Defines
-map	 data/source_txt/t1_biology_0_101.deft	 34293	 34296	 I-Term	 T285	 0	 Direct-Defines
+A	 data/source_txt/t1_biology_0_101.deft	 34282	 34283	 B-Term	 T285	 0	 0
+physical	 data/source_txt/t1_biology_0_101.deft	 34284	 34292	 I-Term	 T285	 0	 0
+map	 data/source_txt/t1_biology_0_101.deft	 34293	 34296	 I-Term	 T285	 0	 0
 is	 data/source_txt/t1_biology_0_101.deft	 34297	 34299	 O	 -1	 -1	 0
 a	 data/source_txt/t1_biology_0_101.deft	 34300	 34301	 B-Definition	 T286	 T285	 Direct-Defines
 representation	 data/source_txt/t1_biology_0_101.deft	 34302	 34316	 I-Definition	 T286	 T285	 Direct-Defines
@@ -6547,10 +6547,10 @@ generating	 data/source_txt/t1_biology_0_101.deft	 34544	 34554	 O	 -1	 -1	 0
 genetic	 data/source_txt/t1_biology_0_101.deft	 34555	 34562	 O	 -1	 -1	 0
 maps	 data/source_txt/t1_biology_0_101.deft	 34563	 34567	 O	 -1	 -1	 0
 are	 data/source_txt/t1_biology_0_101.deft	 34568	 34571	 O	 -1	 -1	 0
-restriction	 data/source_txt/t1_biology_0_101.deft	 34572	 34583	 B-Term	 T288	 0	 AKA
-fragment	 data/source_txt/t1_biology_0_101.deft	 34584	 34592	 I-Term	 T288	 0	 AKA
-length	 data/source_txt/t1_biology_0_101.deft	 34593	 34599	 I-Term	 T288	 0	 AKA
-polymorphisms	 data/source_txt/t1_biology_0_101.deft	 34600	 34613	 I-Term	 T288	 0	 AKA
+restriction	 data/source_txt/t1_biology_0_101.deft	 34572	 34583	 B-Term	 T288	 0	 0
+fragment	 data/source_txt/t1_biology_0_101.deft	 34584	 34592	 I-Term	 T288	 0	 0
+length	 data/source_txt/t1_biology_0_101.deft	 34593	 34599	 I-Term	 T288	 0	 0
+polymorphisms	 data/source_txt/t1_biology_0_101.deft	 34600	 34613	 I-Term	 T288	 0	 0
 (	 data/source_txt/t1_biology_0_101.deft	 34614	 34615	 O	 -1	 -1	 0
 RFLP	 data/source_txt/t1_biology_0_101.deft	 34615	 34619	 B-Alias-Term	 T287	 T288	 AKA
 )	 data/source_txt/t1_biology_0_101.deft	 34619	 34620	 O	 -1	 -1	 0
@@ -6649,8 +6649,8 @@ recombination	 data/source_txt/t1_biology_0_101.deft	 35117	 35130	 O	 -1	 -1	 0
 frequency	 data/source_txt/t1_biology_0_101.deft	 35131	 35140	 O	 -1	 -1	 0
 .	 data/source_txt/t1_biology_0_101.deft	 35140	 35141	 O	 -1	 -1	 0
 
-Sequence	 data/source_txt/t1_biology_0_101.deft	 35150	 35158	 B-Term	 T291	 0	 Direct-Defines
-mapping	 data/source_txt/t1_biology_0_101.deft	 35159	 35166	 I-Term	 T291	 0	 Direct-Defines
+Sequence	 data/source_txt/t1_biology_0_101.deft	 35150	 35158	 B-Term	 T291	 0	 0
+mapping	 data/source_txt/t1_biology_0_101.deft	 35159	 35166	 I-Term	 T291	 0	 0
 resulted	 data/source_txt/t1_biology_0_101.deft	 35167	 35175	 B-Definition	 T292	 T291	 Direct-Defines
 from	 data/source_txt/t1_biology_0_101.deft	 35176	 35180	 I-Definition	 T292	 T291	 Direct-Defines
 DNA	 data/source_txt/t1_biology_0_101.deft	 35181	 35184	 I-Definition	 T292	 T291	 Direct-Defines
@@ -6684,8 +6684,8 @@ of	 data/source_txt/t1_biology_0_101.deft	 35344	 35346	 O	 -1	 -1	 0
 genomic	 data/source_txt/t1_biology_0_101.deft	 35347	 35354	 O	 -1	 -1	 0
 libraries	 data/source_txt/t1_biology_0_101.deft	 35355	 35364	 O	 -1	 -1	 0
 and	 data/source_txt/t1_biology_0_101.deft	 35365	 35368	 O	 -1	 -1	 0
-complementary	 data/source_txt/t1_biology_0_101.deft	 35369	 35382	 B-Term	 T298	 0	 AKA
-DNA	 data/source_txt/t1_biology_0_101.deft	 35383	 35386	 I-Term	 T298	 0	 AKA
+complementary	 data/source_txt/t1_biology_0_101.deft	 35369	 35382	 B-Term	 T298	 0	 0
+DNA	 data/source_txt/t1_biology_0_101.deft	 35383	 35386	 I-Term	 T298	 0	 0
 (	 data/source_txt/t1_biology_0_101.deft	 35387	 35388	 O	 -1	 -1	 0
 cDNA	 data/source_txt/t1_biology_0_101.deft	 35388	 35392	 B-Alias-Term	 T300	 T298	 AKA
 )	 data/source_txt/t1_biology_0_101.deft	 35392	 35393	 O	 -1	 -1	 0
@@ -6756,22 +6756,22 @@ the	 data/source_txt/t1_biology_0_101.deft	 35717	 35720	 O	 -1	 -1	 0
 problem	 data/source_txt/t1_biology_0_101.deft	 35721	 35728	 O	 -1	 -1	 0
 .	 data/source_txt/t1_biology_0_101.deft	 35728	 35729	 O	 -1	 -1	 0
 
-Whole	 data/source_txt/t1_biology_0_101.deft	 35738	 35743	 B-Term	 T293	 0	 Direct-Defines
--	 data/source_txt/t1_biology_0_101.deft	 35743	 35744	 I-Term	 T293	 0	 Direct-Defines
-genome	 data/source_txt/t1_biology_0_101.deft	 35744	 35750	 I-Term	 T293	 0	 Direct-Defines
-sequencing	 data/source_txt/t1_biology_0_101.deft	 35751	 35761	 I-Term	 T293	 0	 Direct-Defines
+Whole	 data/source_txt/t1_biology_0_101.deft	 35738	 35743	 B-Term	 T293	 0	 0
+-	 data/source_txt/t1_biology_0_101.deft	 35743	 35744	 I-Term	 T293	 0	 0
+genome	 data/source_txt/t1_biology_0_101.deft	 35744	 35750	 I-Term	 T293	 0	 0
+sequencing	 data/source_txt/t1_biology_0_101.deft	 35751	 35761	 I-Term	 T293	 0	 0
 is	 data/source_txt/t1_biology_0_101.deft	 35762	 35764	 O	 -1	 -1	 0
-a	 data/source_txt/t1_biology_0_101.deft	 35765	 35766	 B-Definition	 T294	 0	 Supplements
-process	 data/source_txt/t1_biology_0_101.deft	 35767	 35774	 I-Definition	 T294	 0	 Supplements
-that	 data/source_txt/t1_biology_0_101.deft	 35775	 35779	 I-Definition	 T294	 0	 Supplements
-determines	 data/source_txt/t1_biology_0_101.deft	 35780	 35790	 I-Definition	 T294	 0	 Supplements
-the	 data/source_txt/t1_biology_0_101.deft	 35791	 35794	 I-Definition	 T294	 0	 Supplements
-DNA	 data/source_txt/t1_biology_0_101.deft	 35795	 35798	 I-Definition	 T294	 0	 Supplements
-sequence	 data/source_txt/t1_biology_0_101.deft	 35799	 35807	 I-Definition	 T294	 0	 Supplements
-of	 data/source_txt/t1_biology_0_101.deft	 35808	 35810	 I-Definition	 T294	 0	 Supplements
-an	 data/source_txt/t1_biology_0_101.deft	 35811	 35813	 I-Definition	 T294	 0	 Supplements
-entire	 data/source_txt/t1_biology_0_101.deft	 35814	 35820	 I-Definition	 T294	 0	 Supplements
-genome	 data/source_txt/t1_biology_0_101.deft	 35821	 35827	 I-Definition	 T294	 0	 Supplements
+a	 data/source_txt/t1_biology_0_101.deft	 35765	 35766	 B-Definition	 T294	 T293	 Direct-Defines
+process	 data/source_txt/t1_biology_0_101.deft	 35767	 35774	 I-Definition	 T294	 T293	 Direct-Defines
+that	 data/source_txt/t1_biology_0_101.deft	 35775	 35779	 I-Definition	 T294	 T293	 Direct-Defines
+determines	 data/source_txt/t1_biology_0_101.deft	 35780	 35790	 I-Definition	 T294	 T293	 Direct-Defines
+the	 data/source_txt/t1_biology_0_101.deft	 35791	 35794	 I-Definition	 T294	 T293	 Direct-Defines
+DNA	 data/source_txt/t1_biology_0_101.deft	 35795	 35798	 I-Definition	 T294	 T293	 Direct-Defines
+sequence	 data/source_txt/t1_biology_0_101.deft	 35799	 35807	 I-Definition	 T294	 T293	 Direct-Defines
+of	 data/source_txt/t1_biology_0_101.deft	 35808	 35810	 I-Definition	 T294	 T293	 Direct-Defines
+an	 data/source_txt/t1_biology_0_101.deft	 35811	 35813	 I-Definition	 T294	 T293	 Direct-Defines
+entire	 data/source_txt/t1_biology_0_101.deft	 35814	 35820	 I-Definition	 T294	 T293	 Direct-Defines
+genome	 data/source_txt/t1_biology_0_101.deft	 35821	 35827	 I-Definition	 T294	 T293	 Direct-Defines
 .	 data/source_txt/t1_biology_0_101.deft	 35827	 35828	 O	 -1	 -1	 0
 
 Whole	 data/source_txt/t1_biology_0_101.deft	 35835	 35840	 B-Secondary-Definition	 T295	 T294	 Supplements

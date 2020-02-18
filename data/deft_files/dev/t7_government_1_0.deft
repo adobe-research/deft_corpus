@@ -271,8 +271,8 @@ arms	 data/source_txt/t7_government_1_0.deft	 16194	 16198	 I-Definition	 T50	 T
 for	 data/source_txt/t7_government_1_0.deft	 16199	 16202	 I-Definition	 T50	 T51	 Direct-Defines
 protection	 data/source_txt/t7_government_1_0.deft	 16203	 16213	 I-Definition	 T50	 T51	 Direct-Defines
 (	 data/source_txt/t7_government_1_0.deft	 16214	 16215	 O	 -1	 -1	 0
-Second	 data/source_txt/t7_government_1_0.deft	 16215	 16221	 B-Term	 T51	 0	 Direct-Defines
-Amendment	 data/source_txt/t7_government_1_0.deft	 16222	 16231	 I-Term	 T51	 0	 Direct-Defines
+Second	 data/source_txt/t7_government_1_0.deft	 16215	 16221	 B-Term	 T51	 0	 0
+Amendment	 data/source_txt/t7_government_1_0.deft	 16222	 16231	 I-Term	 T51	 0	 0
 )	 data/source_txt/t7_government_1_0.deft	 16231	 16232	 O	 -1	 -1	 0
 ,	 data/source_txt/t7_government_1_0.deft	 16232	 16233	 O	 -1	 -1	 0
 the	 data/source_txt/t7_government_1_0.deft	 16234	 16237	 B-Definition	 T52	 T53	 Direct-Defines
@@ -290,8 +290,8 @@ soldiers	 data/source_txt/t7_government_1_0.deft	 16293	 16301	 I-Definition	 T5
 in	 data/source_txt/t7_government_1_0.deft	 16302	 16304	 I-Definition	 T52	 T53	 Direct-Defines
 peacetime	 data/source_txt/t7_government_1_0.deft	 16305	 16314	 I-Definition	 T52	 T53	 Direct-Defines
 (	 data/source_txt/t7_government_1_0.deft	 16315	 16316	 O	 -1	 -1	 0
-Third	 data/source_txt/t7_government_1_0.deft	 16316	 16321	 B-Term	 T53	 0	 Direct-Defines
-Amendment	 data/source_txt/t7_government_1_0.deft	 16322	 16331	 I-Term	 T53	 0	 Direct-Defines
+Third	 data/source_txt/t7_government_1_0.deft	 16316	 16321	 B-Term	 T53	 0	 0
+Amendment	 data/source_txt/t7_government_1_0.deft	 16322	 16331	 I-Term	 T53	 0	 0
 )	 data/source_txt/t7_government_1_0.deft	 16331	 16332	 O	 -1	 -1	 0
 ,	 data/source_txt/t7_government_1_0.deft	 16332	 16333	 O	 -1	 -1	 0
 the	 data/source_txt/t7_government_1_0.deft	 16334	 16337	 O	 -1	 -1	 0
@@ -320,8 +320,8 @@ and	 data/source_txt/t7_government_1_0.deft	 16446	 16449	 I-Definition	 T54	 T5
 unusual	 data/source_txt/t7_government_1_0.deft	 16450	 16457	 I-Definition	 T54	 T55	 Direct-Defines
 punishment	 data/source_txt/t7_government_1_0.deft	 16458	 16468	 I-Definition	 T54	 T55	 Direct-Defines
 (	 data/source_txt/t7_government_1_0.deft	 16469	 16470	 O	 -1	 -1	 0
-Eighth	 data/source_txt/t7_government_1_0.deft	 16470	 16476	 B-Term	 T55	 0	 Direct-Defines
-Amendment	 data/source_txt/t7_government_1_0.deft	 16477	 16486	 I-Term	 T55	 0	 Direct-Defines
+Eighth	 data/source_txt/t7_government_1_0.deft	 16470	 16476	 B-Term	 T55	 0	 0
+Amendment	 data/source_txt/t7_government_1_0.deft	 16477	 16486	 I-Term	 T55	 0	 0
 )	 data/source_txt/t7_government_1_0.deft	 16486	 16487	 O	 -1	 -1	 0
 are	 data/source_txt/t7_government_1_0.deft	 16488	 16491	 O	 -1	 -1	 0
 taken	 data/source_txt/t7_government_1_0.deft	 16492	 16497	 O	 -1	 -1	 0
@@ -333,9 +333,9 @@ of	 data/source_txt/t7_government_1_0.deft	 16520	 16522	 O	 -1	 -1	 0
 Rights	 data/source_txt/t7_government_1_0.deft	 16523	 16529	 O	 -1	 -1	 0
 .	 data/source_txt/t7_government_1_0.deft	 16529	 16530	 O	 -1	 -1	 0
 
-The	 data/source_txt/t7_government_1_0.deft	 16537	 16540	 B-Term	 T56	 0	 Direct-Defines
-Fifth	 data/source_txt/t7_government_1_0.deft	 16541	 16546	 I-Term	 T56	 0	 Direct-Defines
-Amendment	 data/source_txt/t7_government_1_0.deft	 16547	 16556	 I-Term	 T56	 0	 Direct-Defines
+The	 data/source_txt/t7_government_1_0.deft	 16537	 16540	 B-Term	 T56	 0	 0
+Fifth	 data/source_txt/t7_government_1_0.deft	 16541	 16546	 I-Term	 T56	 0	 0
+Amendment	 data/source_txt/t7_government_1_0.deft	 16547	 16556	 I-Term	 T56	 0	 0
 ,	 data/source_txt/t7_government_1_0.deft	 16556	 16557	 O	 -1	 -1	 0
 which	 data/source_txt/t7_government_1_0.deft	 16558	 16563	 O	 -1	 -1	 0
 requires	 data/source_txt/t7_government_1_0.deft	 16564	 16572	 B-Definition	 T57	 T56	 Direct-Defines
@@ -505,9 +505,9 @@ in	 data/source_txt/t7_government_1_0.deft	 21721	 21723	 O	 -1	 -1	 0
 2015	 data/source_txt/t7_government_1_0.deft	 21724	 21728	 O	 -1	 -1	 0
 ,	 data/source_txt/t7_government_1_0.deft	 21728	 21729	 O	 -1	 -1	 0
 the	 data/source_txt/t7_government_1_0.deft	 21730	 21733	 O	 -1	 -1	 0
-Obergefell	 data/source_txt/t7_government_1_0.deft	 21734	 21744	 B-Term	 T80	 0	 Direct-Defines
-v.	 data/source_txt/t7_government_1_0.deft	 21745	 21747	 I-Term	 T80	 0	 Direct-Defines
-Hodges	 data/source_txt/t7_government_1_0.deft	 21748	 21754	 I-Term	 T80	 0	 Direct-Defines
+Obergefell	 data/source_txt/t7_government_1_0.deft	 21734	 21744	 B-Term	 T80	 0	 0
+v.	 data/source_txt/t7_government_1_0.deft	 21745	 21747	 I-Term	 T80	 0	 0
+Hodges	 data/source_txt/t7_government_1_0.deft	 21748	 21754	 I-Term	 T80	 0	 0
 case	 data/source_txt/t7_government_1_0.deft	 21755	 21759	 O	 -1	 -1	 0
 had	 data/source_txt/t7_government_1_0.deft	 21760	 21763	 O	 -1	 -1	 0
 a	 data/source_txt/t7_government_1_0.deft	 21764	 21765	 O	 -1	 -1	 0
@@ -621,7 +621,7 @@ government	 data/source_txt/t7_government_1_0.deft	 22697	 22707	 O	 -1	 -1	 0
 5999	 data/source_txt/t7_government_1_0.deft	 28646	 28650	 O	 -1	 -1	 0
 .	 data/source_txt/t7_government_1_0.deft	 28650	 28651	 O	 -1	 -1	 0
 
-Medicaid	 data/source_txt/t7_government_1_0.deft	 28652	 28660	 B-Term	 T102	 0	 Direct-Defines
+Medicaid	 data/source_txt/t7_government_1_0.deft	 28652	 28660	 B-Term	 T102	 0	 0
 (	 data/source_txt/t7_government_1_0.deft	 28661	 28662	 O	 -1	 -1	 0
 which	 data/source_txt/t7_government_1_0.deft	 28662	 28667	 O	 -1	 -1	 0
 provides	 data/source_txt/t7_government_1_0.deft	 28668	 28676	 B-Definition	 T103	 T102	 Direct-Defines
@@ -632,7 +632,7 @@ the	 data/source_txt/t7_government_1_0.deft	 28699	 28702	 I-Definition	 T103	 T
 indigent	 data/source_txt/t7_government_1_0.deft	 28703	 28711	 I-Definition	 T103	 T102	 Direct-Defines
 )	 data/source_txt/t7_government_1_0.deft	 28711	 28712	 O	 -1	 -1	 0
 ,	 data/source_txt/t7_government_1_0.deft	 28712	 28713	 O	 -1	 -1	 0
-Medicare	 data/source_txt/t7_government_1_0.deft	 28714	 28722	 B-Term	 T104	 0	 Direct-Defines
+Medicare	 data/source_txt/t7_government_1_0.deft	 28714	 28722	 B-Term	 T104	 0	 0
 (	 data/source_txt/t7_government_1_0.deft	 28723	 28724	 O	 -1	 -1	 0
 which	 data/source_txt/t7_government_1_0.deft	 28724	 28729	 O	 -1	 -1	 0
 provides	 data/source_txt/t7_government_1_0.deft	 28730	 28738	 B-Definition	 T105	 T104	 Direct-Defines

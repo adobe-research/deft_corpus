@@ -44,7 +44,7 @@ apart	 data/source_txt/t4_psychology_0_0.deft	 212	 217	 O	 -1	 -1	 0
 3316	 data/source_txt/t4_psychology_0_0.deft	 222	 226	 O	 -1	 -1	 0
 .	 data/source_txt/t4_psychology_0_0.deft	 226	 227	 O	 -1	 -1	 0
 
-DNA	 data/source_txt/t4_psychology_0_0.deft	 228	 231	 B-Term	 T1	 0	 Direct-Defines
+DNA	 data/source_txt/t4_psychology_0_0.deft	 228	 231	 B-Term	 T1	 0	 0
 is	 data/source_txt/t4_psychology_0_0.deft	 232	 234	 O	 -1	 -1	 0
 a	 data/source_txt/t4_psychology_0_0.deft	 235	 236	 B-Definition	 T2	 T1	 Direct-Defines
 helix	 data/source_txt/t4_psychology_0_0.deft	 237	 242	 I-Definition	 T2	 T1	 Direct-Defines
@@ -61,7 +61,7 @@ pairs	 data/source_txt/t4_psychology_0_0.deft	 286	 291	 I-Definition	 T2	 T1	 D
 
 In	 data/source_txt/t4_psychology_0_0.deft	 301	 303	 O	 -1	 -1	 0
 each	 data/source_txt/t4_psychology_0_0.deft	 304	 308	 O	 -1	 -1	 0
-chromosome	 data/source_txt/t4_psychology_0_0.deft	 309	 319	 B-Term	 T4	 0	 Direct-Defines
+chromosome	 data/source_txt/t4_psychology_0_0.deft	 309	 319	 B-Term	 T4	 0	 0
 ,	 data/source_txt/t4_psychology_0_0.deft	 319	 320	 O	 -1	 -1	 0
 sequences	 data/source_txt/t4_psychology_0_0.deft	 321	 330	 O	 -1	 -1	 0
 of	 data/source_txt/t4_psychology_0_0.deft	 331	 333	 O	 -1	 -1	 0
@@ -82,7 +82,7 @@ characteristics	 data/source_txt/t4_psychology_0_0.deft	 406	 421	 I-Definition	
 ,	 data/source_txt/t4_psychology_0_0.deft	 421	 422	 O	 -1	 -1	 0
 known	 data/source_txt/t4_psychology_0_0.deft	 423	 428	 O	 -1	 -1	 0
 as	 data/source_txt/t4_psychology_0_0.deft	 429	 431	 O	 -1	 -1	 0
-traits	 data/source_txt/t4_psychology_0_0.deft	 432	 438	 B-Term	 T5	 0	 Direct-Defines
+traits	 data/source_txt/t4_psychology_0_0.deft	 432	 438	 B-Term	 T5	 0	 0
 ,	 data/source_txt/t4_psychology_0_0.deft	 438	 439	 O	 -1	 -1	 0
 such	 data/source_txt/t4_psychology_0_0.deft	 440	 444	 O	 -1	 -1	 0
 as	 data/source_txt/t4_psychology_0_0.deft	 445	 447	 O	 -1	 -1	 0
@@ -106,7 +106,7 @@ possible	 data/source_txt/t4_psychology_0_0.deft	 520	 528	 I-Definition	 T8	 T7
 variations	 data/source_txt/t4_psychology_0_0.deft	 529	 539	 I-Definition	 T8	 T7	 Direct-Defines
 ,	 data/source_txt/t4_psychology_0_0.deft	 539	 540	 O	 -1	 -1	 0
 or	 data/source_txt/t4_psychology_0_0.deft	 541	 543	 O	 -1	 -1	 0
-alleles	 data/source_txt/t4_psychology_0_0.deft	 544	 551	 B-Term	 T7	 0	 Direct-Defines
+alleles	 data/source_txt/t4_psychology_0_0.deft	 544	 551	 B-Term	 T7	 0	 0
 .	 data/source_txt/t4_psychology_0_0.deft	 551	 552	 O	 -1	 -1	 0
 
 
@@ -130,9 +130,9 @@ of	 data/source_txt/t4_psychology_0_0.deft	 4468	 4470	 I-Definition	 T44	 T43	 
 readiness	 data/source_txt/t4_psychology_0_0.deft	 4471	 4480	 I-Definition	 T44	 T43	 Direct-Defines
 ,	 data/source_txt/t4_psychology_0_0.deft	 4480	 4481	 O	 -1	 -1	 0
 called	 data/source_txt/t4_psychology_0_0.deft	 4482	 4488	 O	 -1	 -1	 0
-the	 data/source_txt/t4_psychology_0_0.deft	 4489	 4492	 B-Term	 T43	 0	 Direct-Defines
-resting	 data/source_txt/t4_psychology_0_0.deft	 4493	 4500	 I-Term	 T43	 0	 Direct-Defines
-potential	 data/source_txt/t4_psychology_0_0.deft	 4501	 4510	 I-Term	 T43	 0	 Direct-Defines
+the	 data/source_txt/t4_psychology_0_0.deft	 4489	 4492	 B-Term	 T43	 0	 0
+resting	 data/source_txt/t4_psychology_0_0.deft	 4493	 4500	 I-Term	 T43	 0	 0
+potential	 data/source_txt/t4_psychology_0_0.deft	 4501	 4510	 I-Term	 T43	 0	 0
 .	 data/source_txt/t4_psychology_0_0.deft	 4510	 4511	 O	 -1	 -1	 0
 
 Like	 data/source_txt/t4_psychology_0_0.deft	 4520	 4524	 O	 -1	 -1	 0
@@ -148,7 +148,7 @@ spring	 data/source_txt/t4_psychology_0_0.deft	 4568	 4574	 O	 -1	 -1	 0
 into	 data/source_txt/t4_psychology_0_0.deft	 4575	 4579	 O	 -1	 -1	 0
 action	 data/source_txt/t4_psychology_0_0.deft	 4580	 4586	 O	 -1	 -1	 0
 ,	 data/source_txt/t4_psychology_0_0.deft	 4586	 4587	 O	 -1	 -1	 0
-ions	 data/source_txt/t4_psychology_0_0.deft	 4588	 4592	 B-Term	 T45	 0	 Direct-Defines
+ions	 data/source_txt/t4_psychology_0_0.deft	 4588	 4592	 B-Term	 T45	 0	 0
 line	 data/source_txt/t4_psychology_0_0.deft	 4593	 4597	 B-Definition	 T46	 T45	 Direct-Defines
 up	 data/source_txt/t4_psychology_0_0.deft	 4598	 4600	 I-Definition	 T46	 T45	 Direct-Defines
 on	 data/source_txt/t4_psychology_0_0.deft	 4601	 4603	 I-Definition	 T46	 T45	 Direct-Defines

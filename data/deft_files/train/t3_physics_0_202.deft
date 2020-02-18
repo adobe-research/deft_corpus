@@ -21,17 +21,17 @@ positive	 data/source_txt/t3_physics_0_202.deft	 82	 90	 O	 -1	 -1	 0
 charges	 data/source_txt/t3_physics_0_202.deft	 91	 98	 O	 -1	 -1	 0
 .	 data/source_txt/t3_physics_0_202.deft	 98	 99	 O	 -1	 -1	 0
 
-This	 data/source_txt/t3_physics_0_202.deft	 108	 112	 B-Definition	 T3	 0	 Supplements
-graph	 data/source_txt/t3_physics_0_202.deft	 113	 118	 I-Definition	 T3	 0	 Supplements
-of	 data/source_txt/t3_physics_0_202.deft	 119	 121	 I-Definition	 T3	 0	 Supplements
-time	 data/source_txt/t3_physics_0_202.deft	 122	 126	 I-Definition	 T3	 0	 Supplements
-versus	 data/source_txt/t3_physics_0_202.deft	 127	 133	 I-Definition	 T3	 0	 Supplements
-position	 data/source_txt/t3_physics_0_202.deft	 134	 142	 I-Definition	 T3	 0	 Supplements
+This	 data/source_txt/t3_physics_0_202.deft	 108	 112	 B-Definition	 T3	 T62	 Direct-Defines
+graph	 data/source_txt/t3_physics_0_202.deft	 113	 118	 I-Definition	 T3	 T62	 Direct-Defines
+of	 data/source_txt/t3_physics_0_202.deft	 119	 121	 I-Definition	 T3	 T62	 Direct-Defines
+time	 data/source_txt/t3_physics_0_202.deft	 122	 126	 I-Definition	 T3	 T62	 Direct-Defines
+versus	 data/source_txt/t3_physics_0_202.deft	 127	 133	 I-Definition	 T3	 T62	 Direct-Defines
+position	 data/source_txt/t3_physics_0_202.deft	 134	 142	 I-Definition	 T3	 T62	 Direct-Defines
 is	 data/source_txt/t3_physics_0_202.deft	 143	 145	 O	 -1	 -1	 0
 called	 data/source_txt/t3_physics_0_202.deft	 146	 152	 O	 -1	 -1	 0
-a	 data/source_txt/t3_physics_0_202.deft	 153	 154	 B-Term	 T62	 0	 Direct-Defines
-Feynman	 data/source_txt/t3_physics_0_202.deft	 155	 162	 I-Term	 T62	 0	 Direct-Defines
-diagram	 data/source_txt/t3_physics_0_202.deft	 163	 170	 I-Term	 T62	 0	 Direct-Defines
+a	 data/source_txt/t3_physics_0_202.deft	 153	 154	 B-Term	 T62	 0	 0
+Feynman	 data/source_txt/t3_physics_0_202.deft	 155	 162	 I-Term	 T62	 0	 0
+diagram	 data/source_txt/t3_physics_0_202.deft	 163	 170	 I-Term	 T62	 0	 0
 ,	 data/source_txt/t3_physics_0_202.deft	 170	 171	 O	 -1	 -1	 0
 after	 data/source_txt/t3_physics_0_202.deft	 172	 177	 B-Definition-frag	 T3-frag	 T3	 fragment
 the	 data/source_txt/t3_physics_0_202.deft	 178	 181	 I-Definition-frag	 T3-frag	 T3	 fragment
@@ -138,7 +138,7 @@ nuclear	 data/source_txt/t3_physics_0_202.deft	 697	 704	 O	 -1	 -1	 0
 forces	 data/source_txt/t3_physics_0_202.deft	 705	 711	 O	 -1	 -1	 0
 .	 data/source_txt/t3_physics_0_202.deft	 711	 712	 O	 -1	 -1	 0
 
-Hadrons	 data/source_txt/t3_physics_0_202.deft	 721	 728	 B-Term	 T4	 0	 Direct-Defines
+Hadrons	 data/source_txt/t3_physics_0_202.deft	 721	 728	 B-Term	 T4	 0	 0
 are	 data/source_txt/t3_physics_0_202.deft	 729	 732	 O	 -1	 -1	 0
 particles	 data/source_txt/t3_physics_0_202.deft	 733	 742	 B-Definition	 T5	 T4	 Direct-Defines
 that	 data/source_txt/t3_physics_0_202.deft	 743	 747	 I-Definition	 T5	 T4	 Direct-Defines
@@ -175,7 +175,7 @@ hadrons	 data/source_txt/t3_physics_0_202.deft	 879	 886	 O	 -1	 -1	 0
 3253	 data/source_txt/t3_physics_0_202.deft	 891	 895	 O	 -1	 -1	 0
 .	 data/source_txt/t3_physics_0_202.deft	 895	 896	 O	 -1	 -1	 0
 
-Mesons	 data/source_txt/t3_physics_0_202.deft	 897	 903	 B-Term	 T6	 0	 Direct-Defines
+Mesons	 data/source_txt/t3_physics_0_202.deft	 897	 903	 B-Term	 T6	 0	 0
 are	 data/source_txt/t3_physics_0_202.deft	 904	 907	 O	 -1	 -1	 0
 hadrons	 data/source_txt/t3_physics_0_202.deft	 908	 915	 B-Definition	 T7	 T6	 Direct-Defines
 that	 data/source_txt/t3_physics_0_202.deft	 916	 920	 I-Definition	 T7	 T6	 Direct-Defines
@@ -199,7 +199,7 @@ in	 data/source_txt/t3_physics_0_202.deft	 1008	 1010	 I-Definition	 T7	 T6	 Dir
 number	 data/source_txt/t3_physics_0_202.deft	 1011	 1017	 I-Definition	 T7	 T6	 Direct-Defines
 .	 data/source_txt/t3_physics_0_202.deft	 1017	 1018	 O	 -1	 -1	 0
 
-Baryons	 data/source_txt/t3_physics_0_202.deft	 1027	 1034	 B-Term	 T8	 0	 Direct-Defines
+Baryons	 data/source_txt/t3_physics_0_202.deft	 1027	 1034	 B-Term	 T8	 0	 0
 are	 data/source_txt/t3_physics_0_202.deft	 1035	 1038	 O	 -1	 -1	 0
 hadrons	 data/source_txt/t3_physics_0_202.deft	 1039	 1046	 B-Definition	 T9	 T8	 Direct-Defines
 that	 data/source_txt/t3_physics_0_202.deft	 1047	 1051	 I-Definition	 T9	 T8	 Direct-Defines
@@ -273,7 +273,7 @@ is	 data/source_txt/t3_physics_0_202.deft	 1369	 1371	 O	 -1	 -1	 0
 strong	 data/source_txt/t3_physics_0_202.deft	 1372	 1378	 O	 -1	 -1	 0
 evidence	 data/source_txt/t3_physics_0_202.deft	 1379	 1387	 O	 -1	 -1	 0
 that	 data/source_txt/t3_physics_0_202.deft	 1388	 1392	 O	 -1	 -1	 0
-quarks	 data/source_txt/t3_physics_0_202.deft	 1393	 1399	 B-Term	 T10	 0	 Direct-Defines
+quarks	 data/source_txt/t3_physics_0_202.deft	 1393	 1399	 B-Term	 T10	 0	 0
 are	 data/source_txt/t3_physics_0_202.deft	 1400	 1403	 O	 -1	 -1	 0
 the	 data/source_txt/t3_physics_0_202.deft	 1404	 1407	 B-Definition	 T11	 T10	 Direct-Defines
 fundamental	 data/source_txt/t3_physics_0_202.deft	 1408	 1419	 I-Definition	 T11	 T10	 Direct-Defines
@@ -351,8 +351,8 @@ of	 data/source_txt/t3_physics_0_202.deft	 2092	 2094	 O	 -1	 -1	 0
 the	 data/source_txt/t3_physics_0_202.deft	 2095	 2098	 O	 -1	 -1	 0
 theory	 data/source_txt/t3_physics_0_202.deft	 2099	 2105	 O	 -1	 -1	 0
 of	 data/source_txt/t3_physics_0_202.deft	 2106	 2108	 O	 -1	 -1	 0
-quark	 data/source_txt/t3_physics_0_202.deft	 2109	 2114	 B-Term	 T15	 0	 Direct-Defines
-confinement	 data/source_txt/t3_physics_0_202.deft	 2115	 2126	 I-Term	 T15	 0	 Direct-Defines
+quark	 data/source_txt/t3_physics_0_202.deft	 2109	 2114	 B-Term	 T15	 0	 0
+confinement	 data/source_txt/t3_physics_0_202.deft	 2115	 2126	 I-Term	 T15	 0	 0
 ,	 data/source_txt/t3_physics_0_202.deft	 2126	 2127	 O	 -1	 -1	 0
 which	 data/source_txt/t3_physics_0_202.deft	 2128	 2133	 O	 -1	 -1	 0
 explains	 data/source_txt/t3_physics_0_202.deft	 2134	 2142	 O	 -1	 -1	 0
@@ -493,35 +493,35 @@ gauge	 data/source_txt/t3_physics_0_202.deft	 2755	 2760	 O	 -1	 -1	 0
 theory	 data/source_txt/t3_physics_0_202.deft	 2761	 2767	 O	 -1	 -1	 0
 ,	 data/source_txt/t3_physics_0_202.deft	 2767	 2768	 O	 -1	 -1	 0
 called	 data/source_txt/t3_physics_0_202.deft	 2769	 2775	 O	 -1	 -1	 0
-electroweak	 data/source_txt/t3_physics_0_202.deft	 2776	 2787	 B-Term	 T17	 0	 Direct-Defines
-theory	 data/source_txt/t3_physics_0_202.deft	 2788	 2794	 I-Term	 T17	 0	 Direct-Defines
+electroweak	 data/source_txt/t3_physics_0_202.deft	 2776	 2787	 B-Term	 T17	 0	 0
+theory	 data/source_txt/t3_physics_0_202.deft	 2788	 2794	 I-Term	 T17	 0	 0
 ,	 data/source_txt/t3_physics_0_202.deft	 2794	 2795	 O	 -1	 -1	 0
 was	 data/source_txt/t3_physics_0_202.deft	 2796	 2799	 O	 -1	 -1	 0
-developed	 data/source_txt/t3_physics_0_202.deft	 2800	 2809	 B-Definition	 T18	 0	 Supplements
-by	 data/source_txt/t3_physics_0_202.deft	 2810	 2812	 I-Definition	 T18	 0	 Supplements
-Steven	 data/source_txt/t3_physics_0_202.deft	 2813	 2819	 I-Definition	 T18	 0	 Supplements
-Weinberg	 data/source_txt/t3_physics_0_202.deft	 2820	 2828	 I-Definition	 T18	 0	 Supplements
-,	 data/source_txt/t3_physics_0_202.deft	 2828	 2829	 I-Definition	 T18	 0	 Supplements
-Sheldon	 data/source_txt/t3_physics_0_202.deft	 2830	 2837	 I-Definition	 T18	 0	 Supplements
-Glashow	 data/source_txt/t3_physics_0_202.deft	 2838	 2845	 I-Definition	 T18	 0	 Supplements
-,	 data/source_txt/t3_physics_0_202.deft	 2845	 2846	 I-Definition	 T18	 0	 Supplements
-and	 data/source_txt/t3_physics_0_202.deft	 2847	 2850	 I-Definition	 T18	 0	 Supplements
-Abdus	 data/source_txt/t3_physics_0_202.deft	 2851	 2856	 I-Definition	 T18	 0	 Supplements
-Salam	 data/source_txt/t3_physics_0_202.deft	 2857	 2862	 I-Definition	 T18	 0	 Supplements
-and	 data/source_txt/t3_physics_0_202.deft	 2863	 2866	 I-Definition	 T18	 0	 Supplements
-proposed	 data/source_txt/t3_physics_0_202.deft	 2867	 2875	 I-Definition	 T18	 0	 Supplements
-that	 data/source_txt/t3_physics_0_202.deft	 2876	 2880	 I-Definition	 T18	 0	 Supplements
-the	 data/source_txt/t3_physics_0_202.deft	 2881	 2884	 I-Definition	 T18	 0	 Supplements
-electromagnetic	 data/source_txt/t3_physics_0_202.deft	 2885	 2900	 I-Definition	 T18	 0	 Supplements
-and	 data/source_txt/t3_physics_0_202.deft	 2901	 2904	 I-Definition	 T18	 0	 Supplements
-weak	 data/source_txt/t3_physics_0_202.deft	 2905	 2909	 I-Definition	 T18	 0	 Supplements
-forces	 data/source_txt/t3_physics_0_202.deft	 2910	 2916	 I-Definition	 T18	 0	 Supplements
-are	 data/source_txt/t3_physics_0_202.deft	 2917	 2920	 I-Definition	 T18	 0	 Supplements
-identical	 data/source_txt/t3_physics_0_202.deft	 2921	 2930	 I-Definition	 T18	 0	 Supplements
-at	 data/source_txt/t3_physics_0_202.deft	 2931	 2933	 I-Definition	 T18	 0	 Supplements
-sufficiently	 data/source_txt/t3_physics_0_202.deft	 2934	 2946	 I-Definition	 T18	 0	 Supplements
-high	 data/source_txt/t3_physics_0_202.deft	 2947	 2951	 I-Definition	 T18	 0	 Supplements
-energies	 data/source_txt/t3_physics_0_202.deft	 2952	 2960	 I-Definition	 T18	 0	 Supplements
+developed	 data/source_txt/t3_physics_0_202.deft	 2800	 2809	 B-Definition	 T18	 T17	 Direct-Defines
+by	 data/source_txt/t3_physics_0_202.deft	 2810	 2812	 I-Definition	 T18	 T17	 Direct-Defines
+Steven	 data/source_txt/t3_physics_0_202.deft	 2813	 2819	 I-Definition	 T18	 T17	 Direct-Defines
+Weinberg	 data/source_txt/t3_physics_0_202.deft	 2820	 2828	 I-Definition	 T18	 T17	 Direct-Defines
+,	 data/source_txt/t3_physics_0_202.deft	 2828	 2829	 I-Definition	 T18	 T17	 Direct-Defines
+Sheldon	 data/source_txt/t3_physics_0_202.deft	 2830	 2837	 I-Definition	 T18	 T17	 Direct-Defines
+Glashow	 data/source_txt/t3_physics_0_202.deft	 2838	 2845	 I-Definition	 T18	 T17	 Direct-Defines
+,	 data/source_txt/t3_physics_0_202.deft	 2845	 2846	 I-Definition	 T18	 T17	 Direct-Defines
+and	 data/source_txt/t3_physics_0_202.deft	 2847	 2850	 I-Definition	 T18	 T17	 Direct-Defines
+Abdus	 data/source_txt/t3_physics_0_202.deft	 2851	 2856	 I-Definition	 T18	 T17	 Direct-Defines
+Salam	 data/source_txt/t3_physics_0_202.deft	 2857	 2862	 I-Definition	 T18	 T17	 Direct-Defines
+and	 data/source_txt/t3_physics_0_202.deft	 2863	 2866	 I-Definition	 T18	 T17	 Direct-Defines
+proposed	 data/source_txt/t3_physics_0_202.deft	 2867	 2875	 I-Definition	 T18	 T17	 Direct-Defines
+that	 data/source_txt/t3_physics_0_202.deft	 2876	 2880	 I-Definition	 T18	 T17	 Direct-Defines
+the	 data/source_txt/t3_physics_0_202.deft	 2881	 2884	 I-Definition	 T18	 T17	 Direct-Defines
+electromagnetic	 data/source_txt/t3_physics_0_202.deft	 2885	 2900	 I-Definition	 T18	 T17	 Direct-Defines
+and	 data/source_txt/t3_physics_0_202.deft	 2901	 2904	 I-Definition	 T18	 T17	 Direct-Defines
+weak	 data/source_txt/t3_physics_0_202.deft	 2905	 2909	 I-Definition	 T18	 T17	 Direct-Defines
+forces	 data/source_txt/t3_physics_0_202.deft	 2910	 2916	 I-Definition	 T18	 T17	 Direct-Defines
+are	 data/source_txt/t3_physics_0_202.deft	 2917	 2920	 I-Definition	 T18	 T17	 Direct-Defines
+identical	 data/source_txt/t3_physics_0_202.deft	 2921	 2930	 I-Definition	 T18	 T17	 Direct-Defines
+at	 data/source_txt/t3_physics_0_202.deft	 2931	 2933	 I-Definition	 T18	 T17	 Direct-Defines
+sufficiently	 data/source_txt/t3_physics_0_202.deft	 2934	 2946	 I-Definition	 T18	 T17	 Direct-Defines
+high	 data/source_txt/t3_physics_0_202.deft	 2947	 2951	 I-Definition	 T18	 T17	 Direct-Defines
+energies	 data/source_txt/t3_physics_0_202.deft	 2952	 2960	 I-Definition	 T18	 T17	 Direct-Defines
 .	 data/source_txt/t3_physics_0_202.deft	 2960	 2961	 O	 -1	 -1	 0
 
 One	 data/source_txt/t3_physics_0_202.deft	 2968	 2971	 B-Secondary-Definition	 T19	 T18	 Supplements
@@ -756,9 +756,9 @@ explosion	 data/source_txt/t3_physics_0_202.deft	 4021	 4030	 I-Definition	 T23	
 ,	 data/source_txt/t3_physics_0_202.deft	 4030	 4031	 O	 -1	 -1	 0
 universally	 data/source_txt/t3_physics_0_202.deft	 4032	 4043	 O	 -1	 -1	 0
 called	 data/source_txt/t3_physics_0_202.deft	 4044	 4050	 O	 -1	 -1	 0
-the	 data/source_txt/t3_physics_0_202.deft	 4051	 4054	 B-Term	 T22	 0	 Direct-Defines
-Big	 data/source_txt/t3_physics_0_202.deft	 4055	 4058	 I-Term	 T22	 0	 Direct-Defines
-Bang	 data/source_txt/t3_physics_0_202.deft	 4059	 4063	 I-Term	 T22	 0	 Direct-Defines
+the	 data/source_txt/t3_physics_0_202.deft	 4051	 4054	 B-Term	 T22	 0	 0
+Big	 data/source_txt/t3_physics_0_202.deft	 4055	 4058	 I-Term	 T22	 0	 0
+Bang	 data/source_txt/t3_physics_0_202.deft	 4059	 4063	 I-Term	 T22	 0	 0
 ,	 data/source_txt/t3_physics_0_202.deft	 4063	 4064	 O	 -1	 -1	 0
 threw	 data/source_txt/t3_physics_0_202.deft	 4065	 4070	 B-Definition-frag	 T23-frag	 T23	 fragment
 matter	 data/source_txt/t3_physics_0_202.deft	 4071	 4077	 I-Definition-frag	 T23-frag	 T23	 fragment
@@ -870,7 +870,7 @@ the	 data/source_txt/t3_physics_0_202.deft	 4426	 4429	 O	 -1	 -1	 0
 other	 data/source_txt/t3_physics_0_202.deft	 4430	 4435	 O	 -1	 -1	 0
 forces	 data/source_txt/t3_physics_0_202.deft	 4436	 4442	 O	 -1	 -1	 0
 in	 data/source_txt/t3_physics_0_202.deft	 4443	 4445	 O	 -1	 -1	 0
-TOE	 data/source_txt/t3_physics_0_202.deft	 4446	 4449	 B-Term	 T20	 0	 AKA
+TOE	 data/source_txt/t3_physics_0_202.deft	 4446	 4449	 B-Term	 T20	 0	 0
 ,	 data/source_txt/t3_physics_0_202.deft	 4449	 4450	 O	 -1	 -1	 0
 the	 data/source_txt/t3_physics_0_202.deft	 4451	 4454	 B-Alias-Term	 T21	 T20	 AKA
 Theory	 data/source_txt/t3_physics_0_202.deft	 4455	 4461	 I-Alias-Term	 T21	 T20	 AKA
@@ -918,7 +918,7 @@ the	 data/source_txt/t3_physics_0_202.deft	 4653	 4656	 B-Definition	 T25	 T24	 
 hypothetical	 data/source_txt/t3_physics_0_202.deft	 4657	 4669	 I-Definition	 T25	 T24	 Direct-Defines
 unified	 data/source_txt/t3_physics_0_202.deft	 4670	 4677	 I-Definition	 T25	 T24	 Direct-Defines
 force	 data/source_txt/t3_physics_0_202.deft	 4678	 4683	 I-Definition	 T25	 T24	 Direct-Defines
-superforce	 data/source_txt/t3_physics_0_202.deft	 4684	 4694	 B-Term	 T24	 0	 Direct-Defines
+superforce	 data/source_txt/t3_physics_0_202.deft	 4684	 4694	 B-Term	 T24	 0	 0
 .	 data/source_txt/t3_physics_0_202.deft	 4694	 4695	 O	 -1	 -1	 0
 Now	 data/source_txt/t3_physics_0_202.deft	 4695	 4698	 O	 -1	 -1	 0
 let	 data/source_txt/t3_physics_0_202.deft	 4699	 4702	 O	 -1	 -1	 0
@@ -958,7 +958,7 @@ from	 data/source_txt/t3_physics_0_202.deft	 4849	 4853	 O	 -1	 -1	 0
 Special	 data/source_txt/t3_physics_0_202.deft	 4854	 4861	 O	 -1	 -1	 0
 Relativity	 data/source_txt/t3_physics_0_202.deft	 4862	 4872	 O	 -1	 -1	 0
 that	 data/source_txt/t3_physics_0_202.deft	 4873	 4877	 O	 -1	 -1	 0
-relativity	 data/source_txt/t3_physics_0_202.deft	 4878	 4888	 B-Term	 T26	 0	 Direct-Defines
+relativity	 data/source_txt/t3_physics_0_202.deft	 4878	 4888	 B-Term	 T26	 0	 0
 is	 data/source_txt/t3_physics_0_202.deft	 4889	 4891	 O	 -1	 -1	 0
 the	 data/source_txt/t3_physics_0_202.deft	 4892	 4895	 B-Definition	 T27	 T26	 Direct-Defines
 study	 data/source_txt/t3_physics_0_202.deft	 4896	 4901	 I-Definition	 T27	 T26	 Direct-Defines
@@ -981,12 +981,12 @@ one	 data/source_txt/t3_physics_0_202.deft	 4991	 4994	 I-Definition	 T27	 T26	 
 another	 data/source_txt/t3_physics_0_202.deft	 4995	 5002	 I-Definition	 T27	 T26	 Direct-Defines
 .	 data/source_txt/t3_physics_0_202.deft	 5002	 5003	 O	 -1	 -1	 0
 
-Einstein	 data/source_txt/t3_physics_0_202.deft	 5012	 5020	 B-Term	 T28	 0	 Direct-Defines
-’s	 data/source_txt/t3_physics_0_202.deft	 5020	 5022	 I-Term	 T28	 0	 Direct-Defines
-theory	 data/source_txt/t3_physics_0_202.deft	 5023	 5029	 I-Term	 T28	 0	 Direct-Defines
-of	 data/source_txt/t3_physics_0_202.deft	 5030	 5032	 I-Term	 T28	 0	 Direct-Defines
-general	 data/source_txt/t3_physics_0_202.deft	 5033	 5040	 I-Term	 T28	 0	 Direct-Defines
-relativity	 data/source_txt/t3_physics_0_202.deft	 5041	 5051	 I-Term	 T28	 0	 Direct-Defines
+Einstein	 data/source_txt/t3_physics_0_202.deft	 5012	 5020	 B-Term	 T28	 0	 0
+’s	 data/source_txt/t3_physics_0_202.deft	 5020	 5022	 I-Term	 T28	 0	 0
+theory	 data/source_txt/t3_physics_0_202.deft	 5023	 5029	 I-Term	 T28	 0	 0
+of	 data/source_txt/t3_physics_0_202.deft	 5030	 5032	 I-Term	 T28	 0	 0
+general	 data/source_txt/t3_physics_0_202.deft	 5033	 5040	 I-Term	 T28	 0	 0
+relativity	 data/source_txt/t3_physics_0_202.deft	 5041	 5051	 I-Term	 T28	 0	 0
 describes	 data/source_txt/t3_physics_0_202.deft	 5052	 5061	 B-Definition	 T29	 T28	 Direct-Defines
 all	 data/source_txt/t3_physics_0_202.deft	 5062	 5065	 I-Definition	 T29	 T28	 Direct-Defines
 types	 data/source_txt/t3_physics_0_202.deft	 5066	 5071	 I-Definition	 T29	 T28	 Direct-Defines
@@ -1003,8 +1003,8 @@ of	 data/source_txt/t3_physics_0_202.deft	 5136	 5138	 I-Definition	 T29	 T28	 D
 gravity	 data/source_txt/t3_physics_0_202.deft	 5139	 5146	 I-Definition	 T29	 T28	 Direct-Defines
 .	 data/source_txt/t3_physics_0_202.deft	 5146	 5147	 O	 -1	 -1	 0
 
-General	 data/source_txt/t3_physics_0_202.deft	 5154	 5161	 B-Term	 T30	 0	 Direct-Defines
-relativity	 data/source_txt/t3_physics_0_202.deft	 5162	 5172	 I-Term	 T30	 0	 Direct-Defines
+General	 data/source_txt/t3_physics_0_202.deft	 5154	 5161	 B-Term	 T30	 0	 0
+relativity	 data/source_txt/t3_physics_0_202.deft	 5162	 5172	 I-Term	 T30	 0	 0
 encompasses	 data/source_txt/t3_physics_0_202.deft	 5173	 5184	 B-Definition	 T31	 T30	 Direct-Defines
 special	 data/source_txt/t3_physics_0_202.deft	 5185	 5192	 I-Definition	 T31	 T30	 Direct-Defines
 relativity	 data/source_txt/t3_physics_0_202.deft	 5193	 5203	 I-Definition	 T31	 T30	 Direct-Defines
@@ -1035,8 +1035,8 @@ light	 data/source_txt/t3_physics_0_202.deft	 5328	 5333	 I-Definition	 T31	 T30
 .	 data/source_txt/t3_physics_0_202.deft	 5342	 5343	 O	 -1	 -1	 0
 
 Black	 data/source_txt/t3_physics_0_202.deft	 5353	 5358	 O	 -1	 -1	 0
-holesBlack	 data/source_txt/t3_physics_0_202.deft	 5359	 5369	 B-Term	 T32	 0	 Direct-Defines
-holes	 data/source_txt/t3_physics_0_202.deft	 5370	 5375	 I-Term	 T32	 0	 Direct-Defines
+holesBlack	 data/source_txt/t3_physics_0_202.deft	 5359	 5369	 B-Term	 T32	 0	 0
+holes	 data/source_txt/t3_physics_0_202.deft	 5370	 5375	 I-Term	 T32	 0	 0
 are	 data/source_txt/t3_physics_0_202.deft	 5376	 5379	 O	 -1	 -1	 0
 objects	 data/source_txt/t3_physics_0_202.deft	 5380	 5387	 B-Definition	 T33	 T32	 Direct-Defines
 having	 data/source_txt/t3_physics_0_202.deft	 5388	 5394	 I-Definition	 T33	 T32	 Direct-Defines
@@ -1102,15 +1102,15 @@ Anthony	 data/source_txt/t3_physics_0_202.deft	 5676	 5683	 O	 -1	 -1	 0
 Hewish	 data/source_txt/t3_physics_0_202.deft	 5684	 5690	 O	 -1	 -1	 0
 .	 data/source_txt/t3_physics_0_202.deft	 5690	 5691	 O	 -1	 -1	 0
 
-Neutron	 data/source_txt/t3_physics_0_202.deft	 5700	 5707	 B-Term	 T34	 0	 Direct-Defines
-stars	 data/source_txt/t3_physics_0_202.deft	 5708	 5713	 I-Term	 T34	 0	 Direct-Defines
+Neutron	 data/source_txt/t3_physics_0_202.deft	 5700	 5707	 B-Term	 T34	 0	 0
+stars	 data/source_txt/t3_physics_0_202.deft	 5708	 5713	 I-Term	 T34	 0	 0
 are	 data/source_txt/t3_physics_0_202.deft	 5714	 5717	 O	 -1	 -1	 0
 literally	 data/source_txt/t3_physics_0_202.deft	 5718	 5727	 O	 -1	 -1	 0
-a	 data/source_txt/t3_physics_0_202.deft	 5728	 5729	 B-Definition	 T35	 0	 Supplements
-star	 data/source_txt/t3_physics_0_202.deft	 5730	 5734	 I-Definition	 T35	 0	 Supplements
-composed	 data/source_txt/t3_physics_0_202.deft	 5735	 5743	 I-Definition	 T35	 0	 Supplements
-of	 data/source_txt/t3_physics_0_202.deft	 5744	 5746	 I-Definition	 T35	 0	 Supplements
-neutrons	 data/source_txt/t3_physics_0_202.deft	 5747	 5755	 I-Definition	 T35	 0	 Supplements
+a	 data/source_txt/t3_physics_0_202.deft	 5728	 5729	 B-Definition	 T35	 T34	 Direct-Defines
+star	 data/source_txt/t3_physics_0_202.deft	 5730	 5734	 I-Definition	 T35	 T34	 Direct-Defines
+composed	 data/source_txt/t3_physics_0_202.deft	 5735	 5743	 I-Definition	 T35	 T34	 Direct-Defines
+of	 data/source_txt/t3_physics_0_202.deft	 5744	 5746	 I-Definition	 T35	 T34	 Direct-Defines
+neutrons	 data/source_txt/t3_physics_0_202.deft	 5747	 5755	 I-Definition	 T35	 T34	 Direct-Defines
 .	 data/source_txt/t3_physics_0_202.deft	 5755	 5756	 O	 -1	 -1	 0
 
 They	 data/source_txt/t3_physics_0_202.deft	 5763	 5767	 B-Secondary-Definition	 T38	 T35	 Supplements
@@ -1170,27 +1170,27 @@ The	 data/source_txt/t3_physics_0_202.deft	 5995	 5998	 O	 -1	 -1	 0
 Unification	 data/source_txt/t3_physics_0_202.deft	 5999	 6010	 O	 -1	 -1	 0
 of	 data/source_txt/t3_physics_0_202.deft	 6011	 6013	 O	 -1	 -1	 0
 Forces	 data/source_txt/t3_physics_0_202.deft	 6014	 6020	 O	 -1	 -1	 0
-Superstring	 data/source_txt/t3_physics_0_202.deft	 6021	 6032	 B-Term	 T36	 0	 Direct-Defines
-theory	 data/source_txt/t3_physics_0_202.deft	 6033	 6039	 I-Term	 T36	 0	 Direct-Defines
+Superstring	 data/source_txt/t3_physics_0_202.deft	 6021	 6032	 B-Term	 T36	 0	 0
+theory	 data/source_txt/t3_physics_0_202.deft	 6033	 6039	 I-Term	 T36	 0	 0
 is	 data/source_txt/t3_physics_0_202.deft	 6040	 6042	 O	 -1	 -1	 0
-an	 data/source_txt/t3_physics_0_202.deft	 6043	 6045	 B-Definition	 T39	 0	 Supplements
-attempt	 data/source_txt/t3_physics_0_202.deft	 6046	 6053	 I-Definition	 T39	 0	 Supplements
-to	 data/source_txt/t3_physics_0_202.deft	 6054	 6056	 I-Definition	 T39	 0	 Supplements
-unify	 data/source_txt/t3_physics_0_202.deft	 6057	 6062	 I-Definition	 T39	 0	 Supplements
-gravity	 data/source_txt/t3_physics_0_202.deft	 6063	 6070	 I-Definition	 T39	 0	 Supplements
-with	 data/source_txt/t3_physics_0_202.deft	 6071	 6075	 I-Definition	 T39	 0	 Supplements
-the	 data/source_txt/t3_physics_0_202.deft	 6076	 6079	 I-Definition	 T39	 0	 Supplements
-other	 data/source_txt/t3_physics_0_202.deft	 6080	 6085	 I-Definition	 T39	 0	 Supplements
-three	 data/source_txt/t3_physics_0_202.deft	 6086	 6091	 I-Definition	 T39	 0	 Supplements
-forces	 data/source_txt/t3_physics_0_202.deft	 6092	 6098	 I-Definition	 T39	 0	 Supplements
-and	 data/source_txt/t3_physics_0_202.deft	 6099	 6102	 I-Definition	 T39	 0	 Supplements
-,	 data/source_txt/t3_physics_0_202.deft	 6102	 6103	 I-Definition	 T39	 0	 Supplements
-thus	 data/source_txt/t3_physics_0_202.deft	 6104	 6108	 I-Definition	 T39	 0	 Supplements
-,	 data/source_txt/t3_physics_0_202.deft	 6108	 6109	 I-Definition	 T39	 0	 Supplements
-must	 data/source_txt/t3_physics_0_202.deft	 6110	 6114	 I-Definition	 T39	 0	 Supplements
-contain	 data/source_txt/t3_physics_0_202.deft	 6115	 6122	 I-Definition	 T39	 0	 Supplements
-quantum	 data/source_txt/t3_physics_0_202.deft	 6123	 6130	 I-Definition	 T39	 0	 Supplements
-gravity	 data/source_txt/t3_physics_0_202.deft	 6131	 6138	 I-Definition	 T39	 0	 Supplements
+an	 data/source_txt/t3_physics_0_202.deft	 6043	 6045	 B-Definition	 T39	 T36	 Direct-Defines
+attempt	 data/source_txt/t3_physics_0_202.deft	 6046	 6053	 I-Definition	 T39	 T36	 Direct-Defines
+to	 data/source_txt/t3_physics_0_202.deft	 6054	 6056	 I-Definition	 T39	 T36	 Direct-Defines
+unify	 data/source_txt/t3_physics_0_202.deft	 6057	 6062	 I-Definition	 T39	 T36	 Direct-Defines
+gravity	 data/source_txt/t3_physics_0_202.deft	 6063	 6070	 I-Definition	 T39	 T36	 Direct-Defines
+with	 data/source_txt/t3_physics_0_202.deft	 6071	 6075	 I-Definition	 T39	 T36	 Direct-Defines
+the	 data/source_txt/t3_physics_0_202.deft	 6076	 6079	 I-Definition	 T39	 T36	 Direct-Defines
+other	 data/source_txt/t3_physics_0_202.deft	 6080	 6085	 I-Definition	 T39	 T36	 Direct-Defines
+three	 data/source_txt/t3_physics_0_202.deft	 6086	 6091	 I-Definition	 T39	 T36	 Direct-Defines
+forces	 data/source_txt/t3_physics_0_202.deft	 6092	 6098	 I-Definition	 T39	 T36	 Direct-Defines
+and	 data/source_txt/t3_physics_0_202.deft	 6099	 6102	 I-Definition	 T39	 T36	 Direct-Defines
+,	 data/source_txt/t3_physics_0_202.deft	 6102	 6103	 I-Definition	 T39	 T36	 Direct-Defines
+thus	 data/source_txt/t3_physics_0_202.deft	 6104	 6108	 I-Definition	 T39	 T36	 Direct-Defines
+,	 data/source_txt/t3_physics_0_202.deft	 6108	 6109	 I-Definition	 T39	 T36	 Direct-Defines
+must	 data/source_txt/t3_physics_0_202.deft	 6110	 6114	 I-Definition	 T39	 T36	 Direct-Defines
+contain	 data/source_txt/t3_physics_0_202.deft	 6115	 6122	 I-Definition	 T39	 T36	 Direct-Defines
+quantum	 data/source_txt/t3_physics_0_202.deft	 6123	 6130	 I-Definition	 T39	 T36	 Direct-Defines
+gravity	 data/source_txt/t3_physics_0_202.deft	 6131	 6138	 I-Definition	 T39	 T36	 Direct-Defines
 .	 data/source_txt/t3_physics_0_202.deft	 6138	 6139	 O	 -1	 -1	 0
 
 The	 data/source_txt/t3_physics_0_202.deft	 6146	 6149	 B-Secondary-Definition	 T40	 T39	 Supplements
@@ -1295,8 +1295,8 @@ call	 data/source_txt/t3_physics_0_202.deft	 6694	 6698	 O	 -1	 -1	 0
 an	 data/source_txt/t3_physics_0_202.deft	 6699	 6701	 O	 -1	 -1	 0
 open	 data/source_txt/t3_physics_0_202.deft	 6702	 6706	 O	 -1	 -1	 0
 universe	 data/source_txt/t3_physics_0_202.deft	 6707	 6715	 O	 -1	 -1	 0
-negatively	 data/source_txt/t3_physics_0_202.deft	 6716	 6726	 B-Term	 T42	 0	 Direct-Defines
-curved	 data/source_txt/t3_physics_0_202.deft	 6727	 6733	 I-Term	 T42	 0	 Direct-Defines
+negatively	 data/source_txt/t3_physics_0_202.deft	 6716	 6726	 B-Term	 T42	 0	 0
+curved	 data/source_txt/t3_physics_0_202.deft	 6727	 6733	 I-Term	 T42	 0	 0
 .	 data/source_txt/t3_physics_0_202.deft	 6733	 6734	 O	 -1	 -1	 0
 
 This	 data/source_txt/t3_physics_0_202.deft	 6741	 6745	 O	 -1	 -1	 0
@@ -1389,7 +1389,7 @@ In	 data/source_txt/t3_physics_0_202.deft	 7153	 7155	 O	 -1	 -1	 0
 a	 data/source_txt/t3_physics_0_202.deft	 7156	 7157	 O	 -1	 -1	 0
 process	 data/source_txt/t3_physics_0_202.deft	 7158	 7165	 O	 -1	 -1	 0
 called	 data/source_txt/t3_physics_0_202.deft	 7166	 7172	 O	 -1	 -1	 0
-microlensing	 data/source_txt/t3_physics_0_202.deft	 7173	 7185	 B-Term	 T44	 0	 Direct-Defines
+microlensing	 data/source_txt/t3_physics_0_202.deft	 7173	 7185	 B-Term	 T44	 0	 0
 ,	 data/source_txt/t3_physics_0_202.deft	 7185	 7186	 O	 -1	 -1	 0
 light	 data/source_txt/t3_physics_0_202.deft	 7187	 7192	 B-Definition	 T45	 T44	 Direct-Defines
 from	 data/source_txt/t3_physics_0_202.deft	 7193	 7197	 I-Definition	 T45	 T44	 Direct-Defines
@@ -1472,10 +1472,10 @@ matter	 data/source_txt/t3_physics_0_202.deft	 7584	 7590	 O	 -1	 -1	 0
 These	 data/source_txt/t3_physics_0_202.deft	 7601	 7606	 O	 -1	 -1	 0
 are	 data/source_txt/t3_physics_0_202.deft	 7607	 7610	 O	 -1	 -1	 0
 called	 data/source_txt/t3_physics_0_202.deft	 7611	 7617	 O	 -1	 -1	 0
-weakly	 data/source_txt/t3_physics_0_202.deft	 7618	 7624	 B-Term	 T46	 0	 AKA
-interacting	 data/source_txt/t3_physics_0_202.deft	 7625	 7636	 I-Term	 T46	 0	 AKA
-massive	 data/source_txt/t3_physics_0_202.deft	 7637	 7644	 I-Term	 T46	 0	 AKA
-particles	 data/source_txt/t3_physics_0_202.deft	 7645	 7654	 I-Term	 T46	 0	 AKA
+weakly	 data/source_txt/t3_physics_0_202.deft	 7618	 7624	 B-Term	 T46	 0	 0
+interacting	 data/source_txt/t3_physics_0_202.deft	 7625	 7636	 I-Term	 T46	 0	 0
+massive	 data/source_txt/t3_physics_0_202.deft	 7637	 7644	 I-Term	 T46	 0	 0
+particles	 data/source_txt/t3_physics_0_202.deft	 7645	 7654	 I-Term	 T46	 0	 0
 ,	 data/source_txt/t3_physics_0_202.deft	 7654	 7655	 O	 -1	 -1	 0
 or	 data/source_txt/t3_physics_0_202.deft	 7656	 7658	 O	 -1	 -1	 0
 WIMPs	 data/source_txt/t3_physics_0_202.deft	 7659	 7664	 B-Alias-Term	 T47	 T46	 AKA
@@ -1517,7 +1517,7 @@ and	 data/source_txt/t3_physics_0_202.deft	 7874	 7877	 O	 -1	 -1	 0
 are	 data/source_txt/t3_physics_0_202.deft	 7878	 7881	 O	 -1	 -1	 0
 sometimes	 data/source_txt/t3_physics_0_202.deft	 7882	 7891	 O	 -1	 -1	 0
 called	 data/source_txt/t3_physics_0_202.deft	 7892	 7898	 O	 -1	 -1	 0
-neutralinos	 data/source_txt/t3_physics_0_202.deft	 7899	 7910	 B-Term	 T49	 0	 Direct-Defines
+neutralinos	 data/source_txt/t3_physics_0_202.deft	 7899	 7910	 B-Term	 T49	 0	 0
 .	 data/source_txt/t3_physics_0_202.deft	 7910	 7911	 O	 -1	 -1	 0
 
 
@@ -1542,7 +1542,7 @@ many	 data/source_txt/t3_physics_0_202.deft	 7999	 8003	 O	 -1	 -1	 0
 disciplines	 data/source_txt/t3_physics_0_202.deft	 8004	 8015	 O	 -1	 -1	 0
 .	 data/source_txt/t3_physics_0_202.deft	 8015	 8016	 O	 -1	 -1	 0
 
-Chaos	 data/source_txt/t3_physics_0_202.deft	 8025	 8030	 B-Term	 T51	 0	 Direct-Defines
+Chaos	 data/source_txt/t3_physics_0_202.deft	 8025	 8030	 B-Term	 T51	 0	 0
 is	 data/source_txt/t3_physics_0_202.deft	 8031	 8033	 O	 -1	 -1	 0
 a	 data/source_txt/t3_physics_0_202.deft	 8034	 8035	 B-Definition	 T52	 T51	 Direct-Defines
 word	 data/source_txt/t3_physics_0_202.deft	 8036	 8040	 I-Definition	 T52	 T51	 Direct-Defines
@@ -1639,9 +1639,9 @@ and	 data/source_txt/t3_physics_0_202.deft	 8494	 8497	 I-Definition	 T54	 T53	 
 observer	 data/source_txt/t3_physics_0_202.deft	 8498	 8506	 I-Definition	 T54	 T53	 Direct-Defines
 is	 data/source_txt/t3_physics_0_202.deft	 8507	 8509	 O	 -1	 -1	 0
 called	 data/source_txt/t3_physics_0_202.deft	 8510	 8516	 O	 -1	 -1	 0
-a	 data/source_txt/t3_physics_0_202.deft	 8517	 8518	 B-Term	 T53	 0	 Direct-Defines
-Doppler	 data/source_txt/t3_physics_0_202.deft	 8519	 8526	 I-Term	 T53	 0	 Direct-Defines
-shift	 data/source_txt/t3_physics_0_202.deft	 8527	 8532	 I-Term	 T53	 0	 Direct-Defines
+a	 data/source_txt/t3_physics_0_202.deft	 8517	 8518	 B-Term	 T53	 0	 0
+Doppler	 data/source_txt/t3_physics_0_202.deft	 8519	 8526	 I-Term	 T53	 0	 0
+shift	 data/source_txt/t3_physics_0_202.deft	 8527	 8532	 I-Term	 T53	 0	 0
 .	 data/source_txt/t3_physics_0_202.deft	 8532	 8533	 O	 -1	 -1	 0
 
 The	 data/source_txt/t3_physics_0_202.deft	 8540	 8543	 O	 -1	 -1	 0
@@ -1695,7 +1695,7 @@ electricity	 data/source_txt/t3_physics_0_202.deft	 8786	 8797	 O	 -1	 -1	 0
 
 Knowing	 data/source_txt/t3_physics_0_202.deft	 8807	 8814	 O	 -1	 -1	 0
 that	 data/source_txt/t3_physics_0_202.deft	 8815	 8819	 O	 -1	 -1	 0
-power	 data/source_txt/t3_physics_0_202.deft	 8820	 8825	 B-Term	 T37	 0	 Direct-Defines
+power	 data/source_txt/t3_physics_0_202.deft	 8820	 8825	 B-Term	 T37	 0	 0
 is	 data/source_txt/t3_physics_0_202.deft	 8826	 8828	 O	 -1	 -1	 0
 the	 data/source_txt/t3_physics_0_202.deft	 8829	 8832	 B-Definition	 T57	 T37	 Direct-Defines
 rate	 data/source_txt/t3_physics_0_202.deft	 8833	 8837	 I-Definition	 T57	 T37	 Direct-Defines
@@ -1777,8 +1777,8 @@ for	 data/source_txt/t3_physics_0_202.deft	 9245	 9248	 O	 -1	 -1	 0
 him	 data/source_txt/t3_physics_0_202.deft	 9249	 9252	 O	 -1	 -1	 0
 .	 data/source_txt/t3_physics_0_202.deft	 9252	 9253	 O	 -1	 -1	 0
 
-A	 data/source_txt/t3_physics_0_202.deft	 9253	 9254	 B-Term	 T56	 0	 Direct-Defines
-synchrotron	 data/source_txt/t3_physics_0_202.deft	 9255	 9266	 I-Term	 T56	 0	 Direct-Defines
+A	 data/source_txt/t3_physics_0_202.deft	 9253	 9254	 B-Term	 T56	 0	 0
+synchrotron	 data/source_txt/t3_physics_0_202.deft	 9255	 9266	 I-Term	 T56	 0	 0
 is	 data/source_txt/t3_physics_0_202.deft	 9267	 9269	 O	 -1	 -1	 0
 a	 data/source_txt/t3_physics_0_202.deft	 9270	 9271	 B-Definition	 T58	 T56	 Direct-Defines
 version	 data/source_txt/t3_physics_0_202.deft	 9272	 9279	 I-Definition	 T58	 T56	 Direct-Defines
@@ -1890,10 +1890,10 @@ linear	 data/source_txt/t3_physics_0_202.deft	 9835	 9841	 I-Definition	 T61	 T5
 accelerator	 data/source_txt/t3_physics_0_202.deft	 9842	 9853	 I-Definition	 T61	 T59	 Direct-Defines
 ,	 data/source_txt/t3_physics_0_202.deft	 9853	 9854	 O	 -1	 -1	 0
 called	 data/source_txt/t3_physics_0_202.deft	 9855	 9861	 O	 -1	 -1	 0
-the	 data/source_txt/t3_physics_0_202.deft	 9862	 9865	 B-Term	 T59	 0	 AKA
-Stanford	 data/source_txt/t3_physics_0_202.deft	 9866	 9874	 I-Term	 T59	 0	 AKA
-Linear	 data/source_txt/t3_physics_0_202.deft	 9875	 9881	 I-Term	 T59	 0	 AKA
-Accelerator	 data/source_txt/t3_physics_0_202.deft	 9882	 9893	 I-Term	 T59	 0	 AKA
+the	 data/source_txt/t3_physics_0_202.deft	 9862	 9865	 B-Term	 T59	 0	 0
+Stanford	 data/source_txt/t3_physics_0_202.deft	 9866	 9874	 I-Term	 T59	 0	 0
+Linear	 data/source_txt/t3_physics_0_202.deft	 9875	 9881	 I-Term	 T59	 0	 0
+Accelerator	 data/source_txt/t3_physics_0_202.deft	 9882	 9893	 I-Term	 T59	 0	 0
 (	 data/source_txt/t3_physics_0_202.deft	 9894	 9895	 O	 -1	 -1	 0
 SLAC	 data/source_txt/t3_physics_0_202.deft	 9895	 9899	 B-Alias-Term	 T60	 T59	 AKA
 )	 data/source_txt/t3_physics_0_202.deft	 9899	 9900	 O	 -1	 -1	 0

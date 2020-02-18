@@ -1,8 +1,8 @@
 1525	 data/source_txt/t1_biology_1_505.deft	 985	 989	 O	 -1	 -1	 0
 .	 data/source_txt/t1_biology_1_505.deft	 989	 990	 O	 -1	 -1	 0
 
-Adipose	 data/source_txt/t1_biology_1_505.deft	 991	 998	 B-Term	 T4	 0	 Direct-Defines
-tissue	 data/source_txt/t1_biology_1_505.deft	 999	 1005	 I-Term	 T4	 0	 Direct-Defines
+Adipose	 data/source_txt/t1_biology_1_505.deft	 991	 998	 B-Term	 T4	 0	 0
+tissue	 data/source_txt/t1_biology_1_505.deft	 999	 1005	 I-Term	 T4	 0	 0
 is	 data/source_txt/t1_biology_1_505.deft	 1006	 1008	 O	 -1	 -1	 0
 a	 data/source_txt/t1_biology_1_505.deft	 1009	 1010	 B-Definition	 T5	 T4	 Direct-Defines
 connective	 data/source_txt/t1_biology_1_505.deft	 1011	 1021	 I-Definition	 T5	 T4	 Direct-Defines

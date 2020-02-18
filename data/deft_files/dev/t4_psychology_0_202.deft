@@ -2,8 +2,8 @@
 .	 data/source_txt/t4_psychology_0_202.deft	 29976	 29977	 O	 -1	 -1	 0
 
 In	 data/source_txt/t4_psychology_0_202.deft	 29986	 29988	 O	 -1	 -1	 0
-individual	 data/source_txt/t4_psychology_0_202.deft	 29989	 29999	 B-Term	 T194	 0	 Direct-Defines
-therapy	 data/source_txt/t4_psychology_0_202.deft	 30000	 30007	 I-Term	 T194	 0	 Direct-Defines
+individual	 data/source_txt/t4_psychology_0_202.deft	 29989	 29999	 B-Term	 T194	 0	 0
+therapy	 data/source_txt/t4_psychology_0_202.deft	 30000	 30007	 I-Term	 T194	 0	 0
 ,	 data/source_txt/t4_psychology_0_202.deft	 30007	 30008	 O	 -1	 -1	 0
 also	 data/source_txt/t4_psychology_0_202.deft	 30009	 30013	 O	 -1	 -1	 0
 known	 data/source_txt/t4_psychology_0_202.deft	 30014	 30019	 O	 -1	 -1	 0

@@ -1,8 +1,8 @@
 7	 data/source_txt/t1_biology_1_0.deft	 658	 659	 O	 -1	 -1	 0
 .	 data/source_txt/t1_biology_1_0.deft	 659	 660	 O	 -1	 -1	 0
 
-Inductive	 data/source_txt/t1_biology_1_0.deft	 669	 678	 B-Term	 T204	 0	 Direct-Defines
-reasoning	 data/source_txt/t1_biology_1_0.deft	 679	 688	 I-Term	 T204	 0	 Direct-Defines
+Inductive	 data/source_txt/t1_biology_1_0.deft	 669	 678	 B-Term	 T204	 0	 0
+reasoning	 data/source_txt/t1_biology_1_0.deft	 679	 688	 I-Term	 T204	 0	 0
 is	 data/source_txt/t1_biology_1_0.deft	 689	 691	 O	 -1	 -1	 0
 a	 data/source_txt/t1_biology_1_0.deft	 692	 693	 B-Definition	 T205	 T204	 Direct-Defines
 form	 data/source_txt/t1_biology_1_0.deft	 694	 698	 I-Definition	 T205	 T204	 Direct-Defines

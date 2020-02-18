@@ -107,9 +107,9 @@ population	 data/source_txt/t1_biology_0_202.deft	 6975	 6985	 I-Definition	 T58
 ,	 data/source_txt/t1_biology_0_202.deft	 6985	 6986	 O	 -1	 -1	 0
 is	 data/source_txt/t1_biology_0_202.deft	 6987	 6989	 O	 -1	 -1	 0
 called	 data/source_txt/t1_biology_0_202.deft	 6990	 6996	 O	 -1	 -1	 0
-the	 data/source_txt/t1_biology_0_202.deft	 6997	 7000	 B-Term	 T57	 0	 Direct-Defines
-founder	 data/source_txt/t1_biology_0_202.deft	 7001	 7008	 I-Term	 T57	 0	 Direct-Defines
-effect	 data/source_txt/t1_biology_0_202.deft	 7009	 7015	 I-Term	 T57	 0	 Direct-Defines
+the	 data/source_txt/t1_biology_0_202.deft	 6997	 7000	 B-Term	 T57	 0	 0
+founder	 data/source_txt/t1_biology_0_202.deft	 7001	 7008	 I-Term	 T57	 0	 0
+effect	 data/source_txt/t1_biology_0_202.deft	 7009	 7015	 I-Term	 T57	 0	 0
 .	 data/source_txt/t1_biology_0_202.deft	 7015	 7016	 O	 -1	 -1	 0
 
 Natural	 data/source_txt/t1_biology_0_202.deft	 7023	 7030	 O	 -1	 -1	 0
@@ -222,7 +222,7 @@ existence	 data/source_txt/t1_biology_0_202.deft	 21140	 21149	 O	 -1	 -1	 0
 the	 data/source_txt/t1_biology_0_202.deft	 21151	 21154	 O	 -1	 -1	 0
 atmosphere	 data/source_txt/t1_biology_0_202.deft	 21155	 21165	 O	 -1	 -1	 0
 was	 data/source_txt/t1_biology_0_202.deft	 21166	 21169	 O	 -1	 -1	 0
-anoxic	 data/source_txt/t1_biology_0_202.deft	 21170	 21176	 B-Term	 T179	 0	 Direct-Defines
+anoxic	 data/source_txt/t1_biology_0_202.deft	 21170	 21176	 B-Term	 T179	 0	 0
 ,	 data/source_txt/t1_biology_0_202.deft	 21176	 21177	 O	 -1	 -1	 0
 meaning	 data/source_txt/t1_biology_0_202.deft	 21178	 21185	 O	 -1	 -1	 0
 that	 data/source_txt/t1_biology_0_202.deft	 21186	 21190	 O	 -1	 -1	 0
@@ -244,8 +244,8 @@ grow	 data/source_txt/t1_biology_0_202.deft	 21269	 21273	 I-Definition	 T182	 T
 without	 data/source_txt/t1_biology_0_202.deft	 21274	 21281	 I-Definition	 T182	 T181	 Direct-Defines
 oxygen	 data/source_txt/t1_biology_0_202.deft	 21282	 21288	 I-Definition	 T182	 T181	 Direct-Defines
 —	 data/source_txt/t1_biology_0_202.deft	 21288	 21289	 O	 -1	 -1	 0
-anaerobic	 data/source_txt/t1_biology_0_202.deft	 21289	 21298	 B-Term	 T181	 0	 Direct-Defines
-organisms	 data/source_txt/t1_biology_0_202.deft	 21299	 21308	 I-Term	 T181	 0	 Direct-Defines
+anaerobic	 data/source_txt/t1_biology_0_202.deft	 21289	 21298	 B-Term	 T181	 0	 0
+organisms	 data/source_txt/t1_biology_0_202.deft	 21299	 21308	 I-Term	 T181	 0	 0
 —	 data/source_txt/t1_biology_0_202.deft	 21308	 21309	 O	 -1	 -1	 0
 were	 data/source_txt/t1_biology_0_202.deft	 21309	 21313	 O	 -1	 -1	 0
 able	 data/source_txt/t1_biology_0_202.deft	 21314	 21318	 O	 -1	 -1	 0

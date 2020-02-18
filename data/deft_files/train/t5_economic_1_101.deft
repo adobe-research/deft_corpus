@@ -139,9 +139,9 @@ of	 data/source_txt/t5_economic_1_101.deft	 728	 730	 I-Definition	 T1	 T2	 Dire
 income	 data/source_txt/t5_economic_1_101.deft	 731	 737	 I-Definition	 T1	 T2	 Direct-Defines
 —	 data/source_txt/t5_economic_1_101.deft	 737	 738	 O	 -1	 -1	 0
 called	 data/source_txt/t5_economic_1_101.deft	 738	 744	 O	 -1	 -1	 0
-the	 data/source_txt/t5_economic_1_101.deft	 745	 748	 B-Term	 T2	 0	 Direct-Defines
-poverty	 data/source_txt/t5_economic_1_101.deft	 749	 756	 I-Term	 T2	 0	 Direct-Defines
-line	 data/source_txt/t5_economic_1_101.deft	 757	 761	 I-Term	 T2	 0	 Direct-Defines
+the	 data/source_txt/t5_economic_1_101.deft	 745	 748	 B-Term	 T2	 0	 0
+poverty	 data/source_txt/t5_economic_1_101.deft	 749	 756	 I-Term	 T2	 0	 0
+line	 data/source_txt/t5_economic_1_101.deft	 757	 761	 I-Term	 T2	 0	 0
 —	 data/source_txt/t5_economic_1_101.deft	 761	 762	 O	 -1	 -1	 0
 that	 data/source_txt/t5_economic_1_101.deft	 762	 766	 B-Secondary-Definition	 T3	 T1	 Supplements
 defines	 data/source_txt/t5_economic_1_101.deft	 767	 774	 I-Secondary-Definition	 T3	 T1	 Supplements
@@ -156,8 +156,8 @@ of	 data/source_txt/t5_economic_1_101.deft	 814	 816	 I-Secondary-Definition	 T3
 living	 data/source_txt/t5_economic_1_101.deft	 817	 823	 I-Secondary-Definition	 T3	 T1	 Supplements
 .	 data/source_txt/t5_economic_1_101.deft	 823	 824	 O	 -1	 -1	 0
 
-Income	 data/source_txt/t5_economic_1_101.deft	 833	 839	 B-Term	 T4	 0	 Direct-Defines
-inequality	 data/source_txt/t5_economic_1_101.deft	 840	 850	 I-Term	 T4	 0	 Direct-Defines
+Income	 data/source_txt/t5_economic_1_101.deft	 833	 839	 B-Term	 T4	 0	 0
+inequality	 data/source_txt/t5_economic_1_101.deft	 840	 850	 I-Term	 T4	 0	 0
 compares	 data/source_txt/t5_economic_1_101.deft	 851	 859	 B-Definition	 T5	 T4	 Direct-Defines
 the	 data/source_txt/t5_economic_1_101.deft	 860	 863	 I-Definition	 T5	 T4	 Direct-Defines
 share	 data/source_txt/t5_economic_1_101.deft	 864	 869	 I-Definition	 T5	 T4	 Direct-Defines
@@ -289,7 +289,7 @@ cash	 data/source_txt/t5_economic_1_101.deft	 1479	 1483	 O	 -1	 -1	 0
 form	 data/source_txt/t5_economic_1_101.deft	 1484	 1488	 O	 -1	 -1	 0
 ,	 data/source_txt/t5_economic_1_101.deft	 1488	 1489	 O	 -1	 -1	 0
 like	 data/source_txt/t5_economic_1_101.deft	 1490	 1494	 O	 -1	 -1	 0
-Medicaid	 data/source_txt/t5_economic_1_101.deft	 1495	 1503	 B-Term	 T6	 0	 Direct-Defines
+Medicaid	 data/source_txt/t5_economic_1_101.deft	 1495	 1503	 B-Term	 T6	 0	 0
 (	 data/source_txt/t5_economic_1_101.deft	 1504	 1505	 O	 -1	 -1	 0
 health	 data/source_txt/t5_economic_1_101.deft	 1505	 1511	 B-Definition	 T7	 T6	 Direct-Defines
 care	 data/source_txt/t5_economic_1_101.deft	 1512	 1516	 I-Definition	 T7	 T6	 Direct-Defines
@@ -456,12 +456,12 @@ visible	 data/source_txt/t5_economic_1_101.deft	 2278	 2285	 O	 -1	 -1	 0
 antipoverty	 data/source_txt/t5_economic_1_101.deft	 2286	 2297	 O	 -1	 -1	 0
 program	 data/source_txt/t5_economic_1_101.deft	 2298	 2305	 O	 -1	 -1	 0
 was	 data/source_txt/t5_economic_1_101.deft	 2306	 2309	 O	 -1	 -1	 0
-Aid	 data/source_txt/t5_economic_1_101.deft	 2310	 2313	 B-Term	 T8	 0	 Direct-Defines
-to	 data/source_txt/t5_economic_1_101.deft	 2314	 2316	 I-Term	 T8	 0	 Direct-Defines
-Families	 data/source_txt/t5_economic_1_101.deft	 2317	 2325	 I-Term	 T8	 0	 Direct-Defines
-with	 data/source_txt/t5_economic_1_101.deft	 2326	 2330	 I-Term	 T8	 0	 Direct-Defines
-Dependent	 data/source_txt/t5_economic_1_101.deft	 2331	 2340	 I-Term	 T8	 0	 Direct-Defines
-Children	 data/source_txt/t5_economic_1_101.deft	 2341	 2349	 I-Term	 T8	 0	 Direct-Defines
+Aid	 data/source_txt/t5_economic_1_101.deft	 2310	 2313	 B-Term	 T8	 0	 0
+to	 data/source_txt/t5_economic_1_101.deft	 2314	 2316	 I-Term	 T8	 0	 0
+Families	 data/source_txt/t5_economic_1_101.deft	 2317	 2325	 I-Term	 T8	 0	 0
+with	 data/source_txt/t5_economic_1_101.deft	 2326	 2330	 I-Term	 T8	 0	 0
+Dependent	 data/source_txt/t5_economic_1_101.deft	 2331	 2340	 I-Term	 T8	 0	 0
+Children	 data/source_txt/t5_economic_1_101.deft	 2341	 2349	 I-Term	 T8	 0	 0
 (	 data/source_txt/t5_economic_1_101.deft	 2350	 2351	 O	 -1	 -1	 0
 AFDC	 data/source_txt/t5_economic_1_101.deft	 2351	 2355	 B-Alias-Term	 T9	 T8	 AKA
 )	 data/source_txt/t5_economic_1_101.deft	 2355	 2356	 O	 -1	 -1	 0
@@ -696,17 +696,17 @@ low	 data/source_txt/t5_economic_1_101.deft	 3481	 3484	 O	 -1	 -1	 0
 income	 data/source_txt/t5_economic_1_101.deft	 3485	 3491	 O	 -1	 -1	 0
 families	 data/source_txt/t5_economic_1_101.deft	 3492	 3500	 O	 -1	 -1	 0
 ;	 data/source_txt/t5_economic_1_101.deft	 3500	 3501	 O	 -1	 -1	 0
-the	 data/source_txt/t5_economic_1_101.deft	 3502	 3505	 B-Term	 T11	 0	 Direct-Defines
-Special	 data/source_txt/t5_economic_1_101.deft	 3506	 3513	 I-Term	 T11	 0	 Direct-Defines
-Supplemental	 data/source_txt/t5_economic_1_101.deft	 3514	 3526	 I-Term	 T11	 0	 Direct-Defines
-Food	 data/source_txt/t5_economic_1_101.deft	 3527	 3531	 I-Term	 T11	 0	 Direct-Defines
-Program	 data/source_txt/t5_economic_1_101.deft	 3532	 3539	 I-Term	 T11	 0	 Direct-Defines
-for	 data/source_txt/t5_economic_1_101.deft	 3540	 3543	 I-Term	 T11	 0	 Direct-Defines
-Women	 data/source_txt/t5_economic_1_101.deft	 3544	 3549	 I-Term	 T11	 0	 Direct-Defines
-,	 data/source_txt/t5_economic_1_101.deft	 3549	 3550	 I-Term	 T11	 0	 Direct-Defines
-Infants	 data/source_txt/t5_economic_1_101.deft	 3551	 3558	 I-Term	 T11	 0	 Direct-Defines
-and	 data/source_txt/t5_economic_1_101.deft	 3559	 3562	 I-Term	 T11	 0	 Direct-Defines
-Children	 data/source_txt/t5_economic_1_101.deft	 3563	 3571	 I-Term	 T11	 0	 Direct-Defines
+the	 data/source_txt/t5_economic_1_101.deft	 3502	 3505	 B-Term	 T11	 0	 0
+Special	 data/source_txt/t5_economic_1_101.deft	 3506	 3513	 I-Term	 T11	 0	 0
+Supplemental	 data/source_txt/t5_economic_1_101.deft	 3514	 3526	 I-Term	 T11	 0	 0
+Food	 data/source_txt/t5_economic_1_101.deft	 3527	 3531	 I-Term	 T11	 0	 0
+Program	 data/source_txt/t5_economic_1_101.deft	 3532	 3539	 I-Term	 T11	 0	 0
+for	 data/source_txt/t5_economic_1_101.deft	 3540	 3543	 I-Term	 T11	 0	 0
+Women	 data/source_txt/t5_economic_1_101.deft	 3544	 3549	 I-Term	 T11	 0	 0
+,	 data/source_txt/t5_economic_1_101.deft	 3549	 3550	 I-Term	 T11	 0	 0
+Infants	 data/source_txt/t5_economic_1_101.deft	 3551	 3558	 I-Term	 T11	 0	 0
+and	 data/source_txt/t5_economic_1_101.deft	 3559	 3562	 I-Term	 T11	 0	 0
+Children	 data/source_txt/t5_economic_1_101.deft	 3563	 3571	 I-Term	 T11	 0	 0
 (	 data/source_txt/t5_economic_1_101.deft	 3572	 3573	 O	 -1	 -1	 0
 WIC	 data/source_txt/t5_economic_1_101.deft	 3573	 3576	 B-Alias-Term	 T12	 T11	 AKA
 )	 data/source_txt/t5_economic_1_101.deft	 3576	 3577	 O	 -1	 -1	 0
@@ -721,13 +721,13 @@ women	 data/source_txt/t5_economic_1_101.deft	 3623	 3628	 I-Definition	 T13	 T1
 and	 data/source_txt/t5_economic_1_101.deft	 3629	 3632	 I-Definition	 T13	 T11	 Direct-Defines
 newborns	 data/source_txt/t5_economic_1_101.deft	 3633	 3641	 I-Definition	 T13	 T11	 Direct-Defines
 ;	 data/source_txt/t5_economic_1_101.deft	 3641	 3642	 O	 -1	 -1	 0
-the	 data/source_txt/t5_economic_1_101.deft	 3643	 3646	 B-Term	 T14	 0	 Direct-Defines
-Low	 data/source_txt/t5_economic_1_101.deft	 3647	 3650	 I-Term	 T14	 0	 Direct-Defines
-Income	 data/source_txt/t5_economic_1_101.deft	 3651	 3657	 I-Term	 T14	 0	 Direct-Defines
-Home	 data/source_txt/t5_economic_1_101.deft	 3658	 3662	 I-Term	 T14	 0	 Direct-Defines
-Energy	 data/source_txt/t5_economic_1_101.deft	 3663	 3669	 I-Term	 T14	 0	 Direct-Defines
-Assistance	 data/source_txt/t5_economic_1_101.deft	 3670	 3680	 I-Term	 T14	 0	 Direct-Defines
-Program	 data/source_txt/t5_economic_1_101.deft	 3681	 3688	 I-Term	 T14	 0	 Direct-Defines
+the	 data/source_txt/t5_economic_1_101.deft	 3643	 3646	 B-Term	 T14	 0	 0
+Low	 data/source_txt/t5_economic_1_101.deft	 3647	 3650	 I-Term	 T14	 0	 0
+Income	 data/source_txt/t5_economic_1_101.deft	 3651	 3657	 I-Term	 T14	 0	 0
+Home	 data/source_txt/t5_economic_1_101.deft	 3658	 3662	 I-Term	 T14	 0	 0
+Energy	 data/source_txt/t5_economic_1_101.deft	 3663	 3669	 I-Term	 T14	 0	 0
+Assistance	 data/source_txt/t5_economic_1_101.deft	 3670	 3680	 I-Term	 T14	 0	 0
+Program	 data/source_txt/t5_economic_1_101.deft	 3681	 3688	 I-Term	 T14	 0	 0
 ,	 data/source_txt/t5_economic_1_101.deft	 3688	 3689	 O	 -1	 -1	 0
 which	 data/source_txt/t5_economic_1_101.deft	 3690	 3695	 O	 -1	 -1	 0
 provides	 data/source_txt/t5_economic_1_101.deft	 3696	 3704	 B-Definition	 T15	 T14	 Direct-Defines
@@ -737,8 +737,8 @@ home	 data/source_txt/t5_economic_1_101.deft	 3715	 3719	 I-Definition	 T15	 T14
 heating	 data/source_txt/t5_economic_1_101.deft	 3720	 3727	 I-Definition	 T15	 T14	 Direct-Defines
 bills	 data/source_txt/t5_economic_1_101.deft	 3728	 3733	 I-Definition	 T15	 T14	 Direct-Defines
 ;	 data/source_txt/t5_economic_1_101.deft	 3733	 3734	 O	 -1	 -1	 0
-housing	 data/source_txt/t5_economic_1_101.deft	 3735	 3742	 B-Term	 T16	 0	 Direct-Defines
-assistance	 data/source_txt/t5_economic_1_101.deft	 3743	 3753	 I-Term	 T16	 0	 Direct-Defines
+housing	 data/source_txt/t5_economic_1_101.deft	 3735	 3742	 B-Term	 T16	 0	 0
+assistance	 data/source_txt/t5_economic_1_101.deft	 3743	 3753	 I-Term	 T16	 0	 0
 ,	 data/source_txt/t5_economic_1_101.deft	 3753	 3754	 O	 -1	 -1	 0
 which	 data/source_txt/t5_economic_1_101.deft	 3755	 3760	 O	 -1	 -1	 0
 helps	 data/source_txt/t5_economic_1_101.deft	 3761	 3766	 B-Definition	 T17	 T16	 Direct-Defines
@@ -747,9 +747,9 @@ the	 data/source_txt/t5_economic_1_101.deft	 3771	 3774	 I-Definition	 T17	 T16	
 rent	 data/source_txt/t5_economic_1_101.deft	 3775	 3779	 I-Definition	 T17	 T16	 Direct-Defines
 ;	 data/source_txt/t5_economic_1_101.deft	 3779	 3780	 O	 -1	 -1	 0
 and	 data/source_txt/t5_economic_1_101.deft	 3781	 3784	 O	 -1	 -1	 0
-Supplemental	 data/source_txt/t5_economic_1_101.deft	 3785	 3797	 B-Term	 T18	 0	 Direct-Defines
-Security	 data/source_txt/t5_economic_1_101.deft	 3798	 3806	 I-Term	 T18	 0	 Direct-Defines
-Income	 data/source_txt/t5_economic_1_101.deft	 3807	 3813	 I-Term	 T18	 0	 Direct-Defines
+Supplemental	 data/source_txt/t5_economic_1_101.deft	 3785	 3797	 B-Term	 T18	 0	 0
+Security	 data/source_txt/t5_economic_1_101.deft	 3798	 3806	 I-Term	 T18	 0	 0
+Income	 data/source_txt/t5_economic_1_101.deft	 3807	 3813	 I-Term	 T18	 0	 0
 ,	 data/source_txt/t5_economic_1_101.deft	 3813	 3814	 O	 -1	 -1	 0
 which	 data/source_txt/t5_economic_1_101.deft	 3815	 3820	 O	 -1	 -1	 0
 provides	 data/source_txt/t5_economic_1_101.deft	 3821	 3829	 B-Definition	 T19	 T18	 Direct-Defines
@@ -768,7 +768,7 @@ poor	 data/source_txt/t5_economic_1_101.deft	 3876	 3880	 I-Definition	 T19	 T18
 4640	 data/source_txt/t5_economic_1_101.deft	 4580	 4584	 O	 -1	 -1	 0
 .	 data/source_txt/t5_economic_1_101.deft	 4584	 4585	 O	 -1	 -1	 0
 
-Income	 data/source_txt/t5_economic_1_101.deft	 4594	 4600	 B-Term	 T22	 0	 Direct-Defines
+Income	 data/source_txt/t5_economic_1_101.deft	 4594	 4600	 B-Term	 T22	 0	 0
 is	 data/source_txt/t5_economic_1_101.deft	 4601	 4603	 O	 -1	 -1	 0
 a	 data/source_txt/t5_economic_1_101.deft	 4604	 4605	 B-Definition	 T23	 T22	 Direct-Defines
 flow	 data/source_txt/t5_economic_1_101.deft	 4606	 4610	 I-Definition	 T23	 T22	 Direct-Defines
@@ -786,7 +786,7 @@ an	 data/source_txt/t5_economic_1_101.deft	 4661	 4663	 I-Definition	 T23	 T22	 
 annual	 data/source_txt/t5_economic_1_101.deft	 4664	 4670	 I-Definition	 T23	 T22	 Direct-Defines
 basis	 data/source_txt/t5_economic_1_101.deft	 4671	 4676	 I-Definition	 T23	 T22	 Direct-Defines
 ;	 data/source_txt/t5_economic_1_101.deft	 4676	 4677	 O	 -1	 -1	 0
-wealth	 data/source_txt/t5_economic_1_101.deft	 4678	 4684	 B-Term	 T24	 0	 Direct-Defines
+wealth	 data/source_txt/t5_economic_1_101.deft	 4678	 4684	 B-Term	 T24	 0	 0
 is	 data/source_txt/t5_economic_1_101.deft	 4685	 4687	 O	 -1	 -1	 0
 the	 data/source_txt/t5_economic_1_101.deft	 4688	 4691	 B-Definition	 T25	 T24	 Direct-Defines
 sum	 data/source_txt/t5_economic_1_101.deft	 4692	 4695	 I-Definition	 T25	 T24	 Direct-Defines
@@ -887,10 +887,10 @@ of	 data/source_txt/t5_economic_1_101.deft	 5130	 5132	 O	 -1	 -1	 0
 %	 data/source_txt/t5_economic_1_101.deft	 5137	 5138	 O	 -1	 -1	 0
 .	 data/source_txt/t5_economic_1_101.deft	 5138	 5139	 O	 -1	 -1	 0
 
-The	 data/source_txt/t5_economic_1_101.deft	 5148	 5151	 B-Term	 T26	 0	 Direct-Defines
-effective	 data/source_txt/t5_economic_1_101.deft	 5152	 5161	 I-Term	 T26	 0	 Direct-Defines
-income	 data/source_txt/t5_economic_1_101.deft	 5162	 5168	 I-Term	 T26	 0	 Direct-Defines
-tax	 data/source_txt/t5_economic_1_101.deft	 5169	 5172	 I-Term	 T26	 0	 Direct-Defines
+The	 data/source_txt/t5_economic_1_101.deft	 5148	 5151	 B-Term	 T26	 0	 0
+effective	 data/source_txt/t5_economic_1_101.deft	 5152	 5161	 I-Term	 T26	 0	 0
+income	 data/source_txt/t5_economic_1_101.deft	 5162	 5168	 I-Term	 T26	 0	 0
+tax	 data/source_txt/t5_economic_1_101.deft	 5169	 5172	 I-Term	 T26	 0	 0
 ,	 data/source_txt/t5_economic_1_101.deft	 5172	 5173	 O	 -1	 -1	 0
 which	 data/source_txt/t5_economic_1_101.deft	 5174	 5179	 O	 -1	 -1	 0
 is	 data/source_txt/t5_economic_1_101.deft	 5180	 5182	 O	 -1	 -1	 0
@@ -1081,16 +1081,16 @@ government	 data/source_txt/t5_economic_1_101.deft	 6415	 6425	 O	 -1	 -1	 0
 workers	 data/source_txt/t5_economic_1_101.deft	 6426	 6433	 O	 -1	 -1	 0
 ,	 data/source_txt/t5_economic_1_101.deft	 6433	 6434	 O	 -1	 -1	 0
 including	 data/source_txt/t5_economic_1_101.deft	 6435	 6444	 O	 -1	 -1	 0
-the	 data/source_txt/t5_economic_1_101.deft	 6445	 6448	 B-Term	 T201	 0	 Direct-Defines
-American	 data/source_txt/t5_economic_1_101.deft	 6449	 6457	 I-Term	 T201	 0	 Direct-Defines
-Federation	 data/source_txt/t5_economic_1_101.deft	 6458	 6468	 I-Term	 T201	 0	 Direct-Defines
-of	 data/source_txt/t5_economic_1_101.deft	 6469	 6471	 I-Term	 T201	 0	 Direct-Defines
-State	 data/source_txt/t5_economic_1_101.deft	 6472	 6477	 I-Term	 T201	 0	 Direct-Defines
-,	 data/source_txt/t5_economic_1_101.deft	 6477	 6478	 I-Term	 T201	 0	 Direct-Defines
-County	 data/source_txt/t5_economic_1_101.deft	 6479	 6485	 I-Term	 T201	 0	 Direct-Defines
-and	 data/source_txt/t5_economic_1_101.deft	 6486	 6489	 I-Term	 T201	 0	 Direct-Defines
-Municipal	 data/source_txt/t5_economic_1_101.deft	 6490	 6499	 I-Term	 T201	 0	 Direct-Defines
-Employees	 data/source_txt/t5_economic_1_101.deft	 6500	 6509	 I-Term	 T201	 0	 Direct-Defines
+the	 data/source_txt/t5_economic_1_101.deft	 6445	 6448	 B-Term	 T201	 0	 0
+American	 data/source_txt/t5_economic_1_101.deft	 6449	 6457	 I-Term	 T201	 0	 0
+Federation	 data/source_txt/t5_economic_1_101.deft	 6458	 6468	 I-Term	 T201	 0	 0
+of	 data/source_txt/t5_economic_1_101.deft	 6469	 6471	 I-Term	 T201	 0	 0
+State	 data/source_txt/t5_economic_1_101.deft	 6472	 6477	 I-Term	 T201	 0	 0
+,	 data/source_txt/t5_economic_1_101.deft	 6477	 6478	 I-Term	 T201	 0	 0
+County	 data/source_txt/t5_economic_1_101.deft	 6479	 6485	 I-Term	 T201	 0	 0
+and	 data/source_txt/t5_economic_1_101.deft	 6486	 6489	 I-Term	 T201	 0	 0
+Municipal	 data/source_txt/t5_economic_1_101.deft	 6490	 6499	 I-Term	 T201	 0	 0
+Employees	 data/source_txt/t5_economic_1_101.deft	 6500	 6509	 I-Term	 T201	 0	 0
 (	 data/source_txt/t5_economic_1_101.deft	 6510	 6511	 O	 -1	 -1	 0
 AFSCME	 data/source_txt/t5_economic_1_101.deft	 6511	 6517	 B-Definition	 T202	 T201	 Direct-Defines
 )	 data/source_txt/t5_economic_1_101.deft	 6517	 6518	 O	 -1	 -1	 0
@@ -1148,12 +1148,12 @@ illegal	 data/source_txt/t5_economic_1_101.deft	 7287	 7294	 O	 -1	 -1	 0
 For	 data/source_txt/t5_economic_1_101.deft	 7304	 7307	 O	 -1	 -1	 0
 example	 data/source_txt/t5_economic_1_101.deft	 7308	 7315	 O	 -1	 -1	 0
 ,	 data/source_txt/t5_economic_1_101.deft	 7315	 7316	 O	 -1	 -1	 0
-the	 data/source_txt/t5_economic_1_101.deft	 7317	 7320	 B-Term	 T30	 0	 Direct-Defines
-Equal	 data/source_txt/t5_economic_1_101.deft	 7321	 7326	 I-Term	 T30	 0	 Direct-Defines
-Pay	 data/source_txt/t5_economic_1_101.deft	 7327	 7330	 I-Term	 T30	 0	 Direct-Defines
-Act	 data/source_txt/t5_economic_1_101.deft	 7331	 7334	 I-Term	 T30	 0	 Direct-Defines
-of	 data/source_txt/t5_economic_1_101.deft	 7335	 7337	 I-Term	 T30	 0	 Direct-Defines
-1963	 data/source_txt/t5_economic_1_101.deft	 7338	 7342	 I-Term	 T30	 0	 Direct-Defines
+the	 data/source_txt/t5_economic_1_101.deft	 7317	 7320	 B-Term	 T30	 0	 0
+Equal	 data/source_txt/t5_economic_1_101.deft	 7321	 7326	 I-Term	 T30	 0	 0
+Pay	 data/source_txt/t5_economic_1_101.deft	 7327	 7330	 I-Term	 T30	 0	 0
+Act	 data/source_txt/t5_economic_1_101.deft	 7331	 7334	 I-Term	 T30	 0	 0
+of	 data/source_txt/t5_economic_1_101.deft	 7335	 7337	 I-Term	 T30	 0	 0
+1963	 data/source_txt/t5_economic_1_101.deft	 7338	 7342	 I-Term	 T30	 0	 0
 said	 data/source_txt/t5_economic_1_101.deft	 7343	 7347	 B-Definition	 T31	 T30	 Direct-Defines
 that	 data/source_txt/t5_economic_1_101.deft	 7348	 7352	 I-Definition	 T31	 T30	 Direct-Defines
 men	 data/source_txt/t5_economic_1_101.deft	 7353	 7356	 I-Definition	 T31	 T30	 Direct-Defines
@@ -1173,12 +1173,12 @@ the	 data/source_txt/t5_economic_1_101.deft	 7411	 7414	 I-Definition	 T31	 T30	
 same	 data/source_txt/t5_economic_1_101.deft	 7415	 7419	 I-Definition	 T31	 T30	 Direct-Defines
 .	 data/source_txt/t5_economic_1_101.deft	 7419	 7420	 O	 -1	 -1	 0
 
-The	 data/source_txt/t5_economic_1_101.deft	 7427	 7430	 B-Term	 T32	 0	 Direct-Defines
-Civil	 data/source_txt/t5_economic_1_101.deft	 7431	 7436	 I-Term	 T32	 0	 Direct-Defines
-Rights	 data/source_txt/t5_economic_1_101.deft	 7437	 7443	 I-Term	 T32	 0	 Direct-Defines
-Act	 data/source_txt/t5_economic_1_101.deft	 7444	 7447	 I-Term	 T32	 0	 Direct-Defines
-of	 data/source_txt/t5_economic_1_101.deft	 7448	 7450	 I-Term	 T32	 0	 Direct-Defines
-1964	 data/source_txt/t5_economic_1_101.deft	 7451	 7455	 I-Term	 T32	 0	 Direct-Defines
+The	 data/source_txt/t5_economic_1_101.deft	 7427	 7430	 B-Term	 T32	 0	 0
+Civil	 data/source_txt/t5_economic_1_101.deft	 7431	 7436	 I-Term	 T32	 0	 0
+Rights	 data/source_txt/t5_economic_1_101.deft	 7437	 7443	 I-Term	 T32	 0	 0
+Act	 data/source_txt/t5_economic_1_101.deft	 7444	 7447	 I-Term	 T32	 0	 0
+of	 data/source_txt/t5_economic_1_101.deft	 7448	 7450	 I-Term	 T32	 0	 0
+1964	 data/source_txt/t5_economic_1_101.deft	 7451	 7455	 I-Term	 T32	 0	 0
 prohibits	 data/source_txt/t5_economic_1_101.deft	 7456	 7465	 B-Definition	 T33	 T32	 Direct-Defines
 employment	 data/source_txt/t5_economic_1_101.deft	 7466	 7476	 I-Definition	 T33	 T32	 Direct-Defines
 discrimination	 data/source_txt/t5_economic_1_101.deft	 7477	 7491	 I-Definition	 T33	 T32	 Direct-Defines
@@ -1312,11 +1312,11 @@ transactions	 data/source_txt/t5_economic_1_101.deft	 8444	 8456	 O	 -1	 -1	 0
 are	 data/source_txt/t5_economic_1_101.deft	 8457	 8460	 O	 -1	 -1	 0
 made	 data/source_txt/t5_economic_1_101.deft	 8461	 8465	 O	 -1	 -1	 0
 in	 data/source_txt/t5_economic_1_101.deft	 8466	 8468	 O	 -1	 -1	 0
-a	 data/source_txt/t5_economic_1_101.deft	 8469	 8470	 B-Term	 T36	 0	 Direct-Defines
-situation	 data/source_txt/t5_economic_1_101.deft	 8471	 8480	 I-Term	 T36	 0	 Direct-Defines
-of	 data/source_txt/t5_economic_1_101.deft	 8481	 8483	 I-Term	 T36	 0	 Direct-Defines
-imperfect	 data/source_txt/t5_economic_1_101.deft	 8484	 8493	 I-Term	 T36	 0	 Direct-Defines
-information	 data/source_txt/t5_economic_1_101.deft	 8494	 8505	 I-Term	 T36	 0	 Direct-Defines
+a	 data/source_txt/t5_economic_1_101.deft	 8469	 8470	 B-Term	 T36	 0	 0
+situation	 data/source_txt/t5_economic_1_101.deft	 8471	 8480	 I-Term	 T36	 0	 0
+of	 data/source_txt/t5_economic_1_101.deft	 8481	 8483	 I-Term	 T36	 0	 0
+imperfect	 data/source_txt/t5_economic_1_101.deft	 8484	 8493	 I-Term	 T36	 0	 0
+information	 data/source_txt/t5_economic_1_101.deft	 8494	 8505	 I-Term	 T36	 0	 0
 ,	 data/source_txt/t5_economic_1_101.deft	 8505	 8506	 O	 -1	 -1	 0
 where	 data/source_txt/t5_economic_1_101.deft	 8507	 8512	 O	 -1	 -1	 0
 either	 data/source_txt/t5_economic_1_101.deft	 8513	 8519	 B-Definition	 T37	 T36	 Direct-Defines
@@ -1355,8 +1355,8 @@ may	 data/source_txt/t5_economic_1_101.deft	 8661	 8664	 O	 -1	 -1	 0
 be	 data/source_txt/t5_economic_1_101.deft	 8665	 8667	 O	 -1	 -1	 0
 characterized	 data/source_txt/t5_economic_1_101.deft	 8668	 8681	 O	 -1	 -1	 0
 by	 data/source_txt/t5_economic_1_101.deft	 8682	 8684	 O	 -1	 -1	 0
-asymmetric	 data/source_txt/t5_economic_1_101.deft	 8685	 8695	 B-Term	 T38	 0	 Direct-Defines
-information	 data/source_txt/t5_economic_1_101.deft	 8696	 8707	 I-Term	 T38	 0	 Direct-Defines
+asymmetric	 data/source_txt/t5_economic_1_101.deft	 8685	 8695	 B-Term	 T38	 0	 0
+information	 data/source_txt/t5_economic_1_101.deft	 8696	 8707	 I-Term	 T38	 0	 0
 ,	 data/source_txt/t5_economic_1_101.deft	 8707	 8708	 O	 -1	 -1	 0
 in	 data/source_txt/t5_economic_1_101.deft	 8709	 8711	 O	 -1	 -1	 0
 which	 data/source_txt/t5_economic_1_101.deft	 8712	 8717	 O	 -1	 -1	 0
@@ -1391,9 +1391,9 @@ sometimes	 data/source_txt/t5_economic_1_101.deft	 8861	 8870	 O	 -1	 -1	 0
 referred	 data/source_txt/t5_economic_1_101.deft	 8871	 8879	 O	 -1	 -1	 0
 to	 data/source_txt/t5_economic_1_101.deft	 8880	 8882	 O	 -1	 -1	 0
 as	 data/source_txt/t5_economic_1_101.deft	 8883	 8885	 O	 -1	 -1	 0
-a	 data/source_txt/t5_economic_1_101.deft	 8886	 8887	 B-Term	 T41	 0	 Direct-Defines
-thin	 data/source_txt/t5_economic_1_101.deft	 8888	 8892	 I-Term	 T41	 0	 Direct-Defines
-market	 data/source_txt/t5_economic_1_101.deft	 8893	 8899	 I-Term	 T41	 0	 Direct-Defines
+a	 data/source_txt/t5_economic_1_101.deft	 8886	 8887	 B-Term	 T41	 0	 0
+thin	 data/source_txt/t5_economic_1_101.deft	 8888	 8892	 I-Term	 T41	 0	 0
+market	 data/source_txt/t5_economic_1_101.deft	 8893	 8899	 I-Term	 T41	 0	 0
 .	 data/source_txt/t5_economic_1_101.deft	 8899	 8900	 O	 -1	 -1	 0
 
 By	 data/source_txt/t5_economic_1_101.deft	 8907	 8909	 O	 -1	 -1	 0
@@ -1408,9 +1408,9 @@ and	 data/source_txt/t5_economic_1_101.deft	 8946	 8949	 I-Definition	 T42	 T43	
 sellers	 data/source_txt/t5_economic_1_101.deft	 8950	 8957	 I-Definition	 T42	 T43	 Direct-Defines
 is	 data/source_txt/t5_economic_1_101.deft	 8958	 8960	 O	 -1	 -1	 0
 called	 data/source_txt/t5_economic_1_101.deft	 8961	 8967	 O	 -1	 -1	 0
-a	 data/source_txt/t5_economic_1_101.deft	 8968	 8969	 B-Term	 T43	 0	 Direct-Defines
-thick	 data/source_txt/t5_economic_1_101.deft	 8970	 8975	 I-Term	 T43	 0	 Direct-Defines
-market	 data/source_txt/t5_economic_1_101.deft	 8976	 8982	 I-Term	 T43	 0	 Direct-Defines
+a	 data/source_txt/t5_economic_1_101.deft	 8968	 8969	 B-Term	 T43	 0	 0
+thick	 data/source_txt/t5_economic_1_101.deft	 8970	 8975	 I-Term	 T43	 0	 0
+market	 data/source_txt/t5_economic_1_101.deft	 8976	 8982	 I-Term	 T43	 0	 0
 .	 data/source_txt/t5_economic_1_101.deft	 8982	 8983	 O	 -1	 -1	 0
 
 
@@ -1420,8 +1420,8 @@ market	 data/source_txt/t5_economic_1_101.deft	 8976	 8982	 I-Term	 T43	 0	 Dire
 Sellers	 data/source_txt/t5_economic_1_101.deft	 9323	 9330	 O	 -1	 -1	 0
 may	 data/source_txt/t5_economic_1_101.deft	 9331	 9334	 O	 -1	 -1	 0
 offer	 data/source_txt/t5_economic_1_101.deft	 9335	 9340	 O	 -1	 -1	 0
-a	 data/source_txt/t5_economic_1_101.deft	 9341	 9342	 B-Term	 T44	 0	 Direct-Defines
-warranty	 data/source_txt/t5_economic_1_101.deft	 9343	 9351	 I-Term	 T44	 0	 Direct-Defines
+a	 data/source_txt/t5_economic_1_101.deft	 9341	 9342	 B-Term	 T44	 0	 0
+warranty	 data/source_txt/t5_economic_1_101.deft	 9343	 9351	 I-Term	 T44	 0	 0
 ,	 data/source_txt/t5_economic_1_101.deft	 9351	 9352	 O	 -1	 -1	 0
 which	 data/source_txt/t5_economic_1_101.deft	 9353	 9358	 O	 -1	 -1	 0
 is	 data/source_txt/t5_economic_1_101.deft	 9359	 9361	 O	 -1	 -1	 0
@@ -1455,9 +1455,9 @@ a	 data/source_txt/t5_economic_1_101.deft	 9479	 9480	 O	 -1	 -1	 0
 chance	 data/source_txt/t5_economic_1_101.deft	 9481	 9487	 O	 -1	 -1	 0
 to	 data/source_txt/t5_economic_1_101.deft	 9488	 9490	 O	 -1	 -1	 0
 buy	 data/source_txt/t5_economic_1_101.deft	 9491	 9494	 O	 -1	 -1	 0
-a	 data/source_txt/t5_economic_1_101.deft	 9495	 9496	 B-Term	 T46	 0	 Direct-Defines
-service	 data/source_txt/t5_economic_1_101.deft	 9497	 9504	 I-Term	 T46	 0	 Direct-Defines
-contract	 data/source_txt/t5_economic_1_101.deft	 9505	 9513	 I-Term	 T46	 0	 Direct-Defines
+a	 data/source_txt/t5_economic_1_101.deft	 9495	 9496	 B-Term	 T46	 0	 0
+service	 data/source_txt/t5_economic_1_101.deft	 9497	 9504	 I-Term	 T46	 0	 0
+contract	 data/source_txt/t5_economic_1_101.deft	 9505	 9513	 I-Term	 T46	 0	 0
 ,	 data/source_txt/t5_economic_1_101.deft	 9513	 9514	 O	 -1	 -1	 0
 where	 data/source_txt/t5_economic_1_101.deft	 9515	 9520	 O	 -1	 -1	 0
 the	 data/source_txt/t5_economic_1_101.deft	 9521	 9524	 B-Definition	 T47	 T46	 Direct-Defines
@@ -1492,8 +1492,8 @@ approach	 data/source_txt/t5_economic_1_101.deft	 10103	 10111	 O	 -1	 -1	 0
 is	 data/source_txt/t5_economic_1_101.deft	 10112	 10114	 O	 -1	 -1	 0
 to	 data/source_txt/t5_economic_1_101.deft	 10115	 10117	 O	 -1	 -1	 0
 require	 data/source_txt/t5_economic_1_101.deft	 10118	 10125	 O	 -1	 -1	 0
-a	 data/source_txt/t5_economic_1_101.deft	 10126	 10127	 B-Term	 T48	 0	 Direct-Defines
-cosigner	 data/source_txt/t5_economic_1_101.deft	 10128	 10136	 I-Term	 T48	 0	 Direct-Defines
+a	 data/source_txt/t5_economic_1_101.deft	 10126	 10127	 B-Term	 T48	 0	 0
+cosigner	 data/source_txt/t5_economic_1_101.deft	 10128	 10136	 I-Term	 T48	 0	 0
 on	 data/source_txt/t5_economic_1_101.deft	 10137	 10139	 O	 -1	 -1	 0
 a	 data/source_txt/t5_economic_1_101.deft	 10140	 10141	 O	 -1	 -1	 0
 loan	 data/source_txt/t5_economic_1_101.deft	 10142	 10146	 O	 -1	 -1	 0
@@ -1532,7 +1532,7 @@ approach	 data/source_txt/t5_economic_1_101.deft	 10295	 10303	 O	 -1	 -1	 0
 is	 data/source_txt/t5_economic_1_101.deft	 10304	 10306	 O	 -1	 -1	 0
 to	 data/source_txt/t5_economic_1_101.deft	 10307	 10309	 O	 -1	 -1	 0
 require	 data/source_txt/t5_economic_1_101.deft	 10310	 10317	 O	 -1	 -1	 0
-collateral	 data/source_txt/t5_economic_1_101.deft	 10318	 10328	 B-Term	 T50	 0	 Direct-Defines
+collateral	 data/source_txt/t5_economic_1_101.deft	 10318	 10328	 B-Term	 T50	 0	 0
 ,	 data/source_txt/t5_economic_1_101.deft	 10328	 10329	 O	 -1	 -1	 0
 often	 data/source_txt/t5_economic_1_101.deft	 10330	 10335	 B-Definition	 T51	 T50	 Direct-Defines
 property	 data/source_txt/t5_economic_1_101.deft	 10336	 10344	 I-Definition	 T51	 T50	 Direct-Defines
@@ -1633,8 +1633,8 @@ up	 data/source_txt/t5_economic_1_101.deft	 10812	 10814	 O	 -1	 -1	 0
 4688	 data/source_txt/t5_economic_1_101.deft	 10819	 10823	 O	 -1	 -1	 0
 .	 data/source_txt/t5_economic_1_101.deft	 10823	 10824	 O	 -1	 -1	 0
 
-Deposit	 data/source_txt/t5_economic_1_101.deft	 10825	 10832	 B-Term	 T52	 0	 Direct-Defines
-insurance	 data/source_txt/t5_economic_1_101.deft	 10833	 10842	 I-Term	 T52	 0	 Direct-Defines
+Deposit	 data/source_txt/t5_economic_1_101.deft	 10825	 10832	 B-Term	 T52	 0	 0
+insurance	 data/source_txt/t5_economic_1_101.deft	 10833	 10842	 I-Term	 T52	 0	 0
 :	 data/source_txt/t5_economic_1_101.deft	 10842	 10843	 O	 -1	 -1	 0
 Banks	 data/source_txt/t5_economic_1_101.deft	 10844	 10849	 B-Definition	 T53	 T52	 Direct-Defines
 are	 data/source_txt/t5_economic_1_101.deft	 10850	 10853	 I-Definition	 T53	 T52	 Direct-Defines
@@ -1711,9 +1711,9 @@ than	 data/source_txt/t5_economic_1_101.deft	 11182	 11186	 O	 -1	 -1	 0
 others	 data/source_txt/t5_economic_1_101.deft	 11187	 11193	 O	 -1	 -1	 0
 .	 data/source_txt/t5_economic_1_101.deft	 11193	 11194	 O	 -1	 -1	 0
 
-A	 data/source_txt/t5_economic_1_101.deft	 11203	 11204	 B-Term	 T54	 0	 Direct-Defines
-risk	 data/source_txt/t5_economic_1_101.deft	 11205	 11209	 I-Term	 T54	 0	 Direct-Defines
-group	 data/source_txt/t5_economic_1_101.deft	 11210	 11215	 I-Term	 T54	 0	 Direct-Defines
+A	 data/source_txt/t5_economic_1_101.deft	 11203	 11204	 B-Term	 T54	 0	 0
+risk	 data/source_txt/t5_economic_1_101.deft	 11205	 11209	 I-Term	 T54	 0	 0
+group	 data/source_txt/t5_economic_1_101.deft	 11210	 11215	 I-Term	 T54	 0	 0
 can	 data/source_txt/t5_economic_1_101.deft	 11216	 11219	 O	 -1	 -1	 0
 be	 data/source_txt/t5_economic_1_101.deft	 11220	 11222	 O	 -1	 -1	 0
 defined	 data/source_txt/t5_economic_1_101.deft	 11223	 11230	 O	 -1	 -1	 0
@@ -1758,8 +1758,8 @@ insurance	 data/source_txt/t5_economic_1_101.deft	 11410	 11419	 O	 -1	 -1	 0
 policies	 data/source_txt/t5_economic_1_101.deft	 11420	 11428	 O	 -1	 -1	 0
 often	 data/source_txt/t5_economic_1_101.deft	 11429	 11434	 O	 -1	 -1	 0
 have	 data/source_txt/t5_economic_1_101.deft	 11435	 11439	 O	 -1	 -1	 0
-a	 data/source_txt/t5_economic_1_101.deft	 11440	 11441	 B-Term	 T56	 0	 Direct-Defines
-copayment	 data/source_txt/t5_economic_1_101.deft	 11442	 11451	 I-Term	 T56	 0	 Direct-Defines
+a	 data/source_txt/t5_economic_1_101.deft	 11440	 11441	 B-Term	 T56	 0	 0
+copayment	 data/source_txt/t5_economic_1_101.deft	 11442	 11451	 I-Term	 T56	 0	 0
 ,	 data/source_txt/t5_economic_1_101.deft	 11451	 11452	 O	 -1	 -1	 0
 in	 data/source_txt/t5_economic_1_101.deft	 11453	 11455	 O	 -1	 -1	 0
 which	 data/source_txt/t5_economic_1_101.deft	 11456	 11461	 O	 -1	 -1	 0
@@ -1804,7 +1804,7 @@ cost	 data/source_txt/t5_economic_1_101.deft	 11643	 11647	 O	 -1	 -1	 0
 -	 data/source_txt/t5_economic_1_101.deft	 11647	 11648	 O	 -1	 -1	 0
 sharing	 data/source_txt/t5_economic_1_101.deft	 11648	 11655	 O	 -1	 -1	 0
 is	 data/source_txt/t5_economic_1_101.deft	 11656	 11658	 O	 -1	 -1	 0
-coinsurance	 data/source_txt/t5_economic_1_101.deft	 11659	 11670	 B-Term	 T58	 0	 Direct-Defines
+coinsurance	 data/source_txt/t5_economic_1_101.deft	 11659	 11670	 B-Term	 T58	 0	 0
 ,	 data/source_txt/t5_economic_1_101.deft	 11670	 11671	 O	 -1	 -1	 0
 which	 data/source_txt/t5_economic_1_101.deft	 11672	 11677	 O	 -1	 -1	 0
 means	 data/source_txt/t5_economic_1_101.deft	 11678	 11683	 O	 -1	 -1	 0
@@ -1853,10 +1853,10 @@ HMOs	 data/source_txt/t5_economic_1_101.deft	 11898	 11902	 O	 -1	 -1	 0
 )	 data/source_txt/t5_economic_1_101.deft	 11902	 11903	 O	 -1	 -1	 0
 .	 data/source_txt/t5_economic_1_101.deft	 11903	 11904	 O	 -1	 -1	 0
 
-A	 data/source_txt/t5_economic_1_101.deft	 11913	 11914	 B-Term	 T60	 0	 Direct-Defines
-health	 data/source_txt/t5_economic_1_101.deft	 11915	 11921	 I-Term	 T60	 0	 Direct-Defines
-maintenance	 data/source_txt/t5_economic_1_101.deft	 11922	 11933	 I-Term	 T60	 0	 Direct-Defines
-organization	 data/source_txt/t5_economic_1_101.deft	 11934	 11946	 I-Term	 T60	 0	 Direct-Defines
+A	 data/source_txt/t5_economic_1_101.deft	 11913	 11914	 B-Term	 T60	 0	 0
+health	 data/source_txt/t5_economic_1_101.deft	 11915	 11921	 I-Term	 T60	 0	 0
+maintenance	 data/source_txt/t5_economic_1_101.deft	 11922	 11933	 I-Term	 T60	 0	 0
+organization	 data/source_txt/t5_economic_1_101.deft	 11934	 11946	 I-Term	 T60	 0	 0
 (	 data/source_txt/t5_economic_1_101.deft	 11947	 11948	 O	 -1	 -1	 0
 HMO	 data/source_txt/t5_economic_1_101.deft	 11948	 11951	 B-Alias-Term	 T61	 T60	 AKA
 )	 data/source_txt/t5_economic_1_101.deft	 11951	 11952	 O	 -1	 -1	 0
@@ -1974,10 +1974,10 @@ rate	 data/source_txt/t5_economic_1_101.deft	 12929	 12933	 O	 -1	 -1	 0
 (	 data/source_txt/t5_economic_1_101.deft	 12943	 12944	 O	 -1	 -1	 0
 Source	 data/source_txt/t5_economic_1_101.deft	 12944	 12950	 O	 -1	 -1	 0
 :	 data/source_txt/t5_economic_1_101.deft	 12950	 12951	 O	 -1	 -1	 0
-Federal	 data/source_txt/t5_economic_1_101.deft	 12952	 12959	 B-Term	 T205	 0	 AKA
-Reserve	 data/source_txt/t5_economic_1_101.deft	 12960	 12967	 I-Term	 T205	 0	 AKA
-Economic	 data/source_txt/t5_economic_1_101.deft	 12968	 12976	 I-Term	 T205	 0	 AKA
-Data	 data/source_txt/t5_economic_1_101.deft	 12977	 12981	 I-Term	 T205	 0	 AKA
+Federal	 data/source_txt/t5_economic_1_101.deft	 12952	 12959	 B-Term	 T205	 0	 0
+Reserve	 data/source_txt/t5_economic_1_101.deft	 12960	 12967	 I-Term	 T205	 0	 0
+Economic	 data/source_txt/t5_economic_1_101.deft	 12968	 12976	 I-Term	 T205	 0	 0
+Data	 data/source_txt/t5_economic_1_101.deft	 12977	 12981	 I-Term	 T205	 0	 0
 (	 data/source_txt/t5_economic_1_101.deft	 12982	 12983	 O	 -1	 -1	 0
 FRED	 data/source_txt/t5_economic_1_101.deft	 12983	 12987	 B-Alias-Term	 T206	 T205	 AKA
 )	 data/source_txt/t5_economic_1_101.deft	 12987	 12988	 O	 -1	 -1	 0
@@ -2001,9 +2001,9 @@ billion	 data/source_txt/t5_economic_1_101.deft	 13115	 13122	 O	 -1	 -1	 0
 4706	 data/source_txt/t5_economic_1_101.deft	 13127	 13131	 O	 -1	 -1	 0
 .	 data/source_txt/t5_economic_1_101.deft	 13131	 13132	 O	 -1	 -1	 0
 
-Venture	 data/source_txt/t5_economic_1_101.deft	 13142	 13149	 B-Term	 T65	 0	 Direct-Defines
-capital	 data/source_txt/t5_economic_1_101.deft	 13150	 13157	 I-Term	 T65	 0	 Direct-Defines
-firms	 data/source_txt/t5_economic_1_101.deft	 13158	 13163	 I-Term	 T65	 0	 Direct-Defines
+Venture	 data/source_txt/t5_economic_1_101.deft	 13142	 13149	 B-Term	 T65	 0	 0
+capital	 data/source_txt/t5_economic_1_101.deft	 13150	 13157	 I-Term	 T65	 0	 0
+firms	 data/source_txt/t5_economic_1_101.deft	 13158	 13163	 I-Term	 T65	 0	 0
 make	 data/source_txt/t5_economic_1_101.deft	 13164	 13168	 B-Definition	 T66	 T65	 Direct-Defines
 financial	 data/source_txt/t5_economic_1_101.deft	 13169	 13178	 I-Definition	 T66	 T65	 Direct-Defines
 investments	 data/source_txt/t5_economic_1_101.deft	 13179	 13190	 I-Definition	 T66	 T65	 Direct-Defines
@@ -2065,8 +2065,8 @@ funds	 data/source_txt/t5_economic_1_101.deft	 13511	 13516	 O	 -1	 -1	 0
 4712	 data/source_txt/t5_economic_1_101.deft	 13936	 13940	 O	 -1	 -1	 0
 .	 data/source_txt/t5_economic_1_101.deft	 13940	 13941	 O	 -1	 -1	 0
 
-A	 data/source_txt/t5_economic_1_101.deft	 13951	 13952	 B-Term	 T73	 0	 Direct-Defines
-corporation	 data/source_txt/t5_economic_1_101.deft	 13953	 13964	 I-Term	 T73	 0	 Direct-Defines
+A	 data/source_txt/t5_economic_1_101.deft	 13951	 13952	 B-Term	 T73	 0	 0
+corporation	 data/source_txt/t5_economic_1_101.deft	 13953	 13964	 I-Term	 T73	 0	 0
 is	 data/source_txt/t5_economic_1_101.deft	 13965	 13967	 O	 -1	 -1	 0
 a	 data/source_txt/t5_economic_1_101.deft	 13968	 13969	 B-Definition	 T74	 T73	 Direct-Defines
 business	 data/source_txt/t5_economic_1_101.deft	 13970	 13978	 I-Definition	 T74	 T73	 Direct-Defines
@@ -2125,7 +2125,7 @@ traded	 data/source_txt/t5_economic_1_101.deft	 14216	 14222	 O	 -1	 -1	 0
 4715	 data/source_txt/t5_economic_1_101.deft	 14227	 14231	 O	 -1	 -1	 0
 .	 data/source_txt/t5_economic_1_101.deft	 14231	 14232	 O	 -1	 -1	 0
 
-Stock	 data/source_txt/t5_economic_1_101.deft	 14233	 14238	 B-Term	 T75	 0	 Direct-Defines
+Stock	 data/source_txt/t5_economic_1_101.deft	 14233	 14238	 B-Term	 T75	 0	 0
 represents	 data/source_txt/t5_economic_1_101.deft	 14239	 14249	 B-Definition	 T76	 T75	 Direct-Defines
 ownership	 data/source_txt/t5_economic_1_101.deft	 14250	 14259	 I-Definition	 T76	 T75	 Direct-Defines
 of	 data/source_txt/t5_economic_1_101.deft	 14260	 14262	 I-Definition	 T76	 T75	 Direct-Defines
@@ -2164,7 +2164,7 @@ company	 data/source_txt/t5_economic_1_101.deft	 14388	 14395	 I-Definition	 T77
 is	 data/source_txt/t5_economic_1_101.deft	 14396	 14398	 I-Definition	 T77	 T78	 Direct-Defines
 divided	 data/source_txt/t5_economic_1_101.deft	 14399	 14406	 I-Definition	 T77	 T78	 Direct-Defines
 into	 data/source_txt/t5_economic_1_101.deft	 14407	 14411	 I-Definition	 T77	 T78	 Direct-Defines
-shares	 data/source_txt/t5_economic_1_101.deft	 14412	 14418	 B-Term	 T78	 0	 Direct-Defines
+shares	 data/source_txt/t5_economic_1_101.deft	 14412	 14418	 B-Term	 T78	 0	 0
 .	 data/source_txt/t5_economic_1_101.deft	 14418	 14419	 O	 -1	 -1	 0
 
 Corporate	 data/source_txt/t5_economic_1_101.deft	 14426	 14435	 O	 -1	 -1	 0
@@ -2265,9 +2265,9 @@ is	 data/source_txt/t5_economic_1_101.deft	 14828	 14830	 I-Definition	 T79	 T80
 sold	 data/source_txt/t5_economic_1_101.deft	 14831	 14835	 I-Definition	 T79	 T80	 Direct-Defines
 is	 data/source_txt/t5_economic_1_101.deft	 14836	 14838	 O	 -1	 -1	 0
 called	 data/source_txt/t5_economic_1_101.deft	 14839	 14845	 O	 -1	 -1	 0
-a	 data/source_txt/t5_economic_1_101.deft	 14846	 14847	 B-Term	 T80	 0	 Direct-Defines
-capital	 data/source_txt/t5_economic_1_101.deft	 14848	 14855	 I-Term	 T80	 0	 Direct-Defines
-gain	 data/source_txt/t5_economic_1_101.deft	 14856	 14860	 I-Term	 T80	 0	 Direct-Defines
+a	 data/source_txt/t5_economic_1_101.deft	 14846	 14847	 B-Term	 T80	 0	 0
+capital	 data/source_txt/t5_economic_1_101.deft	 14848	 14855	 I-Term	 T80	 0	 0
+gain	 data/source_txt/t5_economic_1_101.deft	 14856	 14860	 I-Term	 T80	 0	 0
 .	 data/source_txt/t5_economic_1_101.deft	 14860	 14861	 O	 -1	 -1	 0
 
 
@@ -2364,9 +2364,9 @@ investors	 data/source_txt/t5_economic_1_101.deft	 15320	 15329	 I-Definition	 T
 it	 data/source_txt/t5_economic_1_101.deft	 15331	 15333	 O	 -1	 -1	 0
 is	 data/source_txt/t5_economic_1_101.deft	 15334	 15336	 O	 -1	 -1	 0
 called	 data/source_txt/t5_economic_1_101.deft	 15337	 15343	 O	 -1	 -1	 0
-a	 data/source_txt/t5_economic_1_101.deft	 15344	 15345	 B-Term	 T82	 0	 Direct-Defines
-public	 data/source_txt/t5_economic_1_101.deft	 15346	 15352	 I-Term	 T82	 0	 Direct-Defines
-company	 data/source_txt/t5_economic_1_101.deft	 15353	 15360	 I-Term	 T82	 0	 Direct-Defines
+a	 data/source_txt/t5_economic_1_101.deft	 15344	 15345	 B-Term	 T82	 0	 0
+public	 data/source_txt/t5_economic_1_101.deft	 15346	 15352	 I-Term	 T82	 0	 0
+company	 data/source_txt/t5_economic_1_101.deft	 15353	 15360	 I-Term	 T82	 0	 0
 .	 data/source_txt/t5_economic_1_101.deft	 15360	 15361	 O	 -1	 -1	 0
 
 Shareholders	 data/source_txt/t5_economic_1_101.deft	 15368	 15380	 O	 -1	 -1	 0
@@ -2380,11 +2380,11 @@ company	 data/source_txt/t5_economic_1_101.deft	 15394	 15401	 O	 -1	 -1	 0
 4724	 data/source_txt/t5_economic_1_101.deft	 15406	 15410	 O	 -1	 -1	 0
 .	 data/source_txt/t5_economic_1_101.deft	 15410	 15411	 O	 -1	 -1	 0
 
-The	 data/source_txt/t5_economic_1_101.deft	 15420	 15423	 B-Term	 T83	 0	 Direct-Defines
-expected	 data/source_txt/t5_economic_1_101.deft	 15424	 15432	 I-Term	 T83	 0	 Direct-Defines
-rate	 data/source_txt/t5_economic_1_101.deft	 15433	 15437	 I-Term	 T83	 0	 Direct-Defines
-of	 data/source_txt/t5_economic_1_101.deft	 15438	 15440	 I-Term	 T83	 0	 Direct-Defines
-return	 data/source_txt/t5_economic_1_101.deft	 15441	 15447	 I-Term	 T83	 0	 Direct-Defines
+The	 data/source_txt/t5_economic_1_101.deft	 15420	 15423	 B-Term	 T83	 0	 0
+expected	 data/source_txt/t5_economic_1_101.deft	 15424	 15432	 I-Term	 T83	 0	 0
+rate	 data/source_txt/t5_economic_1_101.deft	 15433	 15437	 I-Term	 T83	 0	 0
+of	 data/source_txt/t5_economic_1_101.deft	 15438	 15440	 I-Term	 T83	 0	 0
+return	 data/source_txt/t5_economic_1_101.deft	 15441	 15447	 I-Term	 T83	 0	 0
 refers	 data/source_txt/t5_economic_1_101.deft	 15448	 15454	 O	 -1	 -1	 0
 to	 data/source_txt/t5_economic_1_101.deft	 15455	 15457	 O	 -1	 -1	 0
 how	 data/source_txt/t5_economic_1_101.deft	 15458	 15461	 B-Definition	 T84	 T83	 Direct-Defines
@@ -2451,10 +2451,10 @@ bank	 data/source_txt/t5_economic_1_101.deft	 16299	 16303	 O	 -1	 -1	 0
 is	 data/source_txt/t5_economic_1_101.deft	 16304	 16306	 O	 -1	 -1	 0
 to	 data/source_txt/t5_economic_1_101.deft	 16307	 16309	 O	 -1	 -1	 0
 use	 data/source_txt/t5_economic_1_101.deft	 16310	 16313	 O	 -1	 -1	 0
-a	 data/source_txt/t5_economic_1_101.deft	 16314	 16315	 B-Term	 T89	 0	 Direct-Defines
-certificate	 data/source_txt/t5_economic_1_101.deft	 16316	 16327	 I-Term	 T89	 0	 Direct-Defines
-of	 data/source_txt/t5_economic_1_101.deft	 16328	 16330	 I-Term	 T89	 0	 Direct-Defines
-deposit	 data/source_txt/t5_economic_1_101.deft	 16331	 16338	 I-Term	 T89	 0	 Direct-Defines
+a	 data/source_txt/t5_economic_1_101.deft	 16314	 16315	 B-Term	 T89	 0	 0
+certificate	 data/source_txt/t5_economic_1_101.deft	 16316	 16327	 I-Term	 T89	 0	 0
+of	 data/source_txt/t5_economic_1_101.deft	 16328	 16330	 I-Term	 T89	 0	 0
+deposit	 data/source_txt/t5_economic_1_101.deft	 16331	 16338	 I-Term	 T89	 0	 0
 (	 data/source_txt/t5_economic_1_101.deft	 16339	 16340	 O	 -1	 -1	 0
 CD	 data/source_txt/t5_economic_1_101.deft	 16340	 16342	 B-Alias-Term	 T90	 T89	 AKA
 )	 data/source_txt/t5_economic_1_101.deft	 16342	 16343	 O	 -1	 -1	 0
@@ -2541,12 +2541,12 @@ money	 data/source_txt/t5_economic_1_101.deft	 16677	 16682	 O	 -1	 -1	 0
 The	 data/source_txt/t5_economic_1_101.deft	 16693	 16696	 O	 -1	 -1	 0
 bond	 data/source_txt/t5_economic_1_101.deft	 16697	 16701	 O	 -1	 -1	 0
 has	 data/source_txt/t5_economic_1_101.deft	 16702	 16705	 O	 -1	 -1	 0
-a	 data/source_txt/t5_economic_1_101.deft	 16706	 16707	 B-Term	 T92	 0	 Refers-To
-face	 data/source_txt/t5_economic_1_101.deft	 16708	 16712	 I-Term	 T92	 0	 Refers-To
-value	 data/source_txt/t5_economic_1_101.deft	 16713	 16718	 I-Term	 T92	 0	 Refers-To
+a	 data/source_txt/t5_economic_1_101.deft	 16706	 16707	 B-Term	 T92	 0	 0
+face	 data/source_txt/t5_economic_1_101.deft	 16708	 16712	 I-Term	 T92	 0	 0
+value	 data/source_txt/t5_economic_1_101.deft	 16713	 16718	 I-Term	 T92	 0	 0
 .	 data/source_txt/t5_economic_1_101.deft	 16718	 16719	 O	 -1	 -1	 0
 
-This	 data/source_txt/t5_economic_1_101.deft	 16726	 16730	 B-Referential-Term	 T93	 0	 Indirect-Defines
+This	 data/source_txt/t5_economic_1_101.deft	 16726	 16730	 B-Referential-Term	 T93	 T92	 Refers-To
 is	 data/source_txt/t5_economic_1_101.deft	 16731	 16733	 O	 -1	 -1	 0
 the	 data/source_txt/t5_economic_1_101.deft	 16734	 16737	 B-Definition	 T94	 T93	 Indirect-Defines
 amount	 data/source_txt/t5_economic_1_101.deft	 16738	 16744	 I-Definition	 T94	 T93	 Indirect-Defines
@@ -2568,9 +2568,9 @@ maturity	 data/source_txt/t5_economic_1_101.deft	 16788	 16796	 I-Definition	 T9
 The	 data/source_txt/t5_economic_1_101.deft	 16807	 16810	 O	 -1	 -1	 0
 bond	 data/source_txt/t5_economic_1_101.deft	 16811	 16815	 O	 -1	 -1	 0
 has	 data/source_txt/t5_economic_1_101.deft	 16816	 16819	 O	 -1	 -1	 0
-a	 data/source_txt/t5_economic_1_101.deft	 16820	 16821	 B-Term	 T95	 0	 Direct-Defines
-maturity	 data/source_txt/t5_economic_1_101.deft	 16822	 16830	 I-Term	 T95	 0	 Direct-Defines
-date	 data/source_txt/t5_economic_1_101.deft	 16831	 16835	 I-Term	 T95	 0	 Direct-Defines
+a	 data/source_txt/t5_economic_1_101.deft	 16820	 16821	 B-Term	 T95	 0	 0
+maturity	 data/source_txt/t5_economic_1_101.deft	 16822	 16830	 I-Term	 T95	 0	 0
+date	 data/source_txt/t5_economic_1_101.deft	 16831	 16835	 I-Term	 T95	 0	 0
 when	 data/source_txt/t5_economic_1_101.deft	 16836	 16840	 B-Definition	 T96	 T95	 Direct-Defines
 the	 data/source_txt/t5_economic_1_101.deft	 16841	 16844	 I-Definition	 T96	 T95	 Direct-Defines
 borrower	 data/source_txt/t5_economic_1_101.deft	 16845	 16853	 I-Definition	 T96	 T95	 Direct-Defines
@@ -2613,11 +2613,11 @@ a	 data/source_txt/t5_economic_1_101.deft	 17030	 17031	 O	 -1	 -1	 0
 buyer	 data/source_txt/t5_economic_1_101.deft	 17032	 17037	 O	 -1	 -1	 0
 to	 data/source_txt/t5_economic_1_101.deft	 17038	 17040	 O	 -1	 -1	 0
 compute	 data/source_txt/t5_economic_1_101.deft	 17041	 17048	 O	 -1	 -1	 0
-a	 data/source_txt/t5_economic_1_101.deft	 17049	 17050	 B-Term	 T97	 0	 Direct-Defines
-bond	 data/source_txt/t5_economic_1_101.deft	 17051	 17055	 I-Term	 T97	 0	 Direct-Defines
-’s	 data/source_txt/t5_economic_1_101.deft	 17055	 17057	 I-Term	 T97	 0	 Direct-Defines
-present	 data/source_txt/t5_economic_1_101.deft	 17058	 17065	 I-Term	 T97	 0	 Direct-Defines
-value	 data/source_txt/t5_economic_1_101.deft	 17066	 17071	 I-Term	 T97	 0	 Direct-Defines
+a	 data/source_txt/t5_economic_1_101.deft	 17049	 17050	 B-Term	 T97	 0	 0
+bond	 data/source_txt/t5_economic_1_101.deft	 17051	 17055	 I-Term	 T97	 0	 0
+’s	 data/source_txt/t5_economic_1_101.deft	 17055	 17057	 I-Term	 T97	 0	 0
+present	 data/source_txt/t5_economic_1_101.deft	 17058	 17065	 I-Term	 T97	 0	 0
+value	 data/source_txt/t5_economic_1_101.deft	 17066	 17071	 I-Term	 T97	 0	 0
 ,	 data/source_txt/t5_economic_1_101.deft	 17071	 17072	 O	 -1	 -1	 0
 which	 data/source_txt/t5_economic_1_101.deft	 17073	 17078	 O	 -1	 -1	 0
 is	 data/source_txt/t5_economic_1_101.deft	 17079	 17081	 O	 -1	 -1	 0
@@ -2816,17 +2816,17 @@ the	 data/source_txt/t5_economic_1_101.deft	 17932	 17935	 I-Definition	 T99	 T1
 market	 data/source_txt/t5_economic_1_101.deft	 17936	 17942	 I-Definition	 T99	 T100	 Direct-Defines
 is	 data/source_txt/t5_economic_1_101.deft	 17943	 17945	 O	 -1	 -1	 0
 called	 data/source_txt/t5_economic_1_101.deft	 17946	 17952	 O	 -1	 -1	 0
-an	 data/source_txt/t5_economic_1_101.deft	 17953	 17955	 B-Term	 T100	 0	 Direct-Defines
-index	 data/source_txt/t5_economic_1_101.deft	 17956	 17961	 I-Term	 T100	 0	 Direct-Defines
-fund	 data/source_txt/t5_economic_1_101.deft	 17962	 17966	 I-Term	 T100	 0	 Direct-Defines
+an	 data/source_txt/t5_economic_1_101.deft	 17953	 17955	 B-Term	 T100	 0	 0
+index	 data/source_txt/t5_economic_1_101.deft	 17956	 17961	 I-Term	 T100	 0	 0
+fund	 data/source_txt/t5_economic_1_101.deft	 17962	 17966	 I-Term	 T100	 0	 0
 .	 data/source_txt/t5_economic_1_101.deft	 17966	 17967	 O	 -1	 -1	 0
 
 
 4745	 data/source_txt/t5_economic_1_101.deft	 17977	 17981	 O	 -1	 -1	 0
 .	 data/source_txt/t5_economic_1_101.deft	 17981	 17982	 O	 -1	 -1	 0
 
-Simple	 data/source_txt/t5_economic_1_101.deft	 17983	 17989	 B-Term	 T101	 0	 Direct-Defines
-interest	 data/source_txt/t5_economic_1_101.deft	 17990	 17998	 I-Term	 T101	 0	 Direct-Defines
+Simple	 data/source_txt/t5_economic_1_101.deft	 17983	 17989	 B-Term	 T101	 0	 0
+interest	 data/source_txt/t5_economic_1_101.deft	 17990	 17998	 I-Term	 T101	 0	 0
 is	 data/source_txt/t5_economic_1_101.deft	 17999	 18001	 O	 -1	 -1	 0
 an	 data/source_txt/t5_economic_1_101.deft	 18002	 18004	 B-Definition	 T102	 T101	 Direct-Defines
 interest	 data/source_txt/t5_economic_1_101.deft	 18005	 18013	 I-Definition	 T102	 T101	 Direct-Defines
@@ -2843,9 +2843,9 @@ amount	 data/source_txt/t5_economic_1_101.deft	 18053	 18059	 I-Definition	 T102
 4748	 data/source_txt/t5_economic_1_101.deft	 18064	 18068	 O	 -1	 -1	 0
 .	 data/source_txt/t5_economic_1_101.deft	 18068	 18069	 O	 -1	 -1	 0
 
-A	 data/source_txt/t5_economic_1_101.deft	 18070	 18071	 B-Term	 T103	 0	 Direct-Defines
-rational	 data/source_txt/t5_economic_1_101.deft	 18072	 18080	 I-Term	 T103	 0	 Direct-Defines
-voter	 data/source_txt/t5_economic_1_101.deft	 18081	 18086	 I-Term	 T103	 0	 Direct-Defines
+A	 data/source_txt/t5_economic_1_101.deft	 18070	 18071	 B-Term	 T103	 0	 0
+rational	 data/source_txt/t5_economic_1_101.deft	 18072	 18080	 I-Term	 T103	 0	 0
+voter	 data/source_txt/t5_economic_1_101.deft	 18081	 18086	 I-Term	 T103	 0	 0
 will	 data/source_txt/t5_economic_1_101.deft	 18087	 18091	 B-Definition	 T104	 T103	 Direct-Defines
 recognize	 data/source_txt/t5_economic_1_101.deft	 18092	 18101	 I-Definition	 T104	 T103	 Direct-Defines
 that	 data/source_txt/t5_economic_1_101.deft	 18102	 18106	 I-Definition	 T104	 T103	 Direct-Defines
@@ -2861,10 +2861,10 @@ difference	 data/source_txt/t5_economic_1_101.deft	 18148	 18158	 I-Definition	 
 .	 data/source_txt/t5_economic_1_101.deft	 18158	 18159	 O	 -1	 -1	 0
 
 This	 data/source_txt/t5_economic_1_101.deft	 18168	 18172	 O	 -1	 -1	 0
-theory	 data/source_txt/t5_economic_1_101.deft	 18173	 18179	 B-Term	 T105	 0	 Direct-Defines
-of	 data/source_txt/t5_economic_1_101.deft	 18180	 18182	 I-Term	 T105	 0	 Direct-Defines
-rational	 data/source_txt/t5_economic_1_101.deft	 18183	 18191	 I-Term	 T105	 0	 Direct-Defines
-ignorance	 data/source_txt/t5_economic_1_101.deft	 18192	 18201	 I-Term	 T105	 0	 Direct-Defines
+theory	 data/source_txt/t5_economic_1_101.deft	 18173	 18179	 B-Term	 T105	 0	 0
+of	 data/source_txt/t5_economic_1_101.deft	 18180	 18182	 I-Term	 T105	 0	 0
+rational	 data/source_txt/t5_economic_1_101.deft	 18183	 18191	 I-Term	 T105	 0	 0
+ignorance	 data/source_txt/t5_economic_1_101.deft	 18192	 18201	 I-Term	 T105	 0	 0
 holds	 data/source_txt/t5_economic_1_101.deft	 18202	 18207	 B-Definition	 T106	 T105	 Direct-Defines
 that	 data/source_txt/t5_economic_1_101.deft	 18208	 18212	 I-Definition	 T106	 T105	 Direct-Defines
 people	 data/source_txt/t5_economic_1_101.deft	 18213	 18219	 I-Definition	 T106	 T105	 Direct-Defines
@@ -3117,9 +3117,9 @@ tariff	 data/source_txt/t5_economic_1_101.deft	 19451	 19457	 O	 -1	 -1	 0
 .	 data/source_txt/t5_economic_1_101.deft	 19457	 19458	 O	 -1	 -1	 0
 
 )	 data/source_txt/t5_economic_1_101.deft	 19467	 19468	 O	 -1	 -1	 0
-Special	 data/source_txt/t5_economic_1_101.deft	 19468	 19475	 B-Term	 T107	 0	 Direct-Defines
-interest	 data/source_txt/t5_economic_1_101.deft	 19476	 19484	 I-Term	 T107	 0	 Direct-Defines
-groups	 data/source_txt/t5_economic_1_101.deft	 19485	 19491	 I-Term	 T107	 0	 Direct-Defines
+Special	 data/source_txt/t5_economic_1_101.deft	 19468	 19475	 B-Term	 T107	 0	 0
+interest	 data/source_txt/t5_economic_1_101.deft	 19476	 19484	 I-Term	 T107	 0	 0
+groups	 data/source_txt/t5_economic_1_101.deft	 19485	 19491	 I-Term	 T107	 0	 0
 are	 data/source_txt/t5_economic_1_101.deft	 19492	 19495	 O	 -1	 -1	 0
 groups	 data/source_txt/t5_economic_1_101.deft	 19496	 19502	 B-Definition	 T108	 T107	 Direct-Defines
 that	 data/source_txt/t5_economic_1_101.deft	 19503	 19507	 I-Definition	 T108	 T107	 Direct-Defines
@@ -3185,7 +3185,7 @@ States	 data/source_txt/t5_economic_1_101.deft	 19806	 19812	 O	 -1	 -1	 0
 were	 data/source_txt/t5_economic_1_101.deft	 19813	 19817	 O	 -1	 -1	 0
 eligible	 data/source_txt/t5_economic_1_101.deft	 19818	 19826	 O	 -1	 -1	 0
 for	 data/source_txt/t5_economic_1_101.deft	 19827	 19830	 O	 -1	 -1	 0
-Medicare	 data/source_txt/t5_economic_1_101.deft	 19831	 19839	 B-Term	 T109	 0	 Direct-Defines
+Medicare	 data/source_txt/t5_economic_1_101.deft	 19831	 19839	 B-Term	 T109	 0	 0
 ,	 data/source_txt/t5_economic_1_101.deft	 19839	 19840	 O	 -1	 -1	 0
 a	 data/source_txt/t5_economic_1_101.deft	 19841	 19842	 B-Definition	 T110	 T109	 Direct-Defines
 government	 data/source_txt/t5_economic_1_101.deft	 19843	 19853	 I-Definition	 T110	 T109	 Direct-Defines
@@ -3226,9 +3226,9 @@ passage	 data/source_txt/t5_economic_1_101.deft	 20010	 20017	 O	 -1	 -1	 0
 of	 data/source_txt/t5_economic_1_101.deft	 20018	 20020	 O	 -1	 -1	 0
 the	 data/source_txt/t5_economic_1_101.deft	 20021	 20024	 O	 -1	 -1	 0
 2010	 data/source_txt/t5_economic_1_101.deft	 20025	 20029	 O	 -1	 -1	 0
-Affordable	 data/source_txt/t5_economic_1_101.deft	 20030	 20040	 B-Term	 T207	 0	 AKA
-Care	 data/source_txt/t5_economic_1_101.deft	 20041	 20045	 I-Term	 T207	 0	 AKA
-Act	 data/source_txt/t5_economic_1_101.deft	 20046	 20049	 I-Term	 T207	 0	 AKA
+Affordable	 data/source_txt/t5_economic_1_101.deft	 20030	 20040	 B-Term	 T207	 0	 0
+Care	 data/source_txt/t5_economic_1_101.deft	 20041	 20045	 I-Term	 T207	 0	 0
+Act	 data/source_txt/t5_economic_1_101.deft	 20046	 20049	 I-Term	 T207	 0	 0
 (	 data/source_txt/t5_economic_1_101.deft	 20050	 20051	 O	 -1	 -1	 0
 ACA	 data/source_txt/t5_economic_1_101.deft	 20051	 20054	 B-Alias-Term	 T208	 T207	 AKA
 )	 data/source_txt/t5_economic_1_101.deft	 20054	 20055	 O	 -1	 -1	 0
@@ -3262,11 +3262,11 @@ a	 data/source_txt/t5_economic_1_101.deft	 20200	 20201	 O	 -1	 -1	 0
 lobby	 data/source_txt/t5_economic_1_101.deft	 20202	 20207	 O	 -1	 -1	 0
 group	 data/source_txt/t5_economic_1_101.deft	 20208	 20213	 O	 -1	 -1	 0
 ,	 data/source_txt/t5_economic_1_101.deft	 20213	 20214	 O	 -1	 -1	 0
-Health	 data/source_txt/t5_economic_1_101.deft	 20215	 20221	 B-Term	 T209	 0	 AKA
-Care	 data/source_txt/t5_economic_1_101.deft	 20222	 20226	 I-Term	 T209	 0	 AKA
-for	 data/source_txt/t5_economic_1_101.deft	 20227	 20230	 I-Term	 T209	 0	 AKA
-America	 data/source_txt/t5_economic_1_101.deft	 20231	 20238	 I-Term	 T209	 0	 AKA
-Now	 data/source_txt/t5_economic_1_101.deft	 20239	 20242	 I-Term	 T209	 0	 AKA
+Health	 data/source_txt/t5_economic_1_101.deft	 20215	 20221	 B-Term	 T209	 0	 0
+Care	 data/source_txt/t5_economic_1_101.deft	 20222	 20226	 I-Term	 T209	 0	 0
+for	 data/source_txt/t5_economic_1_101.deft	 20227	 20230	 I-Term	 T209	 0	 0
+America	 data/source_txt/t5_economic_1_101.deft	 20231	 20238	 I-Term	 T209	 0	 0
+Now	 data/source_txt/t5_economic_1_101.deft	 20239	 20242	 I-Term	 T209	 0	 0
 (	 data/source_txt/t5_economic_1_101.deft	 20243	 20244	 O	 -1	 -1	 0
 HCAN	 data/source_txt/t5_economic_1_101.deft	 20244	 20248	 B-Alias-Term	 T210	 T209	 AKA
 )	 data/source_txt/t5_economic_1_101.deft	 20248	 20249	 O	 -1	 -1	 0
@@ -3336,10 +3336,10 @@ watchdog	 data/source_txt/t5_economic_1_101.deft	 20592	 20600	 I-Definition	 T1
 organization	 data/source_txt/t5_economic_1_101.deft	 20601	 20613	 I-Definition	 T111	 T112	 Direct-Defines
 ,	 data/source_txt/t5_economic_1_101.deft	 20613	 20614	 O	 -1	 -1	 0
 called	 data/source_txt/t5_economic_1_101.deft	 20615	 20621	 O	 -1	 -1	 0
-Citizens	 data/source_txt/t5_economic_1_101.deft	 20622	 20630	 B-Term	 T112	 0	 Direct-Defines
-against	 data/source_txt/t5_economic_1_101.deft	 20631	 20638	 I-Term	 T112	 0	 Direct-Defines
-Government	 data/source_txt/t5_economic_1_101.deft	 20639	 20649	 I-Term	 T112	 0	 Direct-Defines
-Waste	 data/source_txt/t5_economic_1_101.deft	 20650	 20655	 I-Term	 T112	 0	 Direct-Defines
+Citizens	 data/source_txt/t5_economic_1_101.deft	 20622	 20630	 B-Term	 T112	 0	 0
+against	 data/source_txt/t5_economic_1_101.deft	 20631	 20638	 I-Term	 T112	 0	 0
+Government	 data/source_txt/t5_economic_1_101.deft	 20639	 20649	 I-Term	 T112	 0	 0
+Waste	 data/source_txt/t5_economic_1_101.deft	 20650	 20655	 I-Term	 T112	 0	 0
 ,	 data/source_txt/t5_economic_1_101.deft	 20655	 20656	 O	 -1	 -1	 0
 produces	 data/source_txt/t5_economic_1_101.deft	 20657	 20665	 O	 -1	 -1	 0
 an	 data/source_txt/t5_economic_1_101.deft	 20666	 20668	 O	 -1	 -1	 0
@@ -3431,7 +3431,7 @@ can	 data/source_txt/t5_economic_1_101.deft	 21106	 21109	 O	 -1	 -1	 0
 be	 data/source_txt/t5_economic_1_101.deft	 21110	 21112	 O	 -1	 -1	 0
 encouraged	 data/source_txt/t5_economic_1_101.deft	 21113	 21123	 O	 -1	 -1	 0
 by	 data/source_txt/t5_economic_1_101.deft	 21124	 21126	 O	 -1	 -1	 0
-logrolling	 data/source_txt/t5_economic_1_101.deft	 21127	 21137	 B-Term	 T113	 0	 Direct-Defines
+logrolling	 data/source_txt/t5_economic_1_101.deft	 21127	 21137	 B-Term	 T113	 0	 0
 ,	 data/source_txt/t5_economic_1_101.deft	 21137	 21138	 O	 -1	 -1	 0
 an	 data/source_txt/t5_economic_1_101.deft	 21139	 21141	 B-Definition	 T114	 T113	 Direct-Defines
 action	 data/source_txt/t5_economic_1_101.deft	 21142	 21148	 I-Definition	 T114	 T113	 Direct-Defines
@@ -3514,10 +3514,10 @@ a	 data/source_txt/t5_economic_1_101.deft	 21524	 21525	 O	 -1	 -1	 0
 democracy	 data/source_txt/t5_economic_1_101.deft	 21526	 21535	 O	 -1	 -1	 0
 .	 data/source_txt/t5_economic_1_101.deft	 21535	 21536	 O	 -1	 -1	 0
 
-The	 data/source_txt/t5_economic_1_101.deft	 21545	 21548	 B-Term	 T115	 0	 Direct-Defines
-median	 data/source_txt/t5_economic_1_101.deft	 21549	 21555	 I-Term	 T115	 0	 Direct-Defines
-voter	 data/source_txt/t5_economic_1_101.deft	 21556	 21561	 I-Term	 T115	 0	 Direct-Defines
-theory	 data/source_txt/t5_economic_1_101.deft	 21562	 21568	 I-Term	 T115	 0	 Direct-Defines
+The	 data/source_txt/t5_economic_1_101.deft	 21545	 21548	 B-Term	 T115	 0	 0
+median	 data/source_txt/t5_economic_1_101.deft	 21549	 21555	 I-Term	 T115	 0	 0
+voter	 data/source_txt/t5_economic_1_101.deft	 21556	 21561	 I-Term	 T115	 0	 0
+theory	 data/source_txt/t5_economic_1_101.deft	 21562	 21568	 I-Term	 T115	 0	 0
 argues	 data/source_txt/t5_economic_1_101.deft	 21569	 21575	 B-Definition	 T116	 T115	 Direct-Defines
 that	 data/source_txt/t5_economic_1_101.deft	 21576	 21580	 I-Definition	 T116	 T115	 Direct-Defines
 politicians	 data/source_txt/t5_economic_1_101.deft	 21581	 21592	 I-Definition	 T116	 T115	 Direct-Defines
@@ -3667,9 +3667,9 @@ typically	 data/source_txt/t5_economic_1_101.deft	 22305	 22314	 O	 -1	 -1	 0
 measured	 data/source_txt/t5_economic_1_101.deft	 22315	 22323	 O	 -1	 -1	 0
 by	 data/source_txt/t5_economic_1_101.deft	 22324	 22326	 O	 -1	 -1	 0
 its	 data/source_txt/t5_economic_1_101.deft	 22327	 22330	 O	 -1	 -1	 0
-gross	 data/source_txt/t5_economic_1_101.deft	 22331	 22336	 B-Term	 T117	 0	 Direct-Defines
-domestic	 data/source_txt/t5_economic_1_101.deft	 22337	 22345	 I-Term	 T117	 0	 Direct-Defines
-product	 data/source_txt/t5_economic_1_101.deft	 22346	 22353	 I-Term	 T117	 0	 Direct-Defines
+gross	 data/source_txt/t5_economic_1_101.deft	 22331	 22336	 B-Term	 T117	 0	 0
+domestic	 data/source_txt/t5_economic_1_101.deft	 22337	 22345	 I-Term	 T117	 0	 0
+product	 data/source_txt/t5_economic_1_101.deft	 22346	 22353	 I-Term	 T117	 0	 0
 (	 data/source_txt/t5_economic_1_101.deft	 22354	 22355	 O	 -1	 -1	 0
 GDP	 data/source_txt/t5_economic_1_101.deft	 22355	 22358	 B-Alias-Term	 T118	 T117	 AKA
 )	 data/source_txt/t5_economic_1_101.deft	 22358	 22359	 O	 -1	 -1	 0
@@ -3900,8 +3900,8 @@ avoid	 data/source_txt/t5_economic_1_101.deft	 23511	 23516	 O	 -1	 -1	 0
 the	 data/source_txt/t5_economic_1_101.deft	 23517	 23520	 O	 -1	 -1	 0
 mistake	 data/source_txt/t5_economic_1_101.deft	 23521	 23528	 O	 -1	 -1	 0
 of	 data/source_txt/t5_economic_1_101.deft	 23529	 23531	 O	 -1	 -1	 0
-double	 data/source_txt/t5_economic_1_101.deft	 23532	 23538	 B-Term	 T120	 0	 Direct-Defines
-counting	 data/source_txt/t5_economic_1_101.deft	 23539	 23547	 I-Term	 T120	 0	 Direct-Defines
+double	 data/source_txt/t5_economic_1_101.deft	 23532	 23538	 B-Term	 T120	 0	 0
+counting	 data/source_txt/t5_economic_1_101.deft	 23539	 23547	 I-Term	 T120	 0	 0
 ,	 data/source_txt/t5_economic_1_101.deft	 23547	 23548	 O	 -1	 -1	 0
 in	 data/source_txt/t5_economic_1_101.deft	 23549	 23551	 O	 -1	 -1	 0
 which	 data/source_txt/t5_economic_1_101.deft	 23552	 23557	 O	 -1	 -1	 0
@@ -3974,10 +3974,10 @@ cousins	 data/source_txt/t5_economic_1_101.deft	 23904	 23911	 O	 -1	 -1	 0
 of	 data/source_txt/t5_economic_1_101.deft	 23912	 23914	 O	 -1	 -1	 0
 GDP	 data/source_txt/t5_economic_1_101.deft	 23915	 23918	 O	 -1	 -1	 0
 is	 data/source_txt/t5_economic_1_101.deft	 23919	 23921	 O	 -1	 -1	 0
-the	 data/source_txt/t5_economic_1_101.deft	 23922	 23925	 B-Term	 T122	 0	 AKA
-gross	 data/source_txt/t5_economic_1_101.deft	 23926	 23931	 I-Term	 T122	 0	 AKA
-national	 data/source_txt/t5_economic_1_101.deft	 23932	 23940	 I-Term	 T122	 0	 AKA
-product	 data/source_txt/t5_economic_1_101.deft	 23941	 23948	 I-Term	 T122	 0	 AKA
+the	 data/source_txt/t5_economic_1_101.deft	 23922	 23925	 B-Term	 T122	 0	 0
+gross	 data/source_txt/t5_economic_1_101.deft	 23926	 23931	 I-Term	 T122	 0	 0
+national	 data/source_txt/t5_economic_1_101.deft	 23932	 23940	 I-Term	 T122	 0	 0
+product	 data/source_txt/t5_economic_1_101.deft	 23941	 23948	 I-Term	 T122	 0	 0
 (	 data/source_txt/t5_economic_1_101.deft	 23949	 23950	 O	 -1	 -1	 0
 GNP	 data/source_txt/t5_economic_1_101.deft	 23950	 23953	 B-Alias-Term	 T123	 T122	 AKA
 )	 data/source_txt/t5_economic_1_101.deft	 23953	 23954	 O	 -1	 -1	 0
@@ -4000,8 +4000,8 @@ borders	 data/source_txt/t5_economic_1_101.deft	 24016	 24023	 O	 -1	 -1	 0
 4787	 data/source_txt/t5_economic_1_101.deft	 24297	 24301	 O	 -1	 -1	 0
 .	 data/source_txt/t5_economic_1_101.deft	 24301	 24302	 O	 -1	 -1	 0
 
-GDP	 data/source_txt/t5_economic_1_101.deft	 24311	 24314	 B-Term	 T131	 0	 Direct-Defines
-deflator	 data/source_txt/t5_economic_1_101.deft	 24315	 24323	 I-Term	 T131	 0	 Direct-Defines
+GDP	 data/source_txt/t5_economic_1_101.deft	 24311	 24314	 B-Term	 T131	 0	 0
+deflator	 data/source_txt/t5_economic_1_101.deft	 24315	 24323	 I-Term	 T131	 0	 0
 is	 data/source_txt/t5_economic_1_101.deft	 24324	 24326	 O	 -1	 -1	 0
 a	 data/source_txt/t5_economic_1_101.deft	 24327	 24328	 B-Definition	 T132	 T131	 Direct-Defines
 price	 data/source_txt/t5_economic_1_101.deft	 24329	 24334	 I-Definition	 T132	 T131	 Direct-Defines
@@ -4080,8 +4080,8 @@ real	 data/source_txt/t5_economic_1_101.deft	 24702	 24706	 I-Definition	 T133	 
 GDP	 data/source_txt/t5_economic_1_101.deft	 24707	 24710	 I-Definition	 T133	 T134	 Direct-Defines
 is	 data/source_txt/t5_economic_1_101.deft	 24711	 24713	 O	 -1	 -1	 0
 called	 data/source_txt/t5_economic_1_101.deft	 24714	 24720	 O	 -1	 -1	 0
-a	 data/source_txt/t5_economic_1_101.deft	 24721	 24722	 B-Term	 T134	 0	 Direct-Defines
-recession	 data/source_txt/t5_economic_1_101.deft	 24723	 24732	 I-Term	 T134	 0	 Direct-Defines
+a	 data/source_txt/t5_economic_1_101.deft	 24721	 24722	 B-Term	 T134	 0	 0
+recession	 data/source_txt/t5_economic_1_101.deft	 24723	 24732	 I-Term	 T134	 0	 0
 .	 data/source_txt/t5_economic_1_101.deft	 24732	 24733	 O	 -1	 -1	 0
 
 An	 data/source_txt/t5_economic_1_101.deft	 24740	 24742	 B-Definition	 T135	 T136	 Direct-Defines
@@ -4092,8 +4092,8 @@ deep	 data/source_txt/t5_economic_1_101.deft	 24766	 24770	 I-Definition	 T135	 
 recession	 data/source_txt/t5_economic_1_101.deft	 24771	 24780	 I-Definition	 T135	 T136	 Direct-Defines
 is	 data/source_txt/t5_economic_1_101.deft	 24781	 24783	 O	 -1	 -1	 0
 called	 data/source_txt/t5_economic_1_101.deft	 24784	 24790	 O	 -1	 -1	 0
-a	 data/source_txt/t5_economic_1_101.deft	 24791	 24792	 B-Term	 T136	 0	 Direct-Defines
-depression	 data/source_txt/t5_economic_1_101.deft	 24793	 24803	 I-Term	 T136	 0	 Direct-Defines
+a	 data/source_txt/t5_economic_1_101.deft	 24791	 24792	 B-Term	 T136	 0	 0
+depression	 data/source_txt/t5_economic_1_101.deft	 24793	 24803	 I-Term	 T136	 0	 0
 .	 data/source_txt/t5_economic_1_101.deft	 24803	 24804	 O	 -1	 -1	 0
 
 
@@ -4132,8 +4132,8 @@ begins	 data/source_txt/t5_economic_1_101.deft	 24963	 24969	 I-Definition	 T137
 ,	 data/source_txt/t5_economic_1_101.deft	 24969	 24970	 O	 -1	 -1	 0
 is	 data/source_txt/t5_economic_1_101.deft	 24971	 24973	 O	 -1	 -1	 0
 called	 data/source_txt/t5_economic_1_101.deft	 24974	 24980	 O	 -1	 -1	 0
-the	 data/source_txt/t5_economic_1_101.deft	 24981	 24984	 B-Term	 T138	 0	 Direct-Defines
-peak	 data/source_txt/t5_economic_1_101.deft	 24985	 24989	 I-Term	 T138	 0	 Direct-Defines
+the	 data/source_txt/t5_economic_1_101.deft	 24981	 24984	 B-Term	 T138	 0	 0
+peak	 data/source_txt/t5_economic_1_101.deft	 24985	 24989	 I-Term	 T138	 0	 0
 ;	 data/source_txt/t5_economic_1_101.deft	 24989	 24990	 O	 -1	 -1	 0
 conversely	 data/source_txt/t5_economic_1_101.deft	 24991	 25001	 O	 -1	 -1	 0
 ,	 data/source_txt/t5_economic_1_101.deft	 25001	 25002	 O	 -1	 -1	 0
@@ -4151,8 +4151,8 @@ begins	 data/source_txt/t5_economic_1_101.deft	 25054	 25060	 I-Definition	 T139
 ,	 data/source_txt/t5_economic_1_101.deft	 25060	 25061	 O	 -1	 -1	 0
 is	 data/source_txt/t5_economic_1_101.deft	 25062	 25064	 O	 -1	 -1	 0
 called	 data/source_txt/t5_economic_1_101.deft	 25065	 25071	 O	 -1	 -1	 0
-the	 data/source_txt/t5_economic_1_101.deft	 25072	 25075	 B-Term	 T140	 0	 Direct-Defines
-trough	 data/source_txt/t5_economic_1_101.deft	 25076	 25082	 I-Term	 T140	 0	 Direct-Defines
+the	 data/source_txt/t5_economic_1_101.deft	 25072	 25075	 B-Term	 T140	 0	 0
+trough	 data/source_txt/t5_economic_1_101.deft	 25076	 25082	 I-Term	 T140	 0	 0
 .	 data/source_txt/t5_economic_1_101.deft	 25082	 25083	 O	 -1	 -1	 0
 
 Thus	 data/source_txt/t5_economic_1_101.deft	 25090	 25094	 O	 -1	 -1	 0
@@ -4202,9 +4202,9 @@ common	 data/source_txt/t5_economic_1_101.deft	 25294	 25300	 O	 -1	 -1	 0
 denominator	 data/source_txt/t5_economic_1_101.deft	 25301	 25312	 O	 -1	 -1	 0
 ”	 data/source_txt/t5_economic_1_101.deft	 25312	 25313	 O	 -1	 -1	 0
 using	 data/source_txt/t5_economic_1_101.deft	 25314	 25319	 O	 -1	 -1	 0
-an	 data/source_txt/t5_economic_1_101.deft	 25320	 25322	 B-Term	 T141	 0	 Direct-Defines
-exchange	 data/source_txt/t5_economic_1_101.deft	 25323	 25331	 I-Term	 T141	 0	 Direct-Defines
-rate	 data/source_txt/t5_economic_1_101.deft	 25332	 25336	 I-Term	 T141	 0	 Direct-Defines
+an	 data/source_txt/t5_economic_1_101.deft	 25320	 25322	 B-Term	 T141	 0	 0
+exchange	 data/source_txt/t5_economic_1_101.deft	 25323	 25331	 I-Term	 T141	 0	 0
+rate	 data/source_txt/t5_economic_1_101.deft	 25332	 25336	 I-Term	 T141	 0	 0
 ,	 data/source_txt/t5_economic_1_101.deft	 25336	 25337	 O	 -1	 -1	 0
 which	 data/source_txt/t5_economic_1_101.deft	 25338	 25343	 O	 -1	 -1	 0
 is	 data/source_txt/t5_economic_1_101.deft	 25344	 25346	 O	 -1	 -1	 0
@@ -4308,9 +4308,9 @@ as	 data/source_txt/t5_economic_1_101.deft	 26261	 26263	 O	 -1	 -1	 0
 the	 data/source_txt/t5_economic_1_101.deft	 26264	 26267	 O	 -1	 -1	 0
 period	 data/source_txt/t5_economic_1_101.deft	 26268	 26274	 O	 -1	 -1	 0
 of	 data/source_txt/t5_economic_1_101.deft	 26275	 26277	 O	 -1	 -1	 0
-modern	 data/source_txt/t5_economic_1_101.deft	 26278	 26284	 B-Term	 T124	 0	 Direct-Defines
-economic	 data/source_txt/t5_economic_1_101.deft	 26285	 26293	 I-Term	 T124	 0	 Direct-Defines
-growth	 data/source_txt/t5_economic_1_101.deft	 26294	 26300	 I-Term	 T124	 0	 Direct-Defines
+modern	 data/source_txt/t5_economic_1_101.deft	 26278	 26284	 B-Term	 T124	 0	 0
+economic	 data/source_txt/t5_economic_1_101.deft	 26285	 26293	 I-Term	 T124	 0	 0
+growth	 data/source_txt/t5_economic_1_101.deft	 26294	 26300	 I-Term	 T124	 0	 0
 .	 data/source_txt/t5_economic_1_101.deft	 26300	 26301	 O	 -1	 -1	 0
 
 (	 data/source_txt/t5_economic_1_101.deft	 26308	 26309	 O	 -1	 -1	 0
@@ -4379,10 +4379,10 @@ in	 data/source_txt/t5_economic_1_101.deft	 26616	 26618	 O	 -1	 -1	 0
 4811	 data/source_txt/t5_economic_1_101.deft	 27013	 27017	 O	 -1	 -1	 0
 .	 data/source_txt/t5_economic_1_101.deft	 27017	 27018	 O	 -1	 -1	 0
 
-A	 data/source_txt/t5_economic_1_101.deft	 27019	 27020	 B-Term	 T147	 0	 Direct-Defines
-microeconomic	 data/source_txt/t5_economic_1_101.deft	 27021	 27034	 I-Term	 T147	 0	 Direct-Defines
-production	 data/source_txt/t5_economic_1_101.deft	 27035	 27045	 I-Term	 T147	 0	 Direct-Defines
-function	 data/source_txt/t5_economic_1_101.deft	 27046	 27054	 I-Term	 T147	 0	 Direct-Defines
+A	 data/source_txt/t5_economic_1_101.deft	 27019	 27020	 B-Term	 T147	 0	 0
+microeconomic	 data/source_txt/t5_economic_1_101.deft	 27021	 27034	 I-Term	 T147	 0	 0
+production	 data/source_txt/t5_economic_1_101.deft	 27035	 27045	 I-Term	 T147	 0	 0
+function	 data/source_txt/t5_economic_1_101.deft	 27046	 27054	 I-Term	 T147	 0	 0
 describes	 data/source_txt/t5_economic_1_101.deft	 27055	 27064	 B-Definition	 T148	 T147	 Direct-Defines
 the	 data/source_txt/t5_economic_1_101.deft	 27065	 27068	 I-Definition	 T148	 T147	 Direct-Defines
 inputs	 data/source_txt/t5_economic_1_101.deft	 27069	 27075	 I-Definition	 T148	 T147	 Direct-Defines
@@ -4413,10 +4413,10 @@ entire	 data/source_txt/t5_economic_1_101.deft	 27196	 27202	 I-Definition	 T149
 economy	 data/source_txt/t5_economic_1_101.deft	 27203	 27210	 I-Definition	 T149	 T150	 Direct-Defines
 is	 data/source_txt/t5_economic_1_101.deft	 27211	 27213	 O	 -1	 -1	 0
 called	 data/source_txt/t5_economic_1_101.deft	 27214	 27220	 O	 -1	 -1	 0
-an	 data/source_txt/t5_economic_1_101.deft	 27221	 27223	 B-Term	 T150	 0	 Direct-Defines
-aggregate	 data/source_txt/t5_economic_1_101.deft	 27224	 27233	 I-Term	 T150	 0	 Direct-Defines
-production	 data/source_txt/t5_economic_1_101.deft	 27234	 27244	 I-Term	 T150	 0	 Direct-Defines
-function	 data/source_txt/t5_economic_1_101.deft	 27245	 27253	 I-Term	 T150	 0	 Direct-Defines
+an	 data/source_txt/t5_economic_1_101.deft	 27221	 27223	 B-Term	 T150	 0	 0
+aggregate	 data/source_txt/t5_economic_1_101.deft	 27224	 27233	 I-Term	 T150	 0	 0
+production	 data/source_txt/t5_economic_1_101.deft	 27234	 27244	 I-Term	 T150	 0	 0
+function	 data/source_txt/t5_economic_1_101.deft	 27245	 27253	 I-Term	 T150	 0	 0
 .	 data/source_txt/t5_economic_1_101.deft	 27253	 27254	 O	 -1	 -1	 0
 
 
@@ -4444,7 +4444,7 @@ roads	 data/source_txt/t5_economic_1_101.deft	 27379	 27384	 I-Definition	 T199	
 (	 data/source_txt/t5_economic_1_101.deft	 27385	 27386	 O	 -1	 -1	 0
 also	 data/source_txt/t5_economic_1_101.deft	 27386	 27390	 O	 -1	 -1	 0
 called	 data/source_txt/t5_economic_1_101.deft	 27391	 27397	 O	 -1	 -1	 0
-infrastructure	 data/source_txt/t5_economic_1_101.deft	 27398	 27412	 B-Term	 T197	 0	 Direct-Defines
+infrastructure	 data/source_txt/t5_economic_1_101.deft	 27398	 27412	 B-Term	 T197	 0	 0
 )	 data/source_txt/t5_economic_1_101.deft	 27412	 27413	 O	 -1	 -1	 0
 .	 data/source_txt/t5_economic_1_101.deft	 27413	 27414	 O	 -1	 -1	 0
 
@@ -4496,9 +4496,9 @@ where	 data/source_txt/t5_economic_1_101.deft	 27637	 27642	 O	 -1	 -1	 0
 the	 data/source_txt/t5_economic_1_101.deft	 27643	 27646	 O	 -1	 -1	 0
 output	 data/source_txt/t5_economic_1_101.deft	 27647	 27653	 O	 -1	 -1	 0
 is	 data/source_txt/t5_economic_1_101.deft	 27654	 27656	 O	 -1	 -1	 0
-GDP	 data/source_txt/t5_economic_1_101.deft	 27657	 27660	 B-Term	 T151	 0	 Direct-Defines
-per	 data/source_txt/t5_economic_1_101.deft	 27661	 27664	 I-Term	 T151	 0	 Direct-Defines
-capita	 data/source_txt/t5_economic_1_101.deft	 27665	 27671	 I-Term	 T151	 0	 Direct-Defines
+GDP	 data/source_txt/t5_economic_1_101.deft	 27657	 27660	 B-Term	 T151	 0	 0
+per	 data/source_txt/t5_economic_1_101.deft	 27661	 27664	 I-Term	 T151	 0	 0
+capita	 data/source_txt/t5_economic_1_101.deft	 27665	 27671	 I-Term	 T151	 0	 0
 (	 data/source_txt/t5_economic_1_101.deft	 27672	 27673	 O	 -1	 -1	 0
 that	 data/source_txt/t5_economic_1_101.deft	 27673	 27677	 O	 -1	 -1	 0
 is	 data/source_txt/t5_economic_1_101.deft	 27678	 27680	 O	 -1	 -1	 0
@@ -4784,14 +4784,14 @@ Another	 data/source_txt/t5_economic_1_101.deft	 29135	 29142	 O	 -1	 -1	 0
 important	 data/source_txt/t5_economic_1_101.deft	 29143	 29152	 O	 -1	 -1	 0
 statistic	 data/source_txt/t5_economic_1_101.deft	 29153	 29162	 O	 -1	 -1	 0
 is	 data/source_txt/t5_economic_1_101.deft	 29163	 29165	 O	 -1	 -1	 0
-the	 data/source_txt/t5_economic_1_101.deft	 29166	 29169	 B-Term	 T153	 0	 Refers-To
-labor	 data/source_txt/t5_economic_1_101.deft	 29170	 29175	 I-Term	 T153	 0	 Refers-To
-force	 data/source_txt/t5_economic_1_101.deft	 29176	 29181	 I-Term	 T153	 0	 Refers-To
-participation	 data/source_txt/t5_economic_1_101.deft	 29182	 29195	 I-Term	 T153	 0	 Refers-To
-rate	 data/source_txt/t5_economic_1_101.deft	 29196	 29200	 I-Term	 T153	 0	 Refers-To
+the	 data/source_txt/t5_economic_1_101.deft	 29166	 29169	 B-Term	 T153	 0	 0
+labor	 data/source_txt/t5_economic_1_101.deft	 29170	 29175	 I-Term	 T153	 0	 0
+force	 data/source_txt/t5_economic_1_101.deft	 29176	 29181	 I-Term	 T153	 0	 0
+participation	 data/source_txt/t5_economic_1_101.deft	 29182	 29195	 I-Term	 T153	 0	 0
+rate	 data/source_txt/t5_economic_1_101.deft	 29196	 29200	 I-Term	 T153	 0	 0
 .	 data/source_txt/t5_economic_1_101.deft	 29200	 29201	 O	 -1	 -1	 0
 
-This	 data/source_txt/t5_economic_1_101.deft	 29208	 29212	 B-Referential-Term	 T154	 0	 Indirect-Defines
+This	 data/source_txt/t5_economic_1_101.deft	 29208	 29212	 B-Referential-Term	 T154	 T153	 Refers-To
 is	 data/source_txt/t5_economic_1_101.deft	 29213	 29215	 O	 -1	 -1	 0
 the	 data/source_txt/t5_economic_1_101.deft	 29216	 29219	 B-Definition	 T155	 T154	 Indirect-Defines
 percentage	 data/source_txt/t5_economic_1_101.deft	 29220	 29230	 I-Definition	 T155	 T154	 Indirect-Defines
@@ -4932,17 +4932,17 @@ puzzle	 data/source_txt/t5_economic_1_101.deft	 29935	 29941	 O	 -1	 -1	 0
 .	 data/source_txt/t5_economic_1_101.deft	 29941	 29942	 O	 -1	 -1	 0
 
 In	 data/source_txt/t5_economic_1_101.deft	 29951	 29953	 O	 -1	 -1	 0
-a	 data/source_txt/t5_economic_1_101.deft	 29954	 29955	 B-Term	 T156	 0	 Direct-Defines
-supply	 data/source_txt/t5_economic_1_101.deft	 29956	 29962	 I-Term	 T156	 0	 Direct-Defines
--	 data/source_txt/t5_economic_1_101.deft	 29962	 29963	 I-Term	 T156	 0	 Direct-Defines
-and	 data/source_txt/t5_economic_1_101.deft	 29963	 29966	 I-Term	 T156	 0	 Direct-Defines
--	 data/source_txt/t5_economic_1_101.deft	 29966	 29967	 I-Term	 T156	 0	 Direct-Defines
-demand	 data/source_txt/t5_economic_1_101.deft	 29967	 29973	 I-Term	 T156	 0	 Direct-Defines
-model	 data/source_txt/t5_economic_1_101.deft	 29974	 29979	 I-Term	 T156	 0	 Direct-Defines
-of	 data/source_txt/t5_economic_1_101.deft	 29980	 29982	 I-Term	 T156	 0	 Direct-Defines
-a	 data/source_txt/t5_economic_1_101.deft	 29983	 29984	 I-Term	 T156	 0	 Direct-Defines
-labor	 data/source_txt/t5_economic_1_101.deft	 29985	 29990	 I-Term	 T156	 0	 Direct-Defines
-market	 data/source_txt/t5_economic_1_101.deft	 29991	 29997	 I-Term	 T156	 0	 Direct-Defines
+a	 data/source_txt/t5_economic_1_101.deft	 29954	 29955	 B-Term	 T156	 0	 0
+supply	 data/source_txt/t5_economic_1_101.deft	 29956	 29962	 I-Term	 T156	 0	 0
+-	 data/source_txt/t5_economic_1_101.deft	 29962	 29963	 I-Term	 T156	 0	 0
+and	 data/source_txt/t5_economic_1_101.deft	 29963	 29966	 I-Term	 T156	 0	 0
+-	 data/source_txt/t5_economic_1_101.deft	 29966	 29967	 I-Term	 T156	 0	 0
+demand	 data/source_txt/t5_economic_1_101.deft	 29967	 29973	 I-Term	 T156	 0	 0
+model	 data/source_txt/t5_economic_1_101.deft	 29974	 29979	 I-Term	 T156	 0	 0
+of	 data/source_txt/t5_economic_1_101.deft	 29980	 29982	 I-Term	 T156	 0	 0
+a	 data/source_txt/t5_economic_1_101.deft	 29983	 29984	 I-Term	 T156	 0	 0
+labor	 data/source_txt/t5_economic_1_101.deft	 29985	 29990	 I-Term	 T156	 0	 0
+market	 data/source_txt/t5_economic_1_101.deft	 29991	 29997	 I-Term	 T156	 0	 0
 ,	 data/source_txt/t5_economic_1_101.deft	 29997	 29998	 O	 -1	 -1	 0
 as	 data/source_txt/t5_economic_1_101.deft	 29999	 30001	 O	 -1	 -1	 0
 illustrated	 data/source_txt/t5_economic_1_101.deft	 30002	 30013	 O	 -1	 -1	 0
@@ -4965,16 +4965,16 @@ quantity	 data/source_txt/t5_economic_1_101.deft	 30085	 30093	 I-Definition	 T1
 .	 data/source_txt/t5_economic_1_101.deft	 30093	 30094	 O	 -1	 -1	 0
 
 At	 data/source_txt/t5_economic_1_101.deft	 30101	 30103	 O	 -1	 -1	 0
-the	 data/source_txt/t5_economic_1_101.deft	 30104	 30107	 B-Term	 T158	 0	 Direct-Defines
-equilibrium	 data/source_txt/t5_economic_1_101.deft	 30108	 30119	 I-Term	 T158	 0	 Direct-Defines
-wage	 data/source_txt/t5_economic_1_101.deft	 30120	 30124	 I-Term	 T158	 0	 Direct-Defines
+the	 data/source_txt/t5_economic_1_101.deft	 30104	 30107	 B-Term	 T158	 0	 0
+equilibrium	 data/source_txt/t5_economic_1_101.deft	 30108	 30119	 I-Term	 T158	 0	 0
+wage	 data/source_txt/t5_economic_1_101.deft	 30120	 30124	 I-Term	 T158	 0	 0
 (	 data/source_txt/t5_economic_1_101.deft	 30125	 30126	 O	 -1	 -1	 0
 We	 data/source_txt/t5_economic_1_101.deft	 30126	 30128	 B-Alias-Term	 T159	 T158	 AKA
 )	 data/source_txt/t5_economic_1_101.deft	 30128	 30129	 O	 -1	 -1	 0
 ,	 data/source_txt/t5_economic_1_101.deft	 30129	 30130	 O	 -1	 -1	 0
-the	 data/source_txt/t5_economic_1_101.deft	 30131	 30134	 B-Term	 T212	 0	 AKA
-equilibrium	 data/source_txt/t5_economic_1_101.deft	 30135	 30146	 I-Term	 T212	 0	 AKA
-quantity	 data/source_txt/t5_economic_1_101.deft	 30147	 30155	 I-Term	 T212	 0	 AKA
+the	 data/source_txt/t5_economic_1_101.deft	 30131	 30134	 B-Term	 T212	 0	 0
+equilibrium	 data/source_txt/t5_economic_1_101.deft	 30135	 30146	 I-Term	 T212	 0	 0
+quantity	 data/source_txt/t5_economic_1_101.deft	 30147	 30155	 I-Term	 T212	 0	 0
 (	 data/source_txt/t5_economic_1_101.deft	 30156	 30157	 O	 -1	 -1	 0
 Qe	 data/source_txt/t5_economic_1_101.deft	 30157	 30159	 B-Alias-Term	 T213	 T212	 AKA
 )	 data/source_txt/t5_economic_1_101.deft	 30159	 30160	 O	 -1	 -1	 0
@@ -5050,13 +5050,13 @@ tone	 data/source_txt/t5_economic_1_101.deft	 30522	 30526	 O	 -1	 -1	 0
 4841	 data/source_txt/t5_economic_1_101.deft	 30531	 30535	 O	 -1	 -1	 0
 .	 data/source_txt/t5_economic_1_101.deft	 30535	 30536	 O	 -1	 -1	 0
 
-The	 data/source_txt/t5_economic_1_101.deft	 30545	 30548	 B-Term	 T161	 0	 Direct-Defines
-adverse	 data/source_txt/t5_economic_1_101.deft	 30549	 30556	 I-Term	 T161	 0	 Direct-Defines
-selection	 data/source_txt/t5_economic_1_101.deft	 30557	 30566	 I-Term	 T161	 0	 Direct-Defines
-of	 data/source_txt/t5_economic_1_101.deft	 30567	 30569	 I-Term	 T161	 0	 Direct-Defines
-wage	 data/source_txt/t5_economic_1_101.deft	 30570	 30574	 I-Term	 T161	 0	 Direct-Defines
-cuts	 data/source_txt/t5_economic_1_101.deft	 30575	 30579	 I-Term	 T161	 0	 Direct-Defines
-argument	 data/source_txt/t5_economic_1_101.deft	 30580	 30588	 I-Term	 T161	 0	 Direct-Defines
+The	 data/source_txt/t5_economic_1_101.deft	 30545	 30548	 B-Term	 T161	 0	 0
+adverse	 data/source_txt/t5_economic_1_101.deft	 30549	 30556	 I-Term	 T161	 0	 0
+selection	 data/source_txt/t5_economic_1_101.deft	 30557	 30566	 I-Term	 T161	 0	 0
+of	 data/source_txt/t5_economic_1_101.deft	 30567	 30569	 I-Term	 T161	 0	 0
+wage	 data/source_txt/t5_economic_1_101.deft	 30570	 30574	 I-Term	 T161	 0	 0
+cuts	 data/source_txt/t5_economic_1_101.deft	 30575	 30579	 I-Term	 T161	 0	 0
+argument	 data/source_txt/t5_economic_1_101.deft	 30580	 30588	 I-Term	 T161	 0	 0
 points	 data/source_txt/t5_economic_1_101.deft	 30589	 30595	 B-Definition	 T162	 T161	 Direct-Defines
 out	 data/source_txt/t5_economic_1_101.deft	 30596	 30599	 I-Definition	 T162	 T161	 Direct-Defines
 that	 data/source_txt/t5_economic_1_101.deft	 30600	 30604	 I-Definition	 T162	 T161	 Direct-Defines
@@ -5160,11 +5160,11 @@ healthy	 data/source_txt/t5_economic_1_101.deft	 31130	 31137	 I-Definition	 T16
 it	 data/source_txt/t5_economic_1_101.deft	 31139	 31141	 O	 -1	 -1	 0
 is	 data/source_txt/t5_economic_1_101.deft	 31142	 31144	 O	 -1	 -1	 0
 called	 data/source_txt/t5_economic_1_101.deft	 31145	 31151	 O	 -1	 -1	 0
-the	 data/source_txt/t5_economic_1_101.deft	 31152	 31155	 B-Term	 T164	 0	 Direct-Defines
-natural	 data/source_txt/t5_economic_1_101.deft	 31156	 31163	 I-Term	 T164	 0	 Direct-Defines
-rate	 data/source_txt/t5_economic_1_101.deft	 31164	 31168	 I-Term	 T164	 0	 Direct-Defines
-of	 data/source_txt/t5_economic_1_101.deft	 31169	 31171	 I-Term	 T164	 0	 Direct-Defines
-unemployment	 data/source_txt/t5_economic_1_101.deft	 31172	 31184	 I-Term	 T164	 0	 Direct-Defines
+the	 data/source_txt/t5_economic_1_101.deft	 31152	 31155	 B-Term	 T164	 0	 0
+natural	 data/source_txt/t5_economic_1_101.deft	 31156	 31163	 I-Term	 T164	 0	 0
+rate	 data/source_txt/t5_economic_1_101.deft	 31164	 31168	 I-Term	 T164	 0	 0
+of	 data/source_txt/t5_economic_1_101.deft	 31169	 31171	 I-Term	 T164	 0	 0
+unemployment	 data/source_txt/t5_economic_1_101.deft	 31172	 31184	 I-Term	 T164	 0	 0
 .	 data/source_txt/t5_economic_1_101.deft	 31184	 31185	 O	 -1	 -1	 0
 
 
@@ -5188,9 +5188,9 @@ structural	 data/source_txt/t5_economic_1_101.deft	 31290	 31300	 O	 -1	 -1	 0
 unemployment	 data/source_txt/t5_economic_1_101.deft	 31301	 31313	 O	 -1	 -1	 0
 .	 data/source_txt/t5_economic_1_101.deft	 31313	 31314	 O	 -1	 -1	 0
 
-The	 data/source_txt/t5_economic_1_101.deft	 31321	 31324	 B-Term	 T165	 0	 Direct-Defines
-structurally	 data/source_txt/t5_economic_1_101.deft	 31325	 31337	 I-Term	 T165	 0	 Direct-Defines
-unemployed	 data/source_txt/t5_economic_1_101.deft	 31338	 31348	 I-Term	 T165	 0	 Direct-Defines
+The	 data/source_txt/t5_economic_1_101.deft	 31321	 31324	 B-Term	 T165	 0	 0
+structurally	 data/source_txt/t5_economic_1_101.deft	 31325	 31337	 I-Term	 T165	 0	 0
+unemployed	 data/source_txt/t5_economic_1_101.deft	 31338	 31348	 I-Term	 T165	 0	 0
 are	 data/source_txt/t5_economic_1_101.deft	 31349	 31352	 O	 -1	 -1	 0
 individuals	 data/source_txt/t5_economic_1_101.deft	 31353	 31364	 B-Definition	 T166	 T165	 Direct-Defines
 who	 data/source_txt/t5_economic_1_101.deft	 31365	 31368	 I-Definition	 T166	 T165	 Direct-Defines
@@ -5357,10 +5357,10 @@ the	 data/source_txt/t5_economic_1_101.deft	 32152	 32155	 O	 -1	 -1	 0
 United	 data/source_txt/t5_economic_1_101.deft	 32156	 32162	 O	 -1	 -1	 0
 States	 data/source_txt/t5_economic_1_101.deft	 32163	 32169	 O	 -1	 -1	 0
 is	 data/source_txt/t5_economic_1_101.deft	 32170	 32172	 O	 -1	 -1	 0
-the	 data/source_txt/t5_economic_1_101.deft	 32173	 32176	 B-Term	 T167	 0	 Direct-Defines
-Consumer	 data/source_txt/t5_economic_1_101.deft	 32177	 32185	 I-Term	 T167	 0	 Direct-Defines
-Price	 data/source_txt/t5_economic_1_101.deft	 32186	 32191	 I-Term	 T167	 0	 Direct-Defines
-Index	 data/source_txt/t5_economic_1_101.deft	 32192	 32197	 I-Term	 T167	 0	 Direct-Defines
+the	 data/source_txt/t5_economic_1_101.deft	 32173	 32176	 B-Term	 T167	 0	 0
+Consumer	 data/source_txt/t5_economic_1_101.deft	 32177	 32185	 I-Term	 T167	 0	 0
+Price	 data/source_txt/t5_economic_1_101.deft	 32186	 32191	 I-Term	 T167	 0	 0
+Index	 data/source_txt/t5_economic_1_101.deft	 32192	 32197	 I-Term	 T167	 0	 0
 (	 data/source_txt/t5_economic_1_101.deft	 32198	 32199	 O	 -1	 -1	 0
 CPI	 data/source_txt/t5_economic_1_101.deft	 32199	 32202	 B-Alias-Term	 T168	 T167	 AKA
 )	 data/source_txt/t5_economic_1_101.deft	 32202	 32203	 O	 -1	 -1	 0
@@ -5445,12 +5445,12 @@ these	 data/source_txt/t5_economic_1_101.deft	 32595	 32600	 O	 -1	 -1	 0
 arguments	 data/source_txt/t5_economic_1_101.deft	 32601	 32610	 O	 -1	 -1	 0
 together	 data/source_txt/t5_economic_1_101.deft	 32611	 32619	 O	 -1	 -1	 0
 ,	 data/source_txt/t5_economic_1_101.deft	 32619	 32620	 O	 -1	 -1	 0
-the	 data/source_txt/t5_economic_1_101.deft	 32621	 32624	 B-Term	 T170	 0	 Direct-Defines
-quality	 data/source_txt/t5_economic_1_101.deft	 32625	 32632	 I-Term	 T170	 0	 Direct-Defines
-/	 data/source_txt/t5_economic_1_101.deft	 32632	 32633	 I-Term	 T170	 0	 Direct-Defines
-new	 data/source_txt/t5_economic_1_101.deft	 32633	 32636	 I-Term	 T170	 0	 Direct-Defines
-goods	 data/source_txt/t5_economic_1_101.deft	 32637	 32642	 I-Term	 T170	 0	 Direct-Defines
-bias	 data/source_txt/t5_economic_1_101.deft	 32643	 32647	 I-Term	 T170	 0	 Direct-Defines
+the	 data/source_txt/t5_economic_1_101.deft	 32621	 32624	 B-Term	 T170	 0	 0
+quality	 data/source_txt/t5_economic_1_101.deft	 32625	 32632	 I-Term	 T170	 0	 0
+/	 data/source_txt/t5_economic_1_101.deft	 32632	 32633	 I-Term	 T170	 0	 0
+new	 data/source_txt/t5_economic_1_101.deft	 32633	 32636	 I-Term	 T170	 0	 0
+goods	 data/source_txt/t5_economic_1_101.deft	 32637	 32642	 I-Term	 T170	 0	 0
+bias	 data/source_txt/t5_economic_1_101.deft	 32643	 32647	 I-Term	 T170	 0	 0
 means	 data/source_txt/t5_economic_1_101.deft	 32648	 32653	 O	 -1	 -1	 0
 that	 data/source_txt/t5_economic_1_101.deft	 32654	 32658	 O	 -1	 -1	 0
 the	 data/source_txt/t5_economic_1_101.deft	 32659	 32662	 B-Definition	 T171	 T170	 Direct-Defines
@@ -5590,10 +5590,10 @@ or	 data/source_txt/t5_economic_1_101.deft	 33339	 33341	 O	 -1	 -1	 0
 imported	 data/source_txt/t5_economic_1_101.deft	 33342	 33350	 O	 -1	 -1	 0
 .	 data/source_txt/t5_economic_1_101.deft	 33350	 33351	 O	 -1	 -1	 0
 
-An	 data/source_txt/t5_economic_1_101.deft	 33358	 33360	 B-Term	 T172	 0	 Direct-Defines
-Employment	 data/source_txt/t5_economic_1_101.deft	 33361	 33371	 I-Term	 T172	 0	 Direct-Defines
-Cost	 data/source_txt/t5_economic_1_101.deft	 33372	 33376	 I-Term	 T172	 0	 Direct-Defines
-Index	 data/source_txt/t5_economic_1_101.deft	 33377	 33382	 I-Term	 T172	 0	 Direct-Defines
+An	 data/source_txt/t5_economic_1_101.deft	 33358	 33360	 B-Term	 T172	 0	 0
+Employment	 data/source_txt/t5_economic_1_101.deft	 33361	 33371	 I-Term	 T172	 0	 0
+Cost	 data/source_txt/t5_economic_1_101.deft	 33372	 33376	 I-Term	 T172	 0	 0
+Index	 data/source_txt/t5_economic_1_101.deft	 33377	 33382	 I-Term	 T172	 0	 0
 measures	 data/source_txt/t5_economic_1_101.deft	 33383	 33391	 B-Definition	 T173	 T172	 Direct-Defines
 wage	 data/source_txt/t5_economic_1_101.deft	 33392	 33396	 I-Definition	 T173	 T172	 Direct-Defines
 inflation	 data/source_txt/t5_economic_1_101.deft	 33397	 33406	 I-Definition	 T173	 T172	 Direct-Defines
@@ -5647,7 +5647,7 @@ negative	 data/source_txt/t5_economic_1_101.deft	 33621	 33629	 I-Definition	 T1
 inflation	 data/source_txt/t5_economic_1_101.deft	 33630	 33639	 I-Definition	 T174	 T175	 Direct-Defines
 —	 data/source_txt/t5_economic_1_101.deft	 33639	 33640	 O	 -1	 -1	 0
 called	 data/source_txt/t5_economic_1_101.deft	 33640	 33646	 O	 -1	 -1	 0
-deflation	 data/source_txt/t5_economic_1_101.deft	 33647	 33656	 B-Term	 T175	 0	 Direct-Defines
+deflation	 data/source_txt/t5_economic_1_101.deft	 33647	 33656	 B-Term	 T175	 0	 0
 —	 data/source_txt/t5_economic_1_101.deft	 33656	 33657	 O	 -1	 -1	 0
 in	 data/source_txt/t5_economic_1_101.deft	 33657	 33659	 O	 -1	 -1	 0
 the	 data/source_txt/t5_economic_1_101.deft	 33660	 33663	 O	 -1	 -1	 0
@@ -6039,7 +6039,7 @@ pension	 data/source_txt/t5_economic_1_101.deft	 35609	 35616	 O	 -1	 -1	 0
 .	 data/source_txt/t5_economic_1_101.deft	 35616	 35617	 O	 -1	 -1	 0
 
 Most	 data/source_txt/t5_economic_1_101.deft	 35626	 35630	 O	 -1	 -1	 0
-pensions	 data/source_txt/t5_economic_1_101.deft	 35631	 35639	 B-Term	 T177	 0	 AKA
+pensions	 data/source_txt/t5_economic_1_101.deft	 35631	 35639	 B-Term	 T177	 0	 0
 have	 data/source_txt/t5_economic_1_101.deft	 35640	 35644	 O	 -1	 -1	 0
 traditionally	 data/source_txt/t5_economic_1_101.deft	 35645	 35658	 O	 -1	 -1	 0
 been	 data/source_txt/t5_economic_1_101.deft	 35659	 35663	 O	 -1	 -1	 0
@@ -6074,10 +6074,10 @@ plans	 data/source_txt/t5_economic_1_101.deft	 35787	 35792	 I-Alias-Term	 T200	
 4877	 data/source_txt/t5_economic_1_101.deft	 35797	 35801	 O	 -1	 -1	 0
 .	 data/source_txt/t5_economic_1_101.deft	 35801	 35802	 O	 -1	 -1	 0
 
-High	 data/source_txt/t5_economic_1_101.deft	 35803	 35807	 B-Term	 T178	 0	 Direct-Defines
-and	 data/source_txt/t5_economic_1_101.deft	 35808	 35811	 I-Term	 T178	 0	 Direct-Defines
-variable	 data/source_txt/t5_economic_1_101.deft	 35812	 35820	 I-Term	 T178	 0	 Direct-Defines
-inflation	 data/source_txt/t5_economic_1_101.deft	 35821	 35830	 I-Term	 T178	 0	 Direct-Defines
+High	 data/source_txt/t5_economic_1_101.deft	 35803	 35807	 B-Term	 T178	 0	 0
+and	 data/source_txt/t5_economic_1_101.deft	 35808	 35811	 I-Term	 T178	 0	 0
+variable	 data/source_txt/t5_economic_1_101.deft	 35812	 35820	 I-Term	 T178	 0	 0
+inflation	 data/source_txt/t5_economic_1_101.deft	 35821	 35830	 I-Term	 T178	 0	 0
 means	 data/source_txt/t5_economic_1_101.deft	 35831	 35836	 O	 -1	 -1	 0
 that	 data/source_txt/t5_economic_1_101.deft	 35837	 35841	 O	 -1	 -1	 0
 the	 data/source_txt/t5_economic_1_101.deft	 35842	 35845	 B-Definition	 T179	 T178	 Direct-Defines
@@ -6150,12 +6150,12 @@ is	 data/source_txt/t5_economic_1_101.deft	 36226	 36228	 O	 -1	 -1	 0
 said	 data/source_txt/t5_economic_1_101.deft	 36229	 36233	 O	 -1	 -1	 0
 to	 data/source_txt/t5_economic_1_101.deft	 36234	 36236	 O	 -1	 -1	 0
 be	 data/source_txt/t5_economic_1_101.deft	 36237	 36239	 O	 -1	 -1	 0
-indexed	 data/source_txt/t5_economic_1_101.deft	 36240	 36247	 B-Term	 T182	 0	 Direct-Defines
+indexed	 data/source_txt/t5_economic_1_101.deft	 36240	 36247	 B-Term	 T182	 0	 0
 .	 data/source_txt/t5_economic_1_101.deft	 36247	 36248	 O	 -1	 -1	 0
 
-An	 data/source_txt/t5_economic_1_101.deft	 36255	 36257	 B-Term	 T183	 0	 Direct-Defines
-indexed	 data/source_txt/t5_economic_1_101.deft	 36258	 36265	 I-Term	 T183	 0	 Direct-Defines
-payment	 data/source_txt/t5_economic_1_101.deft	 36266	 36273	 I-Term	 T183	 0	 Direct-Defines
+An	 data/source_txt/t5_economic_1_101.deft	 36255	 36257	 B-Term	 T183	 0	 0
+indexed	 data/source_txt/t5_economic_1_101.deft	 36258	 36265	 I-Term	 T183	 0	 0
+payment	 data/source_txt/t5_economic_1_101.deft	 36266	 36273	 I-Term	 T183	 0	 0
 increases	 data/source_txt/t5_economic_1_101.deft	 36274	 36283	 B-Definition	 T184	 T183	 Direct-Defines
 according	 data/source_txt/t5_economic_1_101.deft	 36284	 36293	 I-Definition	 T184	 T183	 Direct-Defines
 to	 data/source_txt/t5_economic_1_101.deft	 36294	 36296	 I-Definition	 T184	 T183	 Direct-Defines
@@ -6211,11 +6211,11 @@ as	 data/source_txt/t5_economic_1_101.deft	 36538	 36540	 O	 -1	 -1	 0
 well	 data/source_txt/t5_economic_1_101.deft	 36541	 36545	 O	 -1	 -1	 0
 .	 data/source_txt/t5_economic_1_101.deft	 36545	 36546	 O	 -1	 -1	 0
 
-An	 data/source_txt/t5_economic_1_101.deft	 36555	 36557	 B-Term	 T185	 0	 Direct-Defines
-adjustable	 data/source_txt/t5_economic_1_101.deft	 36558	 36568	 I-Term	 T185	 0	 Direct-Defines
--	 data/source_txt/t5_economic_1_101.deft	 36568	 36569	 I-Term	 T185	 0	 Direct-Defines
-rate	 data/source_txt/t5_economic_1_101.deft	 36569	 36573	 I-Term	 T185	 0	 Direct-Defines
-mortgage	 data/source_txt/t5_economic_1_101.deft	 36574	 36582	 I-Term	 T185	 0	 Direct-Defines
+An	 data/source_txt/t5_economic_1_101.deft	 36555	 36557	 B-Term	 T185	 0	 0
+adjustable	 data/source_txt/t5_economic_1_101.deft	 36558	 36568	 I-Term	 T185	 0	 0
+-	 data/source_txt/t5_economic_1_101.deft	 36568	 36569	 I-Term	 T185	 0	 0
+rate	 data/source_txt/t5_economic_1_101.deft	 36569	 36573	 I-Term	 T185	 0	 0
+mortgage	 data/source_txt/t5_economic_1_101.deft	 36574	 36582	 I-Term	 T185	 0	 0
 (	 data/source_txt/t5_economic_1_101.deft	 36583	 36584	 O	 -1	 -1	 0
 ARM	 data/source_txt/t5_economic_1_101.deft	 36584	 36587	 B-Alias-Term	 T186	 T185	 AKA
 )	 data/source_txt/t5_economic_1_101.deft	 36587	 36588	 O	 -1	 -1	 0
@@ -6273,10 +6273,10 @@ loan	 data/source_txt/t5_economic_1_101.deft	 36811	 36815	 O	 -1	 -1	 0
 4886	 data/source_txt/t5_economic_1_101.deft	 36820	 36824	 O	 -1	 -1	 0
 .	 data/source_txt/t5_economic_1_101.deft	 36824	 36825	 O	 -1	 -1	 0
 
-The	 data/source_txt/t5_economic_1_101.deft	 36834	 36837	 B-Term	 T188	 0	 Direct-Defines
-balance	 data/source_txt/t5_economic_1_101.deft	 36838	 36845	 I-Term	 T188	 0	 Direct-Defines
-of	 data/source_txt/t5_economic_1_101.deft	 36846	 36848	 I-Term	 T188	 0	 Direct-Defines
-trade	 data/source_txt/t5_economic_1_101.deft	 36849	 36854	 I-Term	 T188	 0	 Direct-Defines
+The	 data/source_txt/t5_economic_1_101.deft	 36834	 36837	 B-Term	 T188	 0	 0
+balance	 data/source_txt/t5_economic_1_101.deft	 36838	 36845	 I-Term	 T188	 0	 0
+of	 data/source_txt/t5_economic_1_101.deft	 36846	 36848	 I-Term	 T188	 0	 0
+trade	 data/source_txt/t5_economic_1_101.deft	 36849	 36854	 I-Term	 T188	 0	 0
 (	 data/source_txt/t5_economic_1_101.deft	 36855	 36856	 O	 -1	 -1	 0
 or	 data/source_txt/t5_economic_1_101.deft	 36856	 36858	 O	 -1	 -1	 0
 trade	 data/source_txt/t5_economic_1_101.deft	 36859	 36864	 B-Alias-Term	 T189	 T188	 AKA
@@ -6527,8 +6527,8 @@ balance	 data/source_txt/t5_economic_1_101.deft	 38089	 38096	 O	 -1	 -1	 0
 ,	 data/source_txt/t5_economic_1_101.deft	 38096	 38097	 O	 -1	 -1	 0
 labeled	 data/source_txt/t5_economic_1_101.deft	 38098	 38105	 O	 -1	 -1	 0
 “	 data/source_txt/t5_economic_1_101.deft	 38106	 38107	 O	 -1	 -1	 0
-income	 data/source_txt/t5_economic_1_101.deft	 38107	 38113	 B-Term	 T191	 0	 Direct-Defines
-payments	 data/source_txt/t5_economic_1_101.deft	 38114	 38122	 I-Term	 T191	 0	 Direct-Defines
+income	 data/source_txt/t5_economic_1_101.deft	 38107	 38113	 B-Term	 T191	 0	 0
+payments	 data/source_txt/t5_economic_1_101.deft	 38114	 38122	 I-Term	 T191	 0	 0
 ,	 data/source_txt/t5_economic_1_101.deft	 38122	 38123	 O	 -1	 -1	 0
 ”	 data/source_txt/t5_economic_1_101.deft	 38123	 38124	 O	 -1	 -1	 0
 refers	 data/source_txt/t5_economic_1_101.deft	 38125	 38131	 B-Definition	 T192	 T191	 Direct-Defines
@@ -7145,9 +7145,9 @@ Say	 data/source_txt/t5_economic_1_101.deft	 41351	 41354	 O	 -1	 -1	 0
 )	 data/source_txt/t5_economic_1_101.deft	 41365	 41366	 O	 -1	 -1	 0
 .	 data/source_txt/t5_economic_1_101.deft	 41366	 41367	 O	 -1	 -1	 0
 
-Say	 data/source_txt/t5_economic_1_101.deft	 41376	 41379	 B-Term	 T193	 0	 Direct-Defines
-’s	 data/source_txt/t5_economic_1_101.deft	 41379	 41381	 I-Term	 T193	 0	 Direct-Defines
-law	 data/source_txt/t5_economic_1_101.deft	 41382	 41385	 I-Term	 T193	 0	 Direct-Defines
+Say	 data/source_txt/t5_economic_1_101.deft	 41376	 41379	 B-Term	 T193	 0	 0
+’s	 data/source_txt/t5_economic_1_101.deft	 41379	 41381	 I-Term	 T193	 0	 0
+law	 data/source_txt/t5_economic_1_101.deft	 41382	 41385	 I-Term	 T193	 0	 0
 is	 data/source_txt/t5_economic_1_101.deft	 41386	 41388	 O	 -1	 -1	 0
 :	 data/source_txt/t5_economic_1_101.deft	 41388	 41389	 O	 -1	 -1	 0
 “	 data/source_txt/t5_economic_1_101.deft	 41390	 41391	 O	 -1	 -1	 0
@@ -7302,8 +7302,8 @@ of	 data/source_txt/t5_economic_1_101.deft	 42135	 42137	 O	 -1	 -1	 0
 successes	 data/source_txt/t5_economic_1_101.deft	 42138	 42147	 O	 -1	 -1	 0
 .	 data/source_txt/t5_economic_1_101.deft	 42147	 42148	 O	 -1	 -1	 0
 
-A	 data/source_txt/t5_economic_1_101.deft	 42157	 42158	 B-Term	 T195	 0	 Direct-Defines
-recession	 data/source_txt/t5_economic_1_101.deft	 42159	 42168	 I-Term	 T195	 0	 Direct-Defines
+A	 data/source_txt/t5_economic_1_101.deft	 42157	 42158	 B-Term	 T195	 0	 0
+recession	 data/source_txt/t5_economic_1_101.deft	 42159	 42168	 I-Term	 T195	 0	 0
 is	 data/source_txt/t5_economic_1_101.deft	 42169	 42171	 O	 -1	 -1	 0
 a	 data/source_txt/t5_economic_1_101.deft	 42172	 42173	 B-Definition	 T196	 T195	 Direct-Defines
 situation	 data/source_txt/t5_economic_1_101.deft	 42174	 42183	 I-Definition	 T196	 T195	 Direct-Defines

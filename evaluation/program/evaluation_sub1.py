@@ -152,8 +152,10 @@ def write_to_scores(report, output_fname):
     """
     with open(output_fname, 'a+') as scores_file:
 
-        scores_file.write('subtask_1_accuracy: ' + str(report['1']['f1-score']) + '\n')
-
+        if report is not None:
+            scores_file.write('subtask_1_f1-score: ' + str(report['1']['f1-score']) + '\n')
+        else:
+            scores_file.write('subtask_1_f1-score: -1\n')
 
 def task_1_eval_main(ref_path, res_path, output_dir, eval_labels):
     """Evaluate the data
@@ -185,6 +187,7 @@ def task_1_eval_main(ref_path, res_path, output_dir, eval_labels):
     if len(results_files) == 0:
         message = "No subtask 1 files to evaluate."
         warnings.warn(message)
+        write_to_scores(None, Path(output_dir).joinpath('scores.txt'))
         return None
 
     for child in ref_path.iterdir():
