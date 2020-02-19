@@ -178,12 +178,13 @@ def get_gold_and_pred_relations(gold_fname, pred_fname, eval_relations):
     y_gold_rel_pairs = set()  # [(elem1, elem2, rel)]
     y_pred_rel_pairs = set()  # [(elem1, elem2, rel)]
 
+
     with gold_fname.open() as gold_source:
-        gold_reader = csv.reader(gold_source, delimiter="\t")
+        gold_reader = csv.reader(gold_source, dialect=csv.excel_tab, quoting=csv.QUOTE_NONE)
         gold_rows = [row for row in gold_reader if row]
 
     with pred_fname.open() as pred_source:
-        pred_reader = csv.reader(pred_source, delimiter="\t")
+        pred_reader = csv.reader(pred_source, dialect=csv.excel_tab, quoting=csv.QUOTE_NONE)
         pred_rows = [row for row in pred_reader if row]
 
     gold_rows = validate_data(gold_rows, pred_rows, eval_relations)

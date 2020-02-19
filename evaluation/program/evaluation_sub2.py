@@ -125,11 +125,11 @@ def get_gold_and_pred_labels(gold_fname, pred_fname):
         y_pred: list of labels (strings)
     """
     with gold_fname.open() as gold_source:
-        gold_reader = csv.reader(gold_source, delimiter="\t")
+        gold_reader = csv.reader(gold_source, dialect=csv.excel_tab, quoting=csv.QUOTE_NONE)
         gold_rows = [row for row in gold_reader if row]
 
     with pred_fname.open() as pred_source:
-        pred_reader = csv.reader(pred_source, delimiter="\t")
+        pred_reader = csv.reader(pred_source, dialect=csv.excel_tab, quoting=csv.QUOTE_NONE)
         pred_rows = [row for row in pred_reader if row]
 
     validate_data(gold_rows, pred_rows)

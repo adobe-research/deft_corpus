@@ -105,6 +105,7 @@ def get_gold_and_pred_labels(gold_fname, pred_fname):
         y_gold: list of labels (strings)
         y_pred: list of labels (strings)
     """
+
     with gold_fname.open() as gold_source:
         gold_reader = csv.reader(gold_source, delimiter="\t")
         gold_rows = [row for row in gold_reader if row]
