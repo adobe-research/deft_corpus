@@ -150,7 +150,6 @@ def validate_ref_relations(eval_labels, ref_rows):
         validated_rows.append(row)
     return validated_rows
 
-
 def validate_data(gold_rows, pred_rows, eval_relations):
     """Make sure the data is OK
       Inputs:
@@ -166,7 +165,7 @@ def validate_data(gold_rows, pred_rows, eval_relations):
     # validate_relations(gold_rows, pred_rows)
 
 
-def get_gold_and_pred_relations(gold_fname, pred_fname, eval_relations):
+def get_gold_and_pred_relations(gold_fname, pred_fname, eval_relations, eval_labels):
     """Get the relation pairs for evaluation
     Inputs:
         gold_fname: path to .deft file
@@ -189,21 +188,27 @@ def get_gold_and_pred_relations(gold_fname, pred_fname, eval_relations):
 
     gold_rows = validate_data(gold_rows, pred_rows, eval_relations)
 
-
     gold_relation_rows = [row for row in gold_rows if has_relation(row)]
     pred_relation_rows = [row for row in pred_rows if has_relation(row)]
 
+
+
     for row in gold_relation_rows:
+        if row[4].strip() not in eval_labels:
+            continue
         relation = get_relation(row)
         relation_from = get_relation_from(row)
         relation_to = get_relation_to(row)
         y_gold_rel_pairs.add((relation_from, relation_to, relation))
 
     for row in pred_relation_rows:
+        if row[4].strip() not in eval_labels:
+            continue
         relation = get_relation(row)
         relation_from = get_relation_from(row)
         relation_to = get_relation_to(row)
         y_pred_rel_pairs.add((relation_from, relation_to, relation))
+
     return y_gold_rel_pairs, y_pred_rel_pairs
 
 
@@ -275,7 +280,7 @@ def write_to_scores(report, output_fname):
             scores_file.write('subtask_3_f1-score_macro: -1\n')
 
 
-def task_3_eval_main(ref_path, res_path,  output_dir, eval_relations):
+def task_3_eval_main(ref_path, res_path,  output_dir, eval_relations, eval_labels):
     """Evaluate the data
     Inputs:
         gold_fname: path of .deft file
@@ -298,7 +303,7 @@ def task_3_eval_main(ref_path, res_path,  output_dir, eval_relations):
                 message = "Expected submission file '{0}', found files {1}"
                 sys.exit(message.format(child, os.listdir(child.parents[0])))
 
-            temp_y_gold, temp_y_pred = get_gold_and_pred_relations(ref_path.joinpath(child.name), child, eval_relations)
+            temp_y_gold, temp_y_pred = get_gold_and_pred_relations(ref_path.joinpath(child.name), child, eval_relations, eval_labels)
             y_gold.extend(temp_y_gold)
             y_pred.extend(temp_y_pred)
 
