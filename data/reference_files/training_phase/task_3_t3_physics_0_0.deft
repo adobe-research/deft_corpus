@@ -1,9 +1,9 @@
 2755	 data/source_txt/t3_physics_0_0.deft	 12015	 12019	 O	 -1	 -1	 0
 .	 data/source_txt/t3_physics_0_0.deft	 12019	 12020	 O	 -1	 -1	 0
 
-Conservation	 data/source_txt/t3_physics_0_0.deft	 12030	 12042	 B-Term	 T88	 0	 Direct-Defines
-of	 data/source_txt/t3_physics_0_0.deft	 12043	 12045	 I-Term	 T88	 0	 Direct-Defines
-energy	 data/source_txt/t3_physics_0_0.deft	 12046	 12052	 I-Term	 T88	 0	 Direct-Defines
+Conservation	 data/source_txt/t3_physics_0_0.deft	 12030	 12042	 B-Term	 T88	 0	 0
+of	 data/source_txt/t3_physics_0_0.deft	 12043	 12045	 I-Term	 T88	 0	 0
+energy	 data/source_txt/t3_physics_0_0.deft	 12046	 12052	 I-Term	 T88	 0	 0
 (	 data/source_txt/t3_physics_0_0.deft	 12053	 12054	 O	 -1	 -1	 0
 as	 data/source_txt/t3_physics_0_0.deft	 12054	 12056	 O	 -1	 -1	 0
 physicists	 data/source_txt/t3_physics_0_0.deft	 12057	 12067	 O	 -1	 -1	 0
@@ -60,9 +60,9 @@ the	 data/source_txt/t3_physics_0_0.deft	 13150	 13153	 O	 -1	 -1	 0
 work	 data/source_txt/t3_physics_0_0.deft	 13154	 13158	 O	 -1	 -1	 0
 done	 data/source_txt/t3_physics_0_0.deft	 13159	 13163	 O	 -1	 -1	 0
 by	 data/source_txt/t3_physics_0_0.deft	 13164	 13166	 O	 -1	 -1	 0
-a	 data/source_txt/t3_physics_0_0.deft	 13167	 13168	 B-Term	 T96	 0	 Direct-Defines
-nonconservative	 data/source_txt/t3_physics_0_0.deft	 13169	 13184	 I-Term	 T96	 0	 Direct-Defines
-force	 data/source_txt/t3_physics_0_0.deft	 13185	 13190	 I-Term	 T96	 0	 Direct-Defines
+a	 data/source_txt/t3_physics_0_0.deft	 13167	 13168	 B-Term	 T96	 0	 0
+nonconservative	 data/source_txt/t3_physics_0_0.deft	 13169	 13184	 I-Term	 T96	 0	 0
+force	 data/source_txt/t3_physics_0_0.deft	 13185	 13190	 I-Term	 T96	 0	 0
 adds	 data/source_txt/t3_physics_0_0.deft	 13191	 13195	 B-Definition	 T97	 T96	 Direct-Defines
 or	 data/source_txt/t3_physics_0_0.deft	 13196	 13198	 I-Definition	 T97	 T96	 Direct-Defines
 removes	 data/source_txt/t3_physics_0_0.deft	 13199	 13206	 I-Definition	 T97	 T96	 Direct-Defines

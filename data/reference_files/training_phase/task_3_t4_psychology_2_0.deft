@@ -16,7 +16,7 @@ are	 data/source_txt/t4_psychology_2_0.deft	 1436	 1439	 O	 -1	 -1	 0
 said	 data/source_txt/t4_psychology_2_0.deft	 1440	 1444	 O	 -1	 -1	 0
 to	 data/source_txt/t4_psychology_2_0.deft	 1445	 1447	 O	 -1	 -1	 0
 be	 data/source_txt/t4_psychology_2_0.deft	 1448	 1450	 O	 -1	 -1	 0
-homozygous	 data/source_txt/t4_psychology_2_0.deft	 1451	 1461	 B-Term	 T7	 0	 Direct-Defines
+homozygous	 data/source_txt/t4_psychology_2_0.deft	 1451	 1461	 B-Term	 T7	 0	 0
 for	 data/source_txt/t4_psychology_2_0.deft	 1462	 1465	 O	 -1	 -1	 0
 that	 data/source_txt/t4_psychology_2_0.deft	 1466	 1470	 O	 -1	 -1	 0
 allele	 data/source_txt/t4_psychology_2_0.deft	 1471	 1477	 O	 -1	 -1	 0
@@ -39,7 +39,7 @@ are	 data/source_txt/t4_psychology_2_0.deft	 1552	 1555	 O	 -1	 -1	 0
 said	 data/source_txt/t4_psychology_2_0.deft	 1556	 1560	 O	 -1	 -1	 0
 to	 data/source_txt/t4_psychology_2_0.deft	 1561	 1563	 O	 -1	 -1	 0
 be	 data/source_txt/t4_psychology_2_0.deft	 1564	 1566	 O	 -1	 -1	 0
-heterozygous	 data/source_txt/t4_psychology_2_0.deft	 1567	 1579	 B-Term	 T9	 0	 Direct-Defines
+heterozygous	 data/source_txt/t4_psychology_2_0.deft	 1567	 1579	 B-Term	 T9	 0	 0
 .	 data/source_txt/t4_psychology_2_0.deft	 1579	 1580	 O	 -1	 -1	 0
 
 For	 data/source_txt/t4_psychology_2_0.deft	 1587	 1590	 O	 -1	 -1	 0

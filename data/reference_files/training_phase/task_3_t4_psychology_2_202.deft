@@ -186,10 +186,10 @@ Cacioppo	 data/source_txt/t4_psychology_2_202.deft	 11826	 11834	 O	 -1	 -1	 0
 )	 data/source_txt/t4_psychology_2_202.deft	 11840	 11841	 O	 -1	 -1	 0
 .	 data/source_txt/t4_psychology_2_202.deft	 11841	 11842	 O	 -1	 -1	 0
 
-The	 data/source_txt/t4_psychology_2_202.deft	 11851	 11854	 B-Term	 T67	 0	 Direct-Defines
-elaboration	 data/source_txt/t4_psychology_2_202.deft	 11855	 11866	 I-Term	 T67	 0	 Direct-Defines
-likelihood	 data/source_txt/t4_psychology_2_202.deft	 11867	 11877	 I-Term	 T67	 0	 Direct-Defines
-model	 data/source_txt/t4_psychology_2_202.deft	 11878	 11883	 I-Term	 T67	 0	 Direct-Defines
+The	 data/source_txt/t4_psychology_2_202.deft	 11851	 11854	 B-Term	 T67	 0	 0
+elaboration	 data/source_txt/t4_psychology_2_202.deft	 11855	 11866	 I-Term	 T67	 0	 0
+likelihood	 data/source_txt/t4_psychology_2_202.deft	 11867	 11877	 I-Term	 T67	 0	 0
+model	 data/source_txt/t4_psychology_2_202.deft	 11878	 11883	 I-Term	 T67	 0	 0
 considers	 data/source_txt/t4_psychology_2_202.deft	 11884	 11893	 B-Definition	 T68	 T67	 Direct-Defines
 the	 data/source_txt/t4_psychology_2_202.deft	 11894	 11897	 I-Definition	 T68	 T67	 Direct-Defines
 variables	 data/source_txt/t4_psychology_2_202.deft	 11898	 11907	 I-Definition	 T68	 T67	 Direct-Defines
@@ -271,9 +271,9 @@ link	 data/source_txt/t4_psychology_2_202.deft	 12286	 12290	 O	 -1	 -1	 0
 .	 data/source_txt/t4_psychology_2_202.deft	 13211	 13212	 O	 -1	 -1	 0
 
 In	 data/source_txt/t4_psychology_2_202.deft	 13221	 13223	 O	 -1	 -1	 0
-normative	 data/source_txt/t4_psychology_2_202.deft	 13224	 13233	 B-Term	 T73	 0	 Direct-Defines
-social	 data/source_txt/t4_psychology_2_202.deft	 13234	 13240	 I-Term	 T73	 0	 Direct-Defines
-influence	 data/source_txt/t4_psychology_2_202.deft	 13241	 13250	 I-Term	 T73	 0	 Direct-Defines
+normative	 data/source_txt/t4_psychology_2_202.deft	 13224	 13233	 B-Term	 T73	 0	 0
+social	 data/source_txt/t4_psychology_2_202.deft	 13234	 13240	 I-Term	 T73	 0	 0
+influence	 data/source_txt/t4_psychology_2_202.deft	 13241	 13250	 I-Term	 T73	 0	 0
 ,	 data/source_txt/t4_psychology_2_202.deft	 13250	 13251	 O	 -1	 -1	 0
 people	 data/source_txt/t4_psychology_2_202.deft	 13252	 13258	 B-Definition	 T74	 T73	 Direct-Defines
 conform	 data/source_txt/t4_psychology_2_202.deft	 13259	 13266	 I-Definition	 T74	 T73	 Direct-Defines
@@ -301,9 +301,9 @@ group	 data/source_txt/t4_psychology_2_202.deft	 13336	 13341	 I-Definition	 T74
 However	 data/source_txt/t4_psychology_2_202.deft	 13349	 13356	 O	 -1	 -1	 0
 ,	 data/source_txt/t4_psychology_2_202.deft	 13356	 13357	 O	 -1	 -1	 0
 with	 data/source_txt/t4_psychology_2_202.deft	 13358	 13362	 O	 -1	 -1	 0
-informational	 data/source_txt/t4_psychology_2_202.deft	 13363	 13376	 B-Term	 T75	 0	 Direct-Defines
-social	 data/source_txt/t4_psychology_2_202.deft	 13377	 13383	 I-Term	 T75	 0	 Direct-Defines
-influence	 data/source_txt/t4_psychology_2_202.deft	 13384	 13393	 I-Term	 T75	 0	 Direct-Defines
+informational	 data/source_txt/t4_psychology_2_202.deft	 13363	 13376	 B-Term	 T75	 0	 0
+social	 data/source_txt/t4_psychology_2_202.deft	 13377	 13383	 I-Term	 T75	 0	 0
+influence	 data/source_txt/t4_psychology_2_202.deft	 13384	 13393	 I-Term	 T75	 0	 0
 ,	 data/source_txt/t4_psychology_2_202.deft	 13393	 13394	 O	 -1	 -1	 0
 people	 data/source_txt/t4_psychology_2_202.deft	 13395	 13401	 B-Definition	 T76	 T75	 Direct-Defines
 conform	 data/source_txt/t4_psychology_2_202.deft	 13402	 13409	 I-Definition	 T76	 T75	 Direct-Defines
@@ -356,7 +356,7 @@ expectations	 data/source_txt/t4_psychology_2_202.deft	 16970	 16982	 O	 -1	 -1	
 can	 data/source_txt/t4_psychology_2_202.deft	 16983	 16986	 O	 -1	 -1	 0
 lead	 data/source_txt/t4_psychology_2_202.deft	 16987	 16991	 O	 -1	 -1	 0
 to	 data/source_txt/t4_psychology_2_202.deft	 16992	 16994	 O	 -1	 -1	 0
-ageism	 data/source_txt/t4_psychology_2_202.deft	 16995	 17001	 B-Term	 T89	 0	 Direct-Defines
+ageism	 data/source_txt/t4_psychology_2_202.deft	 16995	 17001	 B-Term	 T89	 0	 0
 ,	 data/source_txt/t4_psychology_2_202.deft	 17001	 17002	 O	 -1	 -1	 0
 or	 data/source_txt/t4_psychology_2_202.deft	 17003	 17005	 O	 -1	 -1	 0
 prejudice	 data/source_txt/t4_psychology_2_202.deft	 17006	 17015	 B-Definition	 T90	 T89	 Direct-Defines

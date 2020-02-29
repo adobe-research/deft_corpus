@@ -78,7 +78,7 @@ Fruits	 data/source_txt/t1_biology_1_303.deft	 3256	 3262	 O	 -1	 -1	 0
 as	 data/source_txt/t1_biology_1_303.deft	 3263	 3265	 O	 -1	 -1	 0
 an	 data/source_txt/t1_biology_1_303.deft	 3266	 3268	 O	 -1	 -1	 0
 Evolutionary	 data/source_txt/t1_biology_1_303.deft	 3269	 3281	 O	 -1	 -1	 0
-AdaptationAngiosperms	 data/source_txt/t1_biology_1_303.deft	 3282	 3303	 B-Term	 T30	 0	 Direct-Defines
+AdaptationAngiosperms	 data/source_txt/t1_biology_1_303.deft	 3282	 3303	 B-Term	 T30	 0	 0
 produce	 data/source_txt/t1_biology_1_303.deft	 3304	 3311	 B-Definition	 T31	 T30	 Direct-Defines
 their	 data/source_txt/t1_biology_1_303.deft	 3312	 3317	 I-Definition	 T31	 T30	 Direct-Defines
 gametes	 data/source_txt/t1_biology_1_303.deft	 3318	 3325	 I-Definition	 T31	 T30	 Direct-Defines
@@ -136,8 +136,8 @@ next	 data/source_txt/t1_biology_1_303.deft	 3852	 3856	 O	 -1	 -1	 0
 developmental	 data/source_txt/t1_biology_1_303.deft	 3857	 3870	 O	 -1	 -1	 0
 stage	 data/source_txt/t1_biology_1_303.deft	 3871	 3876	 O	 -1	 -1	 0
 ,	 data/source_txt/t1_biology_1_303.deft	 3876	 3877	 O	 -1	 -1	 0
-the	 data/source_txt/t1_biology_1_303.deft	 3878	 3881	 B-Term	 T34	 0	 Direct-Defines
-gastrula	 data/source_txt/t1_biology_1_303.deft	 3882	 3890	 I-Term	 T34	 0	 Direct-Defines
+the	 data/source_txt/t1_biology_1_303.deft	 3878	 3881	 B-Term	 T34	 0	 0
+gastrula	 data/source_txt/t1_biology_1_303.deft	 3882	 3890	 I-Term	 T34	 0	 0
 ,	 data/source_txt/t1_biology_1_303.deft	 3890	 3891	 O	 -1	 -1	 0
 in	 data/source_txt/t1_biology_1_303.deft	 3892	 3894	 O	 -1	 -1	 0
 which	 data/source_txt/t1_biology_1_303.deft	 3895	 3900	 O	 -1	 -1	 0
@@ -160,7 +160,7 @@ layers	 data/source_txt/t1_biology_1_303.deft	 3983	 3989	 I-Definition	 T38	 T3
 are	 data/source_txt/t1_biology_1_303.deft	 3991	 3994	 I-Definition	 T38	 T39	 Direct-Defines
 formed	 data/source_txt/t1_biology_1_303.deft	 3995	 4001	 I-Definition	 T38	 T39	 Direct-Defines
 during	 data/source_txt/t1_biology_1_303.deft	 4002	 4008	 O	 -1	 -1	 0
-gastrulation	 data/source_txt/t1_biology_1_303.deft	 4009	 4021	 B-Term	 T39	 0	 Direct-Defines
+gastrulation	 data/source_txt/t1_biology_1_303.deft	 4009	 4021	 B-Term	 T39	 0	 0
 .	 data/source_txt/t1_biology_1_303.deft	 4021	 4022	 O	 -1	 -1	 0
 
 These	 data/source_txt/t1_biology_1_303.deft	 4029	 4034	 O	 -1	 -1	 0
@@ -220,8 +220,8 @@ animal	 data/source_txt/t1_biology_1_303.deft	 4312	 4318	 O	 -1	 -1	 0
 ’s	 data/source_txt/t1_biology_1_303.deft	 4318	 4320	 O	 -1	 -1	 0
 lifestyle	 data/source_txt/t1_biology_1_303.deft	 4321	 4330	 O	 -1	 -1	 0
 .	 data/source_txt/t1_biology_1_303.deft	 4330	 4331	 O	 -1	 -1	 0
-Radial	 data/source_txt/t1_biology_1_303.deft	 4331	 4337	 B-Term	 T36	 0	 Direct-Defines
-symmetry	 data/source_txt/t1_biology_1_303.deft	 4338	 4346	 I-Term	 T36	 0	 Direct-Defines
+Radial	 data/source_txt/t1_biology_1_303.deft	 4331	 4337	 B-Term	 T36	 0	 0
+symmetry	 data/source_txt/t1_biology_1_303.deft	 4338	 4346	 I-Term	 T36	 0	 0
 is	 data/source_txt/t1_biology_1_303.deft	 4347	 4349	 O	 -1	 -1	 0
 the	 data/source_txt/t1_biology_1_303.deft	 4350	 4353	 B-Definition	 T37	 T36	 Direct-Defines
 arrangement	 data/source_txt/t1_biology_1_303.deft	 4354	 4365	 I-Definition	 T37	 T36	 Direct-Defines
@@ -293,7 +293,7 @@ true	 data/source_txt/t1_biology_1_303.deft	 4922	 4926	 I-Definition	 T48	 T49	
 coelom	 data/source_txt/t1_biology_1_303.deft	 4927	 4933	 I-Definition	 T48	 T49	 Direct-Defines
 are	 data/source_txt/t1_biology_1_303.deft	 4934	 4937	 O	 -1	 -1	 0
 called	 data/source_txt/t1_biology_1_303.deft	 4938	 4944	 O	 -1	 -1	 0
-eucoelomates	 data/source_txt/t1_biology_1_303.deft	 4945	 4957	 B-Term	 T49	 0	 AKA
+eucoelomates	 data/source_txt/t1_biology_1_303.deft	 4945	 4957	 B-Term	 T49	 0	 0
 (	 data/source_txt/t1_biology_1_303.deft	 4958	 4959	 O	 -1	 -1	 0
 or	 data/source_txt/t1_biology_1_303.deft	 4959	 4961	 O	 -1	 -1	 0
 coelomates	 data/source_txt/t1_biology_1_303.deft	 4962	 4972	 B-Alias-Term	 T50	 T49	 AKA
@@ -305,9 +305,9 @@ link	 data/source_txt/t1_biology_1_303.deft	 4976	 4980	 O	 -1	 -1	 0
 )	 data/source_txt/t1_biology_1_303.deft	 4981	 4982	 O	 -1	 -1	 0
 .	 data/source_txt/t1_biology_1_303.deft	 4982	 4983	 O	 -1	 -1	 0
 
-A	 data/source_txt/t1_biology_1_303.deft	 4990	 4991	 B-Term	 T51	 0	 Direct-Defines
-true	 data/source_txt/t1_biology_1_303.deft	 4992	 4996	 I-Term	 T51	 0	 Direct-Defines
-coelom	 data/source_txt/t1_biology_1_303.deft	 4997	 5003	 I-Term	 T51	 0	 Direct-Defines
+A	 data/source_txt/t1_biology_1_303.deft	 4990	 4991	 B-Term	 T51	 0	 0
+true	 data/source_txt/t1_biology_1_303.deft	 4992	 4996	 I-Term	 T51	 0	 0
+coelom	 data/source_txt/t1_biology_1_303.deft	 4997	 5003	 I-Term	 T51	 0	 0
 arises	 data/source_txt/t1_biology_1_303.deft	 5004	 5010	 B-Definition	 T52	 T51	 Direct-Defines
 entirely	 data/source_txt/t1_biology_1_303.deft	 5011	 5019	 I-Definition	 T52	 T51	 Direct-Defines
 within	 data/source_txt/t1_biology_1_303.deft	 5020	 5026	 I-Definition	 T52	 T51	 Direct-Defines
@@ -339,7 +339,7 @@ through	 data/source_txt/t1_biology_1_303.deft	 5438	 5445	 O	 -1	 -1	 0
 a	 data/source_txt/t1_biology_1_303.deft	 5446	 5447	 O	 -1	 -1	 0
 process	 data/source_txt/t1_biology_1_303.deft	 5448	 5455	 O	 -1	 -1	 0
 called	 data/source_txt/t1_biology_1_303.deft	 5456	 5462	 O	 -1	 -1	 0
-schizocoely	 data/source_txt/t1_biology_1_303.deft	 5463	 5474	 B-Term	 T53	 0	 Direct-Defines
+schizocoely	 data/source_txt/t1_biology_1_303.deft	 5463	 5474	 B-Term	 T53	 0	 0
 ,	 data/source_txt/t1_biology_1_303.deft	 5474	 5475	 O	 -1	 -1	 0
 meaning	 data/source_txt/t1_biology_1_303.deft	 5476	 5483	 O	 -1	 -1	 0
 that	 data/source_txt/t1_biology_1_303.deft	 5484	 5488	 O	 -1	 -1	 0
@@ -375,7 +375,7 @@ through	 data/source_txt/t1_biology_1_303.deft	 5651	 5658	 O	 -1	 -1	 0
 a	 data/source_txt/t1_biology_1_303.deft	 5659	 5660	 O	 -1	 -1	 0
 process	 data/source_txt/t1_biology_1_303.deft	 5661	 5668	 O	 -1	 -1	 0
 called	 data/source_txt/t1_biology_1_303.deft	 5669	 5675	 O	 -1	 -1	 0
-enterocoely	 data/source_txt/t1_biology_1_303.deft	 5676	 5687	 B-Term	 T55	 0	 Refers-To
+enterocoely	 data/source_txt/t1_biology_1_303.deft	 5676	 5687	 B-Term	 T55	 0	 0
 .	 data/source_txt/t1_biology_1_303.deft	 5687	 5688	 O	 -1	 -1	 0
 
 Here	 data/source_txt/t1_biology_1_303.deft	 5695	 5699	 B-Referential-Term	 T56	 T55	 Refers-To
@@ -424,11 +424,11 @@ cleavage	 data/source_txt/t1_biology_1_303.deft	 5913	 5921	 O	 -1	 -1	 0
 protostomes	 data/source_txt/t1_biology_1_303.deft	 5923	 5934	 O	 -1	 -1	 0
 also	 data/source_txt/t1_biology_1_303.deft	 5935	 5939	 O	 -1	 -1	 0
 undergo	 data/source_txt/t1_biology_1_303.deft	 5940	 5947	 O	 -1	 -1	 0
-determinate	 data/source_txt/t1_biology_1_303.deft	 5948	 5959	 B-Term	 T58	 0	 Refers-To
-cleavage	 data/source_txt/t1_biology_1_303.deft	 5960	 5968	 I-Term	 T58	 0	 Refers-To
+determinate	 data/source_txt/t1_biology_1_303.deft	 5948	 5959	 B-Term	 T58	 0	 0
+cleavage	 data/source_txt/t1_biology_1_303.deft	 5960	 5968	 I-Term	 T58	 0	 0
 .	 data/source_txt/t1_biology_1_303.deft	 5968	 5969	 O	 -1	 -1	 0
 
-This	 data/source_txt/t1_biology_1_303.deft	 5976	 5980	 B-Referential-Term	 T59	 0	 Indirect-Defines
+This	 data/source_txt/t1_biology_1_303.deft	 5976	 5980	 B-Referential-Term	 T59	 T58	 Refers-To
 means	 data/source_txt/t1_biology_1_303.deft	 5981	 5986	 O	 -1	 -1	 0
 that	 data/source_txt/t1_biology_1_303.deft	 5987	 5991	 O	 -1	 -1	 0
 even	 data/source_txt/t1_biology_1_303.deft	 5992	 5996	 B-Definition	 T60	 T59	 Indirect-Defines
@@ -453,8 +453,8 @@ determined	 data/source_txt/t1_biology_1_303.deft	 6075	 6085	 I-Definition	 T60
 970	 data/source_txt/t1_biology_1_303.deft	 7082	 7085	 O	 -1	 -1	 0
 .	 data/source_txt/t1_biology_1_303.deft	 7085	 7086	 O	 -1	 -1	 0
 
-The	 data/source_txt/t1_biology_1_303.deft	 7095	 7098	 B-Term	 T63	 0	 Direct-Defines
-invertebrates	 data/source_txt/t1_biology_1_303.deft	 7099	 7112	 I-Term	 T63	 0	 Direct-Defines
+The	 data/source_txt/t1_biology_1_303.deft	 7095	 7098	 B-Term	 T63	 0	 0
+invertebrates	 data/source_txt/t1_biology_1_303.deft	 7099	 7112	 I-Term	 T63	 0	 0
 ,	 data/source_txt/t1_biology_1_303.deft	 7112	 7113	 O	 -1	 -1	 0
 or	 data/source_txt/t1_biology_1_303.deft	 7114	 7116	 O	 -1	 -1	 0
 invertebrata	 data/source_txt/t1_biology_1_303.deft	 7117	 7129	 B-Alias-Term	 T64	 T63	 AKA

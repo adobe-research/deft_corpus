@@ -39,6 +39,19 @@ macroeconomic	 data/source_txt/t5_economic_2_202.deft	 188	 201	 I-Definition	 T
 level	 data/source_txt/t5_economic_2_202.deft	 202	 207	 I-Definition	 T2	 0	 0
 .	 data/source_txt/t5_economic_2_202.deft	 207	 208	 O	 -1	 -1	 0
 
+This	 data/source_txt/t5_economic_2_202.deft	 217	 221	 B-Referential-Definition	 T3	 T2	 Refers-To
+model	 data/source_txt/t5_economic_2_202.deft	 222	 227	 I-Referential-Definition	 T3	 T2	 Refers-To
+is	 data/source_txt/t5_economic_2_202.deft	 228	 230	 O	 -1	 -1	 0
+called	 data/source_txt/t5_economic_2_202.deft	 231	 237	 O	 -1	 -1	 0
+the	 data/source_txt/t5_economic_2_202.deft	 238	 241	 B-Term	 T1	 0	 0
+aggregate	 data/source_txt/t5_economic_2_202.deft	 242	 251	 I-Term	 T1	 0	 0
+demand	 data/source_txt/t5_economic_2_202.deft	 252	 258	 I-Term	 T1	 0	 0
+/	 data/source_txt/t5_economic_2_202.deft	 258	 259	 I-Term	 T1	 0	 0
+aggregate	 data/source_txt/t5_economic_2_202.deft	 259	 268	 I-Term	 T1	 0	 0
+supply	 data/source_txt/t5_economic_2_202.deft	 269	 275	 I-Term	 T1	 0	 0
+model	 data/source_txt/t5_economic_2_202.deft	 276	 281	 I-Term	 T1	 0	 0
+.	 data/source_txt/t5_economic_2_202.deft	 281	 282	 O	 -1	 -1	 0
+
 This	 data/source_txt/t5_economic_2_202.deft	 217	 221	 B-Referential-Definition	 T3	 T1	 Indirect-Defines
 model	 data/source_txt/t5_economic_2_202.deft	 222	 227	 I-Referential-Definition	 T3	 T1	 Indirect-Defines
 is	 data/source_txt/t5_economic_2_202.deft	 228	 230	 O	 -1	 -1	 0
@@ -49,7 +62,7 @@ demand	 data/source_txt/t5_economic_2_202.deft	 252	 258	 I-Term	 T1	 0	 0
 /	 data/source_txt/t5_economic_2_202.deft	 258	 259	 I-Term	 T1	 0	 0
 aggregate	 data/source_txt/t5_economic_2_202.deft	 259	 268	 I-Term	 T1	 0	 0
 supply	 data/source_txt/t5_economic_2_202.deft	 269	 275	 I-Term	 T1	 0	 0
-model	 data/source_txt/t5_economic_2_202.deft	 276	 281	 I-Term	 T1	 0	 0
+model	 data/source_txt/t5_economic_2_202.deft	 222	 227	 I-Referential-Definition	 T3	 T1	 Indirect-Defines
 .	 data/source_txt/t5_economic_2_202.deft	 281	 282	 O	 -1	 -1	 0
 
 This	 data/source_txt/t5_economic_2_202.deft	 289	 293	 O	 -1	 -1	 0
@@ -3487,6 +3500,48 @@ the	 data/source_txt/t5_economic_2_202.deft	 19337	 19340	 O	 -1	 -1	 0
 bank	 data/source_txt/t5_economic_2_202.deft	 19341	 19345	 O	 -1	 -1	 0
 run	 data/source_txt/t5_economic_2_202.deft	 19346	 19349	 O	 -1	 -1	 0
 .	 data/source_txt/t5_economic_2_202.deft	 19349	 19350	 O	 -1	 -1	 0
+
+In	 data/source_txt/t5_economic_2_202.deft	 19182	 19184	 B-Definition	 T141	 T140	 Direct-Defines
+the	 data/source_txt/t5_economic_2_202.deft	 19185	 19188	 I-Definition	 T141	 T140	 Direct-Defines
+event	 data/source_txt/t5_economic_2_202.deft	 19189	 19194	 I-Definition	 T141	 T140	 Direct-Defines
+of	 data/source_txt/t5_economic_2_202.deft	 19195	 19197	 I-Definition	 T141	 T140	 Direct-Defines
+a	 data/source_txt/t5_economic_2_202.deft	 19198	 19199	 I-Definition	 T141	 T140	 Direct-Defines
+bank	 data/source_txt/t5_economic_2_202.deft	 19200	 19204	 I-Definition	 T141	 T140	 Direct-Defines
+run	 data/source_txt/t5_economic_2_202.deft	 19205	 19208	 I-Definition	 T141	 T140	 Direct-Defines
+,	 data/source_txt/t5_economic_2_202.deft	 19208	 19209	 I-Definition	 T141	 T140	 Direct-Defines
+sound	 data/source_txt/t5_economic_2_202.deft	 19210	 19215	 I-Definition	 T141	 T140	 Direct-Defines
+banks	 data/source_txt/t5_economic_2_202.deft	 19216	 19221	 I-Definition	 T141	 T140	 Direct-Defines
+,	 data/source_txt/t5_economic_2_202.deft	 19221	 19222	 I-Definition	 T141	 T140	 Direct-Defines
+(	 data/source_txt/t5_economic_2_202.deft	 19223	 19224	 I-Definition	 T141	 T140	 Direct-Defines
+banks	 data/source_txt/t5_economic_2_202.deft	 19224	 19229	 I-Definition	 T141	 T140	 Direct-Defines
+that	 data/source_txt/t5_economic_2_202.deft	 19230	 19234	 I-Definition	 T141	 T140	 Direct-Defines
+were	 data/source_txt/t5_economic_2_202.deft	 19235	 19239	 I-Definition	 T141	 T140	 Direct-Defines
+not	 data/source_txt/t5_economic_2_202.deft	 19240	 19243	 I-Definition	 T141	 T140	 Direct-Defines
+bankrupt	 data/source_txt/t5_economic_2_202.deft	 19244	 19252	 I-Definition	 T141	 T140	 Direct-Defines
+)	 data/source_txt/t5_economic_2_202.deft	 19252	 19253	 I-Definition	 T141	 T140	 Direct-Defines
+could	 data/source_txt/t5_economic_2_202.deft	 19254	 19259	 I-Definition	 T141	 T140	 Direct-Defines
+borrow	 data/source_txt/t5_economic_2_202.deft	 19260	 19266	 I-Definition	 T141	 T140	 Direct-Defines
+as	 data/source_txt/t5_economic_2_202.deft	 19267	 19269	 I-Definition	 T141	 T140	 Direct-Defines
+much	 data/source_txt/t5_economic_2_202.deft	 19270	 19274	 I-Definition	 T141	 T140	 Direct-Defines
+cash	 data/source_txt/t5_economic_2_202.deft	 19275	 19279	 I-Definition	 T141	 T140	 Direct-Defines
+as	 data/source_txt/t5_economic_2_202.deft	 19280	 19282	 I-Definition	 T141	 T140	 Direct-Defines
+they	 data/source_txt/t5_economic_2_202.deft	 19283	 19287	 I-Definition	 T141	 T140	 Direct-Defines
+needed	 data/source_txt/t5_economic_2_202.deft	 19288	 19294	 I-Definition	 T141	 T140	 Direct-Defines
+from	 data/source_txt/t5_economic_2_202.deft	 19295	 19299	 I-Definition	 T141	 T140	 Direct-Defines
+the	 data/source_txt/t5_economic_2_202.deft	 19300	 19303	 I-Definition	 T141	 T140	 Direct-Defines
+Fed	 data/source_txt/t5_economic_2_202.deft	 19304	 19307	 I-Definition	 T141	 T140	 Direct-Defines
+’s	 data/source_txt/t5_economic_2_202.deft	 19307	 19309	 I-Definition	 T141	 T140	 Direct-Defines
+discount	 data/source_txt/t5_economic_2_202.deft	 19310	 19318	 I-Definition	 T141	 T140	 Direct-Defines
+“	 data/source_txt/t5_economic_2_202.deft	 19319	 19320	 I-Definition	 T141	 T140	 Direct-Defines
+window	 data/source_txt/t5_economic_2_202.deft	 19320	 19326	 I-Definition	 T141	 T140	 Direct-Defines
+”	 data/source_txt/t5_economic_2_202.deft	 19326	 19327	 I-Definition	 T141	 T140	 Direct-Defines
+to	 data/source_txt/t5_economic_2_202.deft	 19328	 19330	 I-Definition	 T141	 T140	 Direct-Defines
+quell	 data/source_txt/t5_economic_2_202.deft	 19331	 19336	 I-Definition	 T141	 T140	 Direct-Defines
+the	 data/source_txt/t5_economic_2_202.deft	 19337	 19340	 I-Definition	 T141	 T140	 Direct-Defines
+bank	 data/source_txt/t5_economic_2_202.deft	 19341	 19345	 I-Definition	 T141	 T140	 Direct-Defines
+run	 data/source_txt/t5_economic_2_202.deft	 19346	 19349	 I-Definition	 T141	 T140	 Direct-Defines
+.	 data/source_txt/t5_economic_2_202.deft	 19349	 19350	 O	 -1	 -1	 0
+
 The	 data/source_txt/t5_economic_2_202.deft	 19359	 19362	 B-Definition	 T76	 T75	 Direct-Defines
 interest	 data/source_txt/t5_economic_2_202.deft	 19363	 19371	 I-Definition	 T76	 T75	 Direct-Defines
 rate	 data/source_txt/t5_economic_2_202.deft	 19372	 19376	 I-Definition	 T76	 T75	 Direct-Defines
@@ -4454,6 +4509,27 @@ service	 data/source_txt/t5_economic_2_202.deft	 25330	 25337	 I-Definition	 T93
 to	 data/source_txt/t5_economic_2_202.deft	 25338	 25340	 I-Definition	 T93	 0	 0
 customers	 data/source_txt/t5_economic_2_202.deft	 25341	 25350	 I-Definition	 T93	 0	 0
 .	 data/source_txt/t5_economic_2_202.deft	 25350	 25351	 O	 -1	 -1	 0
+
+These	 data/source_txt/t5_economic_2_202.deft	 25360	 25365	 B-Referential-Definition	 T94	 T93	 Refers-To
+banks	 data/source_txt/t5_economic_2_202.deft	 25366	 25371	 I-Referential-Definition	 T94	 T93	 Refers-To
+(	 data/source_txt/t5_economic_2_202.deft	 25372	 25373	 O	 -1	 -1	 0
+and	 data/source_txt/t5_economic_2_202.deft	 25373	 25376	 O	 -1	 -1	 0
+a	 data/source_txt/t5_economic_2_202.deft	 25377	 25378	 O	 -1	 -1	 0
+few	 data/source_txt/t5_economic_2_202.deft	 25379	 25382	 O	 -1	 -1	 0
+other	 data/source_txt/t5_economic_2_202.deft	 25383	 25388	 O	 -1	 -1	 0
+firms	 data/source_txt/t5_economic_2_202.deft	 25389	 25394	 O	 -1	 -1	 0
+)	 data/source_txt/t5_economic_2_202.deft	 25394	 25395	 O	 -1	 -1	 0
+,	 data/source_txt/t5_economic_2_202.deft	 25395	 25396	 O	 -1	 -1	 0
+known	 data/source_txt/t5_economic_2_202.deft	 25397	 25402	 O	 -1	 -1	 0
+as	 data/source_txt/t5_economic_2_202.deft	 25403	 25405	 O	 -1	 -1	 0
+dealers	 data/source_txt/t5_economic_2_202.deft	 25406	 25413	 B-Term	 T92	 0	 0
+,	 data/source_txt/t5_economic_2_202.deft	 25413	 25414	 O	 -1	 -1	 0
+then	 data/source_txt/t5_economic_2_202.deft	 25415	 25419	 O	 -1	 -1	 0
+trade	 data/source_txt/t5_economic_2_202.deft	 25420	 25425	 O	 -1	 -1	 0
+the	 data/source_txt/t5_economic_2_202.deft	 25426	 25429	 O	 -1	 -1	 0
+foreign	 data/source_txt/t5_economic_2_202.deft	 25430	 25437	 O	 -1	 -1	 0
+exchange	 data/source_txt/t5_economic_2_202.deft	 25438	 25446	 O	 -1	 -1	 0
+.	 data/source_txt/t5_economic_2_202.deft	 25446	 25447	 O	 -1	 -1	 0
 
 These	 data/source_txt/t5_economic_2_202.deft	 25360	 25365	 B-Referential-Definition	 T94	 T92	 Indirect-Defines
 banks	 data/source_txt/t5_economic_2_202.deft	 25366	 25371	 I-Referential-Definition	 T94	 T92	 Indirect-Defines

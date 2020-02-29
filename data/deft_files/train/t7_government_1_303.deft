@@ -3202,6 +3202,19 @@ them	 data/source_txt/t7_government_1_303.deft	 20758	 20762	 I-Definition	 T13	
 .	 data/source_txt/t7_government_1_303.deft	 20762	 20763	 O	 -1	 -1	 0
 
 Today	 data/source_txt/t7_government_1_303.deft	 20772	 20777	 O	 -1	 -1	 0
+this	 data/source_txt/t7_government_1_303.deft	 20778	 20782	 B-Referential-Definition	 T14	 T13	 Refers-To
+structure	 data/source_txt/t7_government_1_303.deft	 20783	 20792	 I-Referential-Definition	 T14	 T13	 Refers-To
+of	 data/source_txt/t7_government_1_303.deft	 20793	 20795	 I-Referential-Definition	 T14	 T13	 Refers-To
+power	 data/source_txt/t7_government_1_303.deft	 20796	 20801	 I-Referential-Definition	 T14	 T13	 Refers-To
+sharing	 data/source_txt/t7_government_1_303.deft	 20802	 20809	 I-Referential-Definition	 T14	 T13	 Refers-To
+is	 data/source_txt/t7_government_1_303.deft	 20810	 20812	 O	 -1	 -1	 0
+referred	 data/source_txt/t7_government_1_303.deft	 20813	 20821	 O	 -1	 -1	 0
+to	 data/source_txt/t7_government_1_303.deft	 20822	 20824	 O	 -1	 -1	 0
+as	 data/source_txt/t7_government_1_303.deft	 20825	 20827	 O	 -1	 -1	 0
+federalism	 data/source_txt/t7_government_1_303.deft	 20828	 20838	 B-Term	 T15	 0	 0
+.	 data/source_txt/t7_government_1_303.deft	 20838	 20839	 O	 -1	 -1	 0
+
+Today	 data/source_txt/t7_government_1_303.deft	 20772	 20777	 O	 -1	 -1	 0
 this	 data/source_txt/t7_government_1_303.deft	 20778	 20782	 B-Referential-Definition	 T14	 T15	 Indirect-Defines
 structure	 data/source_txt/t7_government_1_303.deft	 20783	 20792	 I-Referential-Definition	 T14	 T15	 Indirect-Defines
 of	 data/source_txt/t7_government_1_303.deft	 20793	 20795	 I-Referential-Definition	 T14	 T15	 Indirect-Defines

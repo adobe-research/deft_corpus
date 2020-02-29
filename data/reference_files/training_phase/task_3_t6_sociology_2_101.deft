@@ -1,7 +1,7 @@
 5605	 data/source_txt/t6_sociology_2_101.deft	 453	 457	 O	 -1	 -1	 0
 .	 data/source_txt/t6_sociology_2_101.deft	 457	 458	 O	 -1	 -1	 0
 
-Globalization	 data/source_txt/t6_sociology_2_101.deft	 468	 481	 B-Term	 T3	 0	 Direct-Defines
+Globalization	 data/source_txt/t6_sociology_2_101.deft	 468	 481	 B-Term	 T3	 0	 0
 refers	 data/source_txt/t6_sociology_2_101.deft	 482	 488	 O	 -1	 -1	 0
 to	 data/source_txt/t6_sociology_2_101.deft	 489	 491	 O	 -1	 -1	 0
 the	 data/source_txt/t6_sociology_2_101.deft	 492	 495	 B-Definition	 T4	 T3	 Direct-Defines
@@ -98,8 +98,8 @@ the	 data/source_txt/t6_sociology_2_101.deft	 4013	 4016	 O	 -1	 -1	 0
 option	 data/source_txt/t6_sociology_2_101.deft	 4017	 4023	 O	 -1	 -1	 0
 to	 data/source_txt/t6_sociology_2_101.deft	 4024	 4026	 O	 -1	 -1	 0
 form	 data/source_txt/t6_sociology_2_101.deft	 4027	 4031	 O	 -1	 -1	 0
-exogamous	 data/source_txt/t6_sociology_2_101.deft	 4032	 4041	 B-Term	 T24	 0	 Direct-Defines
-marriages	 data/source_txt/t6_sociology_2_101.deft	 4042	 4051	 I-Term	 T24	 0	 Direct-Defines
+exogamous	 data/source_txt/t6_sociology_2_101.deft	 4032	 4041	 B-Term	 T24	 0	 0
+marriages	 data/source_txt/t6_sociology_2_101.deft	 4042	 4051	 I-Term	 T24	 0	 0
 ,	 data/source_txt/t6_sociology_2_101.deft	 4051	 4052	 O	 -1	 -1	 0
 unions	 data/source_txt/t6_sociology_2_101.deft	 4053	 4059	 B-Definition	 T25	 T24	 Direct-Defines
 of	 data/source_txt/t6_sociology_2_101.deft	 4060	 4062	 I-Definition	 T25	 T24	 Direct-Defines
@@ -224,8 +224,8 @@ the	 data/source_txt/t6_sociology_2_101.deft	 18529	 18532	 O	 -1	 -1	 0
 functionalist	 data/source_txt/t6_sociology_2_101.deft	 18533	 18546	 O	 -1	 -1	 0
 perspective	 data/source_txt/t6_sociology_2_101.deft	 18547	 18558	 O	 -1	 -1	 0
 is	 data/source_txt/t6_sociology_2_101.deft	 18559	 18561	 O	 -1	 -1	 0
-disengagement	 data/source_txt/t6_sociology_2_101.deft	 18562	 18575	 B-Term	 T99	 0	 Direct-Defines
-theory	 data/source_txt/t6_sociology_2_101.deft	 18576	 18582	 I-Term	 T99	 0	 Direct-Defines
+disengagement	 data/source_txt/t6_sociology_2_101.deft	 18562	 18575	 B-Term	 T99	 0	 0
+theory	 data/source_txt/t6_sociology_2_101.deft	 18576	 18582	 I-Term	 T99	 0	 0
 ,	 data/source_txt/t6_sociology_2_101.deft	 18582	 18583	 O	 -1	 -1	 0
 which	 data/source_txt/t6_sociology_2_101.deft	 18584	 18589	 O	 -1	 -1	 0
 suggests	 data/source_txt/t6_sociology_2_101.deft	 18590	 18598	 B-Definition	 T100	 T99	 Direct-Defines
@@ -279,7 +279,7 @@ purposes	 data/source_txt/t6_sociology_2_101.deft	 19656	 19664	 O	 -1	 -1	 0
 we	 data/source_txt/t6_sociology_2_101.deft	 19666	 19668	 O	 -1	 -1	 0
 ’ll	 data/source_txt/t6_sociology_2_101.deft	 19668	 19671	 O	 -1	 -1	 0
 define	 data/source_txt/t6_sociology_2_101.deft	 19672	 19678	 O	 -1	 -1	 0
-marriage	 data/source_txt/t6_sociology_2_101.deft	 19679	 19687	 B-Term	 T105	 0	 Direct-Defines
+marriage	 data/source_txt/t6_sociology_2_101.deft	 19679	 19687	 B-Term	 T105	 0	 0
 as	 data/source_txt/t6_sociology_2_101.deft	 19688	 19690	 O	 -1	 -1	 0
 a	 data/source_txt/t6_sociology_2_101.deft	 19691	 19692	 B-Definition	 T106	 T105	 Direct-Defines
 legally	 data/source_txt/t6_sociology_2_101.deft	 19693	 19700	 I-Definition	 T106	 T105	 Direct-Defines
@@ -383,10 +383,10 @@ is	 data/source_txt/t6_sociology_2_101.deft	 22976	 22978	 O	 -1	 -1	 0
 referred	 data/source_txt/t6_sociology_2_101.deft	 22979	 22987	 O	 -1	 -1	 0
 to	 data/source_txt/t6_sociology_2_101.deft	 22988	 22990	 O	 -1	 -1	 0
 as	 data/source_txt/t6_sociology_2_101.deft	 22991	 22993	 O	 -1	 -1	 0
-shaken	 data/source_txt/t6_sociology_2_101.deft	 22994	 23000	 B-Term	 T117	 0	 Direct-Defines
--	 data/source_txt/t6_sociology_2_101.deft	 23000	 23001	 I-Term	 T117	 0	 Direct-Defines
-baby	 data/source_txt/t6_sociology_2_101.deft	 23001	 23005	 I-Term	 T117	 0	 Direct-Defines
-syndrome	 data/source_txt/t6_sociology_2_101.deft	 23006	 23014	 I-Term	 T117	 0	 Direct-Defines
+shaken	 data/source_txt/t6_sociology_2_101.deft	 22994	 23000	 B-Term	 T117	 0	 0
+-	 data/source_txt/t6_sociology_2_101.deft	 23000	 23001	 I-Term	 T117	 0	 0
+baby	 data/source_txt/t6_sociology_2_101.deft	 23001	 23005	 I-Term	 T117	 0	 0
+syndrome	 data/source_txt/t6_sociology_2_101.deft	 23006	 23014	 I-Term	 T117	 0	 0
 ,	 data/source_txt/t6_sociology_2_101.deft	 23014	 23015	 O	 -1	 -1	 0
 which	 data/source_txt/t6_sociology_2_101.deft	 23016	 23021	 O	 -1	 -1	 0
 describes	 data/source_txt/t6_sociology_2_101.deft	 23022	 23031	 O	 -1	 -1	 0

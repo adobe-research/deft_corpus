@@ -49,9 +49,9 @@ b.	 data/source_txt/t4_psychology_1_0.deft	 1521	 1523	 O	 -1	 -1	 0
 Cleft	 data/source_txt/t4_psychology_1_0.deft	 1525	 1530	 O	 -1	 -1	 0
 chin	 data/source_txt/t4_psychology_1_0.deft	 1531	 1535	 O	 -1	 -1	 0
 is	 data/source_txt/t4_psychology_1_0.deft	 1536	 1538	 O	 -1	 -1	 0
-a	 data/source_txt/t4_psychology_1_0.deft	 1539	 1540	 B-Term	 T11	 0	 Direct-Defines
-dominant	 data/source_txt/t4_psychology_1_0.deft	 1541	 1549	 I-Term	 T11	 0	 Direct-Defines
-trait	 data/source_txt/t4_psychology_1_0.deft	 1550	 1555	 I-Term	 T11	 0	 Direct-Defines
+a	 data/source_txt/t4_psychology_1_0.deft	 1539	 1540	 B-Term	 T11	 0	 0
+dominant	 data/source_txt/t4_psychology_1_0.deft	 1541	 1549	 I-Term	 T11	 0	 0
+trait	 data/source_txt/t4_psychology_1_0.deft	 1550	 1555	 I-Term	 T11	 0	 0
 ,	 data/source_txt/t4_psychology_1_0.deft	 1555	 1556	 O	 -1	 -1	 0
 which	 data/source_txt/t4_psychology_1_0.deft	 1557	 1562	 O	 -1	 -1	 0
 means	 data/source_txt/t4_psychology_1_0.deft	 1563	 1568	 O	 -1	 -1	 0
@@ -101,10 +101,10 @@ are	 data/source_txt/t4_psychology_1_0.deft	 1782	 1785	 O	 -1	 -1	 0
 said	 data/source_txt/t4_psychology_1_0.deft	 1786	 1790	 O	 -1	 -1	 0
 to	 data/source_txt/t4_psychology_1_0.deft	 1791	 1793	 O	 -1	 -1	 0
 be	 data/source_txt/t4_psychology_1_0.deft	 1794	 1796	 O	 -1	 -1	 0
-homozygous	 data/source_txt/t4_psychology_1_0.deft	 1797	 1807	 B-Term	 T15	 0	 Direct-Defines
-for	 data/source_txt/t4_psychology_1_0.deft	 1808	 1811	 I-Term	 T15	 0	 Direct-Defines
-that	 data/source_txt/t4_psychology_1_0.deft	 1812	 1816	 I-Term	 T15	 0	 Direct-Defines
-allele	 data/source_txt/t4_psychology_1_0.deft	 1817	 1823	 I-Term	 T15	 0	 Direct-Defines
+homozygous	 data/source_txt/t4_psychology_1_0.deft	 1797	 1807	 B-Term	 T15	 0	 0
+for	 data/source_txt/t4_psychology_1_0.deft	 1808	 1811	 I-Term	 T15	 0	 0
+that	 data/source_txt/t4_psychology_1_0.deft	 1812	 1816	 I-Term	 T15	 0	 0
+allele	 data/source_txt/t4_psychology_1_0.deft	 1817	 1823	 I-Term	 T15	 0	 0
 .	 data/source_txt/t4_psychology_1_0.deft	 1823	 1824	 O	 -1	 -1	 0
 
 
@@ -128,7 +128,7 @@ are	 data/source_txt/t4_psychology_1_0.deft	 1899	 1902	 O	 -1	 -1	 0
 said	 data/source_txt/t4_psychology_1_0.deft	 1903	 1907	 O	 -1	 -1	 0
 to	 data/source_txt/t4_psychology_1_0.deft	 1908	 1910	 O	 -1	 -1	 0
 be	 data/source_txt/t4_psychology_1_0.deft	 1911	 1913	 O	 -1	 -1	 0
-heterozygous	 data/source_txt/t4_psychology_1_0.deft	 1914	 1926	 B-Term	 T17	 0	 Direct-Defines
+heterozygous	 data/source_txt/t4_psychology_1_0.deft	 1914	 1926	 B-Term	 T17	 0	 0
 .	 data/source_txt/t4_psychology_1_0.deft	 1926	 1927	 O	 -1	 -1	 0
 
 For	 data/source_txt/t4_psychology_1_0.deft	 1936	 1939	 O	 -1	 -1	 0
