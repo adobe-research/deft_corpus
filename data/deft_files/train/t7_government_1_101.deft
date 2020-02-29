@@ -8639,19 +8639,6 @@ will	 data/source_txt/t7_government_1_101.deft	 47368	 47372	 I-Definition	 T105
 vote	 data/source_txt/t7_government_1_101.deft	 47373	 47377	 I-Definition	 T105	 0	 0
 .	 data/source_txt/t7_government_1_101.deft	 47377	 47378	 O	 -1	 -1	 0
 
-This	 data/source_txt/t7_government_1_101.deft	 47387	 47391	 B-Referential-Definition	 T104	 T103	 Indirect-Defines
-is	 data/source_txt/t7_government_1_101.deft	 47392	 47394	 O	 -1	 -1	 0
-often	 data/source_txt/t7_government_1_101.deft	 47395	 47400	 O	 -1	 -1	 0
-called	 data/source_txt/t7_government_1_101.deft	 47401	 47407	 O	 -1	 -1	 0
-the	 data/source_txt/t7_government_1_101.deft	 47408	 47411	 B-Term	 T103	 0	 0
-winner	 data/source_txt/t7_government_1_101.deft	 47412	 47418	 I-Term	 T103	 0	 0
--	 data/source_txt/t7_government_1_101.deft	 47418	 47419	 I-Term	 T103	 0	 0
-take	 data/source_txt/t7_government_1_101.deft	 47419	 47423	 I-Term	 T103	 0	 0
--	 data/source_txt/t7_government_1_101.deft	 47423	 47424	 I-Term	 T103	 0	 0
-all	 data/source_txt/t7_government_1_101.deft	 47424	 47427	 I-Term	 T103	 0	 0
-system	 data/source_txt/t7_government_1_101.deft	 47428	 47434	 I-Term	 T103	 0	 0
-.	 data/source_txt/t7_government_1_101.deft	 47434	 47435	 O	 -1	 -1	 0
-
 This	 data/source_txt/t7_government_1_101.deft	 47387	 47391	 B-Referential-Definition	 T104	 T105	 Refers-To
 is	 data/source_txt/t7_government_1_101.deft	 47392	 47394	 O	 -1	 -1	 0
 often	 data/source_txt/t7_government_1_101.deft	 47395	 47400	 O	 -1	 -1	 0
@@ -9518,17 +9505,6 @@ sensational	 data/source_txt/t7_government_1_101.deft	 51847	 51858	 I-Definitio
 and	 data/source_txt/t7_government_1_101.deft	 51859	 51862	 I-Definition	 T116	 0	 0
 scandalous	 data/source_txt/t7_government_1_101.deft	 51863	 51873	 I-Definition	 T116	 0	 0
 .	 data/source_txt/t7_government_1_101.deft	 51873	 51874	 O	 -1	 -1	 0
-
-This	 data/source_txt/t7_government_1_101.deft	 51883	 51887	 B-Referential-Definition	 T117	 T116	 Refers-To
-style	 data/source_txt/t7_government_1_101.deft	 51888	 51893	 I-Referential-Definition	 T117	 T116	 Refers-To
-of	 data/source_txt/t7_government_1_101.deft	 51894	 51896	 I-Referential-Definition	 T117	 T116	 Refers-To
-coverage	 data/source_txt/t7_government_1_101.deft	 51897	 51905	 I-Referential-Definition	 T117	 T116	 Refers-To
-became	 data/source_txt/t7_government_1_101.deft	 51906	 51912	 O	 -1	 -1	 0
-known	 data/source_txt/t7_government_1_101.deft	 51913	 51918	 O	 -1	 -1	 0
-as	 data/source_txt/t7_government_1_101.deft	 51919	 51921	 O	 -1	 -1	 0
-yellow	 data/source_txt/t7_government_1_101.deft	 51922	 51928	 B-Term	 T118	 0	 0
-journalism	 data/source_txt/t7_government_1_101.deft	 51929	 51939	 I-Term	 T118	 0	 0
-.	 data/source_txt/t7_government_1_101.deft	 51939	 51940	 O	 -1	 -1	 0
 
 This	 data/source_txt/t7_government_1_101.deft	 51883	 51887	 B-Referential-Definition	 T117	 T118	 Indirect-Defines
 style	 data/source_txt/t7_government_1_101.deft	 51888	 51893	 I-Referential-Definition	 T117	 T118	 Indirect-Defines

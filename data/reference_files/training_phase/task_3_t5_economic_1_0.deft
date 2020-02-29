@@ -19,7 +19,7 @@ of	 data/source_txt/t5_economic_1_0.deft	 73	 75	 O	 -1	 -1	 0
 life	 data/source_txt/t5_economic_1_0.deft	 76	 80	 O	 -1	 -1	 0
 .	 data/source_txt/t5_economic_1_0.deft	 80	 81	 O	 -1	 -1	 0
 
-Scarcity	 data/source_txt/t5_economic_1_0.deft	 90	 98	 B-Term	 T1	 0	 0
+Scarcity	 data/source_txt/t5_economic_1_0.deft	 90	 98	 B-Term	 T1	 0	 Direct-Defines
 means	 data/source_txt/t5_economic_1_0.deft	 99	 104	 O	 -1	 -1	 0
 that	 data/source_txt/t5_economic_1_0.deft	 105	 109	 O	 -1	 -1	 0
 human	 data/source_txt/t5_economic_1_0.deft	 110	 115	 B-Definition	 T2	 T1	 Direct-Defines
@@ -73,7 +73,7 @@ supply	 data/source_txt/t5_economic_1_0.deft	 327	 333	 O	 -1	 -1	 0
 
 First	 data/source_txt/t5_economic_1_0.deft	 352	 357	 O	 -1	 -1	 0
 ,	 data/source_txt/t5_economic_1_0.deft	 357	 358	 O	 -1	 -1	 0
-specialization	 data/source_txt/t5_economic_1_0.deft	 359	 373	 B-Term	 T181	 0	 0
+specialization	 data/source_txt/t5_economic_1_0.deft	 359	 373	 B-Term	 T181	 0	 Direct-Defines
 in	 data/source_txt/t5_economic_1_0.deft	 374	 376	 O	 -1	 -1	 0
 a	 data/source_txt/t5_economic_1_0.deft	 377	 378	 O	 -1	 -1	 0
 particular	 data/source_txt/t5_economic_1_0.deft	 379	 389	 O	 -1	 -1	 0

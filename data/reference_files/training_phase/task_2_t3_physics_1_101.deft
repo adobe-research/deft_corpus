@@ -148,3 +148,223 @@ nuclei	 data/source_txt/t3_physics_1_101.deft	 1592	 1598	 I-Definition
 .	 data/source_txt/t3_physics_1_101.deft	 1598	 1599	 O
 
 
+3075	 data/source_txt/t3_physics_1_101.deft	 13950	 13954	 O
+.	 data/source_txt/t3_physics_1_101.deft	 13954	 13955	 O
+
+Radar	 data/source_txt/t3_physics_1_101.deft	 13965	 13970	 B-Term
+is	 data/source_txt/t3_physics_1_101.deft	 13971	 13973	 O
+a	 data/source_txt/t3_physics_1_101.deft	 13974	 13975	 O
+common	 data/source_txt/t3_physics_1_101.deft	 13976	 13982	 O
+application	 data/source_txt/t3_physics_1_101.deft	 13983	 13994	 O
+of	 data/source_txt/t3_physics_1_101.deft	 13995	 13997	 O
+microwaves	 data/source_txt/t3_physics_1_101.deft	 13998	 14008	 O
+that	 data/source_txt/t3_physics_1_101.deft	 14009	 14013	 O
+was	 data/source_txt/t3_physics_1_101.deft	 14014	 14017	 O
+first	 data/source_txt/t3_physics_1_101.deft	 14018	 14023	 O
+developed	 data/source_txt/t3_physics_1_101.deft	 14024	 14033	 O
+in	 data/source_txt/t3_physics_1_101.deft	 14034	 14036	 O
+World	 data/source_txt/t3_physics_1_101.deft	 14037	 14042	 O
+War	 data/source_txt/t3_physics_1_101.deft	 14043	 14046	 O
+II	 data/source_txt/t3_physics_1_101.deft	 14047	 14049	 O
+.	 data/source_txt/t3_physics_1_101.deft	 14049	 14050	 O
+
+By	 data/source_txt/t3_physics_1_101.deft	 14057	 14059	 O
+detecting	 data/source_txt/t3_physics_1_101.deft	 14060	 14069	 O
+and	 data/source_txt/t3_physics_1_101.deft	 14070	 14073	 O
+timing	 data/source_txt/t3_physics_1_101.deft	 14074	 14080	 O
+microwave	 data/source_txt/t3_physics_1_101.deft	 14081	 14090	 O
+echoes	 data/source_txt/t3_physics_1_101.deft	 14091	 14097	 O
+,	 data/source_txt/t3_physics_1_101.deft	 14097	 14098	 O
+radar	 data/source_txt/t3_physics_1_101.deft	 14099	 14104	 O
+systems	 data/source_txt/t3_physics_1_101.deft	 14105	 14112	 O
+can	 data/source_txt/t3_physics_1_101.deft	 14113	 14116	 O
+determine	 data/source_txt/t3_physics_1_101.deft	 14117	 14126	 O
+the	 data/source_txt/t3_physics_1_101.deft	 14127	 14130	 O
+distance	 data/source_txt/t3_physics_1_101.deft	 14131	 14139	 O
+to	 data/source_txt/t3_physics_1_101.deft	 14140	 14142	 O
+objects	 data/source_txt/t3_physics_1_101.deft	 14143	 14150	 O
+as	 data/source_txt/t3_physics_1_101.deft	 14151	 14153	 O
+diverse	 data/source_txt/t3_physics_1_101.deft	 14154	 14161	 O
+as	 data/source_txt/t3_physics_1_101.deft	 14162	 14164	 O
+clouds	 data/source_txt/t3_physics_1_101.deft	 14165	 14171	 O
+and	 data/source_txt/t3_physics_1_101.deft	 14172	 14175	 O
+aircraft	 data/source_txt/t3_physics_1_101.deft	 14176	 14184	 O
+.	 data/source_txt/t3_physics_1_101.deft	 14184	 14185	 O
+
+
+3129	 data/source_txt/t3_physics_1_101.deft	 19525	 19529	 O
+.	 data/source_txt/t3_physics_1_101.deft	 19529	 19530	 O
+
+Many	 data/source_txt/t3_physics_1_101.deft	 19531	 19535	 B-Definition
+crystals	 data/source_txt/t3_physics_1_101.deft	 19536	 19544	 I-Definition
+and	 data/source_txt/t3_physics_1_101.deft	 19545	 19548	 I-Definition
+solutions	 data/source_txt/t3_physics_1_101.deft	 19549	 19558	 I-Definition
+rotate	 data/source_txt/t3_physics_1_101.deft	 19559	 19565	 I-Definition
+the	 data/source_txt/t3_physics_1_101.deft	 19566	 19569	 I-Definition
+plane	 data/source_txt/t3_physics_1_101.deft	 19570	 19575	 I-Definition
+of	 data/source_txt/t3_physics_1_101.deft	 19576	 19578	 I-Definition
+polarization	 data/source_txt/t3_physics_1_101.deft	 19579	 19591	 I-Definition
+of	 data/source_txt/t3_physics_1_101.deft	 19592	 19594	 I-Definition
+light	 data/source_txt/t3_physics_1_101.deft	 19595	 19600	 I-Definition
+passing	 data/source_txt/t3_physics_1_101.deft	 19601	 19608	 I-Definition
+through	 data/source_txt/t3_physics_1_101.deft	 19609	 19616	 I-Definition
+them	 data/source_txt/t3_physics_1_101.deft	 19617	 19621	 I-Definition
+.	 data/source_txt/t3_physics_1_101.deft	 19621	 19622	 O
+
+Such	 data/source_txt/t3_physics_1_101.deft	 19631	 19635	 B-Referential-Definition
+substances	 data/source_txt/t3_physics_1_101.deft	 19636	 19646	 I-Referential-Definition
+are	 data/source_txt/t3_physics_1_101.deft	 19647	 19650	 O
+said	 data/source_txt/t3_physics_1_101.deft	 19651	 19655	 O
+to	 data/source_txt/t3_physics_1_101.deft	 19656	 19658	 O
+be	 data/source_txt/t3_physics_1_101.deft	 19659	 19661	 O
+optically	 data/source_txt/t3_physics_1_101.deft	 19662	 19671	 B-Term
+active	 data/source_txt/t3_physics_1_101.deft	 19672	 19678	 I-Term
+.	 data/source_txt/t3_physics_1_101.deft	 19678	 19679	 O
+
+Examples	 data/source_txt/t3_physics_1_101.deft	 19686	 19694	 O
+include	 data/source_txt/t3_physics_1_101.deft	 19695	 19702	 O
+sugar	 data/source_txt/t3_physics_1_101.deft	 19703	 19708	 O
+water	 data/source_txt/t3_physics_1_101.deft	 19709	 19714	 O
+,	 data/source_txt/t3_physics_1_101.deft	 19714	 19715	 O
+insulin	 data/source_txt/t3_physics_1_101.deft	 19716	 19723	 O
+,	 data/source_txt/t3_physics_1_101.deft	 19723	 19724	 O
+and	 data/source_txt/t3_physics_1_101.deft	 19725	 19728	 O
+collagen	 data/source_txt/t3_physics_1_101.deft	 19729	 19737	 O
+(	 data/source_txt/t3_physics_1_101.deft	 19738	 19739	 O
+see	 data/source_txt/t3_physics_1_101.deft	 19739	 19742	 O
+[	 data/source_txt/t3_physics_1_101.deft	 19743	 19744	 O
+link	 data/source_txt/t3_physics_1_101.deft	 19744	 19748	 O
+]	 data/source_txt/t3_physics_1_101.deft	 19748	 19749	 O
+)	 data/source_txt/t3_physics_1_101.deft	 19749	 19750	 O
+.	 data/source_txt/t3_physics_1_101.deft	 19750	 19751	 O
+
+
+3135	 data/source_txt/t3_physics_1_101.deft	 20026	 20030	 O
+.	 data/source_txt/t3_physics_1_101.deft	 20030	 20031	 O
+
+The	 data/source_txt/t3_physics_1_101.deft	 20032	 20035	 O
+Michelson	 data/source_txt/t3_physics_1_101.deft	 20036	 20045	 O
+-	 data/source_txt/t3_physics_1_101.deft	 20045	 20046	 O
+Morley	 data/source_txt/t3_physics_1_101.deft	 20046	 20052	 O
+experiment	 data/source_txt/t3_physics_1_101.deft	 20053	 20063	 O
+demonstrated	 data/source_txt/t3_physics_1_101.deft	 20064	 20076	 O
+that	 data/source_txt/t3_physics_1_101.deft	 20077	 20081	 O
+the	 data/source_txt/t3_physics_1_101.deft	 20082	 20085	 O
+speed	 data/source_txt/t3_physics_1_101.deft	 20086	 20091	 O
+of	 data/source_txt/t3_physics_1_101.deft	 20092	 20094	 O
+light	 data/source_txt/t3_physics_1_101.deft	 20095	 20100	 O
+in	 data/source_txt/t3_physics_1_101.deft	 20101	 20103	 O
+a	 data/source_txt/t3_physics_1_101.deft	 20104	 20105	 O
+vacuum	 data/source_txt/t3_physics_1_101.deft	 20106	 20112	 O
+is	 data/source_txt/t3_physics_1_101.deft	 20113	 20115	 O
+independent	 data/source_txt/t3_physics_1_101.deft	 20116	 20127	 O
+of	 data/source_txt/t3_physics_1_101.deft	 20128	 20130	 O
+the	 data/source_txt/t3_physics_1_101.deft	 20131	 20134	 O
+motion	 data/source_txt/t3_physics_1_101.deft	 20135	 20141	 O
+of	 data/source_txt/t3_physics_1_101.deft	 20142	 20144	 O
+the	 data/source_txt/t3_physics_1_101.deft	 20145	 20148	 O
+Earth	 data/source_txt/t3_physics_1_101.deft	 20149	 20154	 O
+about	 data/source_txt/t3_physics_1_101.deft	 20155	 20160	 O
+the	 data/source_txt/t3_physics_1_101.deft	 20161	 20164	 O
+Sun	 data/source_txt/t3_physics_1_101.deft	 20165	 20168	 O
+.	 data/source_txt/t3_physics_1_101.deft	 20168	 20169	 O
+
+
+3162	 data/source_txt/t3_physics_1_101.deft	 22815	 22819	 O
+.	 data/source_txt/t3_physics_1_101.deft	 22819	 22820	 O
+
+This	 data/source_txt/t3_physics_1_101.deft	 22821	 22825	 O
+can	 data/source_txt/t3_physics_1_101.deft	 22826	 22829	 O
+be	 data/source_txt/t3_physics_1_101.deft	 22830	 22832	 O
+observed	 data/source_txt/t3_physics_1_101.deft	 22833	 22841	 O
+with	 data/source_txt/t3_physics_1_101.deft	 22842	 22846	 O
+a	 data/source_txt/t3_physics_1_101.deft	 22847	 22848	 O
+microscope	 data/source_txt/t3_physics_1_101.deft	 22849	 22859	 O
+for	 data/source_txt/t3_physics_1_101.deft	 22860	 22863	 O
+any	 data/source_txt/t3_physics_1_101.deft	 22864	 22867	 O
+small	 data/source_txt/t3_physics_1_101.deft	 22868	 22873	 O
+particles	 data/source_txt/t3_physics_1_101.deft	 22874	 22883	 O
+in	 data/source_txt/t3_physics_1_101.deft	 22884	 22886	 O
+a	 data/source_txt/t3_physics_1_101.deft	 22887	 22888	 O
+fluid	 data/source_txt/t3_physics_1_101.deft	 22889	 22894	 O
+.	 data/source_txt/t3_physics_1_101.deft	 22894	 22895	 O
+
+The	 data/source_txt/t3_physics_1_101.deft	 22904	 22907	 B-Definition
+motion	 data/source_txt/t3_physics_1_101.deft	 22908	 22914	 I-Definition
+is	 data/source_txt/t3_physics_1_101.deft	 22915	 22917	 I-Definition
+caused	 data/source_txt/t3_physics_1_101.deft	 22918	 22924	 I-Definition
+by	 data/source_txt/t3_physics_1_101.deft	 22925	 22927	 I-Definition
+the	 data/source_txt/t3_physics_1_101.deft	 22928	 22931	 I-Definition
+random	 data/source_txt/t3_physics_1_101.deft	 22932	 22938	 I-Definition
+thermal	 data/source_txt/t3_physics_1_101.deft	 22939	 22946	 I-Definition
+motions	 data/source_txt/t3_physics_1_101.deft	 22947	 22954	 I-Definition
+of	 data/source_txt/t3_physics_1_101.deft	 22955	 22957	 I-Definition
+fluid	 data/source_txt/t3_physics_1_101.deft	 22958	 22963	 I-Definition
+molecules	 data/source_txt/t3_physics_1_101.deft	 22964	 22973	 I-Definition
+colliding	 data/source_txt/t3_physics_1_101.deft	 22974	 22983	 I-Definition
+with	 data/source_txt/t3_physics_1_101.deft	 22984	 22988	 I-Definition
+particles	 data/source_txt/t3_physics_1_101.deft	 22989	 22998	 I-Definition
+in	 data/source_txt/t3_physics_1_101.deft	 22999	 23001	 I-Definition
+the	 data/source_txt/t3_physics_1_101.deft	 23002	 23005	 I-Definition
+fluid	 data/source_txt/t3_physics_1_101.deft	 23006	 23011	 I-Definition
+,	 data/source_txt/t3_physics_1_101.deft	 23011	 23012	 O
+and	 data/source_txt/t3_physics_1_101.deft	 23013	 23016	 O
+it	 data/source_txt/t3_physics_1_101.deft	 23017	 23019	 O
+is	 data/source_txt/t3_physics_1_101.deft	 23020	 23022	 O
+now	 data/source_txt/t3_physics_1_101.deft	 23023	 23026	 O
+called	 data/source_txt/t3_physics_1_101.deft	 23027	 23033	 O
+Brownian	 data/source_txt/t3_physics_1_101.deft	 23034	 23042	 B-Term
+motion	 data/source_txt/t3_physics_1_101.deft	 23043	 23049	 I-Term
+.	 data/source_txt/t3_physics_1_101.deft	 23049	 23050	 O
+
+(	 data/source_txt/t3_physics_1_101.deft	 23057	 23058	 O
+See	 data/source_txt/t3_physics_1_101.deft	 23058	 23061	 O
+[	 data/source_txt/t3_physics_1_101.deft	 23062	 23063	 O
+link	 data/source_txt/t3_physics_1_101.deft	 23063	 23067	 O
+]	 data/source_txt/t3_physics_1_101.deft	 23067	 23068	 O
+.	 data/source_txt/t3_physics_1_101.deft	 23068	 23069	 O
+)	 data/source_txt/t3_physics_1_101.deft	 23069	 23070	 O
+
+
+3168	 data/source_txt/t3_physics_1_101.deft	 23285	 23289	 O
+.	 data/source_txt/t3_physics_1_101.deft	 23289	 23290	 O
+
+[	 data/source_txt/t3_physics_1_101.deft	 23300	 23301	 O
+link	 data/source_txt/t3_physics_1_101.deft	 23301	 23305	 O
+]	 data/source_txt/t3_physics_1_101.deft	 23305	 23306	 O
+shows	 data/source_txt/t3_physics_1_101.deft	 23307	 23312	 O
+an	 data/source_txt/t3_physics_1_101.deft	 23313	 23315	 O
+energy	 data/source_txt/t3_physics_1_101.deft	 23316	 23322	 O
+-	 data/source_txt/t3_physics_1_101.deft	 23322	 23323	 O
+level	 data/source_txt/t3_physics_1_101.deft	 23323	 23328	 O
+diagram	 data/source_txt/t3_physics_1_101.deft	 23329	 23336	 O
+,	 data/source_txt/t3_physics_1_101.deft	 23336	 23337	 O
+a	 data/source_txt/t3_physics_1_101.deft	 23338	 23339	 O
+convenient	 data/source_txt/t3_physics_1_101.deft	 23340	 23350	 O
+way	 data/source_txt/t3_physics_1_101.deft	 23351	 23354	 O
+to	 data/source_txt/t3_physics_1_101.deft	 23355	 23357	 O
+display	 data/source_txt/t3_physics_1_101.deft	 23358	 23365	 O
+energy	 data/source_txt/t3_physics_1_101.deft	 23366	 23372	 O
+states	 data/source_txt/t3_physics_1_101.deft	 23373	 23379	 O
+.	 data/source_txt/t3_physics_1_101.deft	 23379	 23380	 O
+
+In	 data/source_txt/t3_physics_1_101.deft	 23387	 23389	 O
+the	 data/source_txt/t3_physics_1_101.deft	 23390	 23393	 O
+present	 data/source_txt/t3_physics_1_101.deft	 23394	 23401	 O
+discussion	 data/source_txt/t3_physics_1_101.deft	 23402	 23412	 O
+,	 data/source_txt/t3_physics_1_101.deft	 23412	 23413	 O
+we	 data/source_txt/t3_physics_1_101.deft	 23414	 23416	 O
+take	 data/source_txt/t3_physics_1_101.deft	 23417	 23421	 O
+these	 data/source_txt/t3_physics_1_101.deft	 23422	 23427	 O
+to	 data/source_txt/t3_physics_1_101.deft	 23428	 23430	 O
+be	 data/source_txt/t3_physics_1_101.deft	 23431	 23433	 O
+the	 data/source_txt/t3_physics_1_101.deft	 23434	 23437	 O
+allowed	 data/source_txt/t3_physics_1_101.deft	 23438	 23445	 O
+energy	 data/source_txt/t3_physics_1_101.deft	 23446	 23452	 O
+levels	 data/source_txt/t3_physics_1_101.deft	 23453	 23459	 O
+of	 data/source_txt/t3_physics_1_101.deft	 23460	 23462	 O
+the	 data/source_txt/t3_physics_1_101.deft	 23463	 23466	 O
+electron	 data/source_txt/t3_physics_1_101.deft	 23467	 23475	 O
+.	 data/source_txt/t3_physics_1_101.deft	 23475	 23476	 O
+
+

@@ -33,7 +33,7 @@ cease	 data/source_txt/t1_biology_2_606.deft	 12737	 12742	 I-Definition	 T104	 
 ;	 data/source_txt/t1_biology_2_606.deft	 12742	 12743	 O	 -1	 -1	 0
 this	 data/source_txt/t1_biology_2_606.deft	 12744	 12748	 O	 -1	 -1	 0
 is	 data/source_txt/t1_biology_2_606.deft	 12749	 12751	 O	 -1	 -1	 0
-menopause	 data/source_txt/t1_biology_2_606.deft	 12752	 12761	 B-Term	 T103	 0	 0
+menopause	 data/source_txt/t1_biology_2_606.deft	 12752	 12761	 B-Term	 T103	 0	 Direct-Defines
 .	 data/source_txt/t1_biology_2_606.deft	 12761	 12762	 O	 -1	 -1	 0
 
 There	 data/source_txt/t1_biology_2_606.deft	 12769	 12774	 O	 -1	 -1	 0
@@ -82,9 +82,9 @@ Milankovitch	 data/source_txt/t1_biology_2_606.deft	 18813	 18825	 O	 -1	 -1	 0
 cycles	 data/source_txt/t1_biology_2_606.deft	 18826	 18832	 O	 -1	 -1	 0
 .	 data/source_txt/t1_biology_2_606.deft	 18832	 18833	 O	 -1	 -1	 0
 
-The	 data/source_txt/t1_biology_2_606.deft	 18842	 18845	 B-Term	 T139	 0	 0
-Milankovitch	 data/source_txt/t1_biology_2_606.deft	 18846	 18858	 I-Term	 T139	 0	 0
-cycles	 data/source_txt/t1_biology_2_606.deft	 18859	 18865	 I-Term	 T139	 0	 0
+The	 data/source_txt/t1_biology_2_606.deft	 18842	 18845	 B-Term	 T139	 0	 Direct-Defines
+Milankovitch	 data/source_txt/t1_biology_2_606.deft	 18846	 18858	 I-Term	 T139	 0	 Direct-Defines
+cycles	 data/source_txt/t1_biology_2_606.deft	 18859	 18865	 I-Term	 T139	 0	 Direct-Defines
 describe	 data/source_txt/t1_biology_2_606.deft	 18866	 18874	 O	 -1	 -1	 0
 the	 data/source_txt/t1_biology_2_606.deft	 18875	 18878	 B-Definition	 T140	 T139	 Direct-Defines
 effects	 data/source_txt/t1_biology_2_606.deft	 18879	 18886	 I-Definition	 T140	 T139	 Direct-Defines

@@ -47,8 +47,8 @@ in	 data/source_txt/t1_biology_2_202.deft	 11692	 11694	 O	 -1	 -1	 0
 what	 data/source_txt/t1_biology_2_202.deft	 11695	 11699	 O	 -1	 -1	 0
 is	 data/source_txt/t1_biology_2_202.deft	 11700	 11702	 O	 -1	 -1	 0
 called	 data/source_txt/t1_biology_2_202.deft	 11703	 11709	 O	 -1	 -1	 0
-binomial	 data/source_txt/t1_biology_2_202.deft	 11710	 11718	 B-Term	 T65	 0	 0
-nomenclature	 data/source_txt/t1_biology_2_202.deft	 11719	 11731	 I-Term	 T65	 0	 0
+binomial	 data/source_txt/t1_biology_2_202.deft	 11710	 11718	 B-Term	 T65	 0	 Direct-Defines
+nomenclature	 data/source_txt/t1_biology_2_202.deft	 11719	 11731	 I-Term	 T65	 0	 Direct-Defines
 .	 data/source_txt/t1_biology_2_202.deft	 11731	 11732	 O	 -1	 -1	 0
 
 Therefore	 data/source_txt/t1_biology_2_202.deft	 11739	 11748	 O	 -1	 -1	 0
@@ -68,8 +68,8 @@ lupus	 data/source_txt/t1_biology_2_202.deft	 11790	 11795	 O	 -1	 -1	 0
 726	 data/source_txt/t1_biology_2_202.deft	 15286	 15289	 O	 -1	 -1	 0
 .	 data/source_txt/t1_biology_2_202.deft	 15289	 15290	 O	 -1	 -1	 0
 
-Positive	 data/source_txt/t1_biology_2_202.deft	 15291	 15299	 B-Term	 T84	 0	 0
-polarity	 data/source_txt/t1_biology_2_202.deft	 15300	 15308	 I-Term	 T84	 0	 0
+Positive	 data/source_txt/t1_biology_2_202.deft	 15291	 15299	 B-Term	 T84	 0	 Direct-Defines
+polarity	 data/source_txt/t1_biology_2_202.deft	 15300	 15308	 I-Term	 T84	 0	 Direct-Defines
 means	 data/source_txt/t1_biology_2_202.deft	 15309	 15314	 O	 -1	 -1	 0
 that	 data/source_txt/t1_biology_2_202.deft	 15315	 15319	 O	 -1	 -1	 0
 the	 data/source_txt/t1_biology_2_202.deft	 15320	 15323	 B-Definition	 T85	 T84	 Direct-Defines
@@ -82,13 +82,13 @@ as	 data/source_txt/t1_biology_2_202.deft	 15355	 15357	 I-Definition	 T85	 T84	
 mRNA	 data/source_txt/t1_biology_2_202.deft	 15358	 15362	 I-Definition	 T85	 T84	 Direct-Defines
 .	 data/source_txt/t1_biology_2_202.deft	 15362	 15363	 O	 -1	 -1	 0
 
-Intermediates	 data/source_txt/t1_biology_2_202.deft	 15372	 15385	 B-Definition	 T240	 T239	 Direct-Defines
-of	 data/source_txt/t1_biology_2_202.deft	 15386	 15388	 I-Definition	 T240	 T239	 Direct-Defines
-dsRNA	 data/source_txt/t1_biology_2_202.deft	 15389	 15394	 I-Definition	 T240	 T239	 Direct-Defines
+Intermediates	 data/source_txt/t1_biology_2_202.deft	 15372	 15385	 B-Definition	 T240	 0	 Supplements
+of	 data/source_txt/t1_biology_2_202.deft	 15386	 15388	 I-Definition	 T240	 0	 Supplements
+dsRNA	 data/source_txt/t1_biology_2_202.deft	 15389	 15394	 I-Definition	 T240	 0	 Supplements
 ,	 data/source_txt/t1_biology_2_202.deft	 15394	 15395	 O	 -1	 -1	 0
 called	 data/source_txt/t1_biology_2_202.deft	 15396	 15402	 O	 -1	 -1	 0
-replicative	 data/source_txt/t1_biology_2_202.deft	 15403	 15414	 B-Term	 T239	 0	 0
-intermediates	 data/source_txt/t1_biology_2_202.deft	 15415	 15428	 I-Term	 T239	 0	 0
+replicative	 data/source_txt/t1_biology_2_202.deft	 15403	 15414	 B-Term	 T239	 0	 Direct-Defines
+intermediates	 data/source_txt/t1_biology_2_202.deft	 15415	 15428	 I-Term	 T239	 0	 Direct-Defines
 ,	 data/source_txt/t1_biology_2_202.deft	 15428	 15429	 O	 -1	 -1	 0
 are	 data/source_txt/t1_biology_2_202.deft	 15430	 15433	 B-Secondary-Definition	 T241	 T240	 Supplements
 made	 data/source_txt/t1_biology_2_202.deft	 15434	 15438	 I-Secondary-Definition	 T241	 T240	 Supplements
@@ -116,11 +116,11 @@ polarity	 data/source_txt/t1_biology_2_202.deft	 15534	 15542	 I-Alias-Term	 T24
 complimentary	 data/source_txt/t1_biology_2_202.deft	 15544	 15557	 O	 -1	 -1	 0
 to	 data/source_txt/t1_biology_2_202.deft	 15558	 15560	 O	 -1	 -1	 0
 the	 data/source_txt/t1_biology_2_202.deft	 15561	 15564	 O	 -1	 -1	 0
-positive	 data/source_txt/t1_biology_2_202.deft	 15565	 15573	 B-Term	 T242	 0	 0
--	 data/source_txt/t1_biology_2_202.deft	 15573	 15574	 I-Term	 T242	 0	 0
-stranded	 data/source_txt/t1_biology_2_202.deft	 15574	 15582	 I-Term	 T242	 0	 0
-genomic	 data/source_txt/t1_biology_2_202.deft	 15583	 15590	 I-Term	 T242	 0	 0
-RNA	 data/source_txt/t1_biology_2_202.deft	 15591	 15594	 I-Term	 T242	 0	 0
+positive	 data/source_txt/t1_biology_2_202.deft	 15565	 15573	 B-Term	 T242	 0	 Direct-Defines
+-	 data/source_txt/t1_biology_2_202.deft	 15573	 15574	 I-Term	 T242	 0	 Direct-Defines
+stranded	 data/source_txt/t1_biology_2_202.deft	 15574	 15582	 I-Term	 T242	 0	 Direct-Defines
+genomic	 data/source_txt/t1_biology_2_202.deft	 15583	 15590	 I-Term	 T242	 0	 Direct-Defines
+RNA	 data/source_txt/t1_biology_2_202.deft	 15591	 15594	 I-Term	 T242	 0	 Direct-Defines
 )	 data/source_txt/t1_biology_2_202.deft	 15594	 15595	 O	 -1	 -1	 0
 are	 data/source_txt/t1_biology_2_202.deft	 15596	 15599	 O	 -1	 -1	 0
 formed	 data/source_txt/t1_biology_2_202.deft	 15600	 15606	 B-Definition	 T244	 T242	 Direct-Defines

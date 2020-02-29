@@ -34,8 +34,8 @@ the	 data/source_txt/t7_government_1_303.deft	 7699	 7702	 O	 -1	 -1	 0
 Constitution	 data/source_txt/t7_government_1_303.deft	 7703	 7715	 O	 -1	 -1	 0
 .	 data/source_txt/t7_government_1_303.deft	 7715	 7716	 O	 -1	 -1	 0
 
-Judicial	 data/source_txt/t7_government_1_303.deft	 7723	 7731	 B-Term	 T9	 0	 0
-review	 data/source_txt/t7_government_1_303.deft	 7732	 7738	 I-Term	 T9	 0	 0
+Judicial	 data/source_txt/t7_government_1_303.deft	 7723	 7731	 B-Term	 T9	 0	 Direct-Defines
+review	 data/source_txt/t7_government_1_303.deft	 7732	 7738	 I-Term	 T9	 0	 Direct-Defines
 is	 data/source_txt/t7_government_1_303.deft	 7739	 7741	 O	 -1	 -1	 0
 the	 data/source_txt/t7_government_1_303.deft	 7742	 7745	 B-Definition	 T10	 T9	 Direct-Defines
 power	 data/source_txt/t7_government_1_303.deft	 7746	 7751	 I-Definition	 T10	 T9	 Direct-Defines
@@ -556,9 +556,9 @@ have	 data/source_txt/t7_government_1_303.deft	 25786	 25790	 O	 -1	 -1	 0
 the	 data/source_txt/t7_government_1_303.deft	 25791	 25794	 O	 -1	 -1	 0
 power	 data/source_txt/t7_government_1_303.deft	 25795	 25800	 O	 -1	 -1	 0
 of	 data/source_txt/t7_government_1_303.deft	 25801	 25803	 O	 -1	 -1	 0
-an	 data/source_txt/t7_government_1_303.deft	 25804	 25806	 B-Term	 T34	 0	 0
-amendatory	 data/source_txt/t7_government_1_303.deft	 25807	 25817	 I-Term	 T34	 0	 0
-veto	 data/source_txt/t7_government_1_303.deft	 25818	 25822	 I-Term	 T34	 0	 0
+an	 data/source_txt/t7_government_1_303.deft	 25804	 25806	 B-Term	 T34	 0	 Direct-Defines
+amendatory	 data/source_txt/t7_government_1_303.deft	 25807	 25817	 I-Term	 T34	 0	 Direct-Defines
+veto	 data/source_txt/t7_government_1_303.deft	 25818	 25822	 I-Term	 T34	 0	 Direct-Defines
 ,	 data/source_txt/t7_government_1_303.deft	 25822	 25823	 O	 -1	 -1	 0
 which	 data/source_txt/t7_government_1_303.deft	 25824	 25829	 O	 -1	 -1	 0
 allows	 data/source_txt/t7_government_1_303.deft	 25830	 25836	 B-Definition	 T35	 T34	 Direct-Defines
@@ -599,9 +599,9 @@ have	 data/source_txt/t7_government_1_303.deft	 26005	 26009	 O	 -1	 -1	 0
 the	 data/source_txt/t7_government_1_303.deft	 26010	 26013	 O	 -1	 -1	 0
 power	 data/source_txt/t7_government_1_303.deft	 26014	 26019	 O	 -1	 -1	 0
 of	 data/source_txt/t7_government_1_303.deft	 26020	 26022	 O	 -1	 -1	 0
-a	 data/source_txt/t7_government_1_303.deft	 26023	 26024	 B-Term	 T36	 0	 0
-reduction	 data/source_txt/t7_government_1_303.deft	 26025	 26034	 I-Term	 T36	 0	 0
-veto	 data/source_txt/t7_government_1_303.deft	 26035	 26039	 I-Term	 T36	 0	 0
+a	 data/source_txt/t7_government_1_303.deft	 26023	 26024	 B-Term	 T36	 0	 Direct-Defines
+reduction	 data/source_txt/t7_government_1_303.deft	 26025	 26034	 I-Term	 T36	 0	 Direct-Defines
+veto	 data/source_txt/t7_government_1_303.deft	 26035	 26039	 I-Term	 T36	 0	 Direct-Defines
 ,	 data/source_txt/t7_government_1_303.deft	 26039	 26040	 O	 -1	 -1	 0
 which	 data/source_txt/t7_government_1_303.deft	 26041	 26046	 O	 -1	 -1	 0
 allows	 data/source_txt/t7_government_1_303.deft	 26047	 26053	 B-Definition	 T37	 T36	 Direct-Defines

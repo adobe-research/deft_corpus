@@ -6,10 +6,10 @@ Europe	 data/source_txt/t2_history_0_0.deft	 14	 20	 O	 -1	 -1	 0
 feudal	 data/source_txt/t2_history_0_0.deft	 23	 29	 O	 -1	 -1	 0
 society	 data/source_txt/t2_history_0_0.deft	 30	 37	 O	 -1	 -1	 0
 was	 data/source_txt/t2_history_0_0.deft	 38	 41	 O	 -1	 -1	 0
-a	 data/source_txt/t2_history_0_0.deft	 42	 43	 B-Term	 T2	 0	 0
-mutually	 data/source_txt/t2_history_0_0.deft	 44	 52	 I-Term	 T2	 0	 0
-supportive	 data/source_txt/t2_history_0_0.deft	 53	 63	 I-Term	 T2	 0	 0
-system	 data/source_txt/t2_history_0_0.deft	 64	 70	 I-Term	 T2	 0	 0
+a	 data/source_txt/t2_history_0_0.deft	 42	 43	 B-Term	 T2	 0	 Direct-Defines
+mutually	 data/source_txt/t2_history_0_0.deft	 44	 52	 I-Term	 T2	 0	 Direct-Defines
+supportive	 data/source_txt/t2_history_0_0.deft	 53	 63	 I-Term	 T2	 0	 Direct-Defines
+system	 data/source_txt/t2_history_0_0.deft	 64	 70	 I-Term	 T2	 0	 Direct-Defines
 .	 data/source_txt/t2_history_0_0.deft	 70	 71	 O	 -1	 -1	 0
 
 The	 data/source_txt/t2_history_0_0.deft	 78	 81	 B-Definition	 T1	 T2	 Direct-Defines
@@ -104,8 +104,8 @@ a	 data/source_txt/t2_history_0_0.deft	 2427	 2428	 I-Definition	 T20	 T19	 Dire
 requirement	 data/source_txt/t2_history_0_0.deft	 2429	 2440	 I-Definition	 T20	 T19	 Direct-Defines
 known	 data/source_txt/t2_history_0_0.deft	 2441	 2446	 O	 -1	 -1	 0
 as	 data/source_txt/t2_history_0_0.deft	 2447	 2449	 O	 -1	 -1	 0
-the	 data/source_txt/t2_history_0_0.deft	 2450	 2453	 B-Term	 T19	 0	 0
-mita	 data/source_txt/t2_history_0_0.deft	 2454	 2458	 I-Term	 T19	 0	 0
+the	 data/source_txt/t2_history_0_0.deft	 2450	 2453	 B-Term	 T19	 0	 Direct-Defines
+mita	 data/source_txt/t2_history_0_0.deft	 2454	 2458	 I-Term	 T19	 0	 Direct-Defines
 .	 data/source_txt/t2_history_0_0.deft	 2458	 2459	 O	 -1	 -1	 0
 
 For	 data/source_txt/t2_history_0_0.deft	 2466	 2469	 O	 -1	 -1	 0
@@ -155,37 +155,37 @@ colonial	 data/source_txt/t2_history_0_0.deft	 5764	 5772	 B-Qualifier	 T42	 T41
 labor	 data/source_txt/t2_history_0_0.deft	 5773	 5778	 I-Qualifier	 T42	 T41	 Supplements
 system	 data/source_txt/t2_history_0_0.deft	 5779	 5785	 I-Qualifier	 T42	 T41	 Supplements
 ,	 data/source_txt/t2_history_0_0.deft	 5785	 5786	 O	 -1	 -1	 0
-the	 data/source_txt/t2_history_0_0.deft	 5787	 5790	 B-Term	 T40	 0	 0
-repartimiento	 data/source_txt/t2_history_0_0.deft	 5791	 5804	 I-Term	 T40	 0	 0
+the	 data/source_txt/t2_history_0_0.deft	 5787	 5790	 B-Term	 T40	 0	 Direct-Defines
+repartimiento	 data/source_txt/t2_history_0_0.deft	 5791	 5804	 I-Term	 T40	 0	 Direct-Defines
 ,	 data/source_txt/t2_history_0_0.deft	 5804	 5805	 O	 -1	 -1	 0
 which	 data/source_txt/t2_history_0_0.deft	 5806	 5811	 O	 -1	 -1	 0
-required	 data/source_txt/t2_history_0_0.deft	 5812	 5820	 B-Definition	 T41	 T40	 Direct-Defines
-Indian	 data/source_txt/t2_history_0_0.deft	 5821	 5827	 I-Definition	 T41	 T40	 Direct-Defines
-towns	 data/source_txt/t2_history_0_0.deft	 5828	 5833	 I-Definition	 T41	 T40	 Direct-Defines
-to	 data/source_txt/t2_history_0_0.deft	 5834	 5836	 I-Definition	 T41	 T40	 Direct-Defines
-supply	 data/source_txt/t2_history_0_0.deft	 5837	 5843	 I-Definition	 T41	 T40	 Direct-Defines
-a	 data/source_txt/t2_history_0_0.deft	 5844	 5845	 I-Definition	 T41	 T40	 Direct-Defines
-pool	 data/source_txt/t2_history_0_0.deft	 5846	 5850	 I-Definition	 T41	 T40	 Direct-Defines
-of	 data/source_txt/t2_history_0_0.deft	 5851	 5853	 I-Definition	 T41	 T40	 Direct-Defines
-labor	 data/source_txt/t2_history_0_0.deft	 5854	 5859	 I-Definition	 T41	 T40	 Direct-Defines
-for	 data/source_txt/t2_history_0_0.deft	 5860	 5863	 I-Definition	 T41	 T40	 Direct-Defines
-Spanish	 data/source_txt/t2_history_0_0.deft	 5864	 5871	 I-Definition	 T41	 T40	 Direct-Defines
-overlords	 data/source_txt/t2_history_0_0.deft	 5872	 5881	 I-Definition	 T41	 T40	 Direct-Defines
+required	 data/source_txt/t2_history_0_0.deft	 5812	 5820	 B-Definition	 T41	 0	 Supplements
+Indian	 data/source_txt/t2_history_0_0.deft	 5821	 5827	 I-Definition	 T41	 0	 Supplements
+towns	 data/source_txt/t2_history_0_0.deft	 5828	 5833	 I-Definition	 T41	 0	 Supplements
+to	 data/source_txt/t2_history_0_0.deft	 5834	 5836	 I-Definition	 T41	 0	 Supplements
+supply	 data/source_txt/t2_history_0_0.deft	 5837	 5843	 I-Definition	 T41	 0	 Supplements
+a	 data/source_txt/t2_history_0_0.deft	 5844	 5845	 I-Definition	 T41	 0	 Supplements
+pool	 data/source_txt/t2_history_0_0.deft	 5846	 5850	 I-Definition	 T41	 0	 Supplements
+of	 data/source_txt/t2_history_0_0.deft	 5851	 5853	 I-Definition	 T41	 0	 Supplements
+labor	 data/source_txt/t2_history_0_0.deft	 5854	 5859	 I-Definition	 T41	 0	 Supplements
+for	 data/source_txt/t2_history_0_0.deft	 5860	 5863	 I-Definition	 T41	 0	 Supplements
+Spanish	 data/source_txt/t2_history_0_0.deft	 5864	 5871	 I-Definition	 T41	 0	 Supplements
+overlords	 data/source_txt/t2_history_0_0.deft	 5872	 5881	 I-Definition	 T41	 0	 Supplements
 .	 data/source_txt/t2_history_0_0.deft	 5881	 5882	 O	 -1	 -1	 0
 
 
 2219	 data/source_txt/t2_history_0_0.deft	 12694	 12698	 O	 -1	 -1	 0
 .	 data/source_txt/t2_history_0_0.deft	 12698	 12699	 O	 -1	 -1	 0
 
-Conservative	 data/source_txt/t2_history_0_0.deft	 12700	 12712	 B-Term	 T95	 0	 0
-Whigs	 data/source_txt/t2_history_0_0.deft	 12713	 12718	 I-Term	 T95	 0	 0
+Conservative	 data/source_txt/t2_history_0_0.deft	 12700	 12712	 B-Term	 T95	 0	 Direct-Defines
+Whigs	 data/source_txt/t2_history_0_0.deft	 12713	 12718	 I-Term	 T95	 0	 Direct-Defines
 believed	 data/source_txt/t2_history_0_0.deft	 12719	 12727	 O	 -1	 -1	 0
 in	 data/source_txt/t2_history_0_0.deft	 12728	 12730	 O	 -1	 -1	 0
 government	 data/source_txt/t2_history_0_0.deft	 12731	 12741	 O	 -1	 -1	 0
 by	 data/source_txt/t2_history_0_0.deft	 12742	 12744	 O	 -1	 -1	 0
-a	 data/source_txt/t2_history_0_0.deft	 12745	 12746	 B-Term	 T97	 0	 0
-patrician	 data/source_txt/t2_history_0_0.deft	 12747	 12756	 I-Term	 T97	 0	 0
-class	 data/source_txt/t2_history_0_0.deft	 12757	 12762	 I-Term	 T97	 0	 0
+a	 data/source_txt/t2_history_0_0.deft	 12745	 12746	 B-Term	 T97	 0	 Direct-Defines
+patrician	 data/source_txt/t2_history_0_0.deft	 12747	 12756	 I-Term	 T97	 0	 Direct-Defines
+class	 data/source_txt/t2_history_0_0.deft	 12757	 12762	 I-Term	 T97	 0	 Direct-Defines
 ,	 data/source_txt/t2_history_0_0.deft	 12762	 12763	 O	 -1	 -1	 0
 a	 data/source_txt/t2_history_0_0.deft	 12764	 12765	 B-Definition	 T98	 T97	 Direct-Defines
 ruling	 data/source_txt/t2_history_0_0.deft	 12766	 12772	 I-Definition	 T98	 T97	 Direct-Defines
@@ -200,31 +200,8 @@ privileged	 data/source_txt/t2_history_0_0.deft	 12809	 12819	 I-Definition	 T98
 families	 data/source_txt/t2_history_0_0.deft	 12820	 12828	 I-Definition	 T98	 T97	 Direct-Defines
 .	 data/source_txt/t2_history_0_0.deft	 12828	 12829	 O	 -1	 -1	 0
 
-Conservative	 data/source_txt/t2_history_0_0.deft	 12700	 12712	 B-Term	 T95	 0	 0
-Whigs	 data/source_txt/t2_history_0_0.deft	 12713	 12718	 I-Term	 T95	 0	 0
-believed	 data/source_txt/t2_history_0_0.deft	 12719	 12727	 B-Definition	 T96	 T95	 Direct-Defines
-in	 data/source_txt/t2_history_0_0.deft	 12728	 12730	 I-Definition	 T96	 T95	 Direct-Defines
-government	 data/source_txt/t2_history_0_0.deft	 12731	 12741	 I-Definition	 T96	 T95	 Direct-Defines
-by	 data/source_txt/t2_history_0_0.deft	 12742	 12744	 I-Definition	 T96	 T95	 Direct-Defines
-a	 data/source_txt/t2_history_0_0.deft	 12745	 12746	 I-Definition	 T96	 T95	 Direct-Defines
-patrician	 data/source_txt/t2_history_0_0.deft	 12747	 12756	 I-Definition	 T96	 T95	 Direct-Defines
-class	 data/source_txt/t2_history_0_0.deft	 12757	 12762	 I-Definition	 T96	 T95	 Direct-Defines
-,	 data/source_txt/t2_history_0_0.deft	 12762	 12763	 I-Definition	 T96	 T95	 Direct-Defines
-a	 data/source_txt/t2_history_0_0.deft	 12764	 12765	 I-Definition	 T96	 T95	 Direct-Defines
-ruling	 data/source_txt/t2_history_0_0.deft	 12766	 12772	 I-Definition	 T96	 T95	 Direct-Defines
-group	 data/source_txt/t2_history_0_0.deft	 12773	 12778	 I-Definition	 T96	 T95	 Direct-Defines
-composed	 data/source_txt/t2_history_0_0.deft	 12779	 12787	 I-Definition	 T96	 T95	 Direct-Defines
-of	 data/source_txt/t2_history_0_0.deft	 12788	 12790	 I-Definition	 T96	 T95	 Direct-Defines
-a	 data/source_txt/t2_history_0_0.deft	 12791	 12792	 I-Definition	 T96	 T95	 Direct-Defines
-small	 data/source_txt/t2_history_0_0.deft	 12793	 12798	 I-Definition	 T96	 T95	 Direct-Defines
-number	 data/source_txt/t2_history_0_0.deft	 12799	 12805	 I-Definition	 T96	 T95	 Direct-Defines
-of	 data/source_txt/t2_history_0_0.deft	 12806	 12808	 I-Definition	 T96	 T95	 Direct-Defines
-privileged	 data/source_txt/t2_history_0_0.deft	 12809	 12819	 I-Definition	 T96	 T95	 Direct-Defines
-families	 data/source_txt/t2_history_0_0.deft	 12820	 12828	 I-Definition	 T96	 T95	 Direct-Defines
-.	 data/source_txt/t2_history_0_0.deft	 12828	 12829	 O	 -1	 -1	 0
-
-Radical	 data/source_txt/t2_history_0_0.deft	 12838	 12845	 B-Term	 T99	 0	 0
-Whigs	 data/source_txt/t2_history_0_0.deft	 12846	 12851	 I-Term	 T99	 0	 0
+Radical	 data/source_txt/t2_history_0_0.deft	 12838	 12845	 B-Term	 T99	 0	 Direct-Defines
+Whigs	 data/source_txt/t2_history_0_0.deft	 12846	 12851	 I-Term	 T99	 0	 Direct-Defines
 favored	 data/source_txt/t2_history_0_0.deft	 12852	 12859	 B-Definition	 T100	 T99	 Direct-Defines
 broadening	 data/source_txt/t2_history_0_0.deft	 12860	 12870	 I-Definition	 T100	 T99	 Direct-Defines
 the	 data/source_txt/t2_history_0_0.deft	 12871	 12874	 I-Definition	 T100	 T99	 Direct-Defines
@@ -299,9 +276,9 @@ in	 data/source_txt/t2_history_0_0.deft	 17105	 17107	 O	 -1	 -1	 0
 American	 data/source_txt/t2_history_0_0.deft	 17108	 17116	 O	 -1	 -1	 0
 history	 data/source_txt/t2_history_0_0.deft	 17117	 17124	 O	 -1	 -1	 0
 ,	 data/source_txt/t2_history_0_0.deft	 17124	 17125	 O	 -1	 -1	 0
-the	 data/source_txt/t2_history_0_0.deft	 17126	 17129	 B-Term	 T128	 0	 0
-Louisiana	 data/source_txt/t2_history_0_0.deft	 17130	 17139	 I-Term	 T128	 0	 0
-Purchase	 data/source_txt/t2_history_0_0.deft	 17140	 17148	 I-Term	 T128	 0	 0
+the	 data/source_txt/t2_history_0_0.deft	 17126	 17129	 B-Term	 T128	 0	 Direct-Defines
+Louisiana	 data/source_txt/t2_history_0_0.deft	 17130	 17139	 I-Term	 T128	 0	 Direct-Defines
+Purchase	 data/source_txt/t2_history_0_0.deft	 17140	 17148	 I-Term	 T128	 0	 Direct-Defines
 greatly	 data/source_txt/t2_history_0_0.deft	 17149	 17156	 B-Definition	 T129	 T128	 Direct-Defines
 enhanced	 data/source_txt/t2_history_0_0.deft	 17157	 17165	 I-Definition	 T129	 T128	 Direct-Defines
 the	 data/source_txt/t2_history_0_0.deft	 17166	 17169	 I-Definition	 T129	 T128	 Direct-Defines
@@ -366,7 +343,7 @@ commerce	 data/source_txt/t2_history_0_0.deft	 17476	 17484	 O	 -1	 -1	 0
 2252	 data/source_txt/t2_history_0_0.deft	 17678	 17682	 O	 -1	 -1	 0
 .	 data/source_txt/t2_history_0_0.deft	 17682	 17683	 O	 -1	 -1	 0
 
-Specialization	 data/source_txt/t2_history_0_0.deft	 17684	 17698	 B-Term	 T132	 0	 0
+Specialization	 data/source_txt/t2_history_0_0.deft	 17684	 17698	 B-Term	 T132	 0	 Direct-Defines
 meant	 data/source_txt/t2_history_0_0.deft	 17699	 17704	 B-Definition	 T133	 T132	 Direct-Defines
 the	 data/source_txt/t2_history_0_0.deft	 17705	 17708	 I-Definition	 T133	 T132	 Direct-Defines
 work	 data/source_txt/t2_history_0_0.deft	 17709	 17713	 I-Definition	 T133	 T132	 Direct-Defines
@@ -520,8 +497,8 @@ the	 data/source_txt/t2_history_0_0.deft	 39141	 39144	 O	 -1	 -1	 0
 obvious	 data/source_txt/t2_history_0_0.deft	 39145	 39152	 O	 -1	 -1	 0
 appearance	 data/source_txt/t2_history_0_0.deft	 39153	 39163	 O	 -1	 -1	 0
 of	 data/source_txt/t2_history_0_0.deft	 39164	 39166	 O	 -1	 -1	 0
-a	 data/source_txt/t2_history_0_0.deft	 39167	 39168	 B-Term	 T236	 0	 0
-monopoly	 data/source_txt/t2_history_0_0.deft	 39169	 39177	 I-Term	 T236	 0	 0
+a	 data/source_txt/t2_history_0_0.deft	 39167	 39168	 B-Term	 T236	 0	 Direct-Defines
+monopoly	 data/source_txt/t2_history_0_0.deft	 39169	 39177	 I-Term	 T236	 0	 Direct-Defines
 ,	 data/source_txt/t2_history_0_0.deft	 39177	 39178	 O	 -1	 -1	 0
 which	 data/source_txt/t2_history_0_0.deft	 39179	 39184	 O	 -1	 -1	 0
 implied	 data/source_txt/t2_history_0_0.deft	 39185	 39192	 O	 -1	 -1	 0
@@ -579,10 +556,10 @@ legal	 data/source_txt/t2_history_0_0.deft	 39492	 39497	 O	 -1	 -1	 0
 entity	 data/source_txt/t2_history_0_0.deft	 39498	 39504	 O	 -1	 -1	 0
 ,	 data/source_txt/t2_history_0_0.deft	 39504	 39505	 O	 -1	 -1	 0
 called	 data/source_txt/t2_history_0_0.deft	 39506	 39512	 O	 -1	 -1	 0
-a	 data/source_txt/t2_history_0_0.deft	 39513	 39514	 B-Term	 T238	 0	 0
-holding	 data/source_txt/t2_history_0_0.deft	 39515	 39522	 I-Term	 T238	 0	 0
-company	 data/source_txt/t2_history_0_0.deft	 39523	 39530	 I-Term	 T238	 0	 0
-model	 data/source_txt/t2_history_0_0.deft	 39531	 39536	 I-Term	 T238	 0	 0
+a	 data/source_txt/t2_history_0_0.deft	 39513	 39514	 B-Term	 T238	 0	 Direct-Defines
+holding	 data/source_txt/t2_history_0_0.deft	 39515	 39522	 I-Term	 T238	 0	 Direct-Defines
+company	 data/source_txt/t2_history_0_0.deft	 39523	 39530	 I-Term	 T238	 0	 Direct-Defines
+model	 data/source_txt/t2_history_0_0.deft	 39531	 39536	 I-Term	 T238	 0	 Direct-Defines
 .	 data/source_txt/t2_history_0_0.deft	 39536	 39537	 O	 -1	 -1	 0
 
 The	 data/source_txt/t2_history_0_0.deft	 39544	 39547	 O	 -1	 -1	 0

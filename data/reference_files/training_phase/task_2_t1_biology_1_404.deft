@@ -69,32 +69,6 @@ called	 data/source_txt/t1_biology_1_404.deft	 318	 324	 O
 loams	 data/source_txt/t1_biology_1_404.deft	 325	 330	 B-Term
 .	 data/source_txt/t1_biology_1_404.deft	 330	 331	 O
 
-Some	 data/source_txt/t1_biology_1_404.deft	 212	 216	 B-Definition
-soils	 data/source_txt/t1_biology_1_404.deft	 217	 222	 I-Definition
-have	 data/source_txt/t1_biology_1_404.deft	 223	 227	 I-Definition
-no	 data/source_txt/t1_biology_1_404.deft	 228	 230	 I-Definition
-dominant	 data/source_txt/t1_biology_1_404.deft	 231	 239	 I-Definition
-particle	 data/source_txt/t1_biology_1_404.deft	 240	 248	 I-Definition
-size	 data/source_txt/t1_biology_1_404.deft	 249	 253	 I-Definition
-and	 data/source_txt/t1_biology_1_404.deft	 254	 257	 I-Definition
-contain	 data/source_txt/t1_biology_1_404.deft	 258	 265	 I-Definition
-a	 data/source_txt/t1_biology_1_404.deft	 266	 267	 I-Definition
-mixture	 data/source_txt/t1_biology_1_404.deft	 268	 275	 I-Definition
-of	 data/source_txt/t1_biology_1_404.deft	 276	 278	 I-Definition
-sand	 data/source_txt/t1_biology_1_404.deft	 279	 283	 I-Definition
-,	 data/source_txt/t1_biology_1_404.deft	 283	 284	 I-Definition
-silt	 data/source_txt/t1_biology_1_404.deft	 285	 289	 I-Definition
-,	 data/source_txt/t1_biology_1_404.deft	 289	 290	 I-Definition
-and	 data/source_txt/t1_biology_1_404.deft	 291	 294	 I-Definition
-humus	 data/source_txt/t1_biology_1_404.deft	 295	 300	 I-Definition
-;	 data/source_txt/t1_biology_1_404.deft	 300	 301	 O
-these	 data/source_txt/t1_biology_1_404.deft	 302	 307	 B-Referential-Definition
-soils	 data/source_txt/t1_biology_1_404.deft	 308	 313	 I-Referential-Definition
-are	 data/source_txt/t1_biology_1_404.deft	 314	 317	 O
-called	 data/source_txt/t1_biology_1_404.deft	 318	 324	 O
-loams	 data/source_txt/t1_biology_1_404.deft	 325	 330	 B-Term
-.	 data/source_txt/t1_biology_1_404.deft	 330	 331	 O
-
 
 1264	 data/source_txt/t1_biology_1_404.deft	 5863	 5867	 O
 .	 data/source_txt/t1_biology_1_404.deft	 5867	 5868	 O

@@ -1,8 +1,8 @@
 5305	 data/source_txt/t6_sociology_2_0.deft	 969	 973	 O	 -1	 -1	 0
 .	 data/source_txt/t6_sociology_2_0.deft	 973	 974	 O	 -1	 -1	 0
 
-Expressive	 data/source_txt/t6_sociology_2_0.deft	 975	 985	 B-Term	 T5	 0	 0
-crowds	 data/source_txt/t6_sociology_2_0.deft	 986	 992	 I-Term	 T5	 0	 0
+Expressive	 data/source_txt/t6_sociology_2_0.deft	 975	 985	 B-Term	 T5	 0	 Direct-Defines
+crowds	 data/source_txt/t6_sociology_2_0.deft	 986	 992	 I-Term	 T5	 0	 Direct-Defines
 are	 data/source_txt/t6_sociology_2_0.deft	 993	 996	 O	 -1	 -1	 0
 people	 data/source_txt/t6_sociology_2_0.deft	 997	 1003	 B-Definition	 T6	 T5	 Direct-Defines
 who	 data/source_txt/t6_sociology_2_0.deft	 1004	 1007	 I-Definition	 T6	 T5	 Direct-Defines
@@ -27,8 +27,8 @@ The	 data/source_txt/t6_sociology_2_0.deft	 1092	 1095	 O	 -1	 -1	 0
 final	 data/source_txt/t6_sociology_2_0.deft	 1096	 1101	 O	 -1	 -1	 0
 type	 data/source_txt/t6_sociology_2_0.deft	 1102	 1106	 O	 -1	 -1	 0
 ,	 data/source_txt/t6_sociology_2_0.deft	 1106	 1107	 O	 -1	 -1	 0
-acting	 data/source_txt/t6_sociology_2_0.deft	 1108	 1114	 B-Term	 T7	 0	 0
-crowds	 data/source_txt/t6_sociology_2_0.deft	 1115	 1121	 I-Term	 T7	 0	 0
+acting	 data/source_txt/t6_sociology_2_0.deft	 1108	 1114	 B-Term	 T7	 0	 Direct-Defines
+crowds	 data/source_txt/t6_sociology_2_0.deft	 1115	 1121	 I-Term	 T7	 0	 Direct-Defines
 ,	 data/source_txt/t6_sociology_2_0.deft	 1121	 1122	 O	 -1	 -1	 0
 focuses	 data/source_txt/t6_sociology_2_0.deft	 1123	 1130	 B-Definition	 T8	 T7	 Direct-Defines
 on	 data/source_txt/t6_sociology_2_0.deft	 1131	 1133	 I-Definition	 T8	 T7	 Direct-Defines
@@ -67,8 +67,8 @@ other	 data/source_txt/t6_sociology_2_0.deft	 1290	 1295	 O	 -1	 -1	 0
 ways	 data/source_txt/t6_sociology_2_0.deft	 1296	 1300	 O	 -1	 -1	 0
 .	 data/source_txt/t6_sociology_2_0.deft	 1300	 1301	 O	 -1	 -1	 0
 
-A	 data/source_txt/t6_sociology_2_0.deft	 1308	 1309	 B-Term	 T9	 0	 0
-mass	 data/source_txt/t6_sociology_2_0.deft	 1310	 1314	 I-Term	 T9	 0	 0
+A	 data/source_txt/t6_sociology_2_0.deft	 1308	 1309	 B-Term	 T9	 0	 Direct-Defines
+mass	 data/source_txt/t6_sociology_2_0.deft	 1310	 1314	 I-Term	 T9	 0	 Direct-Defines
 is	 data/source_txt/t6_sociology_2_0.deft	 1315	 1317	 O	 -1	 -1	 0
 a	 data/source_txt/t6_sociology_2_0.deft	 1318	 1319	 B-Definition	 T10	 T9	 Direct-Defines
 relatively	 data/source_txt/t6_sociology_2_0.deft	 1320	 1330	 I-Definition	 T10	 T9	 Direct-Defines
@@ -109,7 +109,7 @@ Farmville	 data/source_txt/t6_sociology_2_0.deft	 1481	 1490	 I-Definition	 T10	
 5452	 data/source_txt/t6_sociology_2_0.deft	 20594	 20598	 O	 -1	 -1	 0
 .	 data/source_txt/t6_sociology_2_0.deft	 20598	 20599	 O	 -1	 -1	 0
 
-Urbanization	 data/source_txt/t6_sociology_2_0.deft	 20609	 20621	 B-Term	 T102	 0	 0
+Urbanization	 data/source_txt/t6_sociology_2_0.deft	 20609	 20621	 B-Term	 T102	 0	 Direct-Defines
 is	 data/source_txt/t6_sociology_2_0.deft	 20622	 20624	 O	 -1	 -1	 0
 the	 data/source_txt/t6_sociology_2_0.deft	 20625	 20628	 B-Definition	 T103	 T102	 Direct-Defines
 study	 data/source_txt/t6_sociology_2_0.deft	 20629	 20634	 I-Definition	 T103	 T102	 Direct-Defines
@@ -270,9 +270,9 @@ to	 data/source_txt/t6_sociology_2_0.deft	 24629	 24631	 O	 -1	 -1	 0
 postindustrial	 data/source_txt/t6_sociology_2_0.deft	 24632	 24646	 O	 -1	 -1	 0
 .	 data/source_txt/t6_sociology_2_0.deft	 24646	 24647	 O	 -1	 -1	 0
 
-Demographic	 data/source_txt/t6_sociology_2_0.deft	 24656	 24667	 B-Term	 T129	 0	 0
-transition	 data/source_txt/t6_sociology_2_0.deft	 24668	 24678	 I-Term	 T129	 0	 0
-theory	 data/source_txt/t6_sociology_2_0.deft	 24679	 24685	 I-Term	 T129	 0	 0
+Demographic	 data/source_txt/t6_sociology_2_0.deft	 24656	 24667	 B-Term	 T129	 0	 Direct-Defines
+transition	 data/source_txt/t6_sociology_2_0.deft	 24668	 24678	 I-Term	 T129	 0	 Direct-Defines
+theory	 data/source_txt/t6_sociology_2_0.deft	 24679	 24685	 I-Term	 T129	 0	 Direct-Defines
 (	 data/source_txt/t6_sociology_2_0.deft	 24686	 24687	 O	 -1	 -1	 0
 Caldwell	 data/source_txt/t6_sociology_2_0.deft	 24687	 24695	 O	 -1	 -1	 0
 and	 data/source_txt/t6_sociology_2_0.deft	 24696	 24699	 O	 -1	 -1	 0
@@ -358,8 +358,8 @@ leader	 data/source_txt/t6_sociology_2_0.deft	 27556	 27562	 O	 -1	 -1	 0
 In	 data/source_txt/t6_sociology_2_0.deft	 27572	 27574	 O	 -1	 -1	 0
 contrast	 data/source_txt/t6_sociology_2_0.deft	 27575	 27583	 O	 -1	 -1	 0
 ,	 data/source_txt/t6_sociology_2_0.deft	 27583	 27584	 O	 -1	 -1	 0
-expressive	 data/source_txt/t6_sociology_2_0.deft	 27585	 27595	 B-Term	 T149	 0	 0
-leaders	 data/source_txt/t6_sociology_2_0.deft	 27596	 27603	 I-Term	 T149	 0	 0
+expressive	 data/source_txt/t6_sociology_2_0.deft	 27585	 27595	 B-Term	 T149	 0	 Direct-Defines
+leaders	 data/source_txt/t6_sociology_2_0.deft	 27596	 27603	 I-Term	 T149	 0	 Direct-Defines
 are	 data/source_txt/t6_sociology_2_0.deft	 27604	 27607	 O	 -1	 -1	 0
 more	 data/source_txt/t6_sociology_2_0.deft	 27608	 27612	 B-Definition	 T150	 T149	 Direct-Defines
 concerned	 data/source_txt/t6_sociology_2_0.deft	 27613	 27622	 I-Definition	 T150	 T149	 Direct-Defines

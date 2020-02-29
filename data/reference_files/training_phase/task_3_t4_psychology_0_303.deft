@@ -5,7 +5,7 @@ The	 data/source_txt/t4_psychology_0_303.deft	 743	 746	 O	 -1	 -1	 0
 main	 data/source_txt/t4_psychology_0_303.deft	 747	 751	 O	 -1	 -1	 0
 symptoms	 data/source_txt/t4_psychology_0_303.deft	 752	 760	 O	 -1	 -1	 0
 of	 data/source_txt/t4_psychology_0_303.deft	 761	 763	 O	 -1	 -1	 0
-schizophrenia	 data/source_txt/t4_psychology_0_303.deft	 764	 777	 B-Term	 T6	 0	 0
+schizophrenia	 data/source_txt/t4_psychology_0_303.deft	 764	 777	 B-Term	 T6	 0	 Direct-Defines
 include	 data/source_txt/t4_psychology_0_303.deft	 778	 785	 B-Definition	 T7	 T6	 Direct-Defines
 hallucinations	 data/source_txt/t4_psychology_0_303.deft	 786	 800	 I-Definition	 T7	 T6	 Direct-Defines
 ,	 data/source_txt/t4_psychology_0_303.deft	 800	 801	 I-Definition	 T7	 T6	 Direct-Defines
@@ -30,8 +30,8 @@ APA	 data/source_txt/t4_psychology_0_303.deft	 900	 903	 O	 -1	 -1	 0
 )	 data/source_txt/t4_psychology_0_303.deft	 909	 910	 O	 -1	 -1	 0
 .	 data/source_txt/t4_psychology_0_303.deft	 910	 911	 O	 -1	 -1	 0
 
-A	 data/source_txt/t4_psychology_0_303.deft	 920	 921	 B-Term	 T5	 0	 0
-hallucination	 data/source_txt/t4_psychology_0_303.deft	 922	 935	 I-Term	 T5	 0	 0
+A	 data/source_txt/t4_psychology_0_303.deft	 920	 921	 B-Term	 T5	 0	 Direct-Defines
+hallucination	 data/source_txt/t4_psychology_0_303.deft	 922	 935	 I-Term	 T5	 0	 Direct-Defines
 is	 data/source_txt/t4_psychology_0_303.deft	 936	 938	 O	 -1	 -1	 0
 a	 data/source_txt/t4_psychology_0_303.deft	 939	 940	 B-Definition	 T8	 T5	 Direct-Defines
 perceptual	 data/source_txt/t4_psychology_0_303.deft	 941	 951	 I-Definition	 T8	 T5	 Direct-Defines
@@ -46,8 +46,8 @@ external	 data/source_txt/t4_psychology_0_303.deft	 993	 1001	 I-Definition	 T8	
 stimulation	 data/source_txt/t4_psychology_0_303.deft	 1002	 1013	 I-Definition	 T8	 T5	 Direct-Defines
 .	 data/source_txt/t4_psychology_0_303.deft	 1013	 1014	 O	 -1	 -1	 0
 
-Auditory	 data/source_txt/t4_psychology_0_303.deft	 1021	 1029	 B-Term	 T9	 0	 0
-hallucinations	 data/source_txt/t4_psychology_0_303.deft	 1030	 1044	 I-Term	 T9	 0	 0
+Auditory	 data/source_txt/t4_psychology_0_303.deft	 1021	 1029	 B-Term	 T9	 0	 Direct-Defines
+hallucinations	 data/source_txt/t4_psychology_0_303.deft	 1030	 1044	 I-Term	 T9	 0	 Direct-Defines
 (	 data/source_txt/t4_psychology_0_303.deft	 1045	 1046	 O	 -1	 -1	 0
 hearing	 data/source_txt/t4_psychology_0_303.deft	 1046	 1053	 B-Definition	 T10	 T9	 Direct-Defines
 voices	 data/source_txt/t4_psychology_0_303.deft	 1054	 1060	 I-Definition	 T10	 T9	 Direct-Defines

@@ -377,17 +377,6 @@ no	 data/source_txt/t7_government_1_0.deft	 2061	 2063	 I-Definition	 T16	 0	 0
 influence	 data/source_txt/t7_government_1_0.deft	 2064	 2073	 I-Definition	 T16	 0	 0
 .	 data/source_txt/t7_government_1_0.deft	 2073	 2074	 O	 -1	 -1	 0
 
-This	 data/source_txt/t7_government_1_0.deft	 2083	 2087	 B-Referential-Definition	 T17	 T16	 Refers-To
-belief	 data/source_txt/t7_government_1_0.deft	 2088	 2094	 I-Referential-Definition	 T17	 T16	 Refers-To
-is	 data/source_txt/t7_government_1_0.deft	 2095	 2097	 O	 -1	 -1	 0
-called	 data/source_txt/t7_government_1_0.deft	 2098	 2104	 O	 -1	 -1	 0
-the	 data/source_txt/t7_government_1_0.deft	 2105	 2108	 B-Term	 T18	 0	 0
-elite	 data/source_txt/t7_government_1_0.deft	 2109	 2114	 I-Term	 T18	 0	 0
-theory	 data/source_txt/t7_government_1_0.deft	 2115	 2121	 I-Term	 T18	 0	 0
-of	 data/source_txt/t7_government_1_0.deft	 2122	 2124	 I-Term	 T18	 0	 0
-government	 data/source_txt/t7_government_1_0.deft	 2125	 2135	 I-Term	 T18	 0	 0
-.	 data/source_txt/t7_government_1_0.deft	 2135	 2136	 O	 -1	 -1	 0
-
 This	 data/source_txt/t7_government_1_0.deft	 2083	 2087	 B-Referential-Definition	 T17	 T18	 Indirect-Defines
 belief	 data/source_txt/t7_government_1_0.deft	 2088	 2094	 I-Referential-Definition	 T17	 T18	 Indirect-Defines
 is	 data/source_txt/t7_government_1_0.deft	 2095	 2097	 O	 -1	 -1	 0

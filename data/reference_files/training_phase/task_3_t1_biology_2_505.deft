@@ -67,10 +67,10 @@ and	 data/source_txt/t1_biology_2_505.deft	 3860	 3863	 I-Definition	 T29	 T30	 
 liver	 data/source_txt/t1_biology_2_505.deft	 3864	 3869	 I-Definition	 T29	 T30	 Direct-Defines
 cells	 data/source_txt/t1_biology_2_505.deft	 3870	 3875	 I-Definition	 T29	 T30	 Direct-Defines
 in	 data/source_txt/t1_biology_2_505.deft	 3876	 3878	 O	 -1	 -1	 0
-a	 data/source_txt/t1_biology_2_505.deft	 3879	 3880	 B-Term	 T30	 0	 0
-process	 data/source_txt/t1_biology_2_505.deft	 3881	 3888	 I-Term	 T30	 0	 0
-called	 data/source_txt/t1_biology_2_505.deft	 3889	 3895	 I-Term	 T30	 0	 0
-glycogenolysis	 data/source_txt/t1_biology_2_505.deft	 3896	 3910	 I-Term	 T30	 0	 0
+a	 data/source_txt/t1_biology_2_505.deft	 3879	 3880	 B-Term	 T30	 0	 Direct-Defines
+process	 data/source_txt/t1_biology_2_505.deft	 3881	 3888	 I-Term	 T30	 0	 Direct-Defines
+called	 data/source_txt/t1_biology_2_505.deft	 3889	 3895	 I-Term	 T30	 0	 Direct-Defines
+glycogenolysis	 data/source_txt/t1_biology_2_505.deft	 3896	 3910	 I-Term	 T30	 0	 Direct-Defines
 .	 data/source_txt/t1_biology_2_505.deft	 3910	 3911	 O	 -1	 -1	 0
 
 
@@ -93,11 +93,11 @@ or	 data/source_txt/t1_biology_2_505.deft	 11916	 11918	 I-Definition	 T98	 T97	
 rotational	 data/source_txt/t1_biology_2_505.deft	 11919	 11929	 I-Definition	 T98	 T97	 Direct-Defines
 are	 data/source_txt/t1_biology_2_505.deft	 11930	 11933	 O	 -1	 -1	 0
 called	 data/source_txt/t1_biology_2_505.deft	 11934	 11940	 O	 -1	 -1	 0
-special	 data/source_txt/t1_biology_2_505.deft	 11941	 11948	 B-Term	 T97	 0	 0
-movements	 data/source_txt/t1_biology_2_505.deft	 11949	 11958	 I-Term	 T97	 0	 0
+special	 data/source_txt/t1_biology_2_505.deft	 11941	 11948	 B-Term	 T97	 0	 Direct-Defines
+movements	 data/source_txt/t1_biology_2_505.deft	 11949	 11958	 I-Term	 T97	 0	 Direct-Defines
 .	 data/source_txt/t1_biology_2_505.deft	 11958	 11959	 O	 -1	 -1	 0
 
-Inversion	 data/source_txt/t1_biology_2_505.deft	 11968	 11977	 B-Term	 T99	 0	 0
+Inversion	 data/source_txt/t1_biology_2_505.deft	 11968	 11977	 B-Term	 T99	 0	 Direct-Defines
 involves	 data/source_txt/t1_biology_2_505.deft	 11978	 11986	 O	 -1	 -1	 0
 the	 data/source_txt/t1_biology_2_505.deft	 11987	 11990	 B-Definition	 T100	 T99	 Direct-Defines
 soles	 data/source_txt/t1_biology_2_505.deft	 11991	 11996	 I-Definition	 T100	 T99	 Direct-Defines
@@ -115,7 +115,7 @@ the	 data/source_txt/t1_biology_2_505.deft	 12046	 12049	 I-Definition	 T100	 T9
 body	 data/source_txt/t1_biology_2_505.deft	 12050	 12054	 I-Definition	 T100	 T99	 Direct-Defines
 .	 data/source_txt/t1_biology_2_505.deft	 12054	 12055	 O	 -1	 -1	 0
 
-Eversion	 data/source_txt/t1_biology_2_505.deft	 12062	 12070	 B-Term	 T101	 0	 0
+Eversion	 data/source_txt/t1_biology_2_505.deft	 12062	 12070	 B-Term	 T101	 0	 Direct-Defines
 is	 data/source_txt/t1_biology_2_505.deft	 12071	 12073	 O	 -1	 -1	 0
 the	 data/source_txt/t1_biology_2_505.deft	 12074	 12077	 B-Definition	 T102	 T101	 Direct-Defines
 opposite	 data/source_txt/t1_biology_2_505.deft	 12078	 12086	 I-Definition	 T102	 T101	 Direct-Defines

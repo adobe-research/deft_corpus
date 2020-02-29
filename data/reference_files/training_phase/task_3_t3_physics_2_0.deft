@@ -1,7 +1,7 @@
 2666	 data/source_txt/t3_physics_2_0.deft	 2727	 2731	 O	 -1	 -1	 0
 .	 data/source_txt/t3_physics_2_0.deft	 2731	 2732	 O	 -1	 -1	 0
 
-Weight	 data/source_txt/t3_physics_2_0.deft	 2742	 2748	 B-Term	 T21	 0	 0
+Weight	 data/source_txt/t3_physics_2_0.deft	 2742	 2748	 B-Term	 T21	 0	 AKA
 (	 data/source_txt/t3_physics_2_0.deft	 2749	 2750	 O	 -1	 -1	 0
 also	 data/source_txt/t3_physics_2_0.deft	 2750	 2754	 O	 -1	 -1	 0
 called	 data/source_txt/t3_physics_2_0.deft	 2755	 2761	 O	 -1	 -1	 0
@@ -103,7 +103,7 @@ time	 data/source_txt/t3_physics_2_0.deft	 5992	 5996	 O	 -1	 -1	 0
 is	 data/source_txt/t3_physics_2_0.deft	 5997	 5999	 O	 -1	 -1	 0
 simple	 data/source_txt/t3_physics_2_0.deft	 6000	 6006	 O	 -1	 -1	 0
 —	 data/source_txt/t3_physics_2_0.deft	 6006	 6007	 O	 -1	 -1	 0
-time	 data/source_txt/t3_physics_2_0.deft	 6007	 6011	 B-Term	 T38	 0	 0
+time	 data/source_txt/t3_physics_2_0.deft	 6007	 6011	 B-Term	 T38	 0	 Direct-Defines
 is	 data/source_txt/t3_physics_2_0.deft	 6012	 6014	 O	 -1	 -1	 0
 change	 data/source_txt/t3_physics_2_0.deft	 6015	 6021	 B-Definition	 T39	 T38	 Direct-Defines
 ,	 data/source_txt/t3_physics_2_0.deft	 6021	 6022	 I-Definition	 T39	 T38	 Direct-Defines
@@ -153,13 +153,13 @@ constant	 data/source_txt/t3_physics_2_0.deft	 9334	 9342	 I-Definition	 T55	 T5
 velocity	 data/source_txt/t3_physics_2_0.deft	 9343	 9351	 I-Definition	 T55	 T54	 Direct-Defines
 is	 data/source_txt/t3_physics_2_0.deft	 9352	 9354	 O	 -1	 -1	 0
 called	 data/source_txt/t3_physics_2_0.deft	 9355	 9361	 O	 -1	 -1	 0
-inertia	 data/source_txt/t3_physics_2_0.deft	 9362	 9369	 B-Term	 T54	 0	 0
+inertia	 data/source_txt/t3_physics_2_0.deft	 9362	 9369	 B-Term	 T54	 0	 Direct-Defines
 .	 data/source_txt/t3_physics_2_0.deft	 9369	 9370	 O	 -1	 -1	 0
 
-Newton	 data/source_txt/t3_physics_2_0.deft	 9379	 9385	 B-Term	 T192	 0	 0
-’s	 data/source_txt/t3_physics_2_0.deft	 9385	 9387	 I-Term	 T192	 0	 0
-first	 data/source_txt/t3_physics_2_0.deft	 9388	 9393	 I-Term	 T192	 0	 0
-law	 data/source_txt/t3_physics_2_0.deft	 9394	 9397	 I-Term	 T192	 0	 0
+Newton	 data/source_txt/t3_physics_2_0.deft	 9379	 9385	 B-Term	 T192	 0	 AKA
+’s	 data/source_txt/t3_physics_2_0.deft	 9385	 9387	 I-Term	 T192	 0	 AKA
+first	 data/source_txt/t3_physics_2_0.deft	 9388	 9393	 I-Term	 T192	 0	 AKA
+law	 data/source_txt/t3_physics_2_0.deft	 9394	 9397	 I-Term	 T192	 0	 AKA
 is	 data/source_txt/t3_physics_2_0.deft	 9398	 9400	 O	 -1	 -1	 0
 often	 data/source_txt/t3_physics_2_0.deft	 9401	 9406	 O	 -1	 -1	 0
 called	 data/source_txt/t3_physics_2_0.deft	 9407	 9413	 O	 -1	 -1	 0
@@ -235,8 +235,8 @@ as	 data/source_txt/t3_physics_2_0.deft	 25949	 25951	 O	 -1	 -1	 0
 quickly	 data/source_txt/t3_physics_2_0.deft	 25952	 25959	 O	 -1	 -1	 0
 as	 data/source_txt/t3_physics_2_0.deft	 25960	 25962	 O	 -1	 -1	 0
 possible	 data/source_txt/t3_physics_2_0.deft	 25963	 25971	 O	 -1	 -1	 0
-Critical	 data/source_txt/t3_physics_2_0.deft	 25972	 25980	 B-Term	 T145	 0	 0
-damping	 data/source_txt/t3_physics_2_0.deft	 25981	 25988	 I-Term	 T145	 0	 0
+Critical	 data/source_txt/t3_physics_2_0.deft	 25972	 25980	 B-Term	 T145	 0	 Direct-Defines
+damping	 data/source_txt/t3_physics_2_0.deft	 25981	 25988	 I-Term	 T145	 0	 Direct-Defines
 is	 data/source_txt/t3_physics_2_0.deft	 25989	 25991	 O	 -1	 -1	 0
 defined	 data/source_txt/t3_physics_2_0.deft	 25992	 25999	 O	 -1	 -1	 0
 as	 data/source_txt/t3_physics_2_0.deft	 26000	 26002	 O	 -1	 -1	 0

@@ -172,10 +172,10 @@ current	 data/source_txt/t3_physics_2_101.deft	 5711	 5718	 O	 -1	 -1	 0
 2999	 data/source_txt/t3_physics_2_101.deft	 5723	 5727	 O	 -1	 -1	 0
 .	 data/source_txt/t3_physics_2_101.deft	 5727	 5728	 O	 -1	 -1	 0
 
-Kirchhoff	 data/source_txt/t3_physics_2_101.deft	 5738	 5747	 B-Term	 T25	 0	 0
-’s	 data/source_txt/t3_physics_2_101.deft	 5747	 5749	 I-Term	 T25	 0	 0
-first	 data/source_txt/t3_physics_2_101.deft	 5750	 5755	 I-Term	 T25	 0	 0
-rule	 data/source_txt/t3_physics_2_101.deft	 5756	 5760	 I-Term	 T25	 0	 0
+Kirchhoff	 data/source_txt/t3_physics_2_101.deft	 5738	 5747	 B-Term	 T25	 0	 Direct-Defines
+’s	 data/source_txt/t3_physics_2_101.deft	 5747	 5749	 I-Term	 T25	 0	 Direct-Defines
+first	 data/source_txt/t3_physics_2_101.deft	 5750	 5755	 I-Term	 T25	 0	 Direct-Defines
+rule	 data/source_txt/t3_physics_2_101.deft	 5756	 5760	 I-Term	 T25	 0	 Direct-Defines
 (	 data/source_txt/t3_physics_2_101.deft	 5761	 5762	 O	 -1	 -1	 0
 the	 data/source_txt/t3_physics_2_101.deft	 5762	 5765	 B-Alias-Term	 T26	 T25	 AKA
 junction	 data/source_txt/t3_physics_2_101.deft	 5766	 5774	 I-Alias-Term	 T26	 T25	 AKA
@@ -262,12 +262,12 @@ get	 data/source_txt/t3_physics_2_101.deft	 20703	 20706	 O	 -1	 -1	 0
 through	 data/source_txt/t3_physics_2_101.deft	 20707	 20714	 O	 -1	 -1	 0
 .	 data/source_txt/t3_physics_2_101.deft	 20714	 20715	 O	 -1	 -1	 0
 
-The	 data/source_txt/t3_physics_2_101.deft	 20724	 20727	 B-Term	 T188	 0	 0
-axis	 data/source_txt/t3_physics_2_101.deft	 20728	 20732	 I-Term	 T188	 0	 0
-of	 data/source_txt/t3_physics_2_101.deft	 20733	 20735	 I-Term	 T188	 0	 0
-a	 data/source_txt/t3_physics_2_101.deft	 20736	 20737	 I-Term	 T188	 0	 0
-polarizing	 data/source_txt/t3_physics_2_101.deft	 20738	 20748	 I-Term	 T188	 0	 0
-filter	 data/source_txt/t3_physics_2_101.deft	 20749	 20755	 I-Term	 T188	 0	 0
+The	 data/source_txt/t3_physics_2_101.deft	 20724	 20727	 B-Term	 T188	 0	 Direct-Defines
+axis	 data/source_txt/t3_physics_2_101.deft	 20728	 20732	 I-Term	 T188	 0	 Direct-Defines
+of	 data/source_txt/t3_physics_2_101.deft	 20733	 20735	 I-Term	 T188	 0	 Direct-Defines
+a	 data/source_txt/t3_physics_2_101.deft	 20736	 20737	 I-Term	 T188	 0	 Direct-Defines
+polarizing	 data/source_txt/t3_physics_2_101.deft	 20738	 20748	 I-Term	 T188	 0	 Direct-Defines
+filter	 data/source_txt/t3_physics_2_101.deft	 20749	 20755	 I-Term	 T188	 0	 Direct-Defines
 is	 data/source_txt/t3_physics_2_101.deft	 20756	 20758	 O	 -1	 -1	 0
 the	 data/source_txt/t3_physics_2_101.deft	 20759	 20762	 B-Definition	 T189	 T188	 Direct-Defines
 direction	 data/source_txt/t3_physics_2_101.deft	 20763	 20772	 I-Definition	 T189	 T188	 Direct-Defines
@@ -290,9 +290,9 @@ link]	 data/source_txt/t3_physics_2_101.deft	 20842	 20847	 O	 -1	 -1	 0
 )	 data/source_txt/t3_physics_2_101.deft	 20847	 20848	 O	 -1	 -1	 0
 .	 data/source_txt/t3_physics_2_101.deft	 20848	 20849	 O	 -1	 -1	 0
 
-The	 data/source_txt/t3_physics_2_101.deft	 20849	 20852	 B-Term	 T186	 0	 0
-slender	 data/source_txt/t3_physics_2_101.deft	 20853	 20860	 I-Term	 T186	 0	 0
-arrow	 data/source_txt/t3_physics_2_101.deft	 20861	 20866	 I-Term	 T186	 0	 0
+The	 data/source_txt/t3_physics_2_101.deft	 20849	 20852	 B-Term	 T186	 0	 Direct-Defines
+slender	 data/source_txt/t3_physics_2_101.deft	 20853	 20860	 I-Term	 T186	 0	 Direct-Defines
+arrow	 data/source_txt/t3_physics_2_101.deft	 20861	 20866	 I-Term	 T186	 0	 Direct-Defines
 represents	 data/source_txt/t3_physics_2_101.deft	 20867	 20877	 B-Definition	 T185	 T186	 Direct-Defines
 a	 data/source_txt/t3_physics_2_101.deft	 20878	 20879	 I-Definition	 T185	 T186	 Direct-Defines
 ray	 data/source_txt/t3_physics_2_101.deft	 20880	 20883	 I-Definition	 T185	 T186	 Direct-Defines
@@ -301,9 +301,9 @@ unpolarized	 data/source_txt/t3_physics_2_101.deft	 20887	 20898	 I-Definition	 
 light	 data/source_txt/t3_physics_2_101.deft	 20899	 20904	 I-Definition	 T185	 T186	 Direct-Defines
 .	 data/source_txt/t3_physics_2_101.deft	 20904	 20905	 O	 -1	 -1	 0
 
-The	 data/source_txt/t3_physics_2_101.deft	 20912	 20915	 B-Term	 T184	 0	 0
-bold	 data/source_txt/t3_physics_2_101.deft	 20916	 20920	 I-Term	 T184	 0	 0
-arrows	 data/source_txt/t3_physics_2_101.deft	 20921	 20927	 I-Term	 T184	 0	 0
+The	 data/source_txt/t3_physics_2_101.deft	 20912	 20915	 B-Term	 T184	 0	 Direct-Defines
+bold	 data/source_txt/t3_physics_2_101.deft	 20916	 20920	 I-Term	 T184	 0	 Direct-Defines
+arrows	 data/source_txt/t3_physics_2_101.deft	 20921	 20927	 I-Term	 T184	 0	 Direct-Defines
 represent	 data/source_txt/t3_physics_2_101.deft	 20928	 20937	 B-Definition	 T187	 T184	 Direct-Defines
 the	 data/source_txt/t3_physics_2_101.deft	 20938	 20941	 I-Definition	 T187	 T184	 Direct-Defines
 direction	 data/source_txt/t3_physics_2_101.deft	 20942	 20951	 I-Definition	 T187	 T184	 Direct-Defines

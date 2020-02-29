@@ -122,27 +122,6 @@ to	 data/source_txt/t7_government_2_101.deft	 13502	 13504	 O
 vote	 data/source_txt/t7_government_2_101.deft	 13505	 13509	 O
 .	 data/source_txt/t7_government_2_101.deft	 13509	 13510	 O
 
-Some	 data/source_txt/t7_government_2_101.deft	 13404	 13408	 O
-states	 data/source_txt/t7_government_2_101.deft	 13409	 13415	 O
-introduced	 data/source_txt/t7_government_2_101.deft	 13416	 13426	 O
-a	 data/source_txt/t7_government_2_101.deft	 13427	 13428	 B-Alias-Term
-loophole	 data/source_txt/t7_government_2_101.deft	 13429	 13437	 I-Alias-Term
-,	 data/source_txt/t7_government_2_101.deft	 13437	 13438	 O
-known	 data/source_txt/t7_government_2_101.deft	 13439	 13444	 O
-as	 data/source_txt/t7_government_2_101.deft	 13445	 13447	 O
-the	 data/source_txt/t7_government_2_101.deft	 13448	 13451	 B-Term
-grandfather	 data/source_txt/t7_government_2_101.deft	 13452	 13463	 I-Term
-clause	 data/source_txt/t7_government_2_101.deft	 13464	 13470	 I-Term
-,	 data/source_txt/t7_government_2_101.deft	 13470	 13471	 O
-to	 data/source_txt/t7_government_2_101.deft	 13472	 13474	 O
-allow	 data/source_txt/t7_government_2_101.deft	 13475	 13480	 O
-less	 data/source_txt/t7_government_2_101.deft	 13481	 13485	 O
-literate	 data/source_txt/t7_government_2_101.deft	 13486	 13494	 O
-whites	 data/source_txt/t7_government_2_101.deft	 13495	 13501	 O
-to	 data/source_txt/t7_government_2_101.deft	 13502	 13504	 O
-vote	 data/source_txt/t7_government_2_101.deft	 13505	 13509	 O
-.	 data/source_txt/t7_government_2_101.deft	 13509	 13510	 O
-
 The	 data/source_txt/t7_government_2_101.deft	 13517	 13520	 B-Term
 grandfather	 data/source_txt/t7_government_2_101.deft	 13521	 13532	 I-Term
 clause	 data/source_txt/t7_government_2_101.deft	 13533	 13539	 I-Term

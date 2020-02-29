@@ -4996,39 +4996,6 @@ by	 data/source_txt/t5_economic_1_101.deft	 30240	 30242	 O	 -1	 -1	 0
 employers	 data/source_txt/t5_economic_1_101.deft	 30243	 30252	 O	 -1	 -1	 0
 .	 data/source_txt/t5_economic_1_101.deft	 30252	 30253	 O	 -1	 -1	 0
 
-At	 data/source_txt/t5_economic_1_101.deft	 30101	 30103	 O	 -1	 -1	 0
-the	 data/source_txt/t5_economic_1_101.deft	 30131	 30134	 B-Definition	 T160	 T158	 Direct-Defines
-equilibrium	 data/source_txt/t5_economic_1_101.deft	 30135	 30146	 I-Definition	 T160	 T158	 Direct-Defines
-wage	 data/source_txt/t5_economic_1_101.deft	 30120	 30124	 I-Term	 T158	 0	 0
-(	 data/source_txt/t5_economic_1_101.deft	 30125	 30126	 O	 -1	 -1	 0
-We	 data/source_txt/t5_economic_1_101.deft	 30126	 30128	 B-Alias-Term	 T159	 T158	 AKA
-)	 data/source_txt/t5_economic_1_101.deft	 30128	 30129	 O	 -1	 -1	 0
-,	 data/source_txt/t5_economic_1_101.deft	 30129	 30130	 O	 -1	 -1	 0
-the	 data/source_txt/t5_economic_1_101.deft	 30131	 30134	 B-Term	 T212	 0	 0
-equilibrium	 data/source_txt/t5_economic_1_101.deft	 30135	 30146	 I-Term	 T212	 0	 0
-quantity	 data/source_txt/t5_economic_1_101.deft	 30147	 30155	 I-Definition	 T160	 T158	 Direct-Defines
-(	 data/source_txt/t5_economic_1_101.deft	 30156	 30157	 I-Definition	 T160	 T158	 Direct-Defines
-Qe	 data/source_txt/t5_economic_1_101.deft	 30157	 30159	 I-Definition	 T160	 T158	 Direct-Defines
-)	 data/source_txt/t5_economic_1_101.deft	 30159	 30160	 I-Definition	 T160	 T158	 Direct-Defines
-of	 data/source_txt/t5_economic_1_101.deft	 30161	 30163	 I-Definition	 T160	 T158	 Direct-Defines
-labor	 data/source_txt/t5_economic_1_101.deft	 30164	 30169	 I-Definition	 T160	 T158	 Direct-Defines
-supplied	 data/source_txt/t5_economic_1_101.deft	 30170	 30178	 I-Definition	 T160	 T158	 Direct-Defines
-by	 data/source_txt/t5_economic_1_101.deft	 30179	 30181	 I-Definition	 T160	 T158	 Direct-Defines
-workers	 data/source_txt/t5_economic_1_101.deft	 30182	 30189	 I-Definition	 T160	 T158	 Direct-Defines
-should	 data/source_txt/t5_economic_1_101.deft	 30190	 30196	 I-Definition	 T160	 T158	 Direct-Defines
-be	 data/source_txt/t5_economic_1_101.deft	 30197	 30199	 I-Definition	 T160	 T158	 Direct-Defines
-equal	 data/source_txt/t5_economic_1_101.deft	 30200	 30205	 I-Definition	 T160	 T158	 Direct-Defines
-to	 data/source_txt/t5_economic_1_101.deft	 30206	 30208	 I-Definition	 T160	 T158	 Direct-Defines
-the	 data/source_txt/t5_economic_1_101.deft	 30209	 30212	 I-Definition	 T160	 T158	 Direct-Defines
-quantity	 data/source_txt/t5_economic_1_101.deft	 30213	 30221	 I-Definition	 T160	 T158	 Direct-Defines
-of	 data/source_txt/t5_economic_1_101.deft	 30222	 30224	 I-Definition	 T160	 T158	 Direct-Defines
-labor	 data/source_txt/t5_economic_1_101.deft	 30225	 30230	 I-Definition	 T160	 T158	 Direct-Defines
-demanded	 data/source_txt/t5_economic_1_101.deft	 30231	 30239	 I-Definition	 T160	 T158	 Direct-Defines
-by	 data/source_txt/t5_economic_1_101.deft	 30240	 30242	 I-Definition	 T160	 T158	 Direct-Defines
-employers	 data/source_txt/t5_economic_1_101.deft	 30243	 30252	 I-Definition	 T160	 T158	 Direct-Defines
-.	 data/source_txt/t5_economic_1_101.deft	 30252	 30253	 O	 -1	 -1	 0
-
-
 4838	 data/source_txt/t5_economic_1_101.deft	 30257	 30261	 O	 -1	 -1	 0
 .	 data/source_txt/t5_economic_1_101.deft	 30261	 30262	 O	 -1	 -1	 0
 

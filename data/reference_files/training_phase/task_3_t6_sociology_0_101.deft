@@ -16,10 +16,10 @@ into	 data/source_txt/t6_sociology_0_101.deft	 20486	 20490	 O	 -1	 -1	 0
 them	 data/source_txt/t6_sociology_0_101.deft	 20491	 20495	 O	 -1	 -1	 0
 .	 data/source_txt/t6_sociology_0_101.deft	 20495	 20496	 O	 -1	 -1	 0
 
-A	 data/source_txt/t6_sociology_0_101.deft	 20505	 20506	 B-Term	 T116	 0	 0
-family	 data/source_txt/t6_sociology_0_101.deft	 20507	 20513	 I-Term	 T116	 0	 0
-of	 data/source_txt/t6_sociology_0_101.deft	 20514	 20516	 I-Term	 T116	 0	 0
-orientation	 data/source_txt/t6_sociology_0_101.deft	 20517	 20528	 I-Term	 T116	 0	 0
+A	 data/source_txt/t6_sociology_0_101.deft	 20505	 20506	 B-Term	 T116	 0	 Direct-Defines
+family	 data/source_txt/t6_sociology_0_101.deft	 20507	 20513	 I-Term	 T116	 0	 Direct-Defines
+of	 data/source_txt/t6_sociology_0_101.deft	 20514	 20516	 I-Term	 T116	 0	 Direct-Defines
+orientation	 data/source_txt/t6_sociology_0_101.deft	 20517	 20528	 I-Term	 T116	 0	 Direct-Defines
 refers	 data/source_txt/t6_sociology_0_101.deft	 20529	 20535	 O	 -1	 -1	 0
 to	 data/source_txt/t6_sociology_0_101.deft	 20536	 20538	 O	 -1	 -1	 0
 the	 data/source_txt/t6_sociology_0_101.deft	 20539	 20542	 B-Definition	 T117	 T116	 Direct-Defines
@@ -32,10 +32,10 @@ is	 data/source_txt/t6_sociology_0_101.deft	 20570	 20572	 I-Definition	 T117	 T
 born	 data/source_txt/t6_sociology_0_101.deft	 20573	 20577	 I-Definition	 T117	 T116	 Direct-Defines
 .	 data/source_txt/t6_sociology_0_101.deft	 20577	 20578	 O	 -1	 -1	 0
 
-A	 data/source_txt/t6_sociology_0_101.deft	 20585	 20586	 B-Term	 T118	 0	 0
-family	 data/source_txt/t6_sociology_0_101.deft	 20587	 20593	 I-Term	 T118	 0	 0
-of	 data/source_txt/t6_sociology_0_101.deft	 20594	 20596	 I-Term	 T118	 0	 0
-procreation	 data/source_txt/t6_sociology_0_101.deft	 20597	 20608	 I-Term	 T118	 0	 0
+A	 data/source_txt/t6_sociology_0_101.deft	 20585	 20586	 B-Term	 T118	 0	 Direct-Defines
+family	 data/source_txt/t6_sociology_0_101.deft	 20587	 20593	 I-Term	 T118	 0	 Direct-Defines
+of	 data/source_txt/t6_sociology_0_101.deft	 20594	 20596	 I-Term	 T118	 0	 Direct-Defines
+procreation	 data/source_txt/t6_sociology_0_101.deft	 20597	 20608	 I-Term	 T118	 0	 Direct-Defines
 describes	 data/source_txt/t6_sociology_0_101.deft	 20609	 20618	 B-Definition	 T119	 T118	 Direct-Defines
 one	 data/source_txt/t6_sociology_0_101.deft	 20619	 20622	 I-Definition	 T119	 T118	 Direct-Defines
 that	 data/source_txt/t6_sociology_0_101.deft	 20623	 20627	 I-Definition	 T119	 T118	 Direct-Defines
@@ -49,7 +49,7 @@ marriage	 data/source_txt/t6_sociology_0_101.deft	 20646	 20654	 I-Definition	 T
 5745	 data/source_txt/t6_sociology_0_101.deft	 20935	 20939	 O	 -1	 -1	 0
 .	 data/source_txt/t6_sociology_0_101.deft	 20939	 20940	 O	 -1	 -1	 0
 
-Polygyny	 data/source_txt/t6_sociology_0_101.deft	 20941	 20949	 B-Term	 T122	 0	 0
+Polygyny	 data/source_txt/t6_sociology_0_101.deft	 20941	 20949	 B-Term	 T122	 0	 Direct-Defines
 refers	 data/source_txt/t6_sociology_0_101.deft	 20950	 20956	 O	 -1	 -1	 0
 to	 data/source_txt/t6_sociology_0_101.deft	 20957	 20959	 O	 -1	 -1	 0
 a	 data/source_txt/t6_sociology_0_101.deft	 20960	 20961	 B-Definition	 T123	 T122	 Direct-Defines
@@ -87,7 +87,7 @@ time	 data/source_txt/t6_sociology_0_101.deft	 21099	 21103	 I-Definition	 T125	
 ,	 data/source_txt/t6_sociology_0_101.deft	 21103	 21104	 O	 -1	 -1	 0
 is	 data/source_txt/t6_sociology_0_101.deft	 21105	 21107	 O	 -1	 -1	 0
 called	 data/source_txt/t6_sociology_0_101.deft	 21108	 21114	 O	 -1	 -1	 0
-polyandry	 data/source_txt/t6_sociology_0_101.deft	 21115	 21124	 B-Term	 T124	 0	 0
+polyandry	 data/source_txt/t6_sociology_0_101.deft	 21115	 21124	 B-Term	 T124	 0	 Direct-Defines
 .	 data/source_txt/t6_sociology_0_101.deft	 21124	 21125	 O	 -1	 -1	 0
 
 It	 data/source_txt/t6_sociology_0_101.deft	 21132	 21134	 O	 -1	 -1	 0
@@ -132,7 +132,7 @@ descent	 data/source_txt/t6_sociology_0_101.deft	 21299	 21306	 O	 -1	 -1	 0
 
 Note	 data/source_txt/t6_sociology_0_101.deft	 21316	 21320	 O	 -1	 -1	 0
 that	 data/source_txt/t6_sociology_0_101.deft	 21321	 21325	 O	 -1	 -1	 0
-kinship	 data/source_txt/t6_sociology_0_101.deft	 21326	 21333	 B-Term	 T126	 0	 0
+kinship	 data/source_txt/t6_sociology_0_101.deft	 21326	 21333	 B-Term	 T126	 0	 Direct-Defines
 ,	 data/source_txt/t6_sociology_0_101.deft	 21333	 21334	 O	 -1	 -1	 0
 or	 data/source_txt/t6_sociology_0_101.deft	 21335	 21337	 O	 -1	 -1	 0
 one	 data/source_txt/t6_sociology_0_101.deft	 21338	 21341	 B-Definition	 T127	 T126	 Direct-Defines
@@ -260,10 +260,10 @@ developed	 data/source_txt/t6_sociology_0_101.deft	 22282	 22291	 O	 -1	 -1	 0
 One	 data/source_txt/t6_sociology_0_101.deft	 22301	 22304	 O	 -1	 -1	 0
 example	 data/source_txt/t6_sociology_0_101.deft	 22305	 22312	 O	 -1	 -1	 0
 is	 data/source_txt/t6_sociology_0_101.deft	 22313	 22315	 O	 -1	 -1	 0
-the	 data/source_txt/t6_sociology_0_101.deft	 22316	 22319	 B-Term	 T176	 0	 0
-family	 data/source_txt/t6_sociology_0_101.deft	 22320	 22326	 I-Term	 T176	 0	 0
-life	 data/source_txt/t6_sociology_0_101.deft	 22327	 22331	 I-Term	 T176	 0	 0
-course	 data/source_txt/t6_sociology_0_101.deft	 22332	 22338	 I-Term	 T176	 0	 0
+the	 data/source_txt/t6_sociology_0_101.deft	 22316	 22319	 B-Term	 T176	 0	 Direct-Defines
+family	 data/source_txt/t6_sociology_0_101.deft	 22320	 22326	 I-Term	 T176	 0	 Direct-Defines
+life	 data/source_txt/t6_sociology_0_101.deft	 22327	 22331	 I-Term	 T176	 0	 Direct-Defines
+course	 data/source_txt/t6_sociology_0_101.deft	 22332	 22338	 I-Term	 T176	 0	 Direct-Defines
 ,	 data/source_txt/t6_sociology_0_101.deft	 22338	 22339	 O	 -1	 -1	 0
 which	 data/source_txt/t6_sociology_0_101.deft	 22340	 22345	 O	 -1	 -1	 0
 recognizes	 data/source_txt/t6_sociology_0_101.deft	 22346	 22356	 B-Definition	 T177	 T176	 Direct-Defines
@@ -333,8 +333,8 @@ marriage	 data/source_txt/t6_sociology_0_101.deft	 22666	 22674	 O	 -1	 -1	 0
 5766	 data/source_txt/t6_sociology_0_101.deft	 23859	 23863	 O	 -1	 -1	 0
 .	 data/source_txt/t6_sociology_0_101.deft	 23863	 23864	 O	 -1	 -1	 0
 
-A	 data/source_txt/t6_sociology_0_101.deft	 23873	 23874	 B-Term	 T134	 0	 0
-denomination	 data/source_txt/t6_sociology_0_101.deft	 23875	 23887	 I-Term	 T134	 0	 0
+A	 data/source_txt/t6_sociology_0_101.deft	 23873	 23874	 B-Term	 T134	 0	 Direct-Defines
+denomination	 data/source_txt/t6_sociology_0_101.deft	 23875	 23887	 I-Term	 T134	 0	 Direct-Defines
 is	 data/source_txt/t6_sociology_0_101.deft	 23888	 23890	 O	 -1	 -1	 0
 a	 data/source_txt/t6_sociology_0_101.deft	 23891	 23892	 B-Definition	 T135	 T134	 Direct-Defines
 large	 data/source_txt/t6_sociology_0_101.deft	 23893	 23898	 I-Definition	 T135	 T134	 Direct-Defines
@@ -377,8 +377,8 @@ concern	 data/source_txt/t6_sociology_0_101.deft	 26117	 26124	 O	 -1	 -1	 0
 referred	 data/source_txt/t6_sociology_0_101.deft	 26125	 26133	 O	 -1	 -1	 0
 to	 data/source_txt/t6_sociology_0_101.deft	 26134	 26136	 O	 -1	 -1	 0
 as	 data/source_txt/t6_sociology_0_101.deft	 26137	 26139	 O	 -1	 -1	 0
-grade	 data/source_txt/t6_sociology_0_101.deft	 26140	 26145	 B-Term	 T154	 0	 0
-inflation	 data/source_txt/t6_sociology_0_101.deft	 26146	 26155	 I-Term	 T154	 0	 0
+grade	 data/source_txt/t6_sociology_0_101.deft	 26140	 26145	 B-Term	 T154	 0	 Direct-Defines
+inflation	 data/source_txt/t6_sociology_0_101.deft	 26146	 26155	 I-Term	 T154	 0	 Direct-Defines
 —	 data/source_txt/t6_sociology_0_101.deft	 26155	 26156	 O	 -1	 -1	 0
 a	 data/source_txt/t6_sociology_0_101.deft	 26156	 26157	 B-Definition	 T155	 T154	 Direct-Defines
 term	 data/source_txt/t6_sociology_0_101.deft	 26158	 26162	 I-Definition	 T155	 T154	 Direct-Defines

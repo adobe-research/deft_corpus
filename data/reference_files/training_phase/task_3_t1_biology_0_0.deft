@@ -22,9 +22,9 @@ in	 data/source_txt/t1_biology_0_0.deft	 106	 108	 O	 -1	 -1	 0
 science	 data/source_txt/t1_biology_0_0.deft	 109	 116	 O	 -1	 -1	 0
 .	 data/source_txt/t1_biology_0_0.deft	 116	 117	 O	 -1	 -1	 0
 
-The	 data/source_txt/t1_biology_0_0.deft	 126	 129	 B-Term	 T125	 0	 0
-scientific	 data/source_txt/t1_biology_0_0.deft	 130	 140	 I-Term	 T125	 0	 0
-method	 data/source_txt/t1_biology_0_0.deft	 141	 147	 I-Term	 T125	 0	 0
+The	 data/source_txt/t1_biology_0_0.deft	 126	 129	 B-Term	 T125	 0	 Direct-Defines
+scientific	 data/source_txt/t1_biology_0_0.deft	 130	 140	 I-Term	 T125	 0	 Direct-Defines
+method	 data/source_txt/t1_biology_0_0.deft	 141	 147	 I-Term	 T125	 0	 Direct-Defines
 is	 data/source_txt/t1_biology_0_0.deft	 148	 150	 O	 -1	 -1	 0
 a	 data/source_txt/t1_biology_0_0.deft	 151	 152	 B-Definition	 T126	 T125	 Direct-Defines
 method	 data/source_txt/t1_biology_0_0.deft	 153	 159	 I-Definition	 T126	 T125	 Direct-Defines
@@ -53,8 +53,8 @@ an	 data/source_txt/t1_biology_0_0.deft	 3633	 3635	 O	 -1	 -1	 0
 ecosystem	 data/source_txt/t1_biology_0_0.deft	 3636	 3645	 O	 -1	 -1	 0
 .	 data/source_txt/t1_biology_0_0.deft	 3645	 3646	 O	 -1	 -1	 0
 
-An	 data/source_txt/t1_biology_0_0.deft	 3655	 3657	 B-Term	 T162	 0	 0
-ecosystem	 data/source_txt/t1_biology_0_0.deft	 3658	 3667	 I-Term	 T162	 0	 0
+An	 data/source_txt/t1_biology_0_0.deft	 3655	 3657	 B-Term	 T162	 0	 Direct-Defines
+ecosystem	 data/source_txt/t1_biology_0_0.deft	 3658	 3667	 I-Term	 T162	 0	 Direct-Defines
 consists	 data/source_txt/t1_biology_0_0.deft	 3668	 3676	 B-Definition	 T163	 T162	 Direct-Defines
 of	 data/source_txt/t1_biology_0_0.deft	 3677	 3679	 I-Definition	 T163	 T162	 Direct-Defines
 all	 data/source_txt/t1_biology_0_0.deft	 3680	 3683	 I-Definition	 T163	 T162	 Direct-Defines
@@ -100,8 +100,8 @@ link	 data/source_txt/t1_biology_0_0.deft	 3876	 3880	 O	 -1	 -1	 0
 ]	 data/source_txt/t1_biology_0_0.deft	 3880	 3881	 O	 -1	 -1	 0
 )	 data/source_txt/t1_biology_0_0.deft	 3881	 3882	 O	 -1	 -1	 0
 ,	 data/source_txt/t1_biology_0_0.deft	 3882	 3883	 O	 -1	 -1	 0
-the	 data/source_txt/t1_biology_0_0.deft	 3884	 3887	 B-Term	 T164	 0	 0
-biosphere	 data/source_txt/t1_biology_0_0.deft	 3888	 3897	 I-Term	 T164	 0	 0
+the	 data/source_txt/t1_biology_0_0.deft	 3884	 3887	 B-Term	 T164	 0	 Direct-Defines
+biosphere	 data/source_txt/t1_biology_0_0.deft	 3888	 3897	 I-Term	 T164	 0	 Direct-Defines
 is	 data/source_txt/t1_biology_0_0.deft	 3898	 3900	 O	 -1	 -1	 0
 the	 data/source_txt/t1_biology_0_0.deft	 3901	 3904	 B-Definition	 T165	 T164	 Direct-Defines
 collection	 data/source_txt/t1_biology_0_0.deft	 3905	 3915	 I-Definition	 T165	 T164	 Direct-Defines
@@ -124,26 +124,26 @@ earth	 data/source_txt/t1_biology_0_0.deft	 3974	 3979	 I-Definition	 T165	 T164
 125	 data/source_txt/t1_biology_0_0.deft	 15399	 15402	 O	 -1	 -1	 0
 .	 data/source_txt/t1_biology_0_0.deft	 15402	 15403	 O	 -1	 -1	 0
 
-Glycogen	 data/source_txt/t1_biology_0_0.deft	 15412	 15420	 B-Term	 T234	 0	 0
+Glycogen	 data/source_txt/t1_biology_0_0.deft	 15412	 15420	 B-Term	 T234	 0	 Direct-Defines
 is	 data/source_txt/t1_biology_0_0.deft	 15421	 15423	 O	 -1	 -1	 0
-the	 data/source_txt/t1_biology_0_0.deft	 15424	 15427	 B-Definition	 T235	 T234	 Direct-Defines
-storage	 data/source_txt/t1_biology_0_0.deft	 15428	 15435	 I-Definition	 T235	 T234	 Direct-Defines
-form	 data/source_txt/t1_biology_0_0.deft	 15436	 15440	 I-Definition	 T235	 T234	 Direct-Defines
-of	 data/source_txt/t1_biology_0_0.deft	 15441	 15443	 I-Definition	 T235	 T234	 Direct-Defines
-glucose	 data/source_txt/t1_biology_0_0.deft	 15444	 15451	 I-Definition	 T235	 T234	 Direct-Defines
-in	 data/source_txt/t1_biology_0_0.deft	 15452	 15454	 I-Definition	 T235	 T234	 Direct-Defines
-humans	 data/source_txt/t1_biology_0_0.deft	 15455	 15461	 I-Definition	 T235	 T234	 Direct-Defines
-and	 data/source_txt/t1_biology_0_0.deft	 15462	 15465	 I-Definition	 T235	 T234	 Direct-Defines
-other	 data/source_txt/t1_biology_0_0.deft	 15466	 15471	 I-Definition	 T235	 T234	 Direct-Defines
-vertebrates	 data/source_txt/t1_biology_0_0.deft	 15472	 15483	 I-Definition	 T235	 T234	 Direct-Defines
-and	 data/source_txt/t1_biology_0_0.deft	 15484	 15487	 I-Definition	 T235	 T234	 Direct-Defines
-is	 data/source_txt/t1_biology_0_0.deft	 15488	 15490	 I-Definition	 T235	 T234	 Direct-Defines
-made	 data/source_txt/t1_biology_0_0.deft	 15491	 15495	 I-Definition	 T235	 T234	 Direct-Defines
-up	 data/source_txt/t1_biology_0_0.deft	 15496	 15498	 I-Definition	 T235	 T234	 Direct-Defines
-of	 data/source_txt/t1_biology_0_0.deft	 15499	 15501	 I-Definition	 T235	 T234	 Direct-Defines
-monomers	 data/source_txt/t1_biology_0_0.deft	 15502	 15510	 I-Definition	 T235	 T234	 Direct-Defines
-of	 data/source_txt/t1_biology_0_0.deft	 15511	 15513	 I-Definition	 T235	 T234	 Direct-Defines
-glucose	 data/source_txt/t1_biology_0_0.deft	 15514	 15521	 I-Definition	 T235	 T234	 Direct-Defines
+the	 data/source_txt/t1_biology_0_0.deft	 15424	 15427	 B-Definition	 T235	 0	 Supplements
+storage	 data/source_txt/t1_biology_0_0.deft	 15428	 15435	 I-Definition	 T235	 0	 Supplements
+form	 data/source_txt/t1_biology_0_0.deft	 15436	 15440	 I-Definition	 T235	 0	 Supplements
+of	 data/source_txt/t1_biology_0_0.deft	 15441	 15443	 I-Definition	 T235	 0	 Supplements
+glucose	 data/source_txt/t1_biology_0_0.deft	 15444	 15451	 I-Definition	 T235	 0	 Supplements
+in	 data/source_txt/t1_biology_0_0.deft	 15452	 15454	 I-Definition	 T235	 0	 Supplements
+humans	 data/source_txt/t1_biology_0_0.deft	 15455	 15461	 I-Definition	 T235	 0	 Supplements
+and	 data/source_txt/t1_biology_0_0.deft	 15462	 15465	 I-Definition	 T235	 0	 Supplements
+other	 data/source_txt/t1_biology_0_0.deft	 15466	 15471	 I-Definition	 T235	 0	 Supplements
+vertebrates	 data/source_txt/t1_biology_0_0.deft	 15472	 15483	 I-Definition	 T235	 0	 Supplements
+and	 data/source_txt/t1_biology_0_0.deft	 15484	 15487	 I-Definition	 T235	 0	 Supplements
+is	 data/source_txt/t1_biology_0_0.deft	 15488	 15490	 I-Definition	 T235	 0	 Supplements
+made	 data/source_txt/t1_biology_0_0.deft	 15491	 15495	 I-Definition	 T235	 0	 Supplements
+up	 data/source_txt/t1_biology_0_0.deft	 15496	 15498	 I-Definition	 T235	 0	 Supplements
+of	 data/source_txt/t1_biology_0_0.deft	 15499	 15501	 I-Definition	 T235	 0	 Supplements
+monomers	 data/source_txt/t1_biology_0_0.deft	 15502	 15510	 I-Definition	 T235	 0	 Supplements
+of	 data/source_txt/t1_biology_0_0.deft	 15511	 15513	 I-Definition	 T235	 0	 Supplements
+glucose	 data/source_txt/t1_biology_0_0.deft	 15514	 15521	 I-Definition	 T235	 0	 Supplements
 .	 data/source_txt/t1_biology_0_0.deft	 15521	 15522	 O	 -1	 -1	 0
 
 Glycogen	 data/source_txt/t1_biology_0_0.deft	 15529	 15537	 B-Secondary-Definition	 T236	 T235	 Supplements
@@ -193,8 +193,8 @@ each	 data/source_txt/t1_biology_0_0.deft	 17705	 17709	 I-Definition	 T123	 T12
 other	 data/source_txt/t1_biology_0_0.deft	 17710	 17715	 I-Definition	 T123	 T122	 Direct-Defines
 to	 data/source_txt/t1_biology_0_0.deft	 17716	 17718	 O	 -1	 -1	 0
 form	 data/source_txt/t1_biology_0_0.deft	 17719	 17723	 O	 -1	 -1	 0
-a	 data/source_txt/t1_biology_0_0.deft	 17724	 17725	 B-Term	 T122	 0	 0
-polynucleotide	 data/source_txt/t1_biology_0_0.deft	 17726	 17740	 I-Term	 T122	 0	 0
+a	 data/source_txt/t1_biology_0_0.deft	 17724	 17725	 B-Term	 T122	 0	 Direct-Defines
+polynucleotide	 data/source_txt/t1_biology_0_0.deft	 17726	 17740	 I-Term	 T122	 0	 Direct-Defines
 ,	 data/source_txt/t1_biology_0_0.deft	 17740	 17741	 O	 -1	 -1	 0
 DNA	 data/source_txt/t1_biology_0_0.deft	 17742	 17745	 B-Definition-frag	 T123-frag	 T123	 fragment
 or	 data/source_txt/t1_biology_0_0.deft	 17746	 17748	 I-Definition-frag	 T123-frag	 T123	 fragment
@@ -236,9 +236,9 @@ cell	 data/source_txt/t1_biology_0_0.deft	 20801	 20805	 O	 -1	 -1	 0
 wall	 data/source_txt/t1_biology_0_0.deft	 20806	 20810	 O	 -1	 -1	 0
 .	 data/source_txt/t1_biology_0_0.deft	 20810	 20811	 O	 -1	 -1	 0
 
-The	 data/source_txt/t1_biology_0_0.deft	 20820	 20823	 B-Term	 T47	 0	 0
-cell	 data/source_txt/t1_biology_0_0.deft	 20824	 20828	 I-Term	 T47	 0	 0
-wall	 data/source_txt/t1_biology_0_0.deft	 20829	 20833	 I-Term	 T47	 0	 0
+The	 data/source_txt/t1_biology_0_0.deft	 20820	 20823	 B-Term	 T47	 0	 Direct-Defines
+cell	 data/source_txt/t1_biology_0_0.deft	 20824	 20828	 I-Term	 T47	 0	 Direct-Defines
+wall	 data/source_txt/t1_biology_0_0.deft	 20829	 20833	 I-Term	 T47	 0	 Direct-Defines
 is	 data/source_txt/t1_biology_0_0.deft	 20834	 20836	 O	 -1	 -1	 0
 a	 data/source_txt/t1_biology_0_0.deft	 20837	 20838	 B-Definition	 T48	 T47	 Direct-Defines
 rigid	 data/source_txt/t1_biology_0_0.deft	 20839	 20844	 I-Definition	 T48	 T47	 Direct-Defines

@@ -177,13 +177,13 @@ many	 data/source_txt/t2_history_2_101.deft	 23493	 23497	 O	 -1	 -1	 0
 fronts	 data/source_txt/t2_history_2_101.deft	 23498	 23504	 O	 -1	 -1	 0
 .	 data/source_txt/t2_history_2_101.deft	 23504	 23505	 O	 -1	 -1	 0
 
-The	 data/source_txt/t2_history_2_101.deft	 23512	 23515	 B-Term	 T90	 0	 0
-1965	 data/source_txt/t2_history_2_101.deft	 23516	 23520	 I-Term	 T90	 0	 0
-Housing	 data/source_txt/t2_history_2_101.deft	 23521	 23528	 I-Term	 T90	 0	 0
-and	 data/source_txt/t2_history_2_101.deft	 23529	 23532	 I-Term	 T90	 0	 0
-Urban	 data/source_txt/t2_history_2_101.deft	 23533	 23538	 I-Term	 T90	 0	 0
-Development	 data/source_txt/t2_history_2_101.deft	 23539	 23550	 I-Term	 T90	 0	 0
-Act	 data/source_txt/t2_history_2_101.deft	 23551	 23554	 I-Term	 T90	 0	 0
+The	 data/source_txt/t2_history_2_101.deft	 23512	 23515	 B-Term	 T90	 0	 Direct-Defines
+1965	 data/source_txt/t2_history_2_101.deft	 23516	 23520	 I-Term	 T90	 0	 Direct-Defines
+Housing	 data/source_txt/t2_history_2_101.deft	 23521	 23528	 I-Term	 T90	 0	 Direct-Defines
+and	 data/source_txt/t2_history_2_101.deft	 23529	 23532	 I-Term	 T90	 0	 Direct-Defines
+Urban	 data/source_txt/t2_history_2_101.deft	 23533	 23538	 I-Term	 T90	 0	 Direct-Defines
+Development	 data/source_txt/t2_history_2_101.deft	 23539	 23550	 I-Term	 T90	 0	 Direct-Defines
+Act	 data/source_txt/t2_history_2_101.deft	 23551	 23554	 I-Term	 T90	 0	 Direct-Defines
 offered	 data/source_txt/t2_history_2_101.deft	 23555	 23562	 B-Definition	 T89	 T90	 Direct-Defines
 grants	 data/source_txt/t2_history_2_101.deft	 23563	 23569	 I-Definition	 T89	 T90	 Direct-Defines
 to	 data/source_txt/t2_history_2_101.deft	 23570	 23572	 I-Definition	 T89	 T90	 Direct-Defines

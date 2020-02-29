@@ -1593,28 +1593,6 @@ of	 data/source_txt/t6_sociology_1_101.deft	 10044	 10046	 I-Definition	 T61	 T6
 a	 data/source_txt/t6_sociology_1_101.deft	 10047	 10048	 I-Definition	 T61	 T60	 Direct-Defines
 group	 data/source_txt/t6_sociology_1_101.deft	 10049	 10054	 I-Definition	 T61	 T60	 Direct-Defines
 .	 data/source_txt/t6_sociology_1_101.deft	 10054	 10055	 O	 -1	 -1	 0
-
-Ethnicity	 data/source_txt/t6_sociology_1_101.deft	 9959	 9968	 B-Term	 T58	 0	 0
-is	 data/source_txt/t6_sociology_1_101.deft	 9969	 9971	 O	 -1	 -1	 0
-a	 data/source_txt/t6_sociology_1_101.deft	 9972	 9973	 B-Definition	 T59	 T58	 Direct-Defines
-term	 data/source_txt/t6_sociology_1_101.deft	 9974	 9978	 I-Definition	 T59	 T58	 Direct-Defines
-that	 data/source_txt/t6_sociology_1_101.deft	 9979	 9983	 I-Definition	 T59	 T58	 Direct-Defines
-describes	 data/source_txt/t6_sociology_1_101.deft	 9984	 9993	 I-Definition	 T59	 T58	 Direct-Defines
-shared	 data/source_txt/t6_sociology_1_101.deft	 9994	 10000	 I-Definition	 T59	 T58	 Direct-Defines
-culture	 data/source_txt/t6_sociology_1_101.deft	 10001	 10008	 I-Definition	 T59	 T58	 Direct-Defines
-—	 data/source_txt/t6_sociology_1_101.deft	 10008	 10009	 I-Definition	 T59	 T58	 Direct-Defines
-the	 data/source_txt/t6_sociology_1_101.deft	 10009	 10012	 I-Definition	 T59	 T58	 Direct-Defines
-practices	 data/source_txt/t6_sociology_1_101.deft	 10013	 10022	 I-Definition	 T59	 T58	 Direct-Defines
-,	 data/source_txt/t6_sociology_1_101.deft	 10022	 10023	 I-Definition	 T59	 T58	 Direct-Defines
-values	 data/source_txt/t6_sociology_1_101.deft	 10024	 10030	 I-Definition	 T59	 T58	 Direct-Defines
-,	 data/source_txt/t6_sociology_1_101.deft	 10030	 10031	 I-Definition	 T59	 T58	 Direct-Defines
-and	 data/source_txt/t6_sociology_1_101.deft	 10032	 10035	 I-Definition	 T59	 T58	 Direct-Defines
-beliefs	 data/source_txt/t6_sociology_1_101.deft	 10036	 10043	 I-Definition	 T59	 T58	 Direct-Defines
-of	 data/source_txt/t6_sociology_1_101.deft	 10044	 10046	 I-Definition	 T59	 T58	 Direct-Defines
-a	 data/source_txt/t6_sociology_1_101.deft	 10047	 10048	 I-Definition	 T59	 T58	 Direct-Defines
-group	 data/source_txt/t6_sociology_1_101.deft	 10049	 10054	 I-Definition	 T59	 T58	 Direct-Defines
-.	 data/source_txt/t6_sociology_1_101.deft	 10054	 10055	 O	 -1	 -1	 0
-
 This	 data/source_txt/t6_sociology_1_101.deft	 10062	 10066	 O	 -1	 -1	 0
 culture	 data/source_txt/t6_sociology_1_101.deft	 10067	 10074	 O	 -1	 -1	 0
 might	 data/source_txt/t6_sociology_1_101.deft	 10075	 10080	 O	 -1	 -1	 0
@@ -3354,17 +3332,6 @@ one	 data/source_txt/t6_sociology_1_101.deft	 20212	 20215	 I-Definition	 T125	 
 family	 data/source_txt/t6_sociology_1_101.deft	 20218	 20224	 I-Definition	 T125	 0	 0
 .	 data/source_txt/t6_sociology_1_101.deft	 20224	 20225	 O	 -1	 -1	 0
 
-This	 data/source_txt/t6_sociology_1_101.deft	 20234	 20238	 B-Referential-Definition	 T126	 T125	 Refers-To
-pattern	 data/source_txt/t6_sociology_1_101.deft	 20239	 20246	 I-Referential-Definition	 T126	 T125	 Refers-To
-of	 data/source_txt/t6_sociology_1_101.deft	 20247	 20249	 I-Referential-Definition	 T126	 T125	 Refers-To
-tracing	 data/source_txt/t6_sociology_1_101.deft	 20250	 20257	 I-Referential-Definition	 T126	 T125	 Refers-To
-kinship	 data/source_txt/t6_sociology_1_101.deft	 20258	 20265	 I-Referential-Definition	 T126	 T125	 Refers-To
-is	 data/source_txt/t6_sociology_1_101.deft	 20266	 20268	 O	 -1	 -1	 0
-called	 data/source_txt/t6_sociology_1_101.deft	 20269	 20275	 O	 -1	 -1	 0
-bilateral	 data/source_txt/t6_sociology_1_101.deft	 20276	 20285	 B-Term	 T127	 0	 0
-descent	 data/source_txt/t6_sociology_1_101.deft	 20286	 20293	 I-Term	 T127	 0	 0
-.	 data/source_txt/t6_sociology_1_101.deft	 20293	 20294	 O	 -1	 -1	 0
-
 This	 data/source_txt/t6_sociology_1_101.deft	 20234	 20238	 B-Referential-Definition	 T126	 T127	 Indirect-Defines
 pattern	 data/source_txt/t6_sociology_1_101.deft	 20239	 20246	 I-Referential-Definition	 T126	 T127	 Indirect-Defines
 of	 data/source_txt/t6_sociology_1_101.deft	 20247	 20249	 I-Referential-Definition	 T126	 T127	 Indirect-Defines
@@ -3861,13 +3828,6 @@ grow	 data/source_txt/t6_sociology_1_101.deft	 22852	 22856	 I-Definition	 T142	
 into	 data/source_txt/t6_sociology_1_101.deft	 22857	 22861	 I-Definition	 T142	 0	 0
 denominations	 data/source_txt/t6_sociology_1_101.deft	 22862	 22875	 I-Definition	 T142	 0	 0
 .	 data/source_txt/t6_sociology_1_101.deft	 22875	 22876	 O	 -1	 -1	 0
-
-Sociologists	 data/source_txt/t6_sociology_1_101.deft	 22885	 22897	 O	 -1	 -1	 0
-call	 data/source_txt/t6_sociology_1_101.deft	 22898	 22902	 O	 -1	 -1	 0
-these	 data/source_txt/t6_sociology_1_101.deft	 22903	 22908	 B-Referential-Definition	 T143	 T142	 Refers-To
-established	 data/source_txt/t6_sociology_1_101.deft	 22909	 22920	 B-Term	 T144	 0	 0
-sects	 data/source_txt/t6_sociology_1_101.deft	 22921	 22926	 I-Term	 T144	 0	 0
-.	 data/source_txt/t6_sociology_1_101.deft	 22926	 22927	 O	 -1	 -1	 0
 
 Sociologists	 data/source_txt/t6_sociology_1_101.deft	 22885	 22897	 O	 -1	 -1	 0
 call	 data/source_txt/t6_sociology_1_101.deft	 22898	 22902	 O	 -1	 -1	 0

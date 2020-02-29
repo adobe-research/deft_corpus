@@ -18,8 +18,8 @@ a	 data/source_txt/t1_biology_1_101.deft	 648	 649	 I-Definition	 T2	 T1	 Direct
 multiprotein	 data/source_txt/t1_biology_1_101.deft	 650	 662	 I-Definition	 T2	 T1	 Direct-Defines
 complex	 data/source_txt/t1_biology_1_101.deft	 663	 670	 I-Definition	 T2	 T1	 Direct-Defines
 called	 data/source_txt/t1_biology_1_101.deft	 671	 677	 O	 -1	 -1	 0
-a	 data/source_txt/t1_biology_1_101.deft	 678	 679	 B-Term	 T1	 0	 0
-photosystem	 data/source_txt/t1_biology_1_101.deft	 680	 691	 I-Term	 T1	 0	 0
+a	 data/source_txt/t1_biology_1_101.deft	 678	 679	 B-Term	 T1	 0	 Direct-Defines
+photosystem	 data/source_txt/t1_biology_1_101.deft	 680	 691	 I-Term	 T1	 0	 Direct-Defines
 ,	 data/source_txt/t1_biology_1_101.deft	 691	 692	 O	 -1	 -1	 0
 two	 data/source_txt/t1_biology_1_101.deft	 693	 696	 O	 -1	 -1	 0
 types	 data/source_txt/t1_biology_1_101.deft	 697	 702	 O	 -1	 -1	 0

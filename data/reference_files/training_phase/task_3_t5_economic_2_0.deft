@@ -29,8 +29,8 @@ sometimes	 data/source_txt/t5_economic_2_0.deft	 734	 743	 O	 -1	 -1	 0
 called	 data/source_txt/t5_economic_2_0.deft	 744	 750	 O	 -1	 -1	 0
 its	 data/source_txt/t5_economic_2_0.deft	 751	 754	 O	 -1	 -1	 0
 “	 data/source_txt/t5_economic_2_0.deft	 755	 756	 O	 -1	 -1	 0
-core	 data/source_txt/t5_economic_2_0.deft	 756	 760	 B-Term	 T5	 0	 0
-competency	 data/source_txt/t5_economic_2_0.deft	 761	 771	 I-Term	 T5	 0	 0
+core	 data/source_txt/t5_economic_2_0.deft	 756	 760	 B-Term	 T5	 0	 Direct-Defines
+competency	 data/source_txt/t5_economic_2_0.deft	 761	 771	 I-Term	 T5	 0	 Direct-Defines
 ”	 data/source_txt/t5_economic_2_0.deft	 771	 772	 O	 -1	 -1	 0
 )	 data/source_txt/t5_economic_2_0.deft	 772	 773	 O	 -1	 -1	 0
 is	 data/source_txt/t5_economic_2_0.deft	 774	 776	 O	 -1	 -1	 0
@@ -51,7 +51,7 @@ products	 data/source_txt/t5_economic_2_0.deft	 837	 845	 O	 -1	 -1	 0
 
 Third	 data/source_txt/t5_economic_2_0.deft	 853	 858	 O	 -1	 -1	 0
 ,	 data/source_txt/t5_economic_2_0.deft	 858	 859	 O	 -1	 -1	 0
-specialization	 data/source_txt/t5_economic_2_0.deft	 860	 874	 B-Term	 T7	 0	 0
+specialization	 data/source_txt/t5_economic_2_0.deft	 860	 874	 B-Term	 T7	 0	 Direct-Defines
 allows	 data/source_txt/t5_economic_2_0.deft	 875	 881	 B-Definition	 T8	 T7	 Direct-Defines
 businesses	 data/source_txt/t5_economic_2_0.deft	 882	 892	 I-Definition	 T8	 T7	 Direct-Defines
 to	 data/source_txt/t5_economic_2_0.deft	 893	 895	 I-Definition	 T8	 T7	 Direct-Defines
@@ -115,8 +115,8 @@ regulated	 data/source_txt/t5_economic_2_0.deft	 2706	 2715	 O	 -1	 -1	 0
 economies	 data/source_txt/t5_economic_2_0.deft	 2716	 2725	 O	 -1	 -1	 0
 often	 data/source_txt/t5_economic_2_0.deft	 2726	 2731	 O	 -1	 -1	 0
 have	 data/source_txt/t5_economic_2_0.deft	 2732	 2736	 O	 -1	 -1	 0
-underground	 data/source_txt/t5_economic_2_0.deft	 2737	 2748	 B-Term	 T18	 0	 0
-economies	 data/source_txt/t5_economic_2_0.deft	 2749	 2758	 I-Term	 T18	 0	 0
+underground	 data/source_txt/t5_economic_2_0.deft	 2737	 2748	 B-Term	 T18	 0	 Direct-Defines
+economies	 data/source_txt/t5_economic_2_0.deft	 2749	 2758	 I-Term	 T18	 0	 Direct-Defines
 ,	 data/source_txt/t5_economic_2_0.deft	 2758	 2759	 O	 -1	 -1	 0
 which	 data/source_txt/t5_economic_2_0.deft	 2760	 2765	 O	 -1	 -1	 0
 are	 data/source_txt/t5_economic_2_0.deft	 2766	 2769	 O	 -1	 -1	 0
@@ -228,9 +228,9 @@ of	 data/source_txt/t5_economic_2_0.deft	 10017	 10019	 O	 -1	 -1	 0
 scale	 data/source_txt/t5_economic_2_0.deft	 10020	 10025	 O	 -1	 -1	 0
 .	 data/source_txt/t5_economic_2_0.deft	 10025	 10026	 O	 -1	 -1	 0
 
-Economies	 data/source_txt/t5_economic_2_0.deft	 10035	 10044	 B-Term	 T60	 0	 0
-of	 data/source_txt/t5_economic_2_0.deft	 10045	 10047	 I-Term	 T60	 0	 0
-scale	 data/source_txt/t5_economic_2_0.deft	 10048	 10053	 I-Term	 T60	 0	 0
+Economies	 data/source_txt/t5_economic_2_0.deft	 10035	 10044	 B-Term	 T60	 0	 Direct-Defines
+of	 data/source_txt/t5_economic_2_0.deft	 10045	 10047	 I-Term	 T60	 0	 Direct-Defines
+scale	 data/source_txt/t5_economic_2_0.deft	 10048	 10053	 I-Term	 T60	 0	 Direct-Defines
 refers	 data/source_txt/t5_economic_2_0.deft	 10054	 10060	 O	 -1	 -1	 0
 to	 data/source_txt/t5_economic_2_0.deft	 10061	 10063	 O	 -1	 -1	 0
 the	 data/source_txt/t5_economic_2_0.deft	 10064	 10067	 B-Definition	 T61	 T60	 Direct-Defines

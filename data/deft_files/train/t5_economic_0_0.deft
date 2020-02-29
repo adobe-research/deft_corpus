@@ -4421,21 +4421,6 @@ the	 data/source_txt/t5_economic_0_0.deft	 26301	 26304	 I-Definition	 T145	 0	 
 product	 data/source_txt/t5_economic_0_0.deft	 26305	 26312	 I-Definition	 T145	 0	 0
 .	 data/source_txt/t5_economic_0_0.deft	 26312	 26313	 O	 -1	 -1	 0
 
-Products	 data/source_txt/t5_economic_0_0.deft	 26322	 26330	 B-Referential-Definition	 T146	 T145	 Refers-To
-that	 data/source_txt/t5_economic_0_0.deft	 26331	 26335	 I-Referential-Definition	 T146	 T145	 Refers-To
-are	 data/source_txt/t5_economic_0_0.deft	 26336	 26339	 I-Referential-Definition	 T146	 T145	 Refers-To
-distinctive	 data/source_txt/t5_economic_0_0.deft	 26340	 26351	 I-Referential-Definition	 T146	 T145	 Refers-To
-in	 data/source_txt/t5_economic_0_0.deft	 26352	 26354	 I-Referential-Definition	 T146	 T145	 Refers-To
-one	 data/source_txt/t5_economic_0_0.deft	 26355	 26358	 I-Referential-Definition	 T146	 T145	 Refers-To
-of	 data/source_txt/t5_economic_0_0.deft	 26359	 26361	 I-Referential-Definition	 T146	 T145	 Refers-To
-these	 data/source_txt/t5_economic_0_0.deft	 26362	 26367	 I-Referential-Definition	 T146	 T145	 Refers-To
-ways	 data/source_txt/t5_economic_0_0.deft	 26368	 26372	 I-Referential-Definition	 T146	 T145	 Refers-To
-are	 data/source_txt/t5_economic_0_0.deft	 26373	 26376	 O	 -1	 -1	 0
-called	 data/source_txt/t5_economic_0_0.deft	 26377	 26383	 O	 -1	 -1	 0
-differentiated	 data/source_txt/t5_economic_0_0.deft	 26384	 26398	 B-Term	 T144	 0	 0
-products	 data/source_txt/t5_economic_0_0.deft	 26399	 26407	 I-Term	 T144	 0	 0
-.	 data/source_txt/t5_economic_0_0.deft	 26407	 26408	 O	 -1	 -1	 0
-
 Products	 data/source_txt/t5_economic_0_0.deft	 26322	 26330	 B-Referential-Definition	 T146	 T144	 Indirect-Defines
 that	 data/source_txt/t5_economic_0_0.deft	 26331	 26335	 I-Referential-Definition	 T146	 T144	 Indirect-Defines
 are	 data/source_txt/t5_economic_0_0.deft	 26336	 26339	 I-Referential-Definition	 T146	 T144	 Indirect-Defines
@@ -5787,34 +5772,6 @@ called	 data/source_txt/t5_economic_0_0.deft	 33406	 33412	 O	 -1	 -1	 0
 an	 data/source_txt/t5_economic_0_0.deft	 33413	 33415	 B-Term	 T164	 0	 0
 externality	 data/source_txt/t5_economic_0_0.deft	 33416	 33427	 I-Term	 T164	 0	 0
 .	 data/source_txt/t5_economic_0_0.deft	 33427	 33428	 O	 -1	 -1	 0
-
-Because	 data/source_txt/t5_economic_0_0.deft	 33435	 33442	 O	 -1	 -1	 0
-externalities	 data/source_txt/t5_economic_0_0.deft	 33443	 33456	 B-Term	 T107	 0	 0
-that	 data/source_txt/t5_economic_0_0.deft	 33457	 33461	 O	 -1	 -1	 0
-occur	 data/source_txt/t5_economic_0_0.deft	 33462	 33467	 O	 -1	 -1	 0
-in	 data/source_txt/t5_economic_0_0.deft	 33468	 33470	 O	 -1	 -1	 0
-market	 data/source_txt/t5_economic_0_0.deft	 33471	 33477	 O	 -1	 -1	 0
-transactions	 data/source_txt/t5_economic_0_0.deft	 33478	 33490	 O	 -1	 -1	 0
-affect	 data/source_txt/t5_economic_0_0.deft	 33491	 33497	 O	 -1	 -1	 0
-other	 data/source_txt/t5_economic_0_0.deft	 33498	 33503	 O	 -1	 -1	 0
-parties	 data/source_txt/t5_economic_0_0.deft	 33504	 33511	 O	 -1	 -1	 0
-beyond	 data/source_txt/t5_economic_0_0.deft	 33512	 33518	 O	 -1	 -1	 0
-those	 data/source_txt/t5_economic_0_0.deft	 33519	 33524	 O	 -1	 -1	 0
-involved	 data/source_txt/t5_economic_0_0.deft	 33525	 33533	 O	 -1	 -1	 0
-,	 data/source_txt/t5_economic_0_0.deft	 33533	 33534	 O	 -1	 -1	 0
-they	 data/source_txt/t5_economic_0_0.deft	 33535	 33539	 O	 -1	 -1	 0
-are	 data/source_txt/t5_economic_0_0.deft	 33540	 33543	 O	 -1	 -1	 0
-sometimes	 data/source_txt/t5_economic_0_0.deft	 33544	 33553	 O	 -1	 -1	 0
-called	 data/source_txt/t5_economic_0_0.deft	 33554	 33560	 O	 -1	 -1	 0
-spillovers	 data/source_txt/t5_economic_0_0.deft	 33561	 33571	 B-Alias-Term	 T87	 T164	 AKA
-.	 data/source_txt/t5_economic_0_0.deft	 33571	 33572	 O	 -1	 -1	 0
-Externalities	 data/source_txt/t5_economic_0_0.deft	 33572	 33585	 B-Secondary-Definition	 T113	 T165	 Supplements
-can	 data/source_txt/t5_economic_0_0.deft	 33586	 33589	 I-Secondary-Definition	 T113	 T165	 Supplements
-be	 data/source_txt/t5_economic_0_0.deft	 33590	 33592	 I-Secondary-Definition	 T113	 T165	 Supplements
-negative	 data/source_txt/t5_economic_0_0.deft	 33593	 33601	 I-Secondary-Definition	 T113	 T165	 Supplements
-or	 data/source_txt/t5_economic_0_0.deft	 33602	 33604	 I-Secondary-Definition	 T113	 T165	 Supplements
-positive	 data/source_txt/t5_economic_0_0.deft	 33605	 33613	 I-Secondary-Definition	 T113	 T165	 Supplements
-.	 data/source_txt/t5_economic_0_0.deft	 33613	 33614	 O	 -1	 -1	 0
 
 Because	 data/source_txt/t5_economic_0_0.deft	 33435	 33442	 O	 -1	 -1	 0
 externalities	 data/source_txt/t5_economic_0_0.deft	 33443	 33456	 B-Term	 T107	 0	 0

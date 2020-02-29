@@ -153,7 +153,7 @@ of	 data/source_txt/t3_physics_1_0.deft	 30289	 30291	 I-Definition	 T150	 T151	
 frequency	 data/source_txt/t3_physics_1_0.deft	 30292	 30301	 I-Definition	 T150	 T151	 Direct-Defines
 is	 data/source_txt/t3_physics_1_0.deft	 30302	 30304	 O	 -1	 -1	 0
 called	 data/source_txt/t3_physics_1_0.deft	 30305	 30311	 O	 -1	 -1	 0
-pitch	 data/source_txt/t3_physics_1_0.deft	 30312	 30317	 B-Term	 T151	 0	 0
+pitch	 data/source_txt/t3_physics_1_0.deft	 30312	 30317	 B-Term	 T151	 0	 Direct-Defines
 .	 data/source_txt/t3_physics_1_0.deft	 30317	 30318	 O	 -1	 -1	 0
 
 Most	 data/source_txt/t3_physics_1_0.deft	 30325	 30329	 O	 -1	 -1	 0

@@ -1,8 +1,8 @@
 5307	 data/source_txt/t6_sociology_0_0.deft	 904	 908	 O	 -1	 -1	 0
 .	 data/source_txt/t6_sociology_0_0.deft	 908	 909	 O	 -1	 -1	 0
 
-A	 data/source_txt/t6_sociology_0_0.deft	 910	 911	 B-Term	 T10	 0	 0
-mass	 data/source_txt/t6_sociology_0_0.deft	 912	 916	 I-Term	 T10	 0	 0
+A	 data/source_txt/t6_sociology_0_0.deft	 910	 911	 B-Term	 T10	 0	 Direct-Defines
+mass	 data/source_txt/t6_sociology_0_0.deft	 912	 916	 I-Term	 T10	 0	 Direct-Defines
 is	 data/source_txt/t6_sociology_0_0.deft	 917	 919	 O	 -1	 -1	 0
 a	 data/source_txt/t6_sociology_0_0.deft	 920	 921	 B-Definition	 T11	 T10	 Direct-Defines
 relatively	 data/source_txt/t6_sociology_0_0.deft	 922	 932	 I-Definition	 T11	 T10	 Direct-Defines
@@ -39,8 +39,8 @@ game	 data/source_txt/t6_sociology_0_0.deft	 1078	 1082	 O	 -1	 -1	 0
 Farmville	 data/source_txt/t6_sociology_0_0.deft	 1083	 1092	 O	 -1	 -1	 0
 .	 data/source_txt/t6_sociology_0_0.deft	 1092	 1093	 O	 -1	 -1	 0
 
-A	 data/source_txt/t6_sociology_0_0.deft	 1102	 1103	 B-Term	 T12	 0	 0
-public	 data/source_txt/t6_sociology_0_0.deft	 1104	 1110	 I-Term	 T12	 0	 0
+A	 data/source_txt/t6_sociology_0_0.deft	 1102	 1103	 B-Term	 T12	 0	 Direct-Defines
+public	 data/source_txt/t6_sociology_0_0.deft	 1104	 1110	 I-Term	 T12	 0	 Direct-Defines
 ,	 data/source_txt/t6_sociology_0_0.deft	 1110	 1111	 O	 -1	 -1	 0
 on	 data/source_txt/t6_sociology_0_0.deft	 1112	 1114	 O	 -1	 -1	 0
 the	 data/source_txt/t6_sociology_0_0.deft	 1115	 1118	 O	 -1	 -1	 0

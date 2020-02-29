@@ -1,9 +1,9 @@
 5627	 data/source_txt/t6_sociology_1_101.deft	 3663	 3667	 O	 -1	 -1	 0
 .	 data/source_txt/t6_sociology_1_101.deft	 3667	 3668	 O	 -1	 -1	 0
 
-A	 data/source_txt/t6_sociology_1_101.deft	 3678	 3679	 B-Term	 T27	 0	 0
-class	 data/source_txt/t6_sociology_1_101.deft	 3680	 3685	 I-Term	 T27	 0	 0
-system	 data/source_txt/t6_sociology_1_101.deft	 3686	 3692	 I-Term	 T27	 0	 0
+A	 data/source_txt/t6_sociology_1_101.deft	 3678	 3679	 B-Term	 T27	 0	 Direct-Defines
+class	 data/source_txt/t6_sociology_1_101.deft	 3680	 3685	 I-Term	 T27	 0	 Direct-Defines
+system	 data/source_txt/t6_sociology_1_101.deft	 3686	 3692	 I-Term	 T27	 0	 Direct-Defines
 is	 data/source_txt/t6_sociology_1_101.deft	 3693	 3695	 O	 -1	 -1	 0
 based	 data/source_txt/t6_sociology_1_101.deft	 3696	 3701	 B-Definition	 T28	 T27	 Direct-Defines
 on	 data/source_txt/t6_sociology_1_101.deft	 3702	 3704	 I-Definition	 T28	 T27	 Direct-Defines
@@ -15,8 +15,8 @@ individual	 data/source_txt/t6_sociology_1_101.deft	 3729	 3739	 I-Definition	 T
 achievement	 data/source_txt/t6_sociology_1_101.deft	 3740	 3751	 I-Definition	 T28	 T27	 Direct-Defines
 .	 data/source_txt/t6_sociology_1_101.deft	 3751	 3752	 O	 -1	 -1	 0
 
-A	 data/source_txt/t6_sociology_1_101.deft	 3759	 3760	 B-Term	 T29	 0	 0
-class	 data/source_txt/t6_sociology_1_101.deft	 3761	 3766	 I-Term	 T29	 0	 0
+A	 data/source_txt/t6_sociology_1_101.deft	 3759	 3760	 B-Term	 T29	 0	 Direct-Defines
+class	 data/source_txt/t6_sociology_1_101.deft	 3761	 3766	 I-Term	 T29	 0	 Direct-Defines
 consists	 data/source_txt/t6_sociology_1_101.deft	 3767	 3775	 B-Definition	 T30	 T29	 Direct-Defines
 of	 data/source_txt/t6_sociology_1_101.deft	 3776	 3778	 I-Definition	 T30	 T29	 Direct-Defines
 a	 data/source_txt/t6_sociology_1_101.deft	 3779	 3780	 I-Definition	 T30	 T29	 Direct-Defines
@@ -75,8 +75,8 @@ changes	 data/source_txt/t6_sociology_1_101.deft	 4963	 4970	 O	 -1	 -1	 0
 .	 data/source_txt/t6_sociology_1_101.deft	 4970	 4971	 O	 -1	 -1	 0
 Similarly	 data/source_txt/t6_sociology_1_101.deft	 4971	 4980	 O	 -1	 -1	 0
 ,	 data/source_txt/t6_sociology_1_101.deft	 4980	 4981	 O	 -1	 -1	 0
-intragenerational	 data/source_txt/t6_sociology_1_101.deft	 4982	 4999	 B-Term	 T37	 0	 0
-mobility	 data/source_txt/t6_sociology_1_101.deft	 5000	 5008	 I-Term	 T37	 0	 0
+intragenerational	 data/source_txt/t6_sociology_1_101.deft	 4982	 4999	 B-Term	 T37	 0	 Direct-Defines
+mobility	 data/source_txt/t6_sociology_1_101.deft	 5000	 5008	 I-Term	 T37	 0	 Direct-Defines
 refers	 data/source_txt/t6_sociology_1_101.deft	 5009	 5015	 O	 -1	 -1	 0
 to	 data/source_txt/t6_sociology_1_101.deft	 5016	 5018	 O	 -1	 -1	 0
 changes	 data/source_txt/t6_sociology_1_101.deft	 5019	 5026	 B-Definition	 T38	 T37	 Direct-Defines
@@ -119,8 +119,8 @@ or	 data/source_txt/t6_sociology_1_101.deft	 5206	 5208	 O	 -1	 -1	 0
 her	 data/source_txt/t6_sociology_1_101.deft	 5209	 5212	 O	 -1	 -1	 0
 siblings	 data/source_txt/t6_sociology_1_101.deft	 5213	 5221	 O	 -1	 -1	 0
 .	 data/source_txt/t6_sociology_1_101.deft	 5221	 5222	 O	 -1	 -1	 0
-Structural	 data/source_txt/t6_sociology_1_101.deft	 5222	 5232	 B-Term	 T39	 0	 0
-mobility	 data/source_txt/t6_sociology_1_101.deft	 5233	 5241	 I-Term	 T39	 0	 0
+Structural	 data/source_txt/t6_sociology_1_101.deft	 5222	 5232	 B-Term	 T39	 0	 Direct-Defines
+mobility	 data/source_txt/t6_sociology_1_101.deft	 5233	 5241	 I-Term	 T39	 0	 Direct-Defines
 happens	 data/source_txt/t6_sociology_1_101.deft	 5242	 5249	 B-Definition	 T40	 T39	 Direct-Defines
 when	 data/source_txt/t6_sociology_1_101.deft	 5250	 5254	 I-Definition	 T40	 T39	 Direct-Defines
 societal	 data/source_txt/t6_sociology_1_101.deft	 5255	 5263	 I-Definition	 T40	 T39	 Direct-Defines

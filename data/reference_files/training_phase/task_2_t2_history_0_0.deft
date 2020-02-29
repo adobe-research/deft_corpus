@@ -200,29 +200,6 @@ privileged	 data/source_txt/t2_history_0_0.deft	 12809	 12819	 I-Definition
 families	 data/source_txt/t2_history_0_0.deft	 12820	 12828	 I-Definition
 .	 data/source_txt/t2_history_0_0.deft	 12828	 12829	 O
 
-Conservative	 data/source_txt/t2_history_0_0.deft	 12700	 12712	 B-Term
-Whigs	 data/source_txt/t2_history_0_0.deft	 12713	 12718	 I-Term
-believed	 data/source_txt/t2_history_0_0.deft	 12719	 12727	 B-Definition
-in	 data/source_txt/t2_history_0_0.deft	 12728	 12730	 I-Definition
-government	 data/source_txt/t2_history_0_0.deft	 12731	 12741	 I-Definition
-by	 data/source_txt/t2_history_0_0.deft	 12742	 12744	 I-Definition
-a	 data/source_txt/t2_history_0_0.deft	 12745	 12746	 I-Definition
-patrician	 data/source_txt/t2_history_0_0.deft	 12747	 12756	 I-Definition
-class	 data/source_txt/t2_history_0_0.deft	 12757	 12762	 I-Definition
-,	 data/source_txt/t2_history_0_0.deft	 12762	 12763	 I-Definition
-a	 data/source_txt/t2_history_0_0.deft	 12764	 12765	 I-Definition
-ruling	 data/source_txt/t2_history_0_0.deft	 12766	 12772	 I-Definition
-group	 data/source_txt/t2_history_0_0.deft	 12773	 12778	 I-Definition
-composed	 data/source_txt/t2_history_0_0.deft	 12779	 12787	 I-Definition
-of	 data/source_txt/t2_history_0_0.deft	 12788	 12790	 I-Definition
-a	 data/source_txt/t2_history_0_0.deft	 12791	 12792	 I-Definition
-small	 data/source_txt/t2_history_0_0.deft	 12793	 12798	 I-Definition
-number	 data/source_txt/t2_history_0_0.deft	 12799	 12805	 I-Definition
-of	 data/source_txt/t2_history_0_0.deft	 12806	 12808	 I-Definition
-privileged	 data/source_txt/t2_history_0_0.deft	 12809	 12819	 I-Definition
-families	 data/source_txt/t2_history_0_0.deft	 12820	 12828	 I-Definition
-.	 data/source_txt/t2_history_0_0.deft	 12828	 12829	 O
-
 Radical	 data/source_txt/t2_history_0_0.deft	 12838	 12845	 B-Term
 Whigs	 data/source_txt/t2_history_0_0.deft	 12846	 12851	 I-Term
 favored	 data/source_txt/t2_history_0_0.deft	 12852	 12859	 B-Definition

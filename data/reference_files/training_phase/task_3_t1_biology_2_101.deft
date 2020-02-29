@@ -33,7 +33,7 @@ place	 data/source_txt/t1_biology_2_101.deft	 1084	 1089	 I-Definition	 T224	 T2
 .	 data/source_txt/t1_biology_2_101.deft	 1089	 1090	 O	 -1	 -1	 0
 
 Each	 data/source_txt/t1_biology_2_101.deft	 1099	 1103	 O	 -1	 -1	 0
-photosystem	 data/source_txt/t1_biology_2_101.deft	 1104	 1115	 B-Term	 T222	 0	 0
+photosystem	 data/source_txt/t1_biology_2_101.deft	 1104	 1115	 B-Term	 T222	 0	 Supplements
 is	 data/source_txt/t1_biology_2_101.deft	 1116	 1118	 O	 -1	 -1	 0
 serviced	 data/source_txt/t1_biology_2_101.deft	 1119	 1127	 B-Secondary-Definition	 T223	 T222	 Supplements
 by	 data/source_txt/t1_biology_2_101.deft	 1128	 1130	 I-Secondary-Definition	 T223	 T222	 Supplements
@@ -167,8 +167,8 @@ cycle	 data/source_txt/t1_biology_2_101.deft	 11519	 11524	 O	 -1	 -1	 0
 checkpoints	 data/source_txt/t1_biology_2_101.deft	 11525	 11536	 O	 -1	 -1	 0
 .	 data/source_txt/t1_biology_2_101.deft	 11536	 11537	 O	 -1	 -1	 0
 
-A	 data/source_txt/t1_biology_2_101.deft	 11544	 11545	 B-Term	 T69	 0	 0
-checkpoint	 data/source_txt/t1_biology_2_101.deft	 11546	 11556	 I-Term	 T69	 0	 0
+A	 data/source_txt/t1_biology_2_101.deft	 11544	 11545	 B-Term	 T69	 0	 Direct-Defines
+checkpoint	 data/source_txt/t1_biology_2_101.deft	 11546	 11556	 I-Term	 T69	 0	 Direct-Defines
 is	 data/source_txt/t1_biology_2_101.deft	 11557	 11559	 O	 -1	 -1	 0
 one	 data/source_txt/t1_biology_2_101.deft	 11560	 11563	 B-Definition	 T70	 T69	 Direct-Defines
 of	 data/source_txt/t1_biology_2_101.deft	 11564	 11566	 I-Definition	 T70	 T69	 Direct-Defines
@@ -238,8 +238,8 @@ II	 data/source_txt/t1_biology_2_101.deft	 12797	 12799	 O	 -1	 -1	 0
 
 Thus	 data/source_txt/t1_biology_2_101.deft	 12802	 12806	 O	 -1	 -1	 0
 ,	 data/source_txt/t1_biology_2_101.deft	 12806	 12807	 O	 -1	 -1	 0
-meiosis	 data/source_txt/t1_biology_2_101.deft	 12808	 12815	 B-Term	 T73	 0	 0
-I	 data/source_txt/t1_biology_2_101.deft	 12816	 12817	 I-Term	 T73	 0	 0
+meiosis	 data/source_txt/t1_biology_2_101.deft	 12808	 12815	 B-Term	 T73	 0	 Direct-Defines
+I	 data/source_txt/t1_biology_2_101.deft	 12816	 12817	 I-Term	 T73	 0	 Direct-Defines
 is	 data/source_txt/t1_biology_2_101.deft	 12818	 12820	 O	 -1	 -1	 0
 the	 data/source_txt/t1_biology_2_101.deft	 12821	 12824	 B-Definition	 T74	 T73	 Direct-Defines
 first	 data/source_txt/t1_biology_2_101.deft	 12825	 12830	 I-Definition	 T74	 T73	 Direct-Defines
@@ -261,8 +261,8 @@ so	 data/source_txt/t1_biology_2_101.deft	 12905	 12907	 I-Definition	 T74	 T73	
 on	 data/source_txt/t1_biology_2_101.deft	 12908	 12910	 I-Definition	 T74	 T73	 Direct-Defines
 .	 data/source_txt/t1_biology_2_101.deft	 12910	 12911	 O	 -1	 -1	 0
 
-Meiosis	 data/source_txt/t1_biology_2_101.deft	 12920	 12927	 B-Term	 T75	 0	 0
-II	 data/source_txt/t1_biology_2_101.deft	 12928	 12930	 I-Term	 T75	 0	 0
+Meiosis	 data/source_txt/t1_biology_2_101.deft	 12920	 12927	 B-Term	 T75	 0	 Direct-Defines
+II	 data/source_txt/t1_biology_2_101.deft	 12928	 12930	 I-Term	 T75	 0	 Direct-Defines
 ,	 data/source_txt/t1_biology_2_101.deft	 12930	 12931	 O	 -1	 -1	 0
 in	 data/source_txt/t1_biology_2_101.deft	 12932	 12934	 O	 -1	 -1	 0
 which	 data/source_txt/t1_biology_2_101.deft	 12935	 12940	 O	 -1	 -1	 0

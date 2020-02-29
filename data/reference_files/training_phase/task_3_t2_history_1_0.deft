@@ -33,8 +33,8 @@ Nonetheless	 data/source_txt/t2_history_1_0.deft	 2526	 2537	 O	 -1	 -1	 0
 Elizabeth	 data/source_txt/t2_history_1_0.deft	 2539	 2548	 O	 -1	 -1	 0
 approved	 data/source_txt/t2_history_1_0.deft	 2549	 2557	 O	 -1	 -1	 0
 of	 data/source_txt/t2_history_1_0.deft	 2558	 2560	 O	 -1	 -1	 0
-English	 data/source_txt/t2_history_1_0.deft	 2561	 2568	 B-Term	 T14	 0	 0
-privateers	 data/source_txt/t2_history_1_0.deft	 2569	 2579	 I-Term	 T14	 0	 0
+English	 data/source_txt/t2_history_1_0.deft	 2561	 2568	 B-Term	 T14	 0	 Direct-Defines
+privateers	 data/source_txt/t2_history_1_0.deft	 2569	 2579	 I-Term	 T14	 0	 Direct-Defines
 ,	 data/source_txt/t2_history_1_0.deft	 2579	 2580	 O	 -1	 -1	 0
 sea	 data/source_txt/t2_history_1_0.deft	 2581	 2584	 B-Definition	 T15	 T14	 Direct-Defines
 captains	 data/source_txt/t2_history_1_0.deft	 2585	 2593	 I-Definition	 T15	 T14	 Direct-Defines
@@ -150,7 +150,7 @@ had	 data/source_txt/t2_history_1_0.deft	 20289	 20292	 O	 -1	 -1	 0
 suspended	 data/source_txt/t2_history_1_0.deft	 20293	 20302	 O	 -1	 -1	 0
 payments	 data/source_txt/t2_history_1_0.deft	 20303	 20311	 O	 -1	 -1	 0
 in	 data/source_txt/t2_history_1_0.deft	 20312	 20314	 O	 -1	 -1	 0
-specie	 data/source_txt/t2_history_1_0.deft	 20315	 20321	 B-Term	 T104	 0	 0
+specie	 data/source_txt/t2_history_1_0.deft	 20315	 20321	 B-Term	 T104	 0	 Direct-Defines
 ,	 data/source_txt/t2_history_1_0.deft	 20321	 20322	 O	 -1	 -1	 0
 “	 data/source_txt/t2_history_1_0.deft	 20323	 20324	 B-Definition	 T105	 T104	 Direct-Defines
 hard	 data/source_txt/t2_history_1_0.deft	 20324	 20328	 I-Definition	 T105	 T104	 Direct-Defines

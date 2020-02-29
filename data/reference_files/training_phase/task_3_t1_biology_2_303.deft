@@ -10,7 +10,7 @@ a	 data/source_txt/t1_biology_2_303.deft	 4616	 4617	 I-Definition	 T39	 T38	 Di
 coelom	 data/source_txt/t1_biology_2_303.deft	 4618	 4624	 I-Definition	 T39	 T38	 Direct-Defines
 are	 data/source_txt/t1_biology_2_303.deft	 4625	 4628	 O	 -1	 -1	 0
 called	 data/source_txt/t1_biology_2_303.deft	 4629	 4635	 O	 -1	 -1	 0
-acoelomates	 data/source_txt/t1_biology_2_303.deft	 4636	 4647	 B-Term	 T38	 0	 0
+acoelomates	 data/source_txt/t1_biology_2_303.deft	 4636	 4647	 B-Term	 T38	 0	 Direct-Defines
 ,	 data/source_txt/t1_biology_2_303.deft	 4647	 4648	 O	 -1	 -1	 0
 and	 data/source_txt/t1_biology_2_303.deft	 4649	 4652	 O	 -1	 -1	 0
 their	 data/source_txt/t1_biology_2_303.deft	 4653	 4658	 O	 -1	 -1	 0
@@ -52,8 +52,8 @@ flatworms	 data/source_txt/t1_biology_2_303.deft	 4842	 4851	 O	 -1	 -1	 0
 1068	 data/source_txt/t1_biology_2_303.deft	 17992	 17996	 O	 -1	 -1	 0
 .	 data/source_txt/t1_biology_2_303.deft	 17996	 17997	 O	 -1	 -1	 0
 
-The	 data/source_txt/t1_biology_2_303.deft	 17998	 18001	 B-Term	 T109	 0	 0
-lepidosaurs	 data/source_txt/t1_biology_2_303.deft	 18002	 18013	 I-Term	 T109	 0	 0
+The	 data/source_txt/t1_biology_2_303.deft	 17998	 18001	 B-Term	 T109	 0	 Direct-Defines
+lepidosaurs	 data/source_txt/t1_biology_2_303.deft	 18002	 18013	 I-Term	 T109	 0	 Direct-Defines
 include	 data/source_txt/t1_biology_2_303.deft	 18014	 18021	 B-Definition	 T110	 T109	 Direct-Defines
 modern	 data/source_txt/t1_biology_2_303.deft	 18022	 18028	 I-Definition	 T110	 T109	 Direct-Defines
 lizards	 data/source_txt/t1_biology_2_303.deft	 18029	 18036	 I-Definition	 T110	 T109	 Direct-Defines
@@ -64,8 +64,8 @@ and	 data/source_txt/t1_biology_2_303.deft	 18046	 18049	 I-Definition	 T110	 T1
 tuataras	 data/source_txt/t1_biology_2_303.deft	 18050	 18058	 I-Definition	 T110	 T109	 Direct-Defines
 .	 data/source_txt/t1_biology_2_303.deft	 18058	 18059	 O	 -1	 -1	 0
 
-The	 data/source_txt/t1_biology_2_303.deft	 18068	 18071	 B-Term	 T111	 0	 0
-archosaurs	 data/source_txt/t1_biology_2_303.deft	 18072	 18082	 I-Term	 T111	 0	 0
+The	 data/source_txt/t1_biology_2_303.deft	 18068	 18071	 B-Term	 T111	 0	 Direct-Defines
+archosaurs	 data/source_txt/t1_biology_2_303.deft	 18072	 18082	 I-Term	 T111	 0	 Direct-Defines
 include	 data/source_txt/t1_biology_2_303.deft	 18083	 18090	 B-Definition	 T112	 T111	 Direct-Defines
 modern	 data/source_txt/t1_biology_2_303.deft	 18091	 18097	 I-Definition	 T112	 T111	 Direct-Defines
 crocodiles	 data/source_txt/t1_biology_2_303.deft	 18098	 18108	 I-Definition	 T112	 T111	 Direct-Defines
@@ -92,8 +92,8 @@ lizard	 data/source_txt/t1_biology_2_303.deft	 18195	 18201	 I-Definition	 T112	
 )	 data/source_txt/t1_biology_2_303.deft	 18202	 18203	 I-Definition	 T112	 T111	 Direct-Defines
 .	 data/source_txt/t1_biology_2_303.deft	 18203	 18204	 O	 -1	 -1	 0
 
-Clade	 data/source_txt/t1_biology_2_303.deft	 18211	 18216	 B-Term	 T113	 0	 0
-Dinosauria	 data/source_txt/t1_biology_2_303.deft	 18217	 18227	 I-Term	 T113	 0	 0
+Clade	 data/source_txt/t1_biology_2_303.deft	 18211	 18216	 B-Term	 T113	 0	 Direct-Defines
+Dinosauria	 data/source_txt/t1_biology_2_303.deft	 18217	 18227	 I-Term	 T113	 0	 Direct-Defines
 includes	 data/source_txt/t1_biology_2_303.deft	 18228	 18236	 B-Definition	 T114	 T113	 Direct-Defines
 birds	 data/source_txt/t1_biology_2_303.deft	 18237	 18242	 I-Definition	 T114	 T113	 Direct-Defines
 ,	 data/source_txt/t1_biology_2_303.deft	 18242	 18243	 I-Definition	 T114	 T113	 Direct-Defines
@@ -163,7 +163,7 @@ that	 data/source_txt/t1_biology_2_303.deft	 21840	 21844	 O	 -1	 -1	 0
 are	 data/source_txt/t1_biology_2_303.deft	 21845	 21848	 O	 -1	 -1	 0
 adapted	 data/source_txt/t1_biology_2_303.deft	 21849	 21856	 O	 -1	 -1	 0
 for	 data/source_txt/t1_biology_2_303.deft	 21857	 21860	 O	 -1	 -1	 0
-brachiation	 data/source_txt/t1_biology_2_303.deft	 21861	 21872	 B-Term	 T140	 0	 0
+brachiation	 data/source_txt/t1_biology_2_303.deft	 21861	 21872	 B-Term	 T140	 0	 Direct-Defines
 ,	 data/source_txt/t1_biology_2_303.deft	 21872	 21873	 O	 -1	 -1	 0
 or	 data/source_txt/t1_biology_2_303.deft	 21874	 21876	 O	 -1	 -1	 0
 climbing	 data/source_txt/t1_biology_2_303.deft	 21877	 21885	 B-Definition	 T141	 T140	 Direct-Defines
@@ -225,8 +225,8 @@ branches	 data/source_txt/t1_biology_2_303.deft	 22155	 22163	 O	 -1	 -1	 0
 ,	 data/source_txt/t1_biology_2_303.deft	 22163	 22164	 O	 -1	 -1	 0
 3	 data/source_txt/t1_biology_2_303.deft	 22165	 22166	 O	 -1	 -1	 0
 )	 data/source_txt/t1_biology_2_303.deft	 22166	 22167	 O	 -1	 -1	 0
-stereoscopic	 data/source_txt/t1_biology_2_303.deft	 22168	 22180	 B-Term	 T142	 0	 0
-vision	 data/source_txt/t1_biology_2_303.deft	 22181	 22187	 I-Term	 T142	 0	 0
+stereoscopic	 data/source_txt/t1_biology_2_303.deft	 22168	 22180	 B-Term	 T142	 0	 Direct-Defines
+vision	 data/source_txt/t1_biology_2_303.deft	 22181	 22187	 I-Term	 T142	 0	 Direct-Defines
 ,	 data/source_txt/t1_biology_2_303.deft	 22187	 22188	 O	 -1	 -1	 0
 two	 data/source_txt/t1_biology_2_303.deft	 22189	 22192	 B-Definition	 T143	 T142	 Direct-Defines
 overlapping	 data/source_txt/t1_biology_2_303.deft	 22193	 22204	 I-Definition	 T143	 T142	 Direct-Defines
@@ -316,39 +316,39 @@ surviving	 data/source_txt/t1_biology_2_303.deft	 23321	 23330	 O	 -1	 -1	 0
 member	 data/source_txt/t1_biology_2_303.deft	 23331	 23337	 O	 -1	 -1	 0
 .	 data/source_txt/t1_biology_2_303.deft	 23337	 23338	 O	 -1	 -1	 0
 
-The	 data/source_txt/t1_biology_2_303.deft	 23347	 23350	 B-Term	 T147	 0	 0
-term	 data/source_txt/t1_biology_2_303.deft	 23351	 23355	 I-Term	 T147	 0	 0
-hominin	 data/source_txt/t1_biology_2_303.deft	 23356	 23363	 I-Term	 T147	 0	 0
+The	 data/source_txt/t1_biology_2_303.deft	 23347	 23350	 B-Term	 T147	 0	 Direct-Defines
+term	 data/source_txt/t1_biology_2_303.deft	 23351	 23355	 I-Term	 T147	 0	 Direct-Defines
+hominin	 data/source_txt/t1_biology_2_303.deft	 23356	 23363	 I-Term	 T147	 0	 Direct-Defines
 is	 data/source_txt/t1_biology_2_303.deft	 23364	 23366	 O	 -1	 -1	 0
 used	 data/source_txt/t1_biology_2_303.deft	 23367	 23371	 O	 -1	 -1	 0
 to	 data/source_txt/t1_biology_2_303.deft	 23372	 23374	 O	 -1	 -1	 0
 refer	 data/source_txt/t1_biology_2_303.deft	 23375	 23380	 O	 -1	 -1	 0
 to	 data/source_txt/t1_biology_2_303.deft	 23381	 23383	 O	 -1	 -1	 0
-those	 data/source_txt/t1_biology_2_303.deft	 23384	 23389	 B-Definition	 T148	 T147	 Direct-Defines
-species	 data/source_txt/t1_biology_2_303.deft	 23390	 23397	 I-Definition	 T148	 T147	 Direct-Defines
-that	 data/source_txt/t1_biology_2_303.deft	 23398	 23402	 I-Definition	 T148	 T147	 Direct-Defines
-evolved	 data/source_txt/t1_biology_2_303.deft	 23403	 23410	 I-Definition	 T148	 T147	 Direct-Defines
-after	 data/source_txt/t1_biology_2_303.deft	 23411	 23416	 I-Definition	 T148	 T147	 Direct-Defines
-this	 data/source_txt/t1_biology_2_303.deft	 23417	 23421	 I-Definition	 T148	 T147	 Direct-Defines
-split	 data/source_txt/t1_biology_2_303.deft	 23422	 23427	 I-Definition	 T148	 T147	 Direct-Defines
-of	 data/source_txt/t1_biology_2_303.deft	 23428	 23430	 I-Definition	 T148	 T147	 Direct-Defines
-the	 data/source_txt/t1_biology_2_303.deft	 23431	 23434	 I-Definition	 T148	 T147	 Direct-Defines
-primate	 data/source_txt/t1_biology_2_303.deft	 23435	 23442	 I-Definition	 T148	 T147	 Direct-Defines
-line	 data/source_txt/t1_biology_2_303.deft	 23443	 23447	 I-Definition	 T148	 T147	 Direct-Defines
-,	 data/source_txt/t1_biology_2_303.deft	 23447	 23448	 I-Definition	 T148	 T147	 Direct-Defines
-thereby	 data/source_txt/t1_biology_2_303.deft	 23449	 23456	 I-Definition	 T148	 T147	 Direct-Defines
-designating	 data/source_txt/t1_biology_2_303.deft	 23457	 23468	 I-Definition	 T148	 T147	 Direct-Defines
-species	 data/source_txt/t1_biology_2_303.deft	 23469	 23476	 I-Definition	 T148	 T147	 Direct-Defines
-that	 data/source_txt/t1_biology_2_303.deft	 23477	 23481	 I-Definition	 T148	 T147	 Direct-Defines
-are	 data/source_txt/t1_biology_2_303.deft	 23482	 23485	 I-Definition	 T148	 T147	 Direct-Defines
-more	 data/source_txt/t1_biology_2_303.deft	 23486	 23490	 I-Definition	 T148	 T147	 Direct-Defines
-closely	 data/source_txt/t1_biology_2_303.deft	 23491	 23498	 I-Definition	 T148	 T147	 Direct-Defines
-related	 data/source_txt/t1_biology_2_303.deft	 23499	 23506	 I-Definition	 T148	 T147	 Direct-Defines
-to	 data/source_txt/t1_biology_2_303.deft	 23507	 23509	 I-Definition	 T148	 T147	 Direct-Defines
-humans	 data/source_txt/t1_biology_2_303.deft	 23510	 23516	 I-Definition	 T148	 T147	 Direct-Defines
-than	 data/source_txt/t1_biology_2_303.deft	 23517	 23521	 I-Definition	 T148	 T147	 Direct-Defines
-to	 data/source_txt/t1_biology_2_303.deft	 23522	 23524	 I-Definition	 T148	 T147	 Direct-Defines
-chimpanzees	 data/source_txt/t1_biology_2_303.deft	 23525	 23536	 I-Definition	 T148	 T147	 Direct-Defines
+those	 data/source_txt/t1_biology_2_303.deft	 23384	 23389	 B-Definition	 T148	 0	 Supplements
+species	 data/source_txt/t1_biology_2_303.deft	 23390	 23397	 I-Definition	 T148	 0	 Supplements
+that	 data/source_txt/t1_biology_2_303.deft	 23398	 23402	 I-Definition	 T148	 0	 Supplements
+evolved	 data/source_txt/t1_biology_2_303.deft	 23403	 23410	 I-Definition	 T148	 0	 Supplements
+after	 data/source_txt/t1_biology_2_303.deft	 23411	 23416	 I-Definition	 T148	 0	 Supplements
+this	 data/source_txt/t1_biology_2_303.deft	 23417	 23421	 I-Definition	 T148	 0	 Supplements
+split	 data/source_txt/t1_biology_2_303.deft	 23422	 23427	 I-Definition	 T148	 0	 Supplements
+of	 data/source_txt/t1_biology_2_303.deft	 23428	 23430	 I-Definition	 T148	 0	 Supplements
+the	 data/source_txt/t1_biology_2_303.deft	 23431	 23434	 I-Definition	 T148	 0	 Supplements
+primate	 data/source_txt/t1_biology_2_303.deft	 23435	 23442	 I-Definition	 T148	 0	 Supplements
+line	 data/source_txt/t1_biology_2_303.deft	 23443	 23447	 I-Definition	 T148	 0	 Supplements
+,	 data/source_txt/t1_biology_2_303.deft	 23447	 23448	 I-Definition	 T148	 0	 Supplements
+thereby	 data/source_txt/t1_biology_2_303.deft	 23449	 23456	 I-Definition	 T148	 0	 Supplements
+designating	 data/source_txt/t1_biology_2_303.deft	 23457	 23468	 I-Definition	 T148	 0	 Supplements
+species	 data/source_txt/t1_biology_2_303.deft	 23469	 23476	 I-Definition	 T148	 0	 Supplements
+that	 data/source_txt/t1_biology_2_303.deft	 23477	 23481	 I-Definition	 T148	 0	 Supplements
+are	 data/source_txt/t1_biology_2_303.deft	 23482	 23485	 I-Definition	 T148	 0	 Supplements
+more	 data/source_txt/t1_biology_2_303.deft	 23486	 23490	 I-Definition	 T148	 0	 Supplements
+closely	 data/source_txt/t1_biology_2_303.deft	 23491	 23498	 I-Definition	 T148	 0	 Supplements
+related	 data/source_txt/t1_biology_2_303.deft	 23499	 23506	 I-Definition	 T148	 0	 Supplements
+to	 data/source_txt/t1_biology_2_303.deft	 23507	 23509	 I-Definition	 T148	 0	 Supplements
+humans	 data/source_txt/t1_biology_2_303.deft	 23510	 23516	 I-Definition	 T148	 0	 Supplements
+than	 data/source_txt/t1_biology_2_303.deft	 23517	 23521	 I-Definition	 T148	 0	 Supplements
+to	 data/source_txt/t1_biology_2_303.deft	 23522	 23524	 I-Definition	 T148	 0	 Supplements
+chimpanzees	 data/source_txt/t1_biology_2_303.deft	 23525	 23536	 I-Definition	 T148	 0	 Supplements
 .	 data/source_txt/t1_biology_2_303.deft	 23536	 23537	 O	 -1	 -1	 0
 
 Hominins	 data/source_txt/t1_biology_2_303.deft	 23544	 23552	 O	 -1	 -1	 0
@@ -474,7 +474,7 @@ of	 data/source_txt/t1_biology_2_303.deft	 31791	 31793	 O	 -1	 -1	 0
 sunlight	 data/source_txt/t1_biology_2_303.deft	 31794	 31802	 O	 -1	 -1	 0
 .	 data/source_txt/t1_biology_2_303.deft	 31802	 31803	 O	 -1	 -1	 0
 
-Phototropism	 data/source_txt/t1_biology_2_303.deft	 31812	 31824	 B-Term	 T220	 0	 0
+Phototropism	 data/source_txt/t1_biology_2_303.deft	 31812	 31824	 B-Term	 T220	 0	 Direct-Defines
 is	 data/source_txt/t1_biology_2_303.deft	 31825	 31827	 O	 -1	 -1	 0
 a	 data/source_txt/t1_biology_2_303.deft	 31828	 31829	 B-Definition	 T221	 T220	 Direct-Defines
 directional	 data/source_txt/t1_biology_2_303.deft	 31830	 31841	 I-Definition	 T221	 T220	 Direct-Defines

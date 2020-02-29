@@ -25,7 +25,7 @@ their	 data/source_txt/t3_physics_1_202.deft	 1306	 1311	 O	 -1	 -1	 0
 masses	 data/source_txt/t3_physics_1_202.deft	 1312	 1318	 O	 -1	 -1	 0
 .	 data/source_txt/t3_physics_1_202.deft	 1318	 1319	 O	 -1	 -1	 0
 
-Mesons	 data/source_txt/t3_physics_1_202.deft	 1328	 1334	 B-Term	 T3	 0	 0
+Mesons	 data/source_txt/t3_physics_1_202.deft	 1328	 1334	 B-Term	 T3	 0	 Direct-Defines
 are	 data/source_txt/t3_physics_1_202.deft	 1335	 1338	 O	 -1	 -1	 0
 hadrons	 data/source_txt/t3_physics_1_202.deft	 1339	 1346	 B-Definition	 T4	 T3	 Direct-Defines
 that	 data/source_txt/t3_physics_1_202.deft	 1347	 1351	 I-Definition	 T4	 T3	 Direct-Defines
@@ -49,7 +49,7 @@ in	 data/source_txt/t3_physics_1_202.deft	 1439	 1441	 I-Definition	 T4	 T3	 Dir
 number	 data/source_txt/t3_physics_1_202.deft	 1442	 1448	 I-Definition	 T4	 T3	 Direct-Defines
 .	 data/source_txt/t3_physics_1_202.deft	 1448	 1449	 O	 -1	 -1	 0
 
-Baryons	 data/source_txt/t3_physics_1_202.deft	 1456	 1463	 B-Term	 T5	 0	 0
+Baryons	 data/source_txt/t3_physics_1_202.deft	 1456	 1463	 B-Term	 T5	 0	 Direct-Defines
 are	 data/source_txt/t3_physics_1_202.deft	 1464	 1467	 O	 -1	 -1	 0
 hadrons	 data/source_txt/t3_physics_1_202.deft	 1468	 1475	 B-Definition	 T6	 T5	 Direct-Defines
 that	 data/source_txt/t3_physics_1_202.deft	 1476	 1480	 I-Definition	 T6	 T5	 Direct-Defines
@@ -168,9 +168,9 @@ is	 data/source_txt/t3_physics_1_202.deft	 4634	 4636	 O	 -1	 -1	 0
 an	 data/source_txt/t3_physics_1_202.deft	 4637	 4639	 O	 -1	 -1	 0
 example	 data/source_txt/t3_physics_1_202.deft	 4640	 4647	 O	 -1	 -1	 0
 of	 data/source_txt/t3_physics_1_202.deft	 4648	 4650	 O	 -1	 -1	 0
-spontaneous	 data/source_txt/t3_physics_1_202.deft	 4651	 4662	 B-Term	 T12	 0	 0
-symmetry	 data/source_txt/t3_physics_1_202.deft	 4663	 4671	 I-Term	 T12	 0	 0
-breaking	 data/source_txt/t3_physics_1_202.deft	 4672	 4680	 I-Term	 T12	 0	 0
+spontaneous	 data/source_txt/t3_physics_1_202.deft	 4651	 4662	 B-Term	 T12	 0	 Direct-Defines
+symmetry	 data/source_txt/t3_physics_1_202.deft	 4663	 4671	 I-Term	 T12	 0	 Direct-Defines
+breaking	 data/source_txt/t3_physics_1_202.deft	 4672	 4680	 I-Term	 T12	 0	 Direct-Defines
 ,	 data/source_txt/t3_physics_1_202.deft	 4680	 4681	 O	 -1	 -1	 0
 in	 data/source_txt/t3_physics_1_202.deft	 4682	 4684	 O	 -1	 -1	 0
 which	 data/source_txt/t3_physics_1_202.deft	 4685	 4690	 O	 -1	 -1	 0
@@ -290,9 +290,9 @@ light	 data/source_txt/t3_physics_1_202.deft	 5681	 5686	 O	 -1	 -1	 0
 comes	 data/source_txt/t3_physics_1_202.deft	 5687	 5692	 O	 -1	 -1	 0
 from	 data/source_txt/t3_physics_1_202.deft	 5693	 5697	 O	 -1	 -1	 0
 inside	 data/source_txt/t3_physics_1_202.deft	 5698	 5704	 O	 -1	 -1	 0
-the	 data/source_txt/t3_physics_1_202.deft	 5705	 5708	 B-Term	 T27	 0	 0
-event	 data/source_txt/t3_physics_1_202.deft	 5709	 5714	 I-Term	 T27	 0	 0
-horizon	 data/source_txt/t3_physics_1_202.deft	 5715	 5722	 I-Term	 T27	 0	 0
+the	 data/source_txt/t3_physics_1_202.deft	 5705	 5708	 B-Term	 T27	 0	 Direct-Defines
+event	 data/source_txt/t3_physics_1_202.deft	 5709	 5714	 I-Term	 T27	 0	 Direct-Defines
+horizon	 data/source_txt/t3_physics_1_202.deft	 5715	 5722	 I-Term	 T27	 0	 Direct-Defines
 ,	 data/source_txt/t3_physics_1_202.deft	 5722	 5723	 O	 -1	 -1	 0
 which	 data/source_txt/t3_physics_1_202.deft	 5724	 5729	 O	 -1	 -1	 0
 is	 data/source_txt/t3_physics_1_202.deft	 5730	 5732	 O	 -1	 -1	 0

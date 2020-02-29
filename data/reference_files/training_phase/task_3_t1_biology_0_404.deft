@@ -5,9 +5,9 @@ In	 data/source_txt/t1_biology_0_404.deft	 910	 912	 O	 -1	 -1	 0
 some	 data/source_txt/t1_biology_0_404.deft	 913	 917	 O	 -1	 -1	 0
 soils	 data/source_txt/t1_biology_0_404.deft	 918	 923	 O	 -1	 -1	 0
 ,	 data/source_txt/t1_biology_0_404.deft	 923	 924	 O	 -1	 -1	 0
-the	 data/source_txt/t1_biology_0_404.deft	 925	 928	 B-Term	 T22	 0	 0
-B	 data/source_txt/t1_biology_0_404.deft	 929	 930	 I-Term	 T22	 0	 0
-horizon	 data/source_txt/t1_biology_0_404.deft	 931	 938	 I-Term	 T22	 0	 0
+the	 data/source_txt/t1_biology_0_404.deft	 925	 928	 B-Term	 T22	 0	 Direct-Defines
+B	 data/source_txt/t1_biology_0_404.deft	 929	 930	 I-Term	 T22	 0	 Direct-Defines
+horizon	 data/source_txt/t1_biology_0_404.deft	 931	 938	 I-Term	 T22	 0	 Direct-Defines
 contains	 data/source_txt/t1_biology_0_404.deft	 939	 947	 B-Definition	 T23	 T22	 Direct-Defines
 nodules	 data/source_txt/t1_biology_0_404.deft	 948	 955	 I-Definition	 T23	 T22	 Direct-Defines
 or	 data/source_txt/t1_biology_0_404.deft	 956	 958	 I-Definition	 T23	 T22	 Direct-Defines
@@ -18,9 +18,9 @@ calcium	 data/source_txt/t1_biology_0_404.deft	 970	 977	 I-Definition	 T23	 T22
 carbonate	 data/source_txt/t1_biology_0_404.deft	 978	 987	 I-Definition	 T23	 T22	 Direct-Defines
 .	 data/source_txt/t1_biology_0_404.deft	 987	 988	 O	 -1	 -1	 0
 
-The	 data/source_txt/t1_biology_0_404.deft	 997	 1000	 B-Term	 T20	 0	 0
-C	 data/source_txt/t1_biology_0_404.deft	 1001	 1002	 I-Term	 T20	 0	 0
-horizon	 data/source_txt/t1_biology_0_404.deft	 1003	 1010	 I-Term	 T20	 0	 0
+The	 data/source_txt/t1_biology_0_404.deft	 997	 1000	 B-Term	 T20	 0	 Direct-Defines
+C	 data/source_txt/t1_biology_0_404.deft	 1001	 1002	 I-Term	 T20	 0	 Direct-Defines
+horizon	 data/source_txt/t1_biology_0_404.deft	 1003	 1010	 I-Term	 T20	 0	 Direct-Defines
 ,	 data/source_txt/t1_biology_0_404.deft	 1010	 1011	 O	 -1	 -1	 0
 or	 data/source_txt/t1_biology_0_404.deft	 1012	 1014	 O	 -1	 -1	 0
 soil	 data/source_txt/t1_biology_0_404.deft	 1015	 1019	 B-Alias-Term	 T21	 T20	 AKA
@@ -149,17 +149,17 @@ digestion	 data/source_txt/t1_biology_0_404.deft	 12667	 12676	 O	 -1	 -1	 0
 1343	 data/source_txt/t1_biology_0_404.deft	 14535	 14539	 O	 -1	 -1	 0
 .	 data/source_txt/t1_biology_0_404.deft	 14539	 14540	 O	 -1	 -1	 0
 
-The	 data/source_txt/t1_biology_0_404.deft	 14549	 14552	 B-Definition	 T147	 T146	 Direct-Defines
-second	 data/source_txt/t1_biology_0_404.deft	 14553	 14559	 I-Definition	 T147	 T146	 Direct-Defines
-part	 data/source_txt/t1_biology_0_404.deft	 14560	 14564	 I-Definition	 T147	 T146	 Direct-Defines
-of	 data/source_txt/t1_biology_0_404.deft	 14565	 14567	 I-Definition	 T147	 T146	 Direct-Defines
-the	 data/source_txt/t1_biology_0_404.deft	 14568	 14571	 I-Definition	 T147	 T146	 Direct-Defines
-small	 data/source_txt/t1_biology_0_404.deft	 14572	 14577	 I-Definition	 T147	 T146	 Direct-Defines
-intestine	 data/source_txt/t1_biology_0_404.deft	 14578	 14587	 I-Definition	 T147	 T146	 Direct-Defines
+The	 data/source_txt/t1_biology_0_404.deft	 14549	 14552	 B-Definition	 T147	 0	 Supplements
+second	 data/source_txt/t1_biology_0_404.deft	 14553	 14559	 I-Definition	 T147	 0	 Supplements
+part	 data/source_txt/t1_biology_0_404.deft	 14560	 14564	 I-Definition	 T147	 0	 Supplements
+of	 data/source_txt/t1_biology_0_404.deft	 14565	 14567	 I-Definition	 T147	 0	 Supplements
+the	 data/source_txt/t1_biology_0_404.deft	 14568	 14571	 I-Definition	 T147	 0	 Supplements
+small	 data/source_txt/t1_biology_0_404.deft	 14572	 14577	 I-Definition	 T147	 0	 Supplements
+intestine	 data/source_txt/t1_biology_0_404.deft	 14578	 14587	 I-Definition	 T147	 0	 Supplements
 is	 data/source_txt/t1_biology_0_404.deft	 14588	 14590	 O	 -1	 -1	 0
 called	 data/source_txt/t1_biology_0_404.deft	 14591	 14597	 O	 -1	 -1	 0
-the	 data/source_txt/t1_biology_0_404.deft	 14598	 14601	 B-Term	 T146	 0	 0
-jejunum	 data/source_txt/t1_biology_0_404.deft	 14602	 14609	 I-Term	 T146	 0	 0
+the	 data/source_txt/t1_biology_0_404.deft	 14598	 14601	 B-Term	 T146	 0	 Direct-Defines
+jejunum	 data/source_txt/t1_biology_0_404.deft	 14602	 14609	 I-Term	 T146	 0	 Direct-Defines
 ,	 data/source_txt/t1_biology_0_404.deft	 14609	 14610	 O	 -1	 -1	 0
 shown	 data/source_txt/t1_biology_0_404.deft	 14611	 14616	 O	 -1	 -1	 0
 in	 data/source_txt/t1_biology_0_404.deft	 14617	 14619	 O	 -1	 -1	 0
