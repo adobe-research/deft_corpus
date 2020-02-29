@@ -1,0 +1,41 @@
+3042	data/source_txt/t3_physics_1_101.deft	11154	11158	O	-1
+.	data/source_txt/t3_physics_1_101.deft	11158	11159	O	-1
+
+Electric	data/source_txt/t3_physics_1_101.deft	11169	11177	B-Term	0
+generators	data/source_txt/t3_physics_1_101.deft	11178	11188	I-Term	0
+emf	data/source_txt/t3_physics_1_101.deft	11369	11372	B-Term	0
+by	data/source_txt/t3_physics_1_101.deft	11409	11411	B-Referential-Term	T63
+and	data/source_txt/t3_physics_1_101.deft	12724	12727	B-Alias-Term	T176
+now	data/source_txt/t3_physics_1_101.deft	13262	13265	B-Alias-Term	T178
+more	data/source_txt/t3_physics_1_101.deft	13656	13660	B-Term	0
+3045	data/source_txt/t3_physics_1_101.deft	13790	13794	B-Term	0
+do	data/source_txt/t3_physics_1_101.deft	13851	13853	B-Term	0
+name	data/source_txt/t3_physics_1_101.deft	13965	13969	B-Term	T69
+—	data/source_txt/t3_physics_1_101.deft	14204	14205	B-Term	0
+from	data/source_txt/t3_physics_1_101.deft	14296	14300	B-Alias-Term	T189
+voltage	data/source_txt/t3_physics_1_101.deft	15213	15220	B-Term	0
+used	data/source_txt/t3_physics_1_101.deft	15228	15232	B-Definition	T77
+example	data/source_txt/t3_physics_1_101.deft	16274	16281	B-Term	0
+many	data/source_txt/t3_physics_1_101.deft	16294	16298	B-Alias-Term	T83
+have	data/source_txt/t3_physics_1_101.deft	18347	18351	B-Term	0
+into	data/source_txt/t3_physics_1_101.deft	18431	18435	B-Term	0
+3048	data/source_txt/t3_physics_1_101.deft	20482	20486	B-Alias-Term	T102
+hazard	data/source_txt/t3_physics_1_101.deft	21913	21919	B-Alias-Term	T108
+there	data/source_txt/t3_physics_1_101.deft	23832	23837	B-Referential-Definition	T113
+quantity	data/source_txt/t3_physics_1_101.deft	24389	24397	B-Term	0
+given	data/source_txt/t3_physics_1_101.deft	24997	25002	B-Term	0
+The	data/source_txt/t3_physics_1_101.deft	25116	25119	B-Term	0
+
+.	data/source_txt/t3_physics_1_101.deft	26020	26021	B-Alias-Term	T126
+{	data/source_txt/t3_physics_1_101.deft	26184	26185	B-Term	0
+self	data/source_txt/t3_physics_1_101.deft	26348	26352	B-Term	0
+the	data/source_txt/t3_physics_1_101.deft	27766	27769	B-Referential-Definition	T143
+in	data/source_txt/t3_physics_1_101.deft	27774	27776	B-Term	0
+(	data/source_txt/t3_physics_1_101.deft	28386	28387	B-Term	0
+See	data/source_txt/t3_physics_1_101.deft	28397	28400	B-Alias-Term	T150
+he	data/source_txt/t3_physics_1_101.deft	29827	29829	B-Alias-Term	T206
+,	data/source_txt/t3_physics_1_101.deft	29851	29852	B-Alias-Term	T208
+
+
+not	data/source_txt/t3_physics_1_101.deft	30287	30290	B-Term	0
+represented	data/source_txt/t3_physics_1_101.deft	31507	31518	B-Term	0
