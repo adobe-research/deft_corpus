@@ -620,3 +620,65 @@ chemoorganotrophs	data/source_txt/t1_biology_0_202.deft	23557	23574	B-Term	T207
 .	data/source_txt/t1_biology_0_202.deft	23574	23575	O	-1
 
 
+890	data/source_txt/t1_biology_0_202.deft	35178	35181	O	-1
+.	data/source_txt/t1_biology_0_202.deft	35181	35182	O	-1
+
+A	data/source_txt/t1_biology_0_202.deft	35183	35184	O	-1
+microphyll	data/source_txt/t1_biology_0_202.deft	35185	35195	O	-1
+is	data/source_txt/t1_biology_0_202.deft	35196	35198	O	-1
+small	data/source_txt/t1_biology_0_202.deft	35199	35204	O	-1
+and	data/source_txt/t1_biology_0_202.deft	35205	35208	O	-1
+has	data/source_txt/t1_biology_0_202.deft	35209	35212	O	-1
+a	data/source_txt/t1_biology_0_202.deft	35213	35214	O	-1
+simple	data/source_txt/t1_biology_0_202.deft	35215	35221	O	-1
+vascular	data/source_txt/t1_biology_0_202.deft	35222	35230	O	-1
+system	data/source_txt/t1_biology_0_202.deft	35231	35237	O	-1
+.	data/source_txt/t1_biology_0_202.deft	35237	35238	O	-1
+
+A	data/source_txt/t1_biology_0_202.deft	35247	35248	B-Term	T330
+single	data/source_txt/t1_biology_0_202.deft	35249	35255	I-Term	T330
+unbranched	data/source_txt/t1_biology_0_202.deft	35256	35266	I-Term	T330
+vein	data/source_txt/t1_biology_0_202.deft	35267	35271	I-Term	T330
+—	data/source_txt/t1_biology_0_202.deft	35271	35272	O	-1
+a	data/source_txt/t1_biology_0_202.deft	35272	35273	B-Definition	T331
+bundle	data/source_txt/t1_biology_0_202.deft	35274	35280	I-Definition	T331
+of	data/source_txt/t1_biology_0_202.deft	35281	35283	I-Definition	T331
+vascular	data/source_txt/t1_biology_0_202.deft	35284	35292	I-Definition	T331
+tissue	data/source_txt/t1_biology_0_202.deft	35293	35299	I-Definition	T331
+made	data/source_txt/t1_biology_0_202.deft	35300	35304	I-Definition	T331
+of	data/source_txt/t1_biology_0_202.deft	35305	35307	I-Definition	T331
+xylem	data/source_txt/t1_biology_0_202.deft	35308	35313	I-Definition	T331
+and	data/source_txt/t1_biology_0_202.deft	35314	35317	I-Definition	T331
+phloem	data/source_txt/t1_biology_0_202.deft	35318	35324	I-Definition	T331
+—	data/source_txt/t1_biology_0_202.deft	35324	35325	I-Definition	T331
+runs	data/source_txt/t1_biology_0_202.deft	35325	35329	I-Definition	T331
+through	data/source_txt/t1_biology_0_202.deft	35330	35337	I-Definition	T331
+the	data/source_txt/t1_biology_0_202.deft	35338	35341	I-Definition	T331
+center	data/source_txt/t1_biology_0_202.deft	35342	35348	I-Definition	T331
+of	data/source_txt/t1_biology_0_202.deft	35349	35351	I-Definition	T331
+the	data/source_txt/t1_biology_0_202.deft	35352	35355	I-Definition	T331
+leaf	data/source_txt/t1_biology_0_202.deft	35356	35360	I-Definition	T331
+.	data/source_txt/t1_biology_0_202.deft	35360	35361	O	-1
+
+Microphylls	data/source_txt/t1_biology_0_202.deft	35368	35379	O	-1
+may	data/source_txt/t1_biology_0_202.deft	35380	35383	O	-1
+have	data/source_txt/t1_biology_0_202.deft	35384	35388	O	-1
+originated	data/source_txt/t1_biology_0_202.deft	35389	35399	O	-1
+from	data/source_txt/t1_biology_0_202.deft	35400	35404	O	-1
+the	data/source_txt/t1_biology_0_202.deft	35405	35408	O	-1
+flattening	data/source_txt/t1_biology_0_202.deft	35409	35419	O	-1
+of	data/source_txt/t1_biology_0_202.deft	35420	35422	O	-1
+lateral	data/source_txt/t1_biology_0_202.deft	35423	35430	O	-1
+branches	data/source_txt/t1_biology_0_202.deft	35431	35439	O	-1
+,	data/source_txt/t1_biology_0_202.deft	35439	35440	O	-1
+or	data/source_txt/t1_biology_0_202.deft	35441	35443	O	-1
+from	data/source_txt/t1_biology_0_202.deft	35444	35448	O	-1
+sporangia	data/source_txt/t1_biology_0_202.deft	35449	35458	O	-1
+that	data/source_txt/t1_biology_0_202.deft	35459	35463	O	-1
+lost	data/source_txt/t1_biology_0_202.deft	35464	35468	O	-1
+their	data/source_txt/t1_biology_0_202.deft	35469	35474	O	-1
+reproductive	data/source_txt/t1_biology_0_202.deft	35475	35487	O	-1
+capabilities	data/source_txt/t1_biology_0_202.deft	35488	35500	O	-1
+.	data/source_txt/t1_biology_0_202.deft	35500	35501	O	-1
+
+
