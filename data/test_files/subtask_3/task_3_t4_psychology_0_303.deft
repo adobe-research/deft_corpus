@@ -1,0 +1,57 @@
+4249	data/source_txt/t4_psychology_0_303.deft	5192	5196	O	-1
+.	data/source_txt/t4_psychology_0_303.deft	5196	5197	O	-1
+
+Bipolar	data/source_txt/t4_psychology_0_303.deft	5198	5205	O	-1
+and	data/source_txt/t4_psychology_0_303.deft	5206	5209	O	-1
+related	data/source_txt/t4_psychology_0_303.deft	5210	5217	O	-1
+disorders	data/source_txt/t4_psychology_0_303.deft	5218	5227	O	-1
+are	data/source_txt/t4_psychology_0_303.deft	5228	5231	O	-1
+a	data/source_txt/t4_psychology_0_303.deft	5232	5233	O	-1
+group	data/source_txt/t4_psychology_0_303.deft	5234	5239	O	-1
+of	data/source_txt/t4_psychology_0_303.deft	5240	5242	O	-1
+disorders	data/source_txt/t4_psychology_0_303.deft	5243	5252	O	-1
+in	data/source_txt/t4_psychology_0_303.deft	5253	5255	O	-1
+which	data/source_txt/t4_psychology_0_303.deft	5256	5261	O	-1
+mania	data/source_txt/t4_psychology_0_303.deft	5262	5267	O	-1
+is	data/source_txt/t4_psychology_0_303.deft	5268	5270	O	-1
+the	data/source_txt/t4_psychology_0_303.deft	5271	5274	O	-1
+defining	data/source_txt/t4_psychology_0_303.deft	5275	5283	O	-1
+feature	data/source_txt/t4_psychology_0_303.deft	5284	5291	O	-1
+.	data/source_txt/t4_psychology_0_303.deft	5291	5292	O	-1
+
+Mania	data/source_txt/t4_psychology_0_303.deft	5301	5306	B-Term	T30
+is	data/source_txt/t4_psychology_0_303.deft	5307	5309	O	-1
+a	data/source_txt/t4_psychology_0_303.deft	5310	5311	B-Definition	T31
+state	data/source_txt/t4_psychology_0_303.deft	5312	5317	I-Definition	T31
+of	data/source_txt/t4_psychology_0_303.deft	5318	5320	I-Definition	T31
+extreme	data/source_txt/t4_psychology_0_303.deft	5321	5328	I-Definition	T31
+elation	data/source_txt/t4_psychology_0_303.deft	5329	5336	I-Definition	T31
+and	data/source_txt/t4_psychology_0_303.deft	5337	5340	I-Definition	T31
+agitation	data/source_txt/t4_psychology_0_303.deft	5341	5350	I-Definition	T31
+.	data/source_txt/t4_psychology_0_303.deft	5350	5351	O	-1
+
+When	data/source_txt/t4_psychology_0_303.deft	5358	5362	O	-1
+people	data/source_txt/t4_psychology_0_303.deft	5363	5369	O	-1
+experience	data/source_txt/t4_psychology_0_303.deft	5370	5380	O	-1
+mania	data/source_txt/t4_psychology_0_303.deft	5381	5386	O	-1
+,	data/source_txt/t4_psychology_0_303.deft	5386	5387	O	-1
+they	data/source_txt/t4_psychology_0_303.deft	5388	5392	O	-1
+may	data/source_txt/t4_psychology_0_303.deft	5393	5396	O	-1
+become	data/source_txt/t4_psychology_0_303.deft	5397	5403	O	-1
+extremely	data/source_txt/t4_psychology_0_303.deft	5404	5413	O	-1
+talkative	data/source_txt/t4_psychology_0_303.deft	5414	5423	O	-1
+,	data/source_txt/t4_psychology_0_303.deft	5423	5424	O	-1
+behave	data/source_txt/t4_psychology_0_303.deft	5425	5431	O	-1
+recklessly	data/source_txt/t4_psychology_0_303.deft	5432	5442	O	-1
+,	data/source_txt/t4_psychology_0_303.deft	5442	5443	O	-1
+or	data/source_txt/t4_psychology_0_303.deft	5444	5446	O	-1
+attempt	data/source_txt/t4_psychology_0_303.deft	5447	5454	O	-1
+to	data/source_txt/t4_psychology_0_303.deft	5455	5457	O	-1
+take	data/source_txt/t4_psychology_0_303.deft	5458	5462	O	-1
+on	data/source_txt/t4_psychology_0_303.deft	5463	5465	O	-1
+many	data/source_txt/t4_psychology_0_303.deft	5466	5470	O	-1
+tasks	data/source_txt/t4_psychology_0_303.deft	5471	5476	O	-1
+simultaneously	data/source_txt/t4_psychology_0_303.deft	5477	5491	O	-1
+.	data/source_txt/t4_psychology_0_303.deft	5491	5492	O	-1
+
+

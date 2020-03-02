@@ -1,0 +1,106 @@
+5310	data/source_txt/t6_sociology_0_0.deft	1321	1325	O	-1
+.	data/source_txt/t6_sociology_0_0.deft	1325	1326	O	-1
+
+Interactionist	data/source_txt/t6_sociology_0_0.deft	1336	1350	O	-1
+sociologist	data/source_txt/t6_sociology_0_0.deft	1351	1362	O	-1
+Clark	data/source_txt/t6_sociology_0_0.deft	1363	1368	O	-1
+McPhail	data/source_txt/t6_sociology_0_0.deft	1369	1376	O	-1
+(	data/source_txt/t6_sociology_0_0.deft	1377	1378	O	-1
+1991	data/source_txt/t6_sociology_0_0.deft	1378	1382	O	-1
+)	data/source_txt/t6_sociology_0_0.deft	1382	1383	O	-1
+developed	data/source_txt/t6_sociology_0_0.deft	1384	1393	O	-1
+assembling	data/source_txt/t6_sociology_0_0.deft	1394	1404	B-Term	T14
+perspective	data/source_txt/t6_sociology_0_0.deft	1405	1416	I-Term	T14
+,	data/source_txt/t6_sociology_0_0.deft	1416	1417	O	-1
+another	data/source_txt/t6_sociology_0_0.deft	1418	1425	O	-1
+system	data/source_txt/t6_sociology_0_0.deft	1426	1432	B-Definition	T15
+for	data/source_txt/t6_sociology_0_0.deft	1433	1436	I-Definition	T15
+understanding	data/source_txt/t6_sociology_0_0.deft	1437	1450	I-Definition	T15
+collective	data/source_txt/t6_sociology_0_0.deft	1451	1461	I-Definition	T15
+behavior	data/source_txt/t6_sociology_0_0.deft	1462	1470	I-Definition	T15
+that	data/source_txt/t6_sociology_0_0.deft	1471	1475	I-Definition	T15
+credited	data/source_txt/t6_sociology_0_0.deft	1476	1484	I-Definition	T15
+individuals	data/source_txt/t6_sociology_0_0.deft	1485	1496	I-Definition	T15
+in	data/source_txt/t6_sociology_0_0.deft	1497	1499	I-Definition	T15
+crowds	data/source_txt/t6_sociology_0_0.deft	1500	1506	I-Definition	T15
+as	data/source_txt/t6_sociology_0_0.deft	1507	1509	I-Definition	T15
+rational	data/source_txt/t6_sociology_0_0.deft	1510	1518	I-Definition	T15
+beings	data/source_txt/t6_sociology_0_0.deft	1519	1525	I-Definition	T15
+.	data/source_txt/t6_sociology_0_0.deft	1525	1526	O	-1
+
+Unlike	data/source_txt/t6_sociology_0_0.deft	1533	1539	O	-1
+previous	data/source_txt/t6_sociology_0_0.deft	1540	1548	O	-1
+theories	data/source_txt/t6_sociology_0_0.deft	1549	1557	O	-1
+,	data/source_txt/t6_sociology_0_0.deft	1557	1558	O	-1
+this	data/source_txt/t6_sociology_0_0.deft	1559	1563	B-Secondary-Definition	T16
+theory	data/source_txt/t6_sociology_0_0.deft	1564	1570	I-Secondary-Definition	T16
+refocuses	data/source_txt/t6_sociology_0_0.deft	1571	1580	I-Secondary-Definition	T16
+attention	data/source_txt/t6_sociology_0_0.deft	1581	1590	I-Secondary-Definition	T16
+from	data/source_txt/t6_sociology_0_0.deft	1591	1595	I-Secondary-Definition	T16
+collective	data/source_txt/t6_sociology_0_0.deft	1596	1606	I-Secondary-Definition	T16
+behavior	data/source_txt/t6_sociology_0_0.deft	1607	1615	I-Secondary-Definition	T16
+to	data/source_txt/t6_sociology_0_0.deft	1616	1618	I-Secondary-Definition	T16
+collective	data/source_txt/t6_sociology_0_0.deft	1619	1629	I-Secondary-Definition	T16
+action	data/source_txt/t6_sociology_0_0.deft	1630	1636	I-Secondary-Definition	T16
+.	data/source_txt/t6_sociology_0_0.deft	1636	1637	O	-1
+
+
+5316	data/source_txt/t6_sociology_0_0.deft	2114	2118	O	-1
+.	data/source_txt/t6_sociology_0_0.deft	2118	2119	O	-1
+
+The	data/source_txt/t6_sociology_0_0.deft	2120	2123	O	-1
+latter	data/source_txt/t6_sociology_0_0.deft	2124	2130	O	-1
+is	data/source_txt/t6_sociology_0_0.deft	2131	2133	O	-1
+still	data/source_txt/t6_sociology_0_0.deft	2134	2139	O	-1
+in	data/source_txt/t6_sociology_0_0.deft	2140	2142	O	-1
+existence	data/source_txt/t6_sociology_0_0.deft	2143	2152	O	-1
+despite	data/source_txt/t6_sociology_0_0.deft	2153	2160	O	-1
+government	data/source_txt/t6_sociology_0_0.deft	2161	2171	O	-1
+involvement	data/source_txt/t6_sociology_0_0.deft	2172	2183	O	-1
+that	data/source_txt/t6_sociology_0_0.deft	2184	2188	O	-1
+led	data/source_txt/t6_sociology_0_0.deft	2189	2192	O	-1
+to	data/source_txt/t6_sociology_0_0.deft	2193	2195	O	-1
+the	data/source_txt/t6_sociology_0_0.deft	2196	2199	O	-1
+deaths	data/source_txt/t6_sociology_0_0.deft	2200	2206	O	-1
+of	data/source_txt/t6_sociology_0_0.deft	2207	2209	O	-1
+numerous	data/source_txt/t6_sociology_0_0.deft	2210	2218	O	-1
+Branch	data/source_txt/t6_sociology_0_0.deft	2219	2225	O	-1
+Davidian	data/source_txt/t6_sociology_0_0.deft	2226	2234	O	-1
+members	data/source_txt/t6_sociology_0_0.deft	2235	2242	O	-1
+in	data/source_txt/t6_sociology_0_0.deft	2243	2245	O	-1
+1993	data/source_txt/t6_sociology_0_0.deft	2246	2250	O	-1
+.	data/source_txt/t6_sociology_0_0.deft	2250	2251	O	-1
+
+Alternative	data/source_txt/t6_sociology_0_0.deft	2260	2271	B-Term	T20
+movements	data/source_txt/t6_sociology_0_0.deft	2272	2281	I-Term	T20
+are	data/source_txt/t6_sociology_0_0.deft	2282	2285	O	-1
+focused	data/source_txt/t6_sociology_0_0.deft	2286	2293	B-Definition	T21
+on	data/source_txt/t6_sociology_0_0.deft	2294	2296	I-Definition	T21
+self	data/source_txt/t6_sociology_0_0.deft	2297	2301	I-Definition	T21
+-	data/source_txt/t6_sociology_0_0.deft	2301	2302	I-Definition	T21
+improvement	data/source_txt/t6_sociology_0_0.deft	2302	2313	I-Definition	T21
+and	data/source_txt/t6_sociology_0_0.deft	2314	2317	I-Definition	T21
+limited	data/source_txt/t6_sociology_0_0.deft	2318	2325	I-Definition	T21
+,	data/source_txt/t6_sociology_0_0.deft	2325	2326	I-Definition	T21
+specific	data/source_txt/t6_sociology_0_0.deft	2327	2335	I-Definition	T21
+changes	data/source_txt/t6_sociology_0_0.deft	2336	2343	I-Definition	T21
+to	data/source_txt/t6_sociology_0_0.deft	2344	2346	I-Definition	T21
+individual	data/source_txt/t6_sociology_0_0.deft	2347	2357	I-Definition	T21
+beliefs	data/source_txt/t6_sociology_0_0.deft	2358	2365	I-Definition	T21
+and	data/source_txt/t6_sociology_0_0.deft	2366	2369	I-Definition	T21
+behavior	data/source_txt/t6_sociology_0_0.deft	2370	2378	I-Definition	T21
+.	data/source_txt/t6_sociology_0_0.deft	2378	2379	O	-1
+
+These	data/source_txt/t6_sociology_0_0.deft	2386	2391	O	-1
+include	data/source_txt/t6_sociology_0_0.deft	2392	2399	O	-1
+trends	data/source_txt/t6_sociology_0_0.deft	2400	2406	O	-1
+like	data/source_txt/t6_sociology_0_0.deft	2407	2411	O	-1
+transcendental	data/source_txt/t6_sociology_0_0.deft	2412	2426	O	-1
+meditation	data/source_txt/t6_sociology_0_0.deft	2427	2437	O	-1
+or	data/source_txt/t6_sociology_0_0.deft	2438	2440	O	-1
+a	data/source_txt/t6_sociology_0_0.deft	2441	2442	O	-1
+macrobiotic	data/source_txt/t6_sociology_0_0.deft	2443	2454	O	-1
+diet	data/source_txt/t6_sociology_0_0.deft	2455	2459	O	-1
+.	data/source_txt/t6_sociology_0_0.deft	2459	2460	O	-1
+
+

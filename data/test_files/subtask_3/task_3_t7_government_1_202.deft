@@ -1,0 +1,186 @@
+6455	data/source_txt/t7_government_1_202.deft	7384	7388	O	-1
+.	data/source_txt/t7_government_1_202.deft	7388	7389	O	-1
+
+The	data/source_txt/t7_government_1_202.deft	7390	7393	O	-1
+newspaper	data/source_txt/t7_government_1_202.deft	7394	7403	O	-1
+’s	data/source_txt/t7_government_1_202.deft	7403	7405	O	-1
+effect	data/source_txt/t7_government_1_202.deft	7406	7412	O	-1
+was	data/source_txt/t7_government_1_202.deft	7413	7416	O	-1
+thus	data/source_txt/t7_government_1_202.deft	7417	7421	O	-1
+diminished	data/source_txt/t7_government_1_202.deft	7422	7432	O	-1
+through	data/source_txt/t7_government_1_202.deft	7433	7440	O	-1
+conversation	data/source_txt/t7_government_1_202.deft	7441	7453	O	-1
+.	data/source_txt/t7_government_1_202.deft	7453	7454	O	-1
+
+This	data/source_txt/t7_government_1_202.deft	7463	7467	O	-1
+discovery	data/source_txt/t7_government_1_202.deft	7468	7477	O	-1
+led	data/source_txt/t7_government_1_202.deft	7478	7481	O	-1
+to	data/source_txt/t7_government_1_202.deft	7482	7484	O	-1
+the	data/source_txt/t7_government_1_202.deft	7485	7488	B-Term	T9
+minimal	data/source_txt/t7_government_1_202.deft	7489	7496	I-Term	T9
+effects	data/source_txt/t7_government_1_202.deft	7497	7504	I-Term	T9
+theory	data/source_txt/t7_government_1_202.deft	7505	7511	I-Term	T9
+,	data/source_txt/t7_government_1_202.deft	7511	7512	O	-1
+which	data/source_txt/t7_government_1_202.deft	7513	7518	O	-1
+argues	data/source_txt/t7_government_1_202.deft	7519	7525	B-Definition	T10
+the	data/source_txt/t7_government_1_202.deft	7526	7529	I-Definition	T10
+media	data/source_txt/t7_government_1_202.deft	7530	7535	I-Definition	T10
+have	data/source_txt/t7_government_1_202.deft	7536	7540	I-Definition	T10
+little	data/source_txt/t7_government_1_202.deft	7541	7547	I-Definition	T10
+effect	data/source_txt/t7_government_1_202.deft	7548	7554	I-Definition	T10
+on	data/source_txt/t7_government_1_202.deft	7555	7557	I-Definition	T10
+citizens	data/source_txt/t7_government_1_202.deft	7558	7566	I-Definition	T10
+and	data/source_txt/t7_government_1_202.deft	7567	7570	I-Definition	T10
+voters	data/source_txt/t7_government_1_202.deft	7571	7577	I-Definition	T10
+.	data/source_txt/t7_government_1_202.deft	7577	7578	O	-1
+
+Bernard	data/source_txt/t7_government_1_202.deft	7578	7585	O	-1
+Berelson	data/source_txt/t7_government_1_202.deft	7586	7594	O	-1
+,	data/source_txt/t7_government_1_202.deft	7594	7595	O	-1
+Paul	data/source_txt/t7_government_1_202.deft	7596	7600	O	-1
+Lazarsfeld	data/source_txt/t7_government_1_202.deft	7601	7611	O	-1
+,	data/source_txt/t7_government_1_202.deft	7611	7612	O	-1
+and	data/source_txt/t7_government_1_202.deft	7613	7616	O	-1
+William	data/source_txt/t7_government_1_202.deft	7617	7624	O	-1
+McPhee	data/source_txt/t7_government_1_202.deft	7625	7631	O	-1
+.	data/source_txt/t7_government_1_202.deft	7631	7632	O	-1
+
+1954	data/source_txt/t7_government_1_202.deft	7639	7643	O	-1
+.	data/source_txt/t7_government_1_202.deft	7643	7644	O	-1
+
+
+6515	data/source_txt/t7_government_1_202.deft	17240	17244	O	-1
+.	data/source_txt/t7_government_1_202.deft	17244	17245	O	-1
+
+2007	data/source_txt/t7_government_1_202.deft	17246	17250	O	-1
+.	data/source_txt/t7_government_1_202.deft	17250	17251	O	-1
+
+Encyclopedia	data/source_txt/t7_government_1_202.deft	17260	17272	O	-1
+of	data/source_txt/t7_government_1_202.deft	17273	17275	O	-1
+American	data/source_txt/t7_government_1_202.deft	17276	17284	O	-1
+Political	data/source_txt/t7_government_1_202.deft	17285	17294	O	-1
+Parties	data/source_txt/t7_government_1_202.deft	17295	17302	O	-1
+and	data/source_txt/t7_government_1_202.deft	17303	17306	O	-1
+Elections	data/source_txt/t7_government_1_202.deft	17307	17316	O	-1
+.	data/source_txt/t7_government_1_202.deft	17316	17317	O	-1
+
+New	data/source_txt/t7_government_1_202.deft	17318	17321	O	-1
+York	data/source_txt/t7_government_1_202.deft	17322	17326	O	-1
+:	data/source_txt/t7_government_1_202.deft	17326	17327	O	-1
+Checkmark	data/source_txt/t7_government_1_202.deft	17328	17337	O	-1
+Books	data/source_txt/t7_government_1_202.deft	17338	17343	O	-1
+,	data/source_txt/t7_government_1_202.deft	17343	17344	O	-1
+151	data/source_txt/t7_government_1_202.deft	17345	17348	O	-1
+.	data/source_txt/t7_government_1_202.deft	17348	17349	O	-1
+
+Anti	data/source_txt/t7_government_1_202.deft	17350	17354	O	-1
+-	data/source_txt/t7_government_1_202.deft	17354	17355	O	-1
+Federalists	data/source_txt/t7_government_1_202.deft	17355	17366	O	-1
+preferred	data/source_txt/t7_government_1_202.deft	17367	17376	O	-1
+a	data/source_txt/t7_government_1_202.deft	17377	17378	O	-1
+more	data/source_txt/t7_government_1_202.deft	17379	17383	O	-1
+confederate	data/source_txt/t7_government_1_202.deft	17384	17395	O	-1
+system	data/source_txt/t7_government_1_202.deft	17396	17402	O	-1
+built	data/source_txt/t7_government_1_202.deft	17403	17408	O	-1
+on	data/source_txt/t7_government_1_202.deft	17409	17411	O	-1
+state	data/source_txt/t7_government_1_202.deft	17412	17417	O	-1
+equality	data/source_txt/t7_government_1_202.deft	17418	17426	O	-1
+and	data/source_txt/t7_government_1_202.deft	17427	17430	O	-1
+autonomy	data/source_txt/t7_government_1_202.deft	17431	17439	O	-1
+.	data/source_txt/t7_government_1_202.deft	17439	17440	O	-1
+
+Saul	data/source_txt/t7_government_1_202.deft	17440	17444	O	-1
+Cornell	data/source_txt/t7_government_1_202.deft	17445	17452	O	-1
+.	data/source_txt/t7_government_1_202.deft	17452	17453	O	-1
+2016	data/source_txt/t7_government_1_202.deft	17460	17464	O	-1
+.	data/source_txt/t7_government_1_202.deft	17464	17465	O	-1
+
+
+6695	data/source_txt/t7_government_1_202.deft	46592	46596	O	-1
+.	data/source_txt/t7_government_1_202.deft	46596	46597	O	-1
+
+“	data/source_txt/t7_government_1_202.deft	46598	46599	O	-1
+From	data/source_txt/t7_government_1_202.deft	46599	46603	O	-1
+Abe	data/source_txt/t7_government_1_202.deft	46604	46607	O	-1
+Fortas	data/source_txt/t7_government_1_202.deft	46608	46614	O	-1
+to	data/source_txt/t7_government_1_202.deft	46615	46617	O	-1
+Zoe	data/source_txt/t7_government_1_202.deft	46618	46621	O	-1
+Baird	data/source_txt/t7_government_1_202.deft	46622	46627	O	-1
+.	data/source_txt/t7_government_1_202.deft	46627	46628	O	-1
+”	data/source_txt/t7_government_1_202.deft	46628	46629	O	-1
+American	data/source_txt/t7_government_1_202.deft	46630	46638	O	-1
+Political	data/source_txt/t7_government_1_202.deft	46639	46648	O	-1
+Science	data/source_txt/t7_government_1_202.deft	46649	46656	O	-1
+Review	data/source_txt/t7_government_1_202.deft	46657	46663	O	-1
+92	data/source_txt/t7_government_1_202.deft	46664	46666	O	-1
+,	data/source_txt/t7_government_1_202.deft	46666	46667	O	-1
+No.	data/source_txt/t7_government_1_202.deft	46668	46671	O	-1
+4	data/source_txt/t7_government_1_202.deft	46680	46681	O	-1
+:	data/source_txt/t7_government_1_202.deft	46681	46682	O	-1
+871	data/source_txt/t7_government_1_202.deft	46683	46686	O	-1
+–	data/source_txt/t7_government_1_202.deft	46686	46687	O	-1
+882	data/source_txt/t7_government_1_202.deft	46687	46690	O	-1
+.	data/source_txt/t7_government_1_202.deft	46690	46691	O	-1
+
+Prominent	data/source_txt/t7_government_1_202.deft	46692	46701	O	-1
+examples	data/source_txt/t7_government_1_202.deft	46702	46710	O	-1
+of	data/source_txt/t7_government_1_202.deft	46711	46713	O	-1
+such	data/source_txt/t7_government_1_202.deft	46714	46718	O	-1
+withdrawals	data/source_txt/t7_government_1_202.deft	46719	46730	O	-1
+were	data/source_txt/t7_government_1_202.deft	46731	46735	O	-1
+Senator	data/source_txt/t7_government_1_202.deft	46736	46743	O	-1
+John	data/source_txt/t7_government_1_202.deft	46744	46748	O	-1
+Tower	data/source_txt/t7_government_1_202.deft	46749	46754	O	-1
+for	data/source_txt/t7_government_1_202.deft	46755	46758	O	-1
+defense	data/source_txt/t7_government_1_202.deft	46759	46766	O	-1
+secretary	data/source_txt/t7_government_1_202.deft	46767	46776	O	-1
+(	data/source_txt/t7_government_1_202.deft	46777	46778	O	-1
+George	data/source_txt/t7_government_1_202.deft	46778	46784	O	-1
+H.	data/source_txt/t7_government_1_202.deft	46785	46787	O	-1
+W.	data/source_txt/t7_government_1_202.deft	46788	46790	O	-1
+Bush	data/source_txt/t7_government_1_202.deft	46791	46795	O	-1
+)	data/source_txt/t7_government_1_202.deft	46795	46796	O	-1
+and	data/source_txt/t7_government_1_202.deft	46797	46800	O	-1
+Zoe	data/source_txt/t7_government_1_202.deft	46801	46804	O	-1
+Baird	data/source_txt/t7_government_1_202.deft	46805	46810	O	-1
+for	data/source_txt/t7_government_1_202.deft	46811	46814	O	-1
+attorney	data/source_txt/t7_government_1_202.deft	46815	46823	O	-1
+general	data/source_txt/t7_government_1_202.deft	46824	46831	O	-1
+(	data/source_txt/t7_government_1_202.deft	46832	46833	O	-1
+Bill	data/source_txt/t7_government_1_202.deft	46833	46837	O	-1
+Clinton	data/source_txt/t7_government_1_202.deft	46838	46845	O	-1
+)	data/source_txt/t7_government_1_202.deft	46845	46846	O	-1
+:	data/source_txt/t7_government_1_202.deft	46846	46847	O	-1
+Senator	data/source_txt/t7_government_1_202.deft	46848	46855	O	-1
+Tower	data/source_txt/t7_government_1_202.deft	46856	46861	O	-1
+’s	data/source_txt/t7_government_1_202.deft	46861	46863	O	-1
+indiscretions	data/source_txt/t7_government_1_202.deft	46864	46877	O	-1
+involving	data/source_txt/t7_government_1_202.deft	46878	46887	O	-1
+alcohol	data/source_txt/t7_government_1_202.deft	46888	46895	O	-1
+and	data/source_txt/t7_government_1_202.deft	46896	46899	O	-1
+womanizing	data/source_txt/t7_government_1_202.deft	46900	46910	O	-1
+led	data/source_txt/t7_government_1_202.deft	46911	46914	O	-1
+to	data/source_txt/t7_government_1_202.deft	46915	46917	O	-1
+concerns	data/source_txt/t7_government_1_202.deft	46918	46926	O	-1
+about	data/source_txt/t7_government_1_202.deft	46927	46932	O	-1
+his	data/source_txt/t7_government_1_202.deft	46933	46936	O	-1
+fitness	data/source_txt/t7_government_1_202.deft	46937	46944	O	-1
+to	data/source_txt/t7_government_1_202.deft	46945	46947	O	-1
+head	data/source_txt/t7_government_1_202.deft	46948	46952	O	-1
+the	data/source_txt/t7_government_1_202.deft	46953	46956	O	-1
+military	data/source_txt/t7_government_1_202.deft	46957	46965	O	-1
+and	data/source_txt/t7_government_1_202.deft	46966	46969	O	-1
+his	data/source_txt/t7_government_1_202.deft	46970	46973	O	-1
+rejection	data/source_txt/t7_government_1_202.deft	46974	46983	O	-1
+by	data/source_txt/t7_government_1_202.deft	46984	46986	O	-1
+the	data/source_txt/t7_government_1_202.deft	46987	46990	O	-1
+Senate	data/source_txt/t7_government_1_202.deft	46991	46997	O	-1
+,	data/source_txt/t7_government_1_202.deft	46997	46998	O	-1
+Michael	data/source_txt/t7_government_1_202.deft	46998	47005	O	-1
+Oreskes	data/source_txt/t7_government_1_202.deft	47006	47013	O	-1
+.	data/source_txt/t7_government_1_202.deft	47013	47014	O	-1
+
+1989	data/source_txt/t7_government_1_202.deft	47021	47025	O	-1
+.	data/source_txt/t7_government_1_202.deft	47025	47026	O	-1
+
+
