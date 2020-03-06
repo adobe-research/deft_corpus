@@ -122,17 +122,16 @@ def validate_tokens(gold_rows, pred_rows):
             raise ValueError("Token mismatch row {}: Pred {} Gold {}".format(row_index, pred_token, gold_token))
 
 
-def validate_pred_relations(gold_rows, pred_rows):
+def validate_pred_relations(pred_rows, known_relations):
     """Check that pred file doesn't have any unknown relations
       Inputs:
         gold_rows: list of lists of strings
         pred_rows: list of lists of strings
     """
     unknown_relations = list()  # [(row, relation)]
-    gold_relations = set([get_relation(row) for row in gold_rows])
     for row_index in range(len(pred_rows)):
         pred_relation = get_relation(pred_rows[row_index])
-        if pred_relation not in gold_relations:
+        if pred_relation.strip() != '0' and pred_relation not in known_relations:
             unknown_relations.append((row_index, pred_relation))
 
     if unknown_relations:
@@ -157,7 +156,7 @@ def validate_data(gold_rows, pred_rows, eval_relations):
         pred_rows: list of lists of strings
     """
     gold_rows = validate_ref_relations(eval_relations, gold_rows)
-    validate_pred_relations(gold_rows, pred_rows)
+    validate_pred_relations(pred_rows, eval_relations)
     validate_length(gold_rows, pred_rows)
     validate_columns(gold_rows, pred_rows)
     validate_tokens(gold_rows, pred_rows)
