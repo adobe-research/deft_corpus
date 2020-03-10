@@ -15,6 +15,15 @@ We are currently releasing annotated data using a CoNLL 2003-like format with th
 
 Character indices are derived from the brat standoff format. Tags follow a BIO format with the tag schema outlined in the paper.
 
+# DeftEval Results
+Results for SemEval 2020 Task 6 - DeftEval are included below:
+
+![Subtask 1 Results](/results/subtask_1_leaderboard.png)
+
+![Subtask 2 Results](/results/subtask_2_leaderboard.png)
+
+We will continue to update the official leaderboard as the final evaluation period closes.
+
 # Licensing Information
 
 The entire dataset of textbook sentences with annotations is available for use under the [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode) license. Contact the authors for information on commercial use.
