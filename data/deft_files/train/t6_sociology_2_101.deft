@@ -793,6 +793,14 @@ social	 data/source_txt/t6_sociology_2_101.deft	 5139	 5145	 I-Definition	 T31	 
 classes	 data/source_txt/t6_sociology_2_101.deft	 5146	 5153	 I-Definition	 T31	 0	 0
 .	 data/source_txt/t6_sociology_2_101.deft	 5153	 5154	 O	 -1	 -1	 0
 
+This	 data/source_txt/t6_sociology_2_101.deft	 5163	 5167	 B-Referential-Definition	 T32	 T31	 Refers-To
+is	 data/source_txt/t6_sociology_2_101.deft	 5168	 5170	 O	 -1	 -1	 0
+known	 data/source_txt/t6_sociology_2_101.deft	 5171	 5176	 O	 -1	 -1	 0
+as	 data/source_txt/t6_sociology_2_101.deft	 5177	 5179	 O	 -1	 -1	 0
+intergenerational	 data/source_txt/t6_sociology_2_101.deft	 5180	 5197	 B-Term	 T30	 0	 0
+mobility	 data/source_txt/t6_sociology_2_101.deft	 5198	 5206	 I-Term	 T30	 0	 0
+.	 data/source_txt/t6_sociology_2_101.deft	 5206	 5207	 O	 -1	 -1	 0
+
 This	 data/source_txt/t6_sociology_2_101.deft	 5163	 5167	 B-Referential-Definition	 T32	 T30	 Indirect-Defines
 is	 data/source_txt/t6_sociology_2_101.deft	 5168	 5170	 O	 -1	 -1	 0
 known	 data/source_txt/t6_sociology_2_101.deft	 5171	 5176	 O	 -1	 -1	 0
@@ -2304,6 +2312,21 @@ new	 data/source_txt/t6_sociology_2_101.deft	 13438	 13441	 O	 -1	 -1	 0
 culture	 data/source_txt/t6_sociology_2_101.deft	 13442	 13449	 O	 -1	 -1	 0
 entirely	 data/source_txt/t6_sociology_2_101.deft	 13450	 13458	 O	 -1	 -1	 0
 .	 data/source_txt/t6_sociology_2_101.deft	 13458	 13459	 O	 -1	 -1	 0
+
+Amalgamation	 data/source_txt/t6_sociology_2_101.deft	 13459	 13471	 B-Term	 T154	 0	 0
+,	 data/source_txt/t6_sociology_2_101.deft	 13471	 13472	 O	 -1	 -1	 0
+also	 data/source_txt/t6_sociology_2_101.deft	 13473	 13477	 O	 -1	 -1	 0
+known	 data/source_txt/t6_sociology_2_101.deft	 13478	 13483	 O	 -1	 -1	 0
+as	 data/source_txt/t6_sociology_2_101.deft	 13484	 13486	 O	 -1	 -1	 0
+miscegenation	 data/source_txt/t6_sociology_2_101.deft	 13487	 13500	 B-Alias-Term	 T74	 T72	 AKA
+,	 data/source_txt/t6_sociology_2_101.deft	 13500	 13501	 O	 -1	 -1	 0
+is	 data/source_txt/t6_sociology_2_101.deft	 13502	 13504	 O	 -1	 -1	 0
+achieved	 data/source_txt/t6_sociology_2_101.deft	 13505	 13513	 O	 -1	 -1	 0
+through	 data/source_txt/t6_sociology_2_101.deft	 13514	 13521	 O	 -1	 -1	 0
+intermarriage	 data/source_txt/t6_sociology_2_101.deft	 13522	 13535	 O	 -1	 -1	 0
+between	 data/source_txt/t6_sociology_2_101.deft	 13536	 13543	 O	 -1	 -1	 0
+races	 data/source_txt/t6_sociology_2_101.deft	 13544	 13549	 O	 -1	 -1	 0
+.	 data/source_txt/t6_sociology_2_101.deft	 13549	 13550	 O	 -1	 -1	 0
 
 Amalgamation	 data/source_txt/t6_sociology_2_101.deft	 13459	 13471	 B-Term	 T154	 0	 0
 ,	 data/source_txt/t6_sociology_2_101.deft	 13471	 13472	 O	 -1	 -1	 0

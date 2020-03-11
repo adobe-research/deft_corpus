@@ -12,7 +12,7 @@ mm	 data/source_txt/t1_biology_1_404.deft	 39	 41	 I-Definition	 T1	 T2	 Direct-
 in	 data/source_txt/t1_biology_1_404.deft	 42	 44	 I-Definition	 T1	 T2	 Direct-Defines
 diameter	 data/source_txt/t1_biology_1_404.deft	 45	 53	 I-Definition	 T1	 T2	 Direct-Defines
 are	 data/source_txt/t1_biology_1_404.deft	 54	 57	 O	 -1	 -1	 0
-sand	 data/source_txt/t1_biology_1_404.deft	 58	 62	 B-Term	 T2	 0	 Direct-Defines
+sand	 data/source_txt/t1_biology_1_404.deft	 58	 62	 B-Term	 T2	 0	 0
 .	 data/source_txt/t1_biology_1_404.deft	 62	 63	 O	 -1	 -1	 0
 
 Soil	 data/source_txt/t1_biology_1_404.deft	 72	 76	 B-Definition	 T3	 T4	 Direct-Defines
@@ -24,7 +24,7 @@ and	 data/source_txt/t1_biology_1_404.deft	 101	 104	 I-Definition	 T3	 T4	 Dire
 mm	 data/source_txt/t1_biology_1_404.deft	 109	 111	 I-Definition	 T3	 T4	 Direct-Defines
 are	 data/source_txt/t1_biology_1_404.deft	 112	 115	 O	 -1	 -1	 0
 called	 data/source_txt/t1_biology_1_404.deft	 116	 122	 O	 -1	 -1	 0
-silt	 data/source_txt/t1_biology_1_404.deft	 123	 127	 B-Term	 T4	 0	 Direct-Defines
+silt	 data/source_txt/t1_biology_1_404.deft	 123	 127	 B-Term	 T4	 0	 0
 ,	 data/source_txt/t1_biology_1_404.deft	 127	 128	 O	 -1	 -1	 0
 and	 data/source_txt/t1_biology_1_404.deft	 129	 132	 O	 -1	 -1	 0
 even	 data/source_txt/t1_biology_1_404.deft	 133	 137	 O	 -1	 -1	 0
@@ -40,33 +40,59 @@ diameter	 data/source_txt/t1_biology_1_404.deft	 179	 187	 I-Definition	 T5	 T6	
 ,	 data/source_txt/t1_biology_1_404.deft	 187	 188	 O	 -1	 -1	 0
 are	 data/source_txt/t1_biology_1_404.deft	 189	 192	 O	 -1	 -1	 0
 called	 data/source_txt/t1_biology_1_404.deft	 193	 199	 O	 -1	 -1	 0
-clay	 data/source_txt/t1_biology_1_404.deft	 200	 204	 B-Term	 T6	 0	 Direct-Defines
+clay	 data/source_txt/t1_biology_1_404.deft	 200	 204	 B-Term	 T6	 0	 0
 .	 data/source_txt/t1_biology_1_404.deft	 204	 205	 O	 -1	 -1	 0
 
-Some	 data/source_txt/t1_biology_1_404.deft	 212	 216	 B-Definition	 T7	 0	 Refers-To
-soils	 data/source_txt/t1_biology_1_404.deft	 217	 222	 I-Definition	 T7	 0	 Refers-To
-have	 data/source_txt/t1_biology_1_404.deft	 223	 227	 I-Definition	 T7	 0	 Refers-To
-no	 data/source_txt/t1_biology_1_404.deft	 228	 230	 I-Definition	 T7	 0	 Refers-To
-dominant	 data/source_txt/t1_biology_1_404.deft	 231	 239	 I-Definition	 T7	 0	 Refers-To
-particle	 data/source_txt/t1_biology_1_404.deft	 240	 248	 I-Definition	 T7	 0	 Refers-To
-size	 data/source_txt/t1_biology_1_404.deft	 249	 253	 I-Definition	 T7	 0	 Refers-To
-and	 data/source_txt/t1_biology_1_404.deft	 254	 257	 I-Definition	 T7	 0	 Refers-To
-contain	 data/source_txt/t1_biology_1_404.deft	 258	 265	 I-Definition	 T7	 0	 Refers-To
-a	 data/source_txt/t1_biology_1_404.deft	 266	 267	 I-Definition	 T7	 0	 Refers-To
-mixture	 data/source_txt/t1_biology_1_404.deft	 268	 275	 I-Definition	 T7	 0	 Refers-To
-of	 data/source_txt/t1_biology_1_404.deft	 276	 278	 I-Definition	 T7	 0	 Refers-To
-sand	 data/source_txt/t1_biology_1_404.deft	 279	 283	 I-Definition	 T7	 0	 Refers-To
-,	 data/source_txt/t1_biology_1_404.deft	 283	 284	 I-Definition	 T7	 0	 Refers-To
-silt	 data/source_txt/t1_biology_1_404.deft	 285	 289	 I-Definition	 T7	 0	 Refers-To
-,	 data/source_txt/t1_biology_1_404.deft	 289	 290	 I-Definition	 T7	 0	 Refers-To
-and	 data/source_txt/t1_biology_1_404.deft	 291	 294	 I-Definition	 T7	 0	 Refers-To
-humus	 data/source_txt/t1_biology_1_404.deft	 295	 300	 I-Definition	 T7	 0	 Refers-To
+Some	 data/source_txt/t1_biology_1_404.deft	 212	 216	 B-Definition	 T7	 0	 0
+soils	 data/source_txt/t1_biology_1_404.deft	 217	 222	 I-Definition	 T7	 0	 0
+have	 data/source_txt/t1_biology_1_404.deft	 223	 227	 I-Definition	 T7	 0	 0
+no	 data/source_txt/t1_biology_1_404.deft	 228	 230	 I-Definition	 T7	 0	 0
+dominant	 data/source_txt/t1_biology_1_404.deft	 231	 239	 I-Definition	 T7	 0	 0
+particle	 data/source_txt/t1_biology_1_404.deft	 240	 248	 I-Definition	 T7	 0	 0
+size	 data/source_txt/t1_biology_1_404.deft	 249	 253	 I-Definition	 T7	 0	 0
+and	 data/source_txt/t1_biology_1_404.deft	 254	 257	 I-Definition	 T7	 0	 0
+contain	 data/source_txt/t1_biology_1_404.deft	 258	 265	 I-Definition	 T7	 0	 0
+a	 data/source_txt/t1_biology_1_404.deft	 266	 267	 I-Definition	 T7	 0	 0
+mixture	 data/source_txt/t1_biology_1_404.deft	 268	 275	 I-Definition	 T7	 0	 0
+of	 data/source_txt/t1_biology_1_404.deft	 276	 278	 I-Definition	 T7	 0	 0
+sand	 data/source_txt/t1_biology_1_404.deft	 279	 283	 I-Definition	 T7	 0	 0
+,	 data/source_txt/t1_biology_1_404.deft	 283	 284	 I-Definition	 T7	 0	 0
+silt	 data/source_txt/t1_biology_1_404.deft	 285	 289	 I-Definition	 T7	 0	 0
+,	 data/source_txt/t1_biology_1_404.deft	 289	 290	 I-Definition	 T7	 0	 0
+and	 data/source_txt/t1_biology_1_404.deft	 291	 294	 I-Definition	 T7	 0	 0
+humus	 data/source_txt/t1_biology_1_404.deft	 295	 300	 I-Definition	 T7	 0	 0
+;	 data/source_txt/t1_biology_1_404.deft	 300	 301	 O	 -1	 -1	 0
+these	 data/source_txt/t1_biology_1_404.deft	 302	 307	 B-Referential-Definition	 T8	 T7	 Refers-To
+soils	 data/source_txt/t1_biology_1_404.deft	 308	 313	 I-Referential-Definition	 T8	 T7	 Refers-To
+are	 data/source_txt/t1_biology_1_404.deft	 314	 317	 O	 -1	 -1	 0
+called	 data/source_txt/t1_biology_1_404.deft	 318	 324	 O	 -1	 -1	 0
+loams	 data/source_txt/t1_biology_1_404.deft	 325	 330	 B-Term	 T9	 0	 0
+.	 data/source_txt/t1_biology_1_404.deft	 330	 331	 O	 -1	 -1	 0
+
+Some	 data/source_txt/t1_biology_1_404.deft	 212	 216	 B-Definition	 T7	 0	 0
+soils	 data/source_txt/t1_biology_1_404.deft	 217	 222	 I-Definition	 T7	 0	 0
+have	 data/source_txt/t1_biology_1_404.deft	 223	 227	 I-Definition	 T7	 0	 0
+no	 data/source_txt/t1_biology_1_404.deft	 228	 230	 I-Definition	 T7	 0	 0
+dominant	 data/source_txt/t1_biology_1_404.deft	 231	 239	 I-Definition	 T7	 0	 0
+particle	 data/source_txt/t1_biology_1_404.deft	 240	 248	 I-Definition	 T7	 0	 0
+size	 data/source_txt/t1_biology_1_404.deft	 249	 253	 I-Definition	 T7	 0	 0
+and	 data/source_txt/t1_biology_1_404.deft	 254	 257	 I-Definition	 T7	 0	 0
+contain	 data/source_txt/t1_biology_1_404.deft	 258	 265	 I-Definition	 T7	 0	 0
+a	 data/source_txt/t1_biology_1_404.deft	 266	 267	 I-Definition	 T7	 0	 0
+mixture	 data/source_txt/t1_biology_1_404.deft	 268	 275	 I-Definition	 T7	 0	 0
+of	 data/source_txt/t1_biology_1_404.deft	 276	 278	 I-Definition	 T7	 0	 0
+sand	 data/source_txt/t1_biology_1_404.deft	 279	 283	 I-Definition	 T7	 0	 0
+,	 data/source_txt/t1_biology_1_404.deft	 283	 284	 I-Definition	 T7	 0	 0
+silt	 data/source_txt/t1_biology_1_404.deft	 285	 289	 I-Definition	 T7	 0	 0
+,	 data/source_txt/t1_biology_1_404.deft	 289	 290	 I-Definition	 T7	 0	 0
+and	 data/source_txt/t1_biology_1_404.deft	 291	 294	 I-Definition	 T7	 0	 0
+humus	 data/source_txt/t1_biology_1_404.deft	 295	 300	 I-Definition	 T7	 0	 0
 ;	 data/source_txt/t1_biology_1_404.deft	 300	 301	 O	 -1	 -1	 0
 these	 data/source_txt/t1_biology_1_404.deft	 302	 307	 B-Referential-Definition	 T8	 T9	 Indirect-Defines
 soils	 data/source_txt/t1_biology_1_404.deft	 308	 313	 I-Referential-Definition	 T8	 T9	 Indirect-Defines
 are	 data/source_txt/t1_biology_1_404.deft	 314	 317	 O	 -1	 -1	 0
 called	 data/source_txt/t1_biology_1_404.deft	 318	 324	 O	 -1	 -1	 0
-loams	 data/source_txt/t1_biology_1_404.deft	 325	 330	 B-Term	 T9	 0	 Indirect-Defines
+loams	 data/source_txt/t1_biology_1_404.deft	 325	 330	 B-Term	 T9	 0	 0
 .	 data/source_txt/t1_biology_1_404.deft	 330	 331	 O	 -1	 -1	 0
 
 
@@ -91,8 +117,8 @@ root	 data/source_txt/t1_biology_1_404.deft	 5936	 5940	 I-Definition	 T64	 T65	
 tip	 data/source_txt/t1_biology_1_404.deft	 5941	 5944	 I-Definition	 T64	 T65	 Direct-Defines
 covering	 data/source_txt/t1_biology_1_404.deft	 5945	 5953	 I-Definition	 T64	 T65	 Direct-Defines
 :	 data/source_txt/t1_biology_1_404.deft	 5953	 5954	 O	 -1	 -1	 0
-the	 data/source_txt/t1_biology_1_404.deft	 5955	 5958	 B-Term	 T65	 0	 Direct-Defines
-coleorhiza	 data/source_txt/t1_biology_1_404.deft	 5959	 5969	 I-Term	 T65	 0	 Direct-Defines
+the	 data/source_txt/t1_biology_1_404.deft	 5955	 5958	 B-Term	 T65	 0	 0
+coleorhiza	 data/source_txt/t1_biology_1_404.deft	 5959	 5969	 I-Term	 T65	 0	 0
 .	 data/source_txt/t1_biology_1_404.deft	 5969	 5970	 O	 -1	 -1	 0
 
 Next	 data/source_txt/t1_biology_1_404.deft	 5979	 5983	 O	 -1	 -1	 0
@@ -104,8 +130,8 @@ emerges	 data/source_txt/t1_biology_1_404.deft	 6003	 6010	 O	 -1	 -1	 0
 ,	 data/source_txt/t1_biology_1_404.deft	 6010	 6011	 O	 -1	 -1	 0
 protected	 data/source_txt/t1_biology_1_404.deft	 6012	 6021	 O	 -1	 -1	 0
 by	 data/source_txt/t1_biology_1_404.deft	 6022	 6024	 O	 -1	 -1	 0
-the	 data/source_txt/t1_biology_1_404.deft	 6025	 6028	 B-Term	 T66	 0	 Direct-Defines
-coleoptile	 data/source_txt/t1_biology_1_404.deft	 6029	 6039	 I-Term	 T66	 0	 Direct-Defines
+the	 data/source_txt/t1_biology_1_404.deft	 6025	 6028	 B-Term	 T66	 0	 0
+coleoptile	 data/source_txt/t1_biology_1_404.deft	 6029	 6039	 I-Term	 T66	 0	 0
 :	 data/source_txt/t1_biology_1_404.deft	 6039	 6040	 O	 -1	 -1	 0
 the	 data/source_txt/t1_biology_1_404.deft	 6041	 6044	 B-Definition	 T67	 T66	 Direct-Defines
 covering	 data/source_txt/t1_biology_1_404.deft	 6045	 6053	 I-Definition	 T67	 T66	 Direct-Defines
@@ -186,8 +212,8 @@ link	 data/source_txt/t1_biology_1_404.deft	 13424	 13428	 O	 -1	 -1	 0
 ]	 data/source_txt/t1_biology_1_404.deft	 13428	 13429	 O	 -1	 -1	 0
 .	 data/source_txt/t1_biology_1_404.deft	 13429	 13430	 O	 -1	 -1	 0
 
-The	 data/source_txt/t1_biology_1_404.deft	 13439	 13442	 B-Term	 T148	 0	 Direct-Defines
-stomach	 data/source_txt/t1_biology_1_404.deft	 13443	 13450	 I-Term	 T148	 0	 Direct-Defines
+The	 data/source_txt/t1_biology_1_404.deft	 13439	 13442	 B-Term	 T148	 0	 0
+stomach	 data/source_txt/t1_biology_1_404.deft	 13443	 13450	 I-Term	 T148	 0	 0
 is	 data/source_txt/t1_biology_1_404.deft	 13451	 13453	 O	 -1	 -1	 0
 a	 data/source_txt/t1_biology_1_404.deft	 13454	 13455	 B-Definition	 T149	 T148	 Direct-Defines
 saclike	 data/source_txt/t1_biology_1_404.deft	 13456	 13463	 I-Definition	 T149	 T148	 Direct-Defines

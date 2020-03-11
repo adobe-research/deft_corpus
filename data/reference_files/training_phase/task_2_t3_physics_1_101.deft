@@ -221,6 +221,16 @@ optically	 data/source_txt/t3_physics_1_101.deft	 19662	 19671	 B-Term
 active	 data/source_txt/t3_physics_1_101.deft	 19672	 19678	 I-Term
 .	 data/source_txt/t3_physics_1_101.deft	 19678	 19679	 O
 
+Such	 data/source_txt/t3_physics_1_101.deft	 19631	 19635	 B-Referential-Definition
+substances	 data/source_txt/t3_physics_1_101.deft	 19636	 19646	 I-Referential-Definition
+are	 data/source_txt/t3_physics_1_101.deft	 19647	 19650	 O
+said	 data/source_txt/t3_physics_1_101.deft	 19651	 19655	 O
+to	 data/source_txt/t3_physics_1_101.deft	 19656	 19658	 O
+be	 data/source_txt/t3_physics_1_101.deft	 19659	 19661	 O
+optically	 data/source_txt/t3_physics_1_101.deft	 19662	 19671	 B-Term
+active	 data/source_txt/t3_physics_1_101.deft	 19672	 19678	 I-Term
+.	 data/source_txt/t3_physics_1_101.deft	 19678	 19679	 O
+
 Examples	 data/source_txt/t3_physics_1_101.deft	 19686	 19694	 O
 include	 data/source_txt/t3_physics_1_101.deft	 19695	 19702	 O
 sugar	 data/source_txt/t3_physics_1_101.deft	 19703	 19708	 O

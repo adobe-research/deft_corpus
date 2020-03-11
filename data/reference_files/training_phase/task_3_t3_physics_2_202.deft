@@ -199,8 +199,8 @@ including	 data/source_txt/t3_physics_2_202.deft	 2342	 2351	 I-Definition	 T8	 
 color	 data/source_txt/t3_physics_2_202.deft	 2352	 2357	 I-Definition	 T8	 T7	 Direct-Defines
 is	 data/source_txt/t3_physics_2_202.deft	 2358	 2360	 O	 -1	 -1	 0
 called	 data/source_txt/t3_physics_2_202.deft	 2361	 2367	 O	 -1	 -1	 0
-quantum	 data/source_txt/t3_physics_2_202.deft	 2368	 2375	 B-Term	 T7	 0	 Direct-Defines
-chromodynamics	 data/source_txt/t3_physics_2_202.deft	 2376	 2390	 I-Term	 T7	 0	 Direct-Defines
+quantum	 data/source_txt/t3_physics_2_202.deft	 2368	 2375	 B-Term	 T7	 0	 0
+chromodynamics	 data/source_txt/t3_physics_2_202.deft	 2376	 2390	 I-Term	 T7	 0	 0
 (	 data/source_txt/t3_physics_2_202.deft	 2391	 2392	 O	 -1	 -1	 0
 QCD	 data/source_txt/t3_physics_2_202.deft	 2392	 2395	 B-Alias-Term	 T6	 T7	 AKA
 )	 data/source_txt/t3_physics_2_202.deft	 2395	 2396	 O	 -1	 -1	 0

@@ -200,6 +200,29 @@ privileged	 data/source_txt/t2_history_0_0.deft	 12809	 12819	 I-Definition	 T98
 families	 data/source_txt/t2_history_0_0.deft	 12820	 12828	 I-Definition	 T98	 T97	 Direct-Defines
 .	 data/source_txt/t2_history_0_0.deft	 12828	 12829	 O	 -1	 -1	 0
 
+Conservative	 data/source_txt/t2_history_0_0.deft	 12700	 12712	 B-Term	 T95	 0	 0
+Whigs	 data/source_txt/t2_history_0_0.deft	 12713	 12718	 I-Term	 T95	 0	 0
+believed	 data/source_txt/t2_history_0_0.deft	 12719	 12727	 B-Definition	 T96	 T95	 Direct-Defines
+in	 data/source_txt/t2_history_0_0.deft	 12728	 12730	 I-Definition	 T96	 T95	 Direct-Defines
+government	 data/source_txt/t2_history_0_0.deft	 12731	 12741	 I-Definition	 T96	 T95	 Direct-Defines
+by	 data/source_txt/t2_history_0_0.deft	 12742	 12744	 I-Definition	 T96	 T95	 Direct-Defines
+a	 data/source_txt/t2_history_0_0.deft	 12745	 12746	 I-Definition	 T96	 T95	 Direct-Defines
+patrician	 data/source_txt/t2_history_0_0.deft	 12747	 12756	 I-Definition	 T96	 T95	 Direct-Defines
+class	 data/source_txt/t2_history_0_0.deft	 12757	 12762	 I-Definition	 T96	 T95	 Direct-Defines
+,	 data/source_txt/t2_history_0_0.deft	 12762	 12763	 I-Definition	 T96	 T95	 Direct-Defines
+a	 data/source_txt/t2_history_0_0.deft	 12764	 12765	 I-Definition	 T96	 T95	 Direct-Defines
+ruling	 data/source_txt/t2_history_0_0.deft	 12766	 12772	 I-Definition	 T96	 T95	 Direct-Defines
+group	 data/source_txt/t2_history_0_0.deft	 12773	 12778	 I-Definition	 T96	 T95	 Direct-Defines
+composed	 data/source_txt/t2_history_0_0.deft	 12779	 12787	 I-Definition	 T96	 T95	 Direct-Defines
+of	 data/source_txt/t2_history_0_0.deft	 12788	 12790	 I-Definition	 T96	 T95	 Direct-Defines
+a	 data/source_txt/t2_history_0_0.deft	 12791	 12792	 I-Definition	 T96	 T95	 Direct-Defines
+small	 data/source_txt/t2_history_0_0.deft	 12793	 12798	 I-Definition	 T96	 T95	 Direct-Defines
+number	 data/source_txt/t2_history_0_0.deft	 12799	 12805	 I-Definition	 T96	 T95	 Direct-Defines
+of	 data/source_txt/t2_history_0_0.deft	 12806	 12808	 I-Definition	 T96	 T95	 Direct-Defines
+privileged	 data/source_txt/t2_history_0_0.deft	 12809	 12819	 I-Definition	 T96	 T95	 Direct-Defines
+families	 data/source_txt/t2_history_0_0.deft	 12820	 12828	 I-Definition	 T96	 T95	 Direct-Defines
+.	 data/source_txt/t2_history_0_0.deft	 12828	 12829	 O	 -1	 -1	 0
+
 Radical	 data/source_txt/t2_history_0_0.deft	 12838	 12845	 B-Term	 T99	 0	 0
 Whigs	 data/source_txt/t2_history_0_0.deft	 12846	 12851	 I-Term	 T99	 0	 0
 favored	 data/source_txt/t2_history_0_0.deft	 12852	 12859	 B-Definition	 T100	 T99	 Direct-Defines

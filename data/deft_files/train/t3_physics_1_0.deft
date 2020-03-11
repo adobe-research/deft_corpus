@@ -796,6 +796,20 @@ measure	 data/source_txt/t3_physics_1_0.deft	 4596	 4603	 I-Definition	 T34	 0	 
 them	 data/source_txt/t3_physics_1_0.deft	 4604	 4608	 I-Definition	 T34	 0	 0
 .	 data/source_txt/t3_physics_1_0.deft	 4608	 4609	 O	 -1	 -1	 0
 
+The	 data/source_txt/t3_physics_1_0.deft	 4618	 4621	 B-Referential-Definition	 T35	 T34	 Refers-To
+units	 data/source_txt/t3_physics_1_0.deft	 4622	 4627	 I-Referential-Definition	 T35	 T34	 Refers-To
+in	 data/source_txt/t3_physics_1_0.deft	 4628	 4630	 I-Referential-Definition	 T35	 T34	 Refers-To
+which	 data/source_txt/t3_physics_1_0.deft	 4631	 4636	 I-Referential-Definition	 T35	 T34	 Refers-To
+they	 data/source_txt/t3_physics_1_0.deft	 4637	 4641	 I-Referential-Definition	 T35	 T34	 Refers-To
+are	 data/source_txt/t3_physics_1_0.deft	 4642	 4645	 I-Referential-Definition	 T35	 T34	 Refers-To
+measured	 data/source_txt/t3_physics_1_0.deft	 4646	 4654	 I-Referential-Definition	 T35	 T34	 Refers-To
+are	 data/source_txt/t3_physics_1_0.deft	 4655	 4658	 O	 -1	 -1	 0
+thus	 data/source_txt/t3_physics_1_0.deft	 4659	 4663	 O	 -1	 -1	 0
+called	 data/source_txt/t3_physics_1_0.deft	 4664	 4670	 O	 -1	 -1	 0
+fundamental	 data/source_txt/t3_physics_1_0.deft	 4671	 4682	 B-Term	 T36	 0	 0
+units	 data/source_txt/t3_physics_1_0.deft	 4683	 4688	 I-Term	 T36	 0	 0
+.	 data/source_txt/t3_physics_1_0.deft	 4688	 4689	 O	 -1	 -1	 0
+
 The	 data/source_txt/t3_physics_1_0.deft	 4618	 4621	 B-Referential-Definition	 T35	 T36	 Indirect-Defines
 units	 data/source_txt/t3_physics_1_0.deft	 4622	 4627	 I-Referential-Definition	 T35	 T36	 Indirect-Defines
 in	 data/source_txt/t3_physics_1_0.deft	 4628	 4630	 I-Referential-Definition	 T35	 T36	 Indirect-Defines
@@ -1203,6 +1217,13 @@ of	 data/source_txt/t3_physics_1_0.deft	 6606	 6608	 I-Definition	 T43	 0	 0
 its	 data/source_txt/t3_physics_1_0.deft	 6609	 6612	 I-Definition	 T43	 0	 0
 motion	 data/source_txt/t3_physics_1_0.deft	 6613	 6619	 I-Definition	 T43	 0	 0
 .	 data/source_txt/t3_physics_1_0.deft	 6619	 6620	 O	 -1	 -1	 0
+
+This	 data/source_txt/t3_physics_1_0.deft	 6629	 6633	 B-Referential-Definition	 T44	 T43	 Refers-To
+is	 data/source_txt/t3_physics_1_0.deft	 6634	 6636	 O	 -1	 -1	 0
+known	 data/source_txt/t3_physics_1_0.deft	 6637	 6642	 O	 -1	 -1	 0
+as	 data/source_txt/t3_physics_1_0.deft	 6643	 6645	 O	 -1	 -1	 0
+deceleration	 data/source_txt/t3_physics_1_0.deft	 6646	 6658	 B-Term	 T45	 0	 0
+.	 data/source_txt/t3_physics_1_0.deft	 6658	 6659	 O	 -1	 -1	 0
 
 This	 data/source_txt/t3_physics_1_0.deft	 6629	 6633	 B-Referential-Definition	 T44	 T45	 Indirect-Defines
 is	 data/source_txt/t3_physics_1_0.deft	 6634	 6636	 O	 -1	 -1	 0
@@ -5201,6 +5222,46 @@ Hooke	 data/source_txt/t3_physics_1_0.deft	 26412	 26417	 I-Definition	 T123	 0	
 law	 data/source_txt/t3_physics_1_0.deft	 26420	 26423	 I-Definition	 T123	 0	 0
 ,	 data/source_txt/t3_physics_1_0.deft	 26423	 26424	 O	 -1	 -1	 0
 and	 data/source_txt/t3_physics_1_0.deft	 26425	 26428	 O	 -1	 -1	 0
+such	 data/source_txt/t3_physics_1_0.deft	 26429	 26433	 B-Referential-Definition	 T124	 T123	 Refers-To
+a	 data/source_txt/t3_physics_1_0.deft	 26434	 26435	 I-Referential-Definition	 T124	 T123	 Refers-To
+system	 data/source_txt/t3_physics_1_0.deft	 26436	 26442	 I-Referential-Definition	 T124	 T123	 Refers-To
+is	 data/source_txt/t3_physics_1_0.deft	 26443	 26445	 O	 -1	 -1	 0
+called	 data/source_txt/t3_physics_1_0.deft	 26446	 26452	 O	 -1	 -1	 0
+a	 data/source_txt/t3_physics_1_0.deft	 26453	 26454	 B-Term	 T125	 0	 0
+simple	 data/source_txt/t3_physics_1_0.deft	 26455	 26461	 I-Term	 T125	 0	 0
+harmonic	 data/source_txt/t3_physics_1_0.deft	 26462	 26470	 I-Term	 T125	 0	 0
+oscillator	 data/source_txt/t3_physics_1_0.deft	 26471	 26481	 I-Term	 T125	 0	 0
+.	 data/source_txt/t3_physics_1_0.deft	 26481	 26482	 O	 -1	 -1	 0
+
+Simple	 data/source_txt/t3_physics_1_0.deft	 26290	 26296	 B-Term	 T120	 0	 0
+Harmonic	 data/source_txt/t3_physics_1_0.deft	 26297	 26305	 I-Term	 T120	 0	 0
+Motion	 data/source_txt/t3_physics_1_0.deft	 26306	 26312	 I-Term	 T120	 0	 0
+(	 data/source_txt/t3_physics_1_0.deft	 26313	 26314	 O	 -1	 -1	 0
+SHM	 data/source_txt/t3_physics_1_0.deft	 26314	 26317	 B-Alias-Term	 T121	 T120	 AKA
+)	 data/source_txt/t3_physics_1_0.deft	 26317	 26318	 O	 -1	 -1	 0
+is	 data/source_txt/t3_physics_1_0.deft	 26319	 26321	 O	 -1	 -1	 0
+the	 data/source_txt/t3_physics_1_0.deft	 26322	 26325	 O	 -1	 -1	 0
+name	 data/source_txt/t3_physics_1_0.deft	 26326	 26330	 O	 -1	 -1	 0
+given	 data/source_txt/t3_physics_1_0.deft	 26331	 26336	 O	 -1	 -1	 0
+to	 data/source_txt/t3_physics_1_0.deft	 26337	 26339	 O	 -1	 -1	 0
+oscillatory	 data/source_txt/t3_physics_1_0.deft	 26340	 26351	 B-Definition	 T122	 T120	 Direct-Defines
+motion	 data/source_txt/t3_physics_1_0.deft	 26352	 26358	 I-Definition	 T122	 T120	 Direct-Defines
+for	 data/source_txt/t3_physics_1_0.deft	 26359	 26362	 I-Definition	 T122	 T120	 Direct-Defines
+a	 data/source_txt/t3_physics_1_0.deft	 26363	 26364	 I-Definition	 T122	 T120	 Direct-Defines
+system	 data/source_txt/t3_physics_1_0.deft	 26365	 26371	 I-Definition	 T122	 T120	 Direct-Defines
+where	 data/source_txt/t3_physics_1_0.deft	 26372	 26377	 I-Definition	 T122	 T120	 Direct-Defines
+the	 data/source_txt/t3_physics_1_0.deft	 26378	 26381	 I-Definition	 T122	 T120	 Direct-Defines
+net	 data/source_txt/t3_physics_1_0.deft	 26382	 26385	 I-Definition	 T122	 T120	 Direct-Defines
+force	 data/source_txt/t3_physics_1_0.deft	 26386	 26391	 I-Definition	 T122	 T120	 Direct-Defines
+can	 data/source_txt/t3_physics_1_0.deft	 26392	 26395	 I-Definition	 T122	 T120	 Direct-Defines
+be	 data/source_txt/t3_physics_1_0.deft	 26396	 26398	 I-Definition	 T122	 T120	 Direct-Defines
+described	 data/source_txt/t3_physics_1_0.deft	 26399	 26408	 I-Definition	 T122	 T120	 Direct-Defines
+by	 data/source_txt/t3_physics_1_0.deft	 26409	 26411	 I-Definition	 T122	 T120	 Direct-Defines
+Hooke	 data/source_txt/t3_physics_1_0.deft	 26412	 26417	 I-Definition	 T122	 T120	 Direct-Defines
+’s	 data/source_txt/t3_physics_1_0.deft	 26417	 26419	 I-Definition	 T122	 T120	 Direct-Defines
+law	 data/source_txt/t3_physics_1_0.deft	 26420	 26423	 I-Definition	 T122	 T120	 Direct-Defines
+,	 data/source_txt/t3_physics_1_0.deft	 26423	 26424	 O	 -1	 -1	 0
+and	 data/source_txt/t3_physics_1_0.deft	 26425	 26428	 O	 -1	 -1	 0
 such	 data/source_txt/t3_physics_1_0.deft	 26429	 26433	 B-Referential-Definition	 T124	 T125	 Indirect-Defines
 a	 data/source_txt/t3_physics_1_0.deft	 26434	 26435	 I-Referential-Definition	 T124	 T125	 Indirect-Defines
 system	 data/source_txt/t3_physics_1_0.deft	 26436	 26442	 I-Referential-Definition	 T124	 T125	 Indirect-Defines
@@ -5211,6 +5272,7 @@ simple	 data/source_txt/t3_physics_1_0.deft	 26455	 26461	 I-Term	 T125	 0	 0
 harmonic	 data/source_txt/t3_physics_1_0.deft	 26462	 26470	 I-Term	 T125	 0	 0
 oscillator	 data/source_txt/t3_physics_1_0.deft	 26471	 26481	 I-Term	 T125	 0	 0
 .	 data/source_txt/t3_physics_1_0.deft	 26481	 26482	 O	 -1	 -1	 0
+
 If	 data/source_txt/t3_physics_1_0.deft	 26489	 26491	 O	 -1	 -1	 0
 the	 data/source_txt/t3_physics_1_0.deft	 26492	 26495	 O	 -1	 -1	 0
 net	 data/source_txt/t3_physics_1_0.deft	 26496	 26499	 O	 -1	 -1	 0
@@ -5299,6 +5361,25 @@ or	 data/source_txt/t3_physics_1_0.deft	 26899	 26901	 I-Definition	 T126	 0	 0
 more	 data/source_txt/t3_physics_1_0.deft	 26902	 26906	 I-Definition	 T126	 0	 0
 times	 data/source_txt/t3_physics_1_0.deft	 26907	 26912	 I-Definition	 T126	 0	 0
 .	 data/source_txt/t3_physics_1_0.deft	 26912	 26913	 O	 -1	 -1	 0
+
+Such	 data/source_txt/t3_physics_1_0.deft	 26922	 26926	 B-Referential-Definition	 T127	 T126	 Refers-To
+a	 data/source_txt/t3_physics_1_0.deft	 26927	 26928	 I-Referential-Definition	 T127	 T126	 Refers-To
+system	 data/source_txt/t3_physics_1_0.deft	 26929	 26935	 I-Referential-Definition	 T127	 T126	 Refers-To
+is	 data/source_txt/t3_physics_1_0.deft	 26936	 26938	 O	 -1	 -1	 0
+underdamped	 data/source_txt/t3_physics_1_0.deft	 26939	 26950	 B-Term	 T128	 0	 0
+;	 data/source_txt/t3_physics_1_0.deft	 26950	 26951	 O	 -1	 -1	 0
+its	 data/source_txt/t3_physics_1_0.deft	 26952	 26955	 O	 -1	 -1	 0
+displacement	 data/source_txt/t3_physics_1_0.deft	 26956	 26968	 O	 -1	 -1	 0
+is	 data/source_txt/t3_physics_1_0.deft	 26969	 26971	 O	 -1	 -1	 0
+represented	 data/source_txt/t3_physics_1_0.deft	 26972	 26983	 O	 -1	 -1	 0
+by	 data/source_txt/t3_physics_1_0.deft	 26984	 26986	 O	 -1	 -1	 0
+the	 data/source_txt/t3_physics_1_0.deft	 26987	 26990	 O	 -1	 -1	 0
+curve	 data/source_txt/t3_physics_1_0.deft	 26991	 26996	 O	 -1	 -1	 0
+in	 data/source_txt/t3_physics_1_0.deft	 26997	 26999	 O	 -1	 -1	 0
+[	 data/source_txt/t3_physics_1_0.deft	 27000	 27001	 O	 -1	 -1	 0
+link	 data/source_txt/t3_physics_1_0.deft	 27001	 27005	 O	 -1	 -1	 0
+]	 data/source_txt/t3_physics_1_0.deft	 27005	 27006	 O	 -1	 -1	 0
+.	 data/source_txt/t3_physics_1_0.deft	 27006	 27007	 O	 -1	 -1	 0
 
 Such	 data/source_txt/t3_physics_1_0.deft	 26922	 26926	 B-Referential-Definition	 T127	 T128	 Indirect-Defines
 a	 data/source_txt/t3_physics_1_0.deft	 26927	 26928	 I-Referential-Definition	 T127	 T128	 Indirect-Defines
@@ -5509,6 +5590,26 @@ and	 data/source_txt/t3_physics_1_0.deft	 27959	 27962	 I-Definition	 T135	 0	 0
 destructive	 data/source_txt/t3_physics_1_0.deft	 27963	 27974	 I-Definition	 T135	 0	 0
 interference	 data/source_txt/t3_physics_1_0.deft	 27975	 27987	 I-Definition	 T135	 0	 0
 .	 data/source_txt/t3_physics_1_0.deft	 27987	 27988	 O	 -1	 -1	 0
+
+The	 data/source_txt/t3_physics_1_0.deft	 27997	 28000	 B-Referential-Definition	 T136	 T135	 Refers-To
+resultant	 data/source_txt/t3_physics_1_0.deft	 28001	 28010	 I-Referential-Definition	 T136	 T135	 Refers-To
+looks	 data/source_txt/t3_physics_1_0.deft	 28011	 28016	 O	 -1	 -1	 0
+like	 data/source_txt/t3_physics_1_0.deft	 28017	 28021	 O	 -1	 -1	 0
+a	 data/source_txt/t3_physics_1_0.deft	 28022	 28023	 O	 -1	 -1	 0
+wave	 data/source_txt/t3_physics_1_0.deft	 28024	 28028	 O	 -1	 -1	 0
+standing	 data/source_txt/t3_physics_1_0.deft	 28029	 28037	 O	 -1	 -1	 0
+in	 data/source_txt/t3_physics_1_0.deft	 28038	 28040	 O	 -1	 -1	 0
+place	 data/source_txt/t3_physics_1_0.deft	 28041	 28046	 O	 -1	 -1	 0
+and	 data/source_txt/t3_physics_1_0.deft	 28047	 28050	 O	 -1	 -1	 0
+,	 data/source_txt/t3_physics_1_0.deft	 28050	 28051	 O	 -1	 -1	 0
+thus	 data/source_txt/t3_physics_1_0.deft	 28052	 28056	 O	 -1	 -1	 0
+,	 data/source_txt/t3_physics_1_0.deft	 28056	 28057	 O	 -1	 -1	 0
+is	 data/source_txt/t3_physics_1_0.deft	 28058	 28060	 O	 -1	 -1	 0
+called	 data/source_txt/t3_physics_1_0.deft	 28061	 28067	 O	 -1	 -1	 0
+a	 data/source_txt/t3_physics_1_0.deft	 28068	 28069	 B-Term	 T137	 0	 0
+standing	 data/source_txt/t3_physics_1_0.deft	 28070	 28078	 I-Term	 T137	 0	 0
+wave	 data/source_txt/t3_physics_1_0.deft	 28079	 28083	 I-Term	 T137	 0	 0
+.	 data/source_txt/t3_physics_1_0.deft	 28083	 28084	 O	 -1	 -1	 0
 
 The	 data/source_txt/t3_physics_1_0.deft	 27997	 28000	 B-Referential-Definition	 T136	 T137	 Indirect-Defines
 resultant	 data/source_txt/t3_physics_1_0.deft	 28001	 28010	 I-Referential-Definition	 T136	 T137	 Indirect-Defines
@@ -6001,6 +6102,23 @@ in	 data/source_txt/t3_physics_1_0.deft	 31630	 31632	 I-Definition	 T152	 0	 0
 the	 data/source_txt/t3_physics_1_0.deft	 31633	 31636	 I-Definition	 T152	 0	 0
 material	 data/source_txt/t3_physics_1_0.deft	 31637	 31645	 I-Definition	 T152	 0	 0
 .	 data/source_txt/t3_physics_1_0.deft	 31645	 31646	 O	 -1	 -1	 0
+
+These	 data/source_txt/t3_physics_1_0.deft	 31655	 31660	 B-Referential-Definition	 T153	 T152	 Refers-To
+free	 data/source_txt/t3_physics_1_0.deft	 31661	 31665	 B-Term	 T154	 0	 0
+electrons	 data/source_txt/t3_physics_1_0.deft	 31666	 31675	 I-Term	 T154	 0	 0
+can	 data/source_txt/t3_physics_1_0.deft	 31676	 31679	 O	 -1	 -1	 0
+move	 data/source_txt/t3_physics_1_0.deft	 31680	 31684	 O	 -1	 -1	 0
+through	 data/source_txt/t3_physics_1_0.deft	 31685	 31692	 O	 -1	 -1	 0
+the	 data/source_txt/t3_physics_1_0.deft	 31693	 31696	 O	 -1	 -1	 0
+material	 data/source_txt/t3_physics_1_0.deft	 31697	 31705	 O	 -1	 -1	 0
+much	 data/source_txt/t3_physics_1_0.deft	 31706	 31710	 O	 -1	 -1	 0
+as	 data/source_txt/t3_physics_1_0.deft	 31711	 31713	 O	 -1	 -1	 0
+air	 data/source_txt/t3_physics_1_0.deft	 31714	 31717	 O	 -1	 -1	 0
+moves	 data/source_txt/t3_physics_1_0.deft	 31718	 31723	 O	 -1	 -1	 0
+through	 data/source_txt/t3_physics_1_0.deft	 31724	 31731	 O	 -1	 -1	 0
+loose	 data/source_txt/t3_physics_1_0.deft	 31732	 31737	 O	 -1	 -1	 0
+sand	 data/source_txt/t3_physics_1_0.deft	 31738	 31742	 O	 -1	 -1	 0
+.	 data/source_txt/t3_physics_1_0.deft	 31742	 31743	 O	 -1	 -1	 0
 
 These	 data/source_txt/t3_physics_1_0.deft	 31655	 31660	 B-Referential-Definition	 T153	 T154	 Indirect-Defines
 free	 data/source_txt/t3_physics_1_0.deft	 31661	 31665	 B-Term	 T154	 0	 0

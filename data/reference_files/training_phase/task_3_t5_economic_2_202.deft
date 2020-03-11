@@ -655,8 +655,8 @@ result	 data/source_txt/t5_economic_2_202.deft	 35201	 35207	 O	 -1	 -1	 0
 is	 data/source_txt/t5_economic_2_202.deft	 35208	 35210	 O	 -1	 -1	 0
 known	 data/source_txt/t5_economic_2_202.deft	 35211	 35216	 O	 -1	 -1	 0
 as	 data/source_txt/t5_economic_2_202.deft	 35217	 35219	 O	 -1	 -1	 0
-crowding	 data/source_txt/t5_economic_2_202.deft	 35220	 35228	 B-Term	 T115	 0	 Direct-Defines
-out	 data/source_txt/t5_economic_2_202.deft	 35229	 35232	 I-Term	 T115	 0	 Direct-Defines
+crowding	 data/source_txt/t5_economic_2_202.deft	 35220	 35228	 B-Term	 T115	 0	 0
+out	 data/source_txt/t5_economic_2_202.deft	 35229	 35232	 I-Term	 T115	 0	 0
 .	 data/source_txt/t5_economic_2_202.deft	 35232	 35233	 O	 -1	 -1	 0
 
 To	 data/source_txt/t5_economic_2_202.deft	 35233	 35235	 O	 -1	 -1	 0
@@ -989,19 +989,19 @@ wrote	 data/source_txt/t5_economic_2_202.deft	 40549	 40554	 O	 -1	 -1	 0
 a	 data/source_txt/t5_economic_2_202.deft	 40555	 40556	 O	 -1	 -1	 0
 treatise	 data/source_txt/t5_economic_2_202.deft	 40557	 40565	 O	 -1	 -1	 0
 called	 data/source_txt/t5_economic_2_202.deft	 40566	 40572	 O	 -1	 -1	 0
-On	 data/source_txt/t5_economic_2_202.deft	 40573	 40575	 B-Term	 T124	 0	 Refers-To
-the	 data/source_txt/t5_economic_2_202.deft	 40576	 40579	 I-Term	 T124	 0	 Refers-To
-Principles	 data/source_txt/t5_economic_2_202.deft	 40580	 40590	 I-Term	 T124	 0	 Refers-To
-of	 data/source_txt/t5_economic_2_202.deft	 40591	 40593	 I-Term	 T124	 0	 Refers-To
-Political	 data/source_txt/t5_economic_2_202.deft	 40594	 40603	 I-Term	 T124	 0	 Refers-To
-Economy	 data/source_txt/t5_economic_2_202.deft	 40604	 40611	 I-Term	 T124	 0	 Refers-To
-and	 data/source_txt/t5_economic_2_202.deft	 40612	 40615	 I-Term	 T124	 0	 Refers-To
-Taxation	 data/source_txt/t5_economic_2_202.deft	 40616	 40624	 I-Term	 T124	 0	 Refers-To
+On	 data/source_txt/t5_economic_2_202.deft	 40573	 40575	 B-Term	 T124	 0	 0
+the	 data/source_txt/t5_economic_2_202.deft	 40576	 40579	 I-Term	 T124	 0	 0
+Principles	 data/source_txt/t5_economic_2_202.deft	 40580	 40590	 I-Term	 T124	 0	 0
+of	 data/source_txt/t5_economic_2_202.deft	 40591	 40593	 I-Term	 T124	 0	 0
+Political	 data/source_txt/t5_economic_2_202.deft	 40594	 40603	 I-Term	 T124	 0	 0
+Economy	 data/source_txt/t5_economic_2_202.deft	 40604	 40611	 I-Term	 T124	 0	 0
+and	 data/source_txt/t5_economic_2_202.deft	 40612	 40615	 I-Term	 T124	 0	 0
+Taxation	 data/source_txt/t5_economic_2_202.deft	 40616	 40624	 I-Term	 T124	 0	 0
 .	 data/source_txt/t5_economic_2_202.deft	 40624	 40625	 O	 -1	 -1	 0
 
 In	 data/source_txt/t5_economic_2_202.deft	 40632	 40634	 O	 -1	 -1	 0
-this	 data/source_txt/t5_economic_2_202.deft	 40635	 40639	 B-Referential-Term	 T123	 0	 Indirect-Defines
-treatise	 data/source_txt/t5_economic_2_202.deft	 40640	 40648	 I-Referential-Term	 T123	 0	 Indirect-Defines
+this	 data/source_txt/t5_economic_2_202.deft	 40635	 40639	 B-Referential-Term	 T123	 T124	 Refers-To
+treatise	 data/source_txt/t5_economic_2_202.deft	 40640	 40648	 I-Referential-Term	 T123	 T124	 Refers-To
 ,	 data/source_txt/t5_economic_2_202.deft	 40648	 40649	 O	 -1	 -1	 0
 Ricardo	 data/source_txt/t5_economic_2_202.deft	 40650	 40657	 O	 -1	 -1	 0
 argued	 data/source_txt/t5_economic_2_202.deft	 40658	 40664	 O	 -1	 -1	 0

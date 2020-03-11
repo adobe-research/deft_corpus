@@ -484,6 +484,7 @@ ensured	 data/source_txt/t7_government_0_0.deft	 19845	 19852	 O
 equal	 data/source_txt/t7_government_0_0.deft	 19853	 19858	 O
 protection	 data/source_txt/t7_government_0_0.deft	 19859	 19869	 O
 .	 data/source_txt/t7_government_0_0.deft	 19869	 19870	 O
+
 The	 data/source_txt/t7_government_0_0.deft	 19870	 19873	 B-Term
 supremacy	 data/source_txt/t7_government_0_0.deft	 19874	 19883	 I-Term
 clause	 data/source_txt/t7_government_0_0.deft	 19884	 19890	 I-Term

@@ -75,10 +75,10 @@ May	 data/source_txt/t7_government_0_404.deft	 334	 337	 O	 -1	 -1	 0
 7050	 data/source_txt/t7_government_0_404.deft	 4610	 4614	 O	 -1	 -1	 0
 .	 data/source_txt/t7_government_0_404.deft	 4614	 4615	 O	 -1	 -1	 0
 
-The	 data/source_txt/t7_government_0_404.deft	 4616	 4619	 B-Term	 T28	 0	 Direct-Defines
-secretary	 data/source_txt/t7_government_0_404.deft	 4620	 4629	 I-Term	 T28	 0	 Direct-Defines
-of	 data/source_txt/t7_government_0_404.deft	 4630	 4632	 I-Term	 T28	 0	 Direct-Defines
-state	 data/source_txt/t7_government_0_404.deft	 4633	 4638	 I-Term	 T28	 0	 Direct-Defines
+The	 data/source_txt/t7_government_0_404.deft	 4616	 4619	 B-Term	 T28	 0	 0
+secretary	 data/source_txt/t7_government_0_404.deft	 4620	 4629	 I-Term	 T28	 0	 0
+of	 data/source_txt/t7_government_0_404.deft	 4630	 4632	 I-Term	 T28	 0	 0
+state	 data/source_txt/t7_government_0_404.deft	 4633	 4638	 I-Term	 T28	 0	 0
 is	 data/source_txt/t7_government_0_404.deft	 4639	 4641	 O	 -1	 -1	 0
 the	 data/source_txt/t7_government_0_404.deft	 4642	 4645	 B-Definition	 T29	 T28	 Direct-Defines
 nation	 data/source_txt/t7_government_0_404.deft	 4646	 4652	 I-Definition	 T29	 T28	 Direct-Defines
@@ -100,10 +100,10 @@ Foreign	 data/source_txt/t7_government_0_404.deft	 4723	 4730	 I-Definition	 T29
 Service	 data/source_txt/t7_government_0_404.deft	 4731	 4738	 I-Definition	 T29	 T28	 Direct-Defines
 .	 data/source_txt/t7_government_0_404.deft	 4738	 4739	 O	 -1	 -1	 0
 
-The	 data/source_txt/t7_government_0_404.deft	 4748	 4751	 B-Term	 T30	 0	 Direct-Defines
-secretary	 data/source_txt/t7_government_0_404.deft	 4752	 4761	 I-Term	 T30	 0	 Direct-Defines
-of	 data/source_txt/t7_government_0_404.deft	 4762	 4764	 I-Term	 T30	 0	 Direct-Defines
-defense	 data/source_txt/t7_government_0_404.deft	 4765	 4772	 I-Term	 T30	 0	 Direct-Defines
+The	 data/source_txt/t7_government_0_404.deft	 4748	 4751	 B-Term	 T30	 0	 0
+secretary	 data/source_txt/t7_government_0_404.deft	 4752	 4761	 I-Term	 T30	 0	 0
+of	 data/source_txt/t7_government_0_404.deft	 4762	 4764	 I-Term	 T30	 0	 0
+defense	 data/source_txt/t7_government_0_404.deft	 4765	 4772	 I-Term	 T30	 0	 0
 ,	 data/source_txt/t7_government_0_404.deft	 4772	 4773	 O	 -1	 -1	 0
 who	 data/source_txt/t7_government_0_404.deft	 4774	 4777	 O	 -1	 -1	 0
 is	 data/source_txt/t7_government_0_404.deft	 4778	 4780	 O	 -1	 -1	 0
@@ -209,8 +209,8 @@ way	 data/source_txt/t7_government_0_404.deft	 7024	 7027	 O	 -1	 -1	 0
 The	 data/source_txt/t7_government_0_404.deft	 7037	 7040	 O	 -1	 -1	 0
 strategy	 data/source_txt/t7_government_0_404.deft	 7041	 7049	 O	 -1	 -1	 0
 of	 data/source_txt/t7_government_0_404.deft	 7050	 7052	 O	 -1	 -1	 0
-selective	 data/source_txt/t7_government_0_404.deft	 7053	 7062	 B-Term	 T22	 0	 Direct-Defines
-engagement	 data/source_txt/t7_government_0_404.deft	 7063	 7073	 I-Term	 T22	 0	 Direct-Defines
+selective	 data/source_txt/t7_government_0_404.deft	 7053	 7062	 B-Term	 T22	 0	 0
+engagement	 data/source_txt/t7_government_0_404.deft	 7063	 7073	 I-Term	 T22	 0	 0
 —	 data/source_txt/t7_government_0_404.deft	 7073	 7074	 O	 -1	 -1	 0
 retaining	 data/source_txt/t7_government_0_404.deft	 7074	 7083	 B-Definition	 T23	 T22	 Direct-Defines
 a	 data/source_txt/t7_government_0_404.deft	 7084	 7085	 I-Definition	 T23	 T22	 Direct-Defines
@@ -287,10 +287,10 @@ Society	 data/source_txt/t7_government_0_404.deft	 10515	 10522	 O	 -1	 -1	 0
 often	 data/source_txt/t7_government_0_404.deft	 10523	 10528	 O	 -1	 -1	 0
 worked	 data/source_txt/t7_government_0_404.deft	 10529	 10535	 O	 -1	 -1	 0
 with	 data/source_txt/t7_government_0_404.deft	 10536	 10540	 O	 -1	 -1	 0
-the	 data/source_txt/t7_government_0_404.deft	 10541	 10544	 B-Term	 T8	 0	 Direct-Defines
-Daughters	 data/source_txt/t7_government_0_404.deft	 10545	 10554	 I-Term	 T8	 0	 Direct-Defines
-of	 data/source_txt/t7_government_0_404.deft	 10555	 10557	 I-Term	 T8	 0	 Direct-Defines
-Bilitis	 data/source_txt/t7_government_0_404.deft	 10558	 10565	 I-Term	 T8	 0	 Direct-Defines
+the	 data/source_txt/t7_government_0_404.deft	 10541	 10544	 B-Term	 T8	 0	 0
+Daughters	 data/source_txt/t7_government_0_404.deft	 10545	 10554	 I-Term	 T8	 0	 0
+of	 data/source_txt/t7_government_0_404.deft	 10555	 10557	 I-Term	 T8	 0	 0
+Bilitis	 data/source_txt/t7_government_0_404.deft	 10558	 10565	 I-Term	 T8	 0	 0
 ,	 data/source_txt/t7_government_0_404.deft	 10565	 10566	 O	 -1	 -1	 0
 a	 data/source_txt/t7_government_0_404.deft	 10567	 10568	 B-Definition	 T9	 T8	 Direct-Defines
 lesbian	 data/source_txt/t7_government_0_404.deft	 10569	 10576	 I-Definition	 T9	 T8	 Direct-Defines

@@ -1063,6 +1063,16 @@ so	 data/source_txt/t4_psychology_2_202.deft	 6758	 6760	 I-Definition	 T38	 0	 
 on	 data/source_txt/t4_psychology_2_202.deft	 6761	 6763	 I-Definition	 T38	 0	 0
 .	 data/source_txt/t4_psychology_2_202.deft	 6763	 6764	 O	 -1	 -1	 0
 
+This	 data/source_txt/t4_psychology_2_202.deft	 6773	 6777	 B-Referential-Definition	 T39	 T38	 Refers-To
+process	 data/source_txt/t4_psychology_2_202.deft	 6778	 6785	 I-Referential-Definition	 T39	 T38	 Refers-To
+of	 data/source_txt/t4_psychology_2_202.deft	 6786	 6788	 I-Referential-Definition	 T39	 T38	 Refers-To
+cell	 data/source_txt/t4_psychology_2_202.deft	 6789	 6793	 I-Referential-Definition	 T39	 T38	 Refers-To
+division	 data/source_txt/t4_psychology_2_202.deft	 6794	 6802	 I-Referential-Definition	 T39	 T38	 Refers-To
+is	 data/source_txt/t4_psychology_2_202.deft	 6803	 6805	 O	 -1	 -1	 0
+called	 data/source_txt/t4_psychology_2_202.deft	 6806	 6812	 O	 -1	 -1	 0
+mitosis	 data/source_txt/t4_psychology_2_202.deft	 6813	 6820	 B-Term	 T37	 0	 0
+.	 data/source_txt/t4_psychology_2_202.deft	 6820	 6821	 O	 -1	 -1	 0
+
 This	 data/source_txt/t4_psychology_2_202.deft	 6773	 6777	 B-Referential-Definition	 T39	 T37	 Indirect-Defines
 process	 data/source_txt/t4_psychology_2_202.deft	 6778	 6785	 I-Referential-Definition	 T39	 T37	 Indirect-Defines
 of	 data/source_txt/t4_psychology_2_202.deft	 6786	 6788	 I-Referential-Definition	 T39	 T37	 Indirect-Defines

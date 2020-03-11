@@ -437,6 +437,64 @@ Megerian	 data/source_txt/t4_psychology_0_101.deft	 3025	 3033	 O	 -1	 -1	 0
 )	 data/source_txt/t4_psychology_0_101.deft	 3039	 3040	 O	 -1	 -1	 0
 .	 data/source_txt/t4_psychology_0_101.deft	 3040	 3041	 O	 -1	 -1	 0
 
+Although	 data/source_txt/t4_psychology_0_101.deft	 2766	 2774	 O	 -1	 -1	 0
+not	 data/source_txt/t4_psychology_0_101.deft	 2775	 2778	 O	 -1	 -1	 0
+well	 data/source_txt/t4_psychology_0_101.deft	 2779	 2783	 O	 -1	 -1	 0
+understood	 data/source_txt/t4_psychology_0_101.deft	 2784	 2794	 O	 -1	 -1	 0
+,	 data/source_txt/t4_psychology_0_101.deft	 2794	 2795	 O	 -1	 -1	 0
+Ménière	 data/source_txt/t4_psychology_0_101.deft	 2796	 2803	 O	 -1	 -1	 0
+'s	 data/source_txt/t4_psychology_0_101.deft	 2803	 2805	 O	 -1	 -1	 0
+disease	 data/source_txt/t4_psychology_0_101.deft	 2806	 2813	 O	 -1	 -1	 0
+results	 data/source_txt/t4_psychology_0_101.deft	 2814	 2821	 B-Definition	 T29	 T28	 Direct-Defines
+in	 data/source_txt/t4_psychology_0_101.deft	 2822	 2824	 I-Definition	 T29	 T28	 Direct-Defines
+a	 data/source_txt/t4_psychology_0_101.deft	 2825	 2826	 I-Definition	 T29	 T28	 Direct-Defines
+degeneration	 data/source_txt/t4_psychology_0_101.deft	 2827	 2839	 I-Definition	 T29	 T28	 Direct-Defines
+of	 data/source_txt/t4_psychology_0_101.deft	 2840	 2842	 I-Definition	 T29	 T28	 Direct-Defines
+inner	 data/source_txt/t4_psychology_0_101.deft	 2843	 2848	 I-Definition	 T29	 T28	 Direct-Defines
+ear	 data/source_txt/t4_psychology_0_101.deft	 2849	 2852	 I-Definition	 T29	 T28	 Direct-Defines
+structures	 data/source_txt/t4_psychology_0_101.deft	 2853	 2863	 I-Definition	 T29	 T28	 Direct-Defines
+that	 data/source_txt/t4_psychology_0_101.deft	 2864	 2868	 I-Definition	 T29	 T28	 Direct-Defines
+can	 data/source_txt/t4_psychology_0_101.deft	 2869	 2872	 I-Definition	 T29	 T28	 Direct-Defines
+lead	 data/source_txt/t4_psychology_0_101.deft	 2873	 2877	 I-Definition	 T29	 T28	 Direct-Defines
+to	 data/source_txt/t4_psychology_0_101.deft	 2878	 2880	 I-Definition	 T29	 T28	 Direct-Defines
+hearing	 data/source_txt/t4_psychology_0_101.deft	 2881	 2888	 I-Definition	 T29	 T28	 Direct-Defines
+loss	 data/source_txt/t4_psychology_0_101.deft	 2889	 2893	 I-Definition	 T29	 T28	 Direct-Defines
+,	 data/source_txt/t4_psychology_0_101.deft	 2893	 2894	 I-Definition	 T29	 T28	 Direct-Defines
+tinnitus	 data/source_txt/t4_psychology_0_101.deft	 2895	 2903	 I-Definition	 T29	 T28	 Direct-Defines
+(	 data/source_txt/t4_psychology_0_101.deft	 2904	 2905	 I-Definition	 T29	 T28	 Direct-Defines
+constant	 data/source_txt/t4_psychology_0_101.deft	 2905	 2913	 I-Definition	 T29	 T28	 Direct-Defines
+ringing	 data/source_txt/t4_psychology_0_101.deft	 2914	 2921	 I-Definition	 T29	 T28	 Direct-Defines
+or	 data/source_txt/t4_psychology_0_101.deft	 2922	 2924	 I-Definition	 T29	 T28	 Direct-Defines
+buzzing	 data/source_txt/t4_psychology_0_101.deft	 2925	 2932	 I-Definition	 T29	 T28	 Direct-Defines
+)	 data/source_txt/t4_psychology_0_101.deft	 2932	 2933	 I-Definition	 T29	 T28	 Direct-Defines
+,	 data/source_txt/t4_psychology_0_101.deft	 2933	 2934	 I-Definition	 T29	 T28	 Direct-Defines
+vertigo	 data/source_txt/t4_psychology_0_101.deft	 2935	 2942	 I-Definition	 T29	 T28	 Direct-Defines
+(	 data/source_txt/t4_psychology_0_101.deft	 2943	 2944	 I-Definition	 T29	 T28	 Direct-Defines
+a	 data/source_txt/t4_psychology_0_101.deft	 2944	 2945	 I-Definition	 T29	 T28	 Direct-Defines
+sense	 data/source_txt/t4_psychology_0_101.deft	 2946	 2951	 I-Definition	 T29	 T28	 Direct-Defines
+of	 data/source_txt/t4_psychology_0_101.deft	 2952	 2954	 I-Definition	 T29	 T28	 Direct-Defines
+spinning	 data/source_txt/t4_psychology_0_101.deft	 2955	 2963	 I-Definition	 T29	 T28	 Direct-Defines
+)	 data/source_txt/t4_psychology_0_101.deft	 2963	 2964	 I-Definition	 T29	 T28	 Direct-Defines
+,	 data/source_txt/t4_psychology_0_101.deft	 2964	 2965	 I-Definition	 T29	 T28	 Direct-Defines
+and	 data/source_txt/t4_psychology_0_101.deft	 2966	 2969	 I-Definition	 T29	 T28	 Direct-Defines
+an	 data/source_txt/t4_psychology_0_101.deft	 2970	 2972	 I-Definition	 T29	 T28	 Direct-Defines
+increase	 data/source_txt/t4_psychology_0_101.deft	 2973	 2981	 I-Definition	 T29	 T28	 Direct-Defines
+in	 data/source_txt/t4_psychology_0_101.deft	 2982	 2984	 I-Definition	 T29	 T28	 Direct-Defines
+pressure	 data/source_txt/t4_psychology_0_101.deft	 2985	 2993	 I-Definition	 T29	 T28	 Direct-Defines
+within	 data/source_txt/t4_psychology_0_101.deft	 2994	 3000	 I-Definition	 T29	 T28	 Direct-Defines
+the	 data/source_txt/t4_psychology_0_101.deft	 3001	 3004	 I-Definition	 T29	 T28	 Direct-Defines
+inner	 data/source_txt/t4_psychology_0_101.deft	 3005	 3010	 I-Definition	 T29	 T28	 Direct-Defines
+ear	 data/source_txt/t4_psychology_0_101.deft	 3011	 3014	 I-Definition	 T29	 T28	 Direct-Defines
+(	 data/source_txt/t4_psychology_0_101.deft	 3015	 3016	 O	 -1	 -1	 0
+Semaan	 data/source_txt/t4_psychology_0_101.deft	 3016	 3022	 O	 -1	 -1	 0
+&	 data/source_txt/t4_psychology_0_101.deft	 3023	 3024	 O	 -1	 -1	 0
+Megerian	 data/source_txt/t4_psychology_0_101.deft	 3025	 3033	 O	 -1	 -1	 0
+,	 data/source_txt/t4_psychology_0_101.deft	 3033	 3034	 O	 -1	 -1	 0
+2011	 data/source_txt/t4_psychology_0_101.deft	 3035	 3039	 O	 -1	 -1	 0
+)	 data/source_txt/t4_psychology_0_101.deft	 3039	 3040	 O	 -1	 -1	 0
+.	 data/source_txt/t4_psychology_0_101.deft	 3040	 3041	 O	 -1	 -1	 0
+
+
 3637	 data/source_txt/t4_psychology_0_101.deft	 3045	 3049	 O	 -1	 -1	 0
 .	 data/source_txt/t4_psychology_0_101.deft	 3049	 3050	 O	 -1	 -1	 0
 
@@ -800,6 +858,17 @@ get	 data/source_txt/t4_psychology_0_101.deft	 4854	 4857	 I-Definition	 T272	 0
 exaggerated	 data/source_txt/t4_psychology_0_101.deft	 4858	 4869	 I-Definition	 T272	 0	 0
 .	 data/source_txt/t4_psychology_0_101.deft	 4869	 4870	 O	 -1	 -1	 0
 
+This	 data/source_txt/t4_psychology_0_101.deft	 4879	 4883	 B-Referential-Definition	 T274	 T272	 Refers-To
+type	 data/source_txt/t4_psychology_0_101.deft	 4884	 4888	 I-Referential-Definition	 T274	 T272	 Refers-To
+of	 data/source_txt/t4_psychology_0_101.deft	 4889	 4891	 I-Referential-Definition	 T274	 T272	 Refers-To
+pain	 data/source_txt/t4_psychology_0_101.deft	 4892	 4896	 I-Referential-Definition	 T274	 T272	 Refers-To
+is	 data/source_txt/t4_psychology_0_101.deft	 4897	 4899	 O	 -1	 -1	 0
+known	 data/source_txt/t4_psychology_0_101.deft	 4900	 4905	 O	 -1	 -1	 0
+as	 data/source_txt/t4_psychology_0_101.deft	 4906	 4908	 O	 -1	 -1	 0
+neuropathic	 data/source_txt/t4_psychology_0_101.deft	 4909	 4920	 B-Term	 T273	 0	 0
+pain	 data/source_txt/t4_psychology_0_101.deft	 4921	 4925	 I-Term	 T273	 0	 0
+.	 data/source_txt/t4_psychology_0_101.deft	 4925	 4926	 O	 -1	 -1	 0
+
 This	 data/source_txt/t4_psychology_0_101.deft	 4879	 4883	 B-Referential-Definition	 T274	 T273	 Indirect-Defines
 type	 data/source_txt/t4_psychology_0_101.deft	 4884	 4888	 I-Referential-Definition	 T274	 T273	 Indirect-Defines
 of	 data/source_txt/t4_psychology_0_101.deft	 4889	 4891	 I-Referential-Definition	 T274	 T273	 Indirect-Defines
@@ -808,7 +877,7 @@ is	 data/source_txt/t4_psychology_0_101.deft	 4897	 4899	 O	 -1	 -1	 0
 known	 data/source_txt/t4_psychology_0_101.deft	 4900	 4905	 O	 -1	 -1	 0
 as	 data/source_txt/t4_psychology_0_101.deft	 4906	 4908	 O	 -1	 -1	 0
 neuropathic	 data/source_txt/t4_psychology_0_101.deft	 4909	 4920	 B-Term	 T273	 0	 0
-pain	 data/source_txt/t4_psychology_0_101.deft	 4921	 4925	 I-Term	 T273	 0	 0
+pain	 data/source_txt/t4_psychology_0_101.deft	 4892	 4896	 I-Referential-Definition	 T274	 T273	 Indirect-Defines
 .	 data/source_txt/t4_psychology_0_101.deft	 4925	 4926	 O	 -1	 -1	 0
 
 Multiple	 data/source_txt/t4_psychology_0_101.deft	 4933	 4941	 O	 -1	 -1	 0
@@ -1063,6 +1132,30 @@ to	 data/source_txt/t4_psychology_0_101.deft	 7464	 7466	 O	 -1	 -1	 0
 a	 data/source_txt/t4_psychology_0_101.deft	 7467	 7468	 O	 -1	 -1	 0
 given	 data/source_txt/t4_psychology_0_101.deft	 7469	 7474	 O	 -1	 -1	 0
 stimulus	 data/source_txt/t4_psychology_0_101.deft	 7475	 7483	 O	 -1	 -1	 0
+.	 data/source_txt/t4_psychology_0_101.deft	 7483	 7484	 O	 -1	 -1	 0
+
+The	 data/source_txt/t4_psychology_0_101.deft	 7375	 7378	 O	 -1	 -1	 0
+dogs	 data/source_txt/t4_psychology_0_101.deft	 7379	 7383	 O	 -1	 -1	 0
+’	 data/source_txt/t4_psychology_0_101.deft	 7383	 7384	 O	 -1	 -1	 0
+salivation	 data/source_txt/t4_psychology_0_101.deft	 7385	 7395	 O	 -1	 -1	 0
+was	 data/source_txt/t4_psychology_0_101.deft	 7396	 7399	 O	 -1	 -1	 0
+an	 data/source_txt/t4_psychology_0_101.deft	 7400	 7402	 B-Term	 T69	 0	 0
+unconditioned	 data/source_txt/t4_psychology_0_101.deft	 7403	 7416	 I-Term	 T69	 0	 0
+response	 data/source_txt/t4_psychology_0_101.deft	 7417	 7425	 I-Term	 T69	 0	 0
+(	 data/source_txt/t4_psychology_0_101.deft	 7426	 7427	 O	 -1	 -1	 0
+UCR	 data/source_txt/t4_psychology_0_101.deft	 7427	 7430	 B-Alias-Term	 T70	 T69	 AKA
+)	 data/source_txt/t4_psychology_0_101.deft	 7430	 7431	 O	 -1	 -1	 0
+:	 data/source_txt/t4_psychology_0_101.deft	 7431	 7432	 O	 -1	 -1	 0
+a	 data/source_txt/t4_psychology_0_101.deft	 7433	 7434	 B-Definition	 T71	 T69	 Direct-Defines
+natural	 data/source_txt/t4_psychology_0_101.deft	 7435	 7442	 I-Definition	 T71	 T69	 Direct-Defines
+(	 data/source_txt/t4_psychology_0_101.deft	 7443	 7444	 I-Definition	 T71	 T69	 Direct-Defines
+unlearned	 data/source_txt/t4_psychology_0_101.deft	 7444	 7453	 I-Definition	 T71	 T69	 Direct-Defines
+)	 data/source_txt/t4_psychology_0_101.deft	 7453	 7454	 I-Definition	 T71	 T69	 Direct-Defines
+reaction	 data/source_txt/t4_psychology_0_101.deft	 7455	 7463	 I-Definition	 T71	 T69	 Direct-Defines
+to	 data/source_txt/t4_psychology_0_101.deft	 7464	 7466	 I-Definition	 T71	 T69	 Direct-Defines
+a	 data/source_txt/t4_psychology_0_101.deft	 7467	 7468	 I-Definition	 T71	 T69	 Direct-Defines
+given	 data/source_txt/t4_psychology_0_101.deft	 7469	 7474	 I-Definition	 T71	 T69	 Direct-Defines
+stimulus	 data/source_txt/t4_psychology_0_101.deft	 7475	 7483	 I-Definition	 T71	 T69	 Direct-Defines
 .	 data/source_txt/t4_psychology_0_101.deft	 7483	 7484	 O	 -1	 -1	 0
 
 

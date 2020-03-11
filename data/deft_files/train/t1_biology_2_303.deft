@@ -738,6 +738,13 @@ ectoderm	 data/source_txt/t1_biology_2_303.deft	 4433	 4441	 I-Definition	 T37	 
 )	 data/source_txt/t1_biology_2_303.deft	 4441	 4442	 I-Definition	 T37	 0	 0
 .	 data/source_txt/t1_biology_2_303.deft	 4442	 4443	 O	 -1	 -1	 0
 
+These	 data/source_txt/t1_biology_2_303.deft	 4452	 4457	 B-Referential-Definition	 T200	 T36	 Indirect-Defines
+animals	 data/source_txt/t1_biology_2_303.deft	 4458	 4465	 I-Referential-Definition	 T200	 T36	 Indirect-Defines
+are	 data/source_txt/t1_biology_2_303.deft	 4466	 4469	 O	 -1	 -1	 0
+called	 data/source_txt/t1_biology_2_303.deft	 4470	 4476	 O	 -1	 -1	 0
+diploblasts	 data/source_txt/t1_biology_2_303.deft	 4477	 4488	 B-Term	 T36	 0	 0
+.	 data/source_txt/t1_biology_2_303.deft	 4488	 4489	 O	 -1	 -1	 0
+
 These	 data/source_txt/t1_biology_2_303.deft	 4452	 4457	 B-Referential-Definition	 T200	 T37	 Refers-To
 animals	 data/source_txt/t1_biology_2_303.deft	 4458	 4465	 I-Referential-Definition	 T200	 T37	 Refers-To
 are	 data/source_txt/t1_biology_2_303.deft	 4466	 4469	 O	 -1	 -1	 0
@@ -1303,6 +1310,32 @@ two	 data/source_txt/t1_biology_2_303.deft	 8629	 8632	 I-Definition	 T64	 T63	 
 embryonic	 data/source_txt/t1_biology_2_303.deft	 8633	 8642	 I-Definition	 T64	 T63	 Direct-Defines
 layers	 data/source_txt/t1_biology_2_303.deft	 8643	 8649	 I-Definition	 T64	 T63	 Direct-Defines
 .	 data/source_txt/t1_biology_2_303.deft	 8649	 8650	 O	 -1	 -1	 0
+
+Phylum	 data/source_txt/t1_biology_2_303.deft	 8509	 8515	 B-Term	 T61	 0	 0
+Cnidaria	 data/source_txt/t1_biology_2_303.deft	 8516	 8524	 I-Term	 T61	 0	 0
+includes	 data/source_txt/t1_biology_2_303.deft	 8525	 8533	 O	 -1	 -1	 0
+animals	 data/source_txt/t1_biology_2_303.deft	 8534	 8541	 B-Definition	 T62	 T61	 Direct-Defines
+that	 data/source_txt/t1_biology_2_303.deft	 8542	 8546	 I-Definition	 T62	 T61	 Direct-Defines
+show	 data/source_txt/t1_biology_2_303.deft	 8547	 8551	 I-Definition	 T62	 T61	 Direct-Defines
+radial	 data/source_txt/t1_biology_2_303.deft	 8552	 8558	 I-Definition	 T62	 T61	 Direct-Defines
+or	 data/source_txt/t1_biology_2_303.deft	 8559	 8561	 I-Definition	 T62	 T61	 Direct-Defines
+biradial	 data/source_txt/t1_biology_2_303.deft	 8562	 8570	 I-Definition	 T62	 T61	 Direct-Defines
+symmetry	 data/source_txt/t1_biology_2_303.deft	 8571	 8579	 I-Definition	 T62	 T61	 Direct-Defines
+and	 data/source_txt/t1_biology_2_303.deft	 8580	 8583	 I-Definition	 T62	 T61	 Direct-Defines
+are	 data/source_txt/t1_biology_2_303.deft	 8584	 8587	 I-Definition	 T62	 T61	 Direct-Defines
+diploblastic	 data/source_txt/t1_biology_2_303.deft	 8588	 8600	 I-Definition	 T62	 T61	 Direct-Defines
+,	 data/source_txt/t1_biology_2_303.deft	 8600	 8601	 O	 -1	 -1	 0
+that	 data/source_txt/t1_biology_2_303.deft	 8602	 8606	 O	 -1	 -1	 0
+is	 data/source_txt/t1_biology_2_303.deft	 8607	 8609	 O	 -1	 -1	 0
+,	 data/source_txt/t1_biology_2_303.deft	 8609	 8610	 O	 -1	 -1	 0
+they	 data/source_txt/t1_biology_2_303.deft	 8611	 8615	 B-Definition	 T64	 T63	 Direct-Defines
+develop	 data/source_txt/t1_biology_2_303.deft	 8616	 8623	 I-Definition	 T64	 T63	 Direct-Defines
+from	 data/source_txt/t1_biology_2_303.deft	 8624	 8628	 I-Definition	 T64	 T63	 Direct-Defines
+two	 data/source_txt/t1_biology_2_303.deft	 8629	 8632	 I-Definition	 T64	 T63	 Direct-Defines
+embryonic	 data/source_txt/t1_biology_2_303.deft	 8633	 8642	 I-Definition	 T64	 T63	 Direct-Defines
+layers	 data/source_txt/t1_biology_2_303.deft	 8643	 8649	 I-Definition	 T64	 T63	 Direct-Defines
+.	 data/source_txt/t1_biology_2_303.deft	 8649	 8650	 O	 -1	 -1	 0
+
 Nearly	 data/source_txt/t1_biology_2_303.deft	 8657	 8663	 O	 -1	 -1	 0
 all	 data/source_txt/t1_biology_2_303.deft	 8664	 8667	 O	 -1	 -1	 0
 (	 data/source_txt/t1_biology_2_303.deft	 8668	 8669	 O	 -1	 -1	 0
@@ -1331,6 +1364,31 @@ of	 data/source_txt/t1_biology_2_303.deft	 8762	 8764	 O	 -1	 -1	 0
 the	 data/source_txt/t1_biology_2_303.deft	 8765	 8768	 O	 -1	 -1	 0
 Obelia	 data/source_txt/t1_biology_2_303.deft	 8769	 8775	 O	 -1	 -1	 0
 .	 data/source_txt/t1_biology_2_303.deft	 8775	 8776	 O	 -1	 -1	 0
+
+All	 data/source_txt/t1_biology_2_303.deft	 8776	 8779	 O	 -1	 -1	 0
+cnidarians	 data/source_txt/t1_biology_2_303.deft	 8780	 8790	 O	 -1	 -1	 0
+show	 data/source_txt/t1_biology_2_303.deft	 8791	 8795	 O	 -1	 -1	 0
+the	 data/source_txt/t1_biology_2_303.deft	 8796	 8799	 B-Definition	 T245	 T247	 Direct-Defines
+presence	 data/source_txt/t1_biology_2_303.deft	 8800	 8808	 I-Definition	 T245	 T247	 Direct-Defines
+of	 data/source_txt/t1_biology_2_303.deft	 8809	 8811	 I-Definition	 T245	 T247	 Direct-Defines
+two	 data/source_txt/t1_biology_2_303.deft	 8812	 8815	 I-Definition	 T245	 T247	 Direct-Defines
+membrane	 data/source_txt/t1_biology_2_303.deft	 8816	 8824	 I-Definition	 T245	 T247	 Direct-Defines
+layers	 data/source_txt/t1_biology_2_303.deft	 8825	 8831	 I-Definition	 T245	 T247	 Direct-Defines
+in	 data/source_txt/t1_biology_2_303.deft	 8832	 8834	 I-Definition	 T245	 T247	 Direct-Defines
+the	 data/source_txt/t1_biology_2_303.deft	 8835	 8838	 I-Definition	 T245	 T247	 Direct-Defines
+body	 data/source_txt/t1_biology_2_303.deft	 8839	 8843	 I-Definition	 T245	 T247	 Direct-Defines
+that	 data/source_txt/t1_biology_2_303.deft	 8844	 8848	 I-Definition	 T245	 T247	 Direct-Defines
+are	 data/source_txt/t1_biology_2_303.deft	 8849	 8852	 I-Definition	 T245	 T247	 Direct-Defines
+derived	 data/source_txt/t1_biology_2_303.deft	 8853	 8860	 I-Definition	 T245	 T247	 Direct-Defines
+from	 data/source_txt/t1_biology_2_303.deft	 8861	 8865	 I-Definition	 T245	 T247	 Direct-Defines
+the	 data/source_txt/t1_biology_2_303.deft	 8866	 8869	 I-Definition	 T245	 T247	 Direct-Defines
+endoderm	 data/source_txt/t1_biology_2_303.deft	 8870	 8878	 I-Definition	 T245	 T247	 Direct-Defines
+and	 data/source_txt/t1_biology_2_303.deft	 8879	 8882	 I-Definition	 T245	 T247	 Direct-Defines
+ectoderm	 data/source_txt/t1_biology_2_303.deft	 8883	 8891	 I-Definition	 T245	 T247	 Direct-Defines
+of	 data/source_txt/t1_biology_2_303.deft	 8892	 8894	 I-Definition	 T245	 T247	 Direct-Defines
+the	 data/source_txt/t1_biology_2_303.deft	 8895	 8898	 I-Definition	 T245	 T247	 Direct-Defines
+embryo	 data/source_txt/t1_biology_2_303.deft	 8899	 8905	 I-Definition	 T245	 T247	 Direct-Defines
+.	 data/source_txt/t1_biology_2_303.deft	 8905	 8906	 O	 -1	 -1	 0
 
 All	 data/source_txt/t1_biology_2_303.deft	 8776	 8779	 O	 -1	 -1	 0
 cnidarians	 data/source_txt/t1_biology_2_303.deft	 8780	 8790	 O	 -1	 -1	 0
@@ -4917,6 +4975,27 @@ hormone	 data/source_txt/t1_biology_2_303.deft	 32660	 32667	 O	 -1	 -1	 0
 that	 data/source_txt/t1_biology_2_303.deft	 32668	 32672	 O	 -1	 -1	 0
 promotes	 data/source_txt/t1_biology_2_303.deft	 32673	 32681	 O	 -1	 -1	 0
 cytokinesis	 data/source_txt/t1_biology_2_303.deft	 32682	 32693	 B-Term	 T229	 0	 0
+(	 data/source_txt/t1_biology_2_303.deft	 32694	 32695	 O	 -1	 -1	 0
+cell	 data/source_txt/t1_biology_2_303.deft	 32695	 32699	 B-Definition	 T230	 T229	 Direct-Defines
+division	 data/source_txt/t1_biology_2_303.deft	 32700	 32708	 I-Definition	 T230	 T229	 Direct-Defines
+)	 data/source_txt/t1_biology_2_303.deft	 32708	 32709	 O	 -1	 -1	 0
+.	 data/source_txt/t1_biology_2_303.deft	 32709	 32710	 O	 -1	 -1	 0
+
+The	 data/source_txt/t1_biology_2_303.deft	 32601	 32604	 O	 -1	 -1	 0
+stimulating	 data/source_txt/t1_biology_2_303.deft	 32605	 32616	 O	 -1	 -1	 0
+growth	 data/source_txt/t1_biology_2_303.deft	 32617	 32623	 O	 -1	 -1	 0
+factor	 data/source_txt/t1_biology_2_303.deft	 32624	 32630	 O	 -1	 -1	 0
+was	 data/source_txt/t1_biology_2_303.deft	 32631	 32634	 O	 -1	 -1	 0
+found	 data/source_txt/t1_biology_2_303.deft	 32635	 32640	 O	 -1	 -1	 0
+to	 data/source_txt/t1_biology_2_303.deft	 32641	 32643	 O	 -1	 -1	 0
+be	 data/source_txt/t1_biology_2_303.deft	 32644	 32646	 O	 -1	 -1	 0
+cytokinin	 data/source_txt/t1_biology_2_303.deft	 32647	 32656	 B-Term	 T227	 0	 0
+,	 data/source_txt/t1_biology_2_303.deft	 32656	 32657	 O	 -1	 -1	 0
+a	 data/source_txt/t1_biology_2_303.deft	 32658	 32659	 B-Definition	 T228	 T227	 Direct-Defines
+hormone	 data/source_txt/t1_biology_2_303.deft	 32660	 32667	 I-Definition	 T228	 T227	 Direct-Defines
+that	 data/source_txt/t1_biology_2_303.deft	 32668	 32672	 I-Definition	 T228	 T227	 Direct-Defines
+promotes	 data/source_txt/t1_biology_2_303.deft	 32673	 32681	 I-Definition	 T228	 T227	 Direct-Defines
+cytokinesis	 data/source_txt/t1_biology_2_303.deft	 32682	 32693	 I-Definition	 T228	 T227	 Direct-Defines
 (	 data/source_txt/t1_biology_2_303.deft	 32694	 32695	 O	 -1	 -1	 0
 cell	 data/source_txt/t1_biology_2_303.deft	 32695	 32699	 B-Definition	 T230	 T229	 Direct-Defines
 division	 data/source_txt/t1_biology_2_303.deft	 32700	 32708	 I-Definition	 T230	 T229	 Direct-Defines

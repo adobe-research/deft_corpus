@@ -104,6 +104,27 @@ tests	 data/source_txt/t7_government_2_101.deft	 13389	 13394	 O	 -1	 -1	 0
 Some	 data/source_txt/t7_government_2_101.deft	 13404	 13408	 O	 -1	 -1	 0
 states	 data/source_txt/t7_government_2_101.deft	 13409	 13415	 O	 -1	 -1	 0
 introduced	 data/source_txt/t7_government_2_101.deft	 13416	 13426	 O	 -1	 -1	 0
+a	 data/source_txt/t7_government_2_101.deft	 13427	 13428	 B-Alias-Term	 T30	 T31	 AKA
+loophole	 data/source_txt/t7_government_2_101.deft	 13429	 13437	 I-Alias-Term	 T30	 T31	 AKA
+,	 data/source_txt/t7_government_2_101.deft	 13437	 13438	 O	 -1	 -1	 0
+known	 data/source_txt/t7_government_2_101.deft	 13439	 13444	 O	 -1	 -1	 0
+as	 data/source_txt/t7_government_2_101.deft	 13445	 13447	 O	 -1	 -1	 0
+the	 data/source_txt/t7_government_2_101.deft	 13448	 13451	 B-Term	 T31	 0	 0
+grandfather	 data/source_txt/t7_government_2_101.deft	 13452	 13463	 I-Term	 T31	 0	 0
+clause	 data/source_txt/t7_government_2_101.deft	 13464	 13470	 I-Term	 T31	 0	 0
+,	 data/source_txt/t7_government_2_101.deft	 13470	 13471	 O	 -1	 -1	 0
+to	 data/source_txt/t7_government_2_101.deft	 13472	 13474	 O	 -1	 -1	 0
+allow	 data/source_txt/t7_government_2_101.deft	 13475	 13480	 O	 -1	 -1	 0
+less	 data/source_txt/t7_government_2_101.deft	 13481	 13485	 O	 -1	 -1	 0
+literate	 data/source_txt/t7_government_2_101.deft	 13486	 13494	 O	 -1	 -1	 0
+whites	 data/source_txt/t7_government_2_101.deft	 13495	 13501	 O	 -1	 -1	 0
+to	 data/source_txt/t7_government_2_101.deft	 13502	 13504	 O	 -1	 -1	 0
+vote	 data/source_txt/t7_government_2_101.deft	 13505	 13509	 O	 -1	 -1	 0
+.	 data/source_txt/t7_government_2_101.deft	 13509	 13510	 O	 -1	 -1	 0
+
+Some	 data/source_txt/t7_government_2_101.deft	 13404	 13408	 O	 -1	 -1	 0
+states	 data/source_txt/t7_government_2_101.deft	 13409	 13415	 O	 -1	 -1	 0
+introduced	 data/source_txt/t7_government_2_101.deft	 13416	 13426	 O	 -1	 -1	 0
 a	 data/source_txt/t7_government_2_101.deft	 13427	 13428	 B-Alias-Term	 T30	 T33	 AKA
 loophole	 data/source_txt/t7_government_2_101.deft	 13429	 13437	 I-Alias-Term	 T30	 T33	 AKA
 ,	 data/source_txt/t7_government_2_101.deft	 13437	 13438	 O	 -1	 -1	 0

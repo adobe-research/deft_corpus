@@ -42,13 +42,13 @@ corolla	 data/source_txt/t1_biology_2_404.deft	 2399	 2406	 I-Definition	 T22	 T
 are	 data/source_txt/t1_biology_2_404.deft	 2407	 2410	 O	 -1	 -1	 0
 known	 data/source_txt/t1_biology_2_404.deft	 2411	 2416	 O	 -1	 -1	 0
 as	 data/source_txt/t1_biology_2_404.deft	 2417	 2419	 O	 -1	 -1	 0
-the	 data/source_txt/t1_biology_2_404.deft	 2420	 2423	 B-Term	 T21	 0	 Direct-Defines
-perianth	 data/source_txt/t1_biology_2_404.deft	 2424	 2432	 I-Term	 T21	 0	 Direct-Defines
+the	 data/source_txt/t1_biology_2_404.deft	 2420	 2423	 B-Term	 T21	 0	 0
+perianth	 data/source_txt/t1_biology_2_404.deft	 2424	 2432	 I-Term	 T21	 0	 0
 .	 data/source_txt/t1_biology_2_404.deft	 2432	 2433	 O	 -1	 -1	 0
 
-The	 data/source_txt/t1_biology_2_404.deft	 2440	 2443	 B-Term	 T24	 0	 Direct-Defines
-third	 data/source_txt/t1_biology_2_404.deft	 2444	 2449	 I-Term	 T24	 0	 Direct-Defines
-whorl	 data/source_txt/t1_biology_2_404.deft	 2450	 2455	 I-Term	 T24	 0	 Direct-Defines
+The	 data/source_txt/t1_biology_2_404.deft	 2440	 2443	 B-Term	 T24	 0	 0
+third	 data/source_txt/t1_biology_2_404.deft	 2444	 2449	 I-Term	 T24	 0	 0
+whorl	 data/source_txt/t1_biology_2_404.deft	 2450	 2455	 I-Term	 T24	 0	 0
 contains	 data/source_txt/t1_biology_2_404.deft	 2456	 2464	 B-Definition	 T23	 T24	 Direct-Defines
 the	 data/source_txt/t1_biology_2_404.deft	 2465	 2468	 I-Definition	 T23	 T24	 Direct-Defines
 male	 data/source_txt/t1_biology_2_404.deft	 2469	 2473	 I-Definition	 T23	 T24	 Direct-Defines
@@ -105,8 +105,8 @@ root	 data/source_txt/t1_biology_2_404.deft	 6244	 6248	 I-Definition	 T52	 T51	
 tip	 data/source_txt/t1_biology_2_404.deft	 6249	 6252	 I-Definition	 T52	 T51	 Direct-Defines
 covering	 data/source_txt/t1_biology_2_404.deft	 6253	 6261	 I-Definition	 T52	 T51	 Direct-Defines
 :	 data/source_txt/t1_biology_2_404.deft	 6261	 6262	 O	 -1	 -1	 0
-the	 data/source_txt/t1_biology_2_404.deft	 6263	 6266	 B-Term	 T51	 0	 Direct-Defines
-coleorhiza	 data/source_txt/t1_biology_2_404.deft	 6267	 6277	 I-Term	 T51	 0	 Direct-Defines
+the	 data/source_txt/t1_biology_2_404.deft	 6263	 6266	 B-Term	 T51	 0	 0
+coleorhiza	 data/source_txt/t1_biology_2_404.deft	 6267	 6277	 I-Term	 T51	 0	 0
 .	 data/source_txt/t1_biology_2_404.deft	 6277	 6278	 O	 -1	 -1	 0
 
 Next	 data/source_txt/t1_biology_2_404.deft	 6285	 6289	 O	 -1	 -1	 0
@@ -119,7 +119,7 @@ emerges	 data/source_txt/t1_biology_2_404.deft	 6309	 6316	 O	 -1	 -1	 0
 protected	 data/source_txt/t1_biology_2_404.deft	 6318	 6327	 O	 -1	 -1	 0
 by	 data/source_txt/t1_biology_2_404.deft	 6328	 6330	 O	 -1	 -1	 0
 the	 data/source_txt/t1_biology_2_404.deft	 6331	 6334	 O	 -1	 -1	 0
-coleoptile	 data/source_txt/t1_biology_2_404.deft	 6335	 6345	 B-Term	 T53	 0	 Direct-Defines
+coleoptile	 data/source_txt/t1_biology_2_404.deft	 6335	 6345	 B-Term	 T53	 0	 0
 :	 data/source_txt/t1_biology_2_404.deft	 6345	 6346	 O	 -1	 -1	 0
 the	 data/source_txt/t1_biology_2_404.deft	 6347	 6350	 B-Definition	 T54	 T53	 Direct-Defines
 covering	 data/source_txt/t1_biology_2_404.deft	 6351	 6359	 I-Definition	 T54	 T53	 Direct-Defines
@@ -133,7 +133,7 @@ tip	 data/source_txt/t1_biology_2_404.deft	 6373	 6376	 I-Definition	 T54	 T53	 
 1290	 data/source_txt/t1_biology_2_404.deft	 8539	 8543	 O	 -1	 -1	 0
 .	 data/source_txt/t1_biology_2_404.deft	 8543	 8544	 O	 -1	 -1	 0
 
-Torpor	 data/source_txt/t1_biology_2_404.deft	 8545	 8551	 B-Term	 T77	 0	 Direct-Defines
+Torpor	 data/source_txt/t1_biology_2_404.deft	 8545	 8551	 B-Term	 T77	 0	 0
 is	 data/source_txt/t1_biology_2_404.deft	 8552	 8554	 O	 -1	 -1	 0
 a	 data/source_txt/t1_biology_2_404.deft	 8555	 8556	 B-Definition	 T78	 T77	 Direct-Defines
 process	 data/source_txt/t1_biology_2_404.deft	 8557	 8564	 I-Definition	 T78	 T77	 Direct-Defines
@@ -249,7 +249,7 @@ water	 data/source_txt/t1_biology_2_404.deft	 9112	 9117	 I-Definition	 T80	 T79
 it	 data/source_txt/t1_biology_2_404.deft	 9119	 9121	 O	 -1	 -1	 0
 is	 data/source_txt/t1_biology_2_404.deft	 9122	 9124	 O	 -1	 -1	 0
 called	 data/source_txt/t1_biology_2_404.deft	 9125	 9131	 O	 -1	 -1	 0
-estivation	 data/source_txt/t1_biology_2_404.deft	 9132	 9142	 B-Term	 T79	 0	 Direct-Defines
+estivation	 data/source_txt/t1_biology_2_404.deft	 9132	 9142	 B-Term	 T79	 0	 0
 .	 data/source_txt/t1_biology_2_404.deft	 9142	 9143	 O	 -1	 -1	 0
 
 

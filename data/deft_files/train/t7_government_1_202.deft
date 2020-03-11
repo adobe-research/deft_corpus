@@ -6944,6 +6944,16 @@ representatives	 data/source_txt/t7_government_1_202.deft	 37904	 37919	 I-Defin
 themselves	 data/source_txt/t7_government_1_202.deft	 37920	 37930	 I-Definition	 T88	 0	 0
 .	 data/source_txt/t7_government_1_202.deft	 37930	 37931	 O	 -1	 -1	 0
 
+This	 data/source_txt/t7_government_1_202.deft	 37940	 37944	 B-Referential-Definition	 T89	 T88	 Refers-To
+form	 data/source_txt/t7_government_1_202.deft	 37945	 37949	 I-Referential-Definition	 T89	 T88	 Refers-To
+of	 data/source_txt/t7_government_1_202.deft	 37950	 37952	 I-Referential-Definition	 T89	 T88	 Refers-To
+representation	 data/source_txt/t7_government_1_202.deft	 37953	 37967	 I-Referential-Definition	 T89	 T88	 Refers-To
+is	 data/source_txt/t7_government_1_202.deft	 37968	 37970	 O	 -1	 -1	 0
+called	 data/source_txt/t7_government_1_202.deft	 37971	 37977	 O	 -1	 -1	 0
+descriptive	 data/source_txt/t7_government_1_202.deft	 37978	 37989	 B-Term	 T90	 0	 0
+representation	 data/source_txt/t7_government_1_202.deft	 37990	 38004	 I-Term	 T90	 0	 0
+.	 data/source_txt/t7_government_1_202.deft	 38004	 38005	 O	 -1	 -1	 0
+
 This	 data/source_txt/t7_government_1_202.deft	 37940	 37944	 B-Referential-Definition	 T89	 T90	 Indirect-Defines
 form	 data/source_txt/t7_government_1_202.deft	 37945	 37949	 I-Referential-Definition	 T89	 T90	 Indirect-Defines
 of	 data/source_txt/t7_government_1_202.deft	 37950	 37952	 I-Referential-Definition	 T89	 T90	 Indirect-Defines
@@ -6951,7 +6961,7 @@ representation	 data/source_txt/t7_government_1_202.deft	 37953	 37967	 I-Refere
 is	 data/source_txt/t7_government_1_202.deft	 37968	 37970	 O	 -1	 -1	 0
 called	 data/source_txt/t7_government_1_202.deft	 37971	 37977	 O	 -1	 -1	 0
 descriptive	 data/source_txt/t7_government_1_202.deft	 37978	 37989	 B-Term	 T90	 0	 0
-representation	 data/source_txt/t7_government_1_202.deft	 37990	 38004	 I-Term	 T90	 0	 0
+representation	 data/source_txt/t7_government_1_202.deft	 37953	 37967	 I-Referential-Definition	 T89	 T90	 Indirect-Defines
 .	 data/source_txt/t7_government_1_202.deft	 38004	 38005	 O	 -1	 -1	 0
 
 
@@ -7844,6 +7854,31 @@ the	 data/source_txt/t7_government_1_202.deft	 42722	 42725	 B-Term	 T98	 0	 0
 Monroe	 data/source_txt/t7_government_1_202.deft	 42726	 42732	 I-Term	 T98	 0	 0
 Doctrine	 data/source_txt/t7_government_1_202.deft	 42733	 42741	 I-Term	 T98	 0	 0
 ,	 data/source_txt/t7_government_1_202.deft	 42741	 42742	 O	 -1	 -1	 0
+this	 data/source_txt/t7_government_1_202.deft	 42743	 42747	 B-Referential-Definition	 T99	 T97	 Refers-To
+declaration	 data/source_txt/t7_government_1_202.deft	 42748	 42759	 I-Referential-Definition	 T99	 T97	 Refers-To
+of	 data/source_txt/t7_government_1_202.deft	 42760	 42762	 I-Referential-Definition	 T99	 T97	 Refers-To
+principles	 data/source_txt/t7_government_1_202.deft	 42763	 42773	 I-Referential-Definition	 T99	 T97	 Refers-To
+laid	 data/source_txt/t7_government_1_202.deft	 42774	 42778	 O	 -1	 -1	 0
+the	 data/source_txt/t7_government_1_202.deft	 42779	 42782	 O	 -1	 -1	 0
+foundation	 data/source_txt/t7_government_1_202.deft	 42783	 42793	 O	 -1	 -1	 0
+for	 data/source_txt/t7_government_1_202.deft	 42794	 42797	 O	 -1	 -1	 0
+the	 data/source_txt/t7_government_1_202.deft	 42798	 42801	 O	 -1	 -1	 0
+growth	 data/source_txt/t7_government_1_202.deft	 42802	 42808	 O	 -1	 -1	 0
+of	 data/source_txt/t7_government_1_202.deft	 42809	 42811	 O	 -1	 -1	 0
+American	 data/source_txt/t7_government_1_202.deft	 42812	 42820	 O	 -1	 -1	 0
+power	 data/source_txt/t7_government_1_202.deft	 42821	 42826	 O	 -1	 -1	 0
+in	 data/source_txt/t7_government_1_202.deft	 42827	 42829	 O	 -1	 -1	 0
+the	 data/source_txt/t7_government_1_202.deft	 42830	 42833	 O	 -1	 -1	 0
+twentieth	 data/source_txt/t7_government_1_202.deft	 42834	 42843	 O	 -1	 -1	 0
+century	 data/source_txt/t7_government_1_202.deft	 42844	 42851	 O	 -1	 -1	 0
+.	 data/source_txt/t7_government_1_202.deft	 42851	 42852	 O	 -1	 -1	 0
+
+Later	 data/source_txt/t7_government_1_202.deft	 42709	 42714	 O	 -1	 -1	 0
+dubbed	 data/source_txt/t7_government_1_202.deft	 42715	 42721	 O	 -1	 -1	 0
+the	 data/source_txt/t7_government_1_202.deft	 42722	 42725	 B-Term	 T98	 0	 0
+Monroe	 data/source_txt/t7_government_1_202.deft	 42726	 42732	 I-Term	 T98	 0	 0
+Doctrine	 data/source_txt/t7_government_1_202.deft	 42733	 42741	 I-Term	 T98	 0	 0
+,	 data/source_txt/t7_government_1_202.deft	 42741	 42742	 O	 -1	 -1	 0
 this	 data/source_txt/t7_government_1_202.deft	 42743	 42747	 B-Referential-Definition	 T99	 T98	 Indirect-Defines
 declaration	 data/source_txt/t7_government_1_202.deft	 42748	 42759	 I-Referential-Definition	 T99	 T98	 Indirect-Defines
 of	 data/source_txt/t7_government_1_202.deft	 42760	 42762	 I-Referential-Definition	 T99	 T98	 Indirect-Defines
@@ -8357,6 +8392,35 @@ their	 data/source_txt/t7_government_1_202.deft	 45620	 45625	 I-Definition	 T10
 respective	 data/source_txt/t7_government_1_202.deft	 45626	 45636	 I-Definition	 T104	 T107	 Indirect-Defines
 parties	 data/source_txt/t7_government_1_202.deft	 45637	 45644	 I-Definition	 T104	 T107	 Indirect-Defines
 .	 data/source_txt/t7_government_1_202.deft	 45644	 45645	 O	 -1	 -1	 0
+
+The	 data/source_txt/t7_government_1_202.deft	 45495	 45498	 B-Term	 T105	 0	 0
+caucus	 data/source_txt/t7_government_1_202.deft	 45499	 45505	 I-Term	 T105	 0	 0
+or	 data/source_txt/t7_government_1_202.deft	 45506	 45508	 O	 -1	 -1	 0
+large	 data/source_txt/t7_government_1_202.deft	 45509	 45514	 B-Definition	 T106	 T105	 Direct-Defines
+-	 data/source_txt/t7_government_1_202.deft	 45514	 45515	 I-Definition	 T106	 T105	 Direct-Defines
+scale	 data/source_txt/t7_government_1_202.deft	 45515	 45520	 I-Definition	 T106	 T105	 Direct-Defines
+gathering	 data/source_txt/t7_government_1_202.deft	 45521	 45530	 I-Definition	 T106	 T105	 Direct-Defines
+was	 data/source_txt/t7_government_1_202.deft	 45531	 45534	 O	 -1	 -1	 0
+made	 data/source_txt/t7_government_1_202.deft	 45535	 45539	 B-Definition	 T104	 T107	 Indirect-Defines
+up	 data/source_txt/t7_government_1_202.deft	 45540	 45542	 I-Definition	 T104	 T107	 Indirect-Defines
+of	 data/source_txt/t7_government_1_202.deft	 45543	 45545	 I-Definition	 T104	 T107	 Indirect-Defines
+legislators	 data/source_txt/t7_government_1_202.deft	 45546	 45557	 I-Definition	 T104	 T107	 Indirect-Defines
+in	 data/source_txt/t7_government_1_202.deft	 45558	 45560	 I-Definition	 T104	 T107	 Indirect-Defines
+the	 data/source_txt/t7_government_1_202.deft	 45561	 45564	 I-Definition	 T104	 T107	 Indirect-Defines
+Congress	 data/source_txt/t7_government_1_202.deft	 45565	 45573	 I-Definition	 T104	 T107	 Indirect-Defines
+who	 data/source_txt/t7_government_1_202.deft	 45574	 45577	 I-Definition	 T104	 T107	 Indirect-Defines
+met	 data/source_txt/t7_government_1_202.deft	 45578	 45581	 I-Definition	 T104	 T107	 Indirect-Defines
+informally	 data/source_txt/t7_government_1_202.deft	 45582	 45592	 I-Definition	 T104	 T107	 Indirect-Defines
+to	 data/source_txt/t7_government_1_202.deft	 45593	 45595	 I-Definition	 T104	 T107	 Indirect-Defines
+decide	 data/source_txt/t7_government_1_202.deft	 45596	 45602	 I-Definition	 T104	 T107	 Indirect-Defines
+on	 data/source_txt/t7_government_1_202.deft	 45603	 45605	 I-Definition	 T104	 T107	 Indirect-Defines
+nominees	 data/source_txt/t7_government_1_202.deft	 45606	 45614	 I-Definition	 T104	 T107	 Indirect-Defines
+from	 data/source_txt/t7_government_1_202.deft	 45615	 45619	 I-Definition	 T104	 T107	 Indirect-Defines
+their	 data/source_txt/t7_government_1_202.deft	 45620	 45625	 I-Definition	 T104	 T107	 Indirect-Defines
+respective	 data/source_txt/t7_government_1_202.deft	 45626	 45636	 I-Definition	 T104	 T107	 Indirect-Defines
+parties	 data/source_txt/t7_government_1_202.deft	 45637	 45644	 I-Definition	 T104	 T107	 Indirect-Defines
+.	 data/source_txt/t7_government_1_202.deft	 45644	 45645	 O	 -1	 -1	 0
+
 
 6686	 data/source_txt/t7_government_1_202.deft	 45649	 45653	 O	 -1	 -1	 0
 .	 data/source_txt/t7_government_1_202.deft	 45653	 45654	 O	 -1	 -1	 0

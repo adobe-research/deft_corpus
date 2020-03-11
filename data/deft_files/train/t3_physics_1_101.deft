@@ -374,6 +374,28 @@ a	 data/source_txt/t3_physics_1_101.deft	 2692	 2693	 B-Term	 T212	 0	 0
 corotron	 data/source_txt/t3_physics_1_101.deft	 2694	 2702	 I-Term	 T212	 0	 0
 .	 data/source_txt/t3_physics_1_101.deft	 2702	 2703	 O	 -1	 -1	 0
 
+A	 data/source_txt/t3_physics_1_101.deft	 2597	 2598	 B-Definition	 T210	 T212	 Direct-Defines
+selenium	 data/source_txt/t3_physics_1_101.deft	 2599	 2607	 I-Definition	 T210	 T212	 Direct-Defines
+-	 data/source_txt/t3_physics_1_101.deft	 2607	 2608	 I-Definition	 T210	 T212	 Direct-Defines
+coated	 data/source_txt/t3_physics_1_101.deft	 2608	 2614	 I-Definition	 T210	 T212	 Direct-Defines
+aluminum	 data/source_txt/t3_physics_1_101.deft	 2615	 2623	 I-Definition	 T210	 T212	 Direct-Defines
+drum	 data/source_txt/t3_physics_1_101.deft	 2624	 2628	 I-Definition	 T210	 T212	 Direct-Defines
+is	 data/source_txt/t3_physics_1_101.deft	 2629	 2631	 I-Definition	 T210	 T212	 Direct-Defines
+sprayed	 data/source_txt/t3_physics_1_101.deft	 2632	 2639	 I-Definition	 T210	 T212	 Direct-Defines
+with	 data/source_txt/t3_physics_1_101.deft	 2640	 2644	 I-Definition	 T210	 T212	 Direct-Defines
+positive	 data/source_txt/t3_physics_1_101.deft	 2645	 2653	 I-Definition	 T210	 T212	 Direct-Defines
+charge	 data/source_txt/t3_physics_1_101.deft	 2654	 2660	 I-Definition	 T210	 T212	 Direct-Defines
+from	 data/source_txt/t3_physics_1_101.deft	 2661	 2665	 I-Definition	 T210	 T212	 Direct-Defines
+points	 data/source_txt/t3_physics_1_101.deft	 2666	 2672	 I-Definition	 T210	 T212	 Direct-Defines
+on	 data/source_txt/t3_physics_1_101.deft	 2673	 2675	 I-Definition	 T210	 T212	 Direct-Defines
+a	 data/source_txt/t3_physics_1_101.deft	 2676	 2677	 I-Definition	 T210	 T212	 Direct-Defines
+device	 data/source_txt/t3_physics_1_101.deft	 2678	 2684	 I-Definition	 T210	 T212	 Direct-Defines
+called	 data/source_txt/t3_physics_1_101.deft	 2685	 2691	 I-Definition	 T210	 T212	 Direct-Defines
+a	 data/source_txt/t3_physics_1_101.deft	 2692	 2693	 I-Definition	 T210	 T212	 Direct-Defines
+corotron	 data/source_txt/t3_physics_1_101.deft	 2694	 2702	 I-Definition	 T210	 T212	 Direct-Defines
+.	 data/source_txt/t3_physics_1_101.deft	 2702	 2703	 O	 -1	 -1	 0
+
+
 2967	 data/source_txt/t3_physics_1_101.deft	 2707	 2711	 O	 -1	 -1	 0
 .	 data/source_txt/t3_physics_1_101.deft	 2711	 2712	 O	 -1	 -1	 0
 
@@ -481,6 +503,23 @@ potential	 data/source_txt/t3_physics_1_101.deft	 3240	 3249	 I-Definition	 T12	
 is	 data/source_txt/t3_physics_1_101.deft	 3250	 3252	 I-Definition	 T12	 0	 0
 constant	 data/source_txt/t3_physics_1_101.deft	 3253	 3261	 I-Definition	 T12	 0	 0
 .	 data/source_txt/t3_physics_1_101.deft	 3261	 3262	 O	 -1	 -1	 0
+
+These	 data/source_txt/t3_physics_1_101.deft	 3271	 3276	 B-Referential-Definition	 T13	 T10	 Indirect-Defines
+are	 data/source_txt/t3_physics_1_101.deft	 3277	 3280	 O	 -1	 -1	 0
+called	 data/source_txt/t3_physics_1_101.deft	 3281	 3287	 O	 -1	 -1	 0
+equipotential	 data/source_txt/t3_physics_1_101.deft	 3288	 3301	 B-Term	 T10	 0	 0
+lines	 data/source_txt/t3_physics_1_101.deft	 3302	 3307	 I-Term	 T10	 0	 0
+in	 data/source_txt/t3_physics_1_101.deft	 3308	 3310	 I-Term	 T10	 0	 0
+two	 data/source_txt/t3_physics_1_101.deft	 3311	 3314	 I-Term	 T10	 0	 0
+dimensions	 data/source_txt/t3_physics_1_101.deft	 3315	 3325	 I-Term	 T10	 0	 0
+,	 data/source_txt/t3_physics_1_101.deft	 3325	 3326	 O	 -1	 -1	 0
+or	 data/source_txt/t3_physics_1_101.deft	 3327	 3329	 O	 -1	 -1	 0
+equipotential	 data/source_txt/t3_physics_1_101.deft	 3330	 3343	 B-Alias-Term	 T11	 T10	 AKA
+surfaces	 data/source_txt/t3_physics_1_101.deft	 3344	 3352	 I-Alias-Term	 T11	 T10	 AKA
+in	 data/source_txt/t3_physics_1_101.deft	 3353	 3355	 I-Alias-Term	 T11	 T10	 AKA
+three	 data/source_txt/t3_physics_1_101.deft	 3356	 3361	 I-Alias-Term	 T11	 T10	 AKA
+dimensions	 data/source_txt/t3_physics_1_101.deft	 3362	 3372	 I-Alias-Term	 T11	 T10	 AKA
+.	 data/source_txt/t3_physics_1_101.deft	 3372	 3373	 O	 -1	 -1	 0
 
 These	 data/source_txt/t3_physics_1_101.deft	 3271	 3276	 B-Referential-Definition	 T13	 T12	 Refers-To
 are	 data/source_txt/t3_physics_1_101.deft	 3277	 3280	 O	 -1	 -1	 0
@@ -1099,6 +1138,18 @@ charges	 data/source_txt/t3_physics_1_101.deft	 6034	 6041	 I-Definition	 T31	 0
 causing	 data/source_txt/t3_physics_1_101.deft	 6043	 6050	 I-Definition	 T31	 0	 0
 current	 data/source_txt/t3_physics_1_101.deft	 6051	 6058	 I-Definition	 T31	 0	 0
 .	 data/source_txt/t3_physics_1_101.deft	 6058	 6059	 O	 -1	 -1	 0
+
+We	 data/source_txt/t3_physics_1_101.deft	 6068	 6070	 B-Referential-Definition	 T32	 T31	 Refers-To
+thus	 data/source_txt/t3_physics_1_101.deft	 6071	 6075	 I-Referential-Definition	 T32	 T31	 Refers-To
+use	 data/source_txt/t3_physics_1_101.deft	 6076	 6079	 I-Referential-Definition	 T32	 T31	 Refers-To
+the	 data/source_txt/t3_physics_1_101.deft	 6080	 6083	 O	 -1	 -1	 0
+name	 data/source_txt/t3_physics_1_101.deft	 6084	 6088	 O	 -1	 -1	 0
+electromotive	 data/source_txt/t3_physics_1_101.deft	 6089	 6102	 B-Term	 T33	 0	 0
+force	 data/source_txt/t3_physics_1_101.deft	 6103	 6108	 I-Term	 T33	 0	 0
+,	 data/source_txt/t3_physics_1_101.deft	 6108	 6109	 O	 -1	 -1	 0
+abbreviated	 data/source_txt/t3_physics_1_101.deft	 6110	 6121	 O	 -1	 -1	 0
+emf	 data/source_txt/t3_physics_1_101.deft	 6122	 6125	 B-Alias-Term	 T34	 T33	 AKA
+.	 data/source_txt/t3_physics_1_101.deft	 6125	 6126	 O	 -1	 -1	 0
 
 We	 data/source_txt/t3_physics_1_101.deft	 6068	 6070	 B-Referential-Definition	 T32	 T33	 Indirect-Defines
 thus	 data/source_txt/t3_physics_1_101.deft	 6071	 6075	 I-Referential-Definition	 T32	 T33	 Indirect-Defines
@@ -2618,6 +2669,26 @@ simple	 data/source_txt/t3_physics_1_101.deft	 14806	 14812	 I-Definition	 T74	 
 trigonometry	 data/source_txt/t3_physics_1_101.deft	 14813	 14825	 I-Definition	 T74	 0	 0
 .	 data/source_txt/t3_physics_1_101.deft	 14825	 14826	 O	 -1	 -1	 0
 
+This	 data/source_txt/t3_physics_1_101.deft	 14835	 14839	 B-Referential-Definition	 T75	 T74	 Refers-To
+part	 data/source_txt/t3_physics_1_101.deft	 14840	 14844	 I-Referential-Definition	 T75	 T74	 Refers-To
+of	 data/source_txt/t3_physics_1_101.deft	 14845	 14847	 I-Referential-Definition	 T75	 T74	 Refers-To
+optics	 data/source_txt/t3_physics_1_101.deft	 14848	 14854	 I-Referential-Definition	 T75	 T74	 Refers-To
+,	 data/source_txt/t3_physics_1_101.deft	 14854	 14855	 I-Referential-Definition	 T75	 T74	 Refers-To
+where	 data/source_txt/t3_physics_1_101.deft	 14856	 14861	 I-Referential-Definition	 T75	 T74	 Refers-To
+the	 data/source_txt/t3_physics_1_101.deft	 14862	 14865	 I-Referential-Definition	 T75	 T74	 Refers-To
+ray	 data/source_txt/t3_physics_1_101.deft	 14866	 14869	 I-Referential-Definition	 T75	 T74	 Refers-To
+aspect	 data/source_txt/t3_physics_1_101.deft	 14870	 14876	 I-Referential-Definition	 T75	 T74	 Refers-To
+of	 data/source_txt/t3_physics_1_101.deft	 14877	 14879	 I-Referential-Definition	 T75	 T74	 Refers-To
+light	 data/source_txt/t3_physics_1_101.deft	 14880	 14885	 I-Referential-Definition	 T75	 T74	 Refers-To
+dominates	 data/source_txt/t3_physics_1_101.deft	 14886	 14895	 I-Referential-Definition	 T75	 T74	 Refers-To
+,	 data/source_txt/t3_physics_1_101.deft	 14895	 14896	 O	 -1	 -1	 0
+is	 data/source_txt/t3_physics_1_101.deft	 14897	 14899	 O	 -1	 -1	 0
+therefore	 data/source_txt/t3_physics_1_101.deft	 14900	 14909	 O	 -1	 -1	 0
+called	 data/source_txt/t3_physics_1_101.deft	 14910	 14916	 O	 -1	 -1	 0
+geometric	 data/source_txt/t3_physics_1_101.deft	 14917	 14926	 B-Term	 T76	 0	 0
+optics	 data/source_txt/t3_physics_1_101.deft	 14927	 14933	 I-Term	 T76	 0	 0
+.	 data/source_txt/t3_physics_1_101.deft	 14933	 14934	 O	 -1	 -1	 0
+
 This	 data/source_txt/t3_physics_1_101.deft	 14835	 14839	 B-Referential-Definition	 T75	 T76	 Indirect-Defines
 part	 data/source_txt/t3_physics_1_101.deft	 14840	 14844	 I-Referential-Definition	 T75	 T76	 Indirect-Defines
 of	 data/source_txt/t3_physics_1_101.deft	 14845	 14847	 I-Referential-Definition	 T75	 T76	 Indirect-Defines
@@ -3801,6 +3872,13 @@ UV	 data/source_txt/t3_physics_1_101.deft	 23813	 23815	 I-Definition	 T113	 0	 
 photon	 data/source_txt/t3_physics_1_101.deft	 23816	 23822	 I-Definition	 T113	 0	 0
 .	 data/source_txt/t3_physics_1_101.deft	 23822	 23823	 O	 -1	 -1	 0
 
+This	 data/source_txt/t3_physics_1_101.deft	 23832	 23836	 B-Referential-Definition	 T114	 T113	 Refers-To
+is	 data/source_txt/t3_physics_1_101.deft	 23837	 23839	 O	 -1	 -1	 0
+called	 data/source_txt/t3_physics_1_101.deft	 23840	 23846	 O	 -1	 -1	 0
+atomic	 data/source_txt/t3_physics_1_101.deft	 23847	 23853	 B-Term	 T115	 0	 0
+excitation	 data/source_txt/t3_physics_1_101.deft	 23854	 23864	 I-Term	 T115	 0	 0
+.	 data/source_txt/t3_physics_1_101.deft	 23864	 23865	 O	 -1	 -1	 0
+
 This	 data/source_txt/t3_physics_1_101.deft	 23832	 23836	 B-Referential-Definition	 T114	 T115	 Indirect-Defines
 is	 data/source_txt/t3_physics_1_101.deft	 23837	 23839	 O	 -1	 -1	 0
 called	 data/source_txt/t3_physics_1_101.deft	 23840	 23846	 O	 -1	 -1	 0
@@ -4512,6 +4590,20 @@ a	 data/source_txt/t3_physics_1_101.deft	 27737	 27738	 I-Definition	 T143	 0	 0
 positive	 data/source_txt/t3_physics_1_101.deft	 27739	 27747	 I-Definition	 T143	 0	 0
 electron	 data/source_txt/t3_physics_1_101.deft	 27748	 27756	 I-Definition	 T143	 0	 0
 .	 data/source_txt/t3_physics_1_101.deft	 27756	 27757	 O	 -1	 -1	 0
+
+This	 data/source_txt/t3_physics_1_101.deft	 27766	 27770	 B-Referential-Definition	 T144	 T143	 Refers-To
+is	 data/source_txt/t3_physics_1_101.deft	 27771	 27773	 O	 -1	 -1	 0
+antielectron	 data/source_txt/t3_physics_1_101.deft	 27774	 27786	 B-Term	 T145	 0	 0
+or	 data/source_txt/t3_physics_1_101.deft	 27787	 27789	 O	 -1	 -1	 0
+positron	 data/source_txt/t3_physics_1_101.deft	 27790	 27798	 B-Alias-Term	 T146	 T145	 AKA
+decay	 data/source_txt/t3_physics_1_101.deft	 27799	 27804	 I-Alias-Term	 T146	 T145	 AKA
+(	 data/source_txt/t3_physics_1_101.deft	 27805	 27806	 O	 -1	 -1	 0
+see	 data/source_txt/t3_physics_1_101.deft	 27806	 27809	 O	 -1	 -1	 0
+[	 data/source_txt/t3_physics_1_101.deft	 27810	 27811	 O	 -1	 -1	 0
+link	 data/source_txt/t3_physics_1_101.deft	 27811	 27815	 O	 -1	 -1	 0
+]	 data/source_txt/t3_physics_1_101.deft	 27815	 27816	 O	 -1	 -1	 0
+)	 data/source_txt/t3_physics_1_101.deft	 27816	 27817	 O	 -1	 -1	 0
+.	 data/source_txt/t3_physics_1_101.deft	 27817	 27818	 O	 -1	 -1	 0
 
 This	 data/source_txt/t3_physics_1_101.deft	 27766	 27770	 B-Referential-Definition	 T144	 T145	 Indirect-Defines
 is	 data/source_txt/t3_physics_1_101.deft	 27771	 27773	 O	 -1	 -1	 0
