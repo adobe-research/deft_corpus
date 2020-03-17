@@ -22,6 +22,8 @@ Results for SemEval 2020 Task 6 - DeftEval are included below:
 
 ![Subtask 2 Results](/results/subtask_2_leaderboard.png)
 
+![Subtask 3 Results](/results/subtask_3_leaderboard.png)
+
 We will continue to update the official leaderboard as the final evaluation period closes.
 
 # Licensing Information
