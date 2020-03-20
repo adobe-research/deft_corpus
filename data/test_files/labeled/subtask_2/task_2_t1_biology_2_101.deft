@@ -1,0 +1,56 @@
+366	 data/source_txt/t1_biology_2_101.deft	 8807	 8810	 O
+.	 data/source_txt/t1_biology_2_101.deft	 8810	 8811	 O
+
+The	 data/source_txt/t1_biology_2_101.deft	 8812	 8815	 O
+cell	 data/source_txt/t1_biology_2_101.deft	 8816	 8820	 O
+cycle	 data/source_txt/t1_biology_2_101.deft	 8821	 8826	 O
+has	 data/source_txt/t1_biology_2_101.deft	 8827	 8830	 O
+two	 data/source_txt/t1_biology_2_101.deft	 8831	 8834	 O
+major	 data/source_txt/t1_biology_2_101.deft	 8835	 8840	 O
+phases	 data/source_txt/t1_biology_2_101.deft	 8841	 8847	 O
+:	 data/source_txt/t1_biology_2_101.deft	 8847	 8848	 O
+interphase	 data/source_txt/t1_biology_2_101.deft	 8849	 8859	 O
+and	 data/source_txt/t1_biology_2_101.deft	 8860	 8863	 O
+the	 data/source_txt/t1_biology_2_101.deft	 8864	 8867	 O
+mitotic	 data/source_txt/t1_biology_2_101.deft	 8868	 8875	 O
+phase	 data/source_txt/t1_biology_2_101.deft	 8876	 8881	 O
+(	 data/source_txt/t1_biology_2_101.deft	 8882	 8883	 O
+[	 data/source_txt/t1_biology_2_101.deft	 8883	 8884	 O
+link	 data/source_txt/t1_biology_2_101.deft	 8884	 8888	 O
+]	 data/source_txt/t1_biology_2_101.deft	 8888	 8889	 O
+)	 data/source_txt/t1_biology_2_101.deft	 8889	 8890	 O
+.	 data/source_txt/t1_biology_2_101.deft	 8890	 8891	 O
+
+During	 data/source_txt/t1_biology_2_101.deft	 8900	 8906	 O
+interphase	 data/source_txt/t1_biology_2_101.deft	 8907	 8917	 B-Term
+,	 data/source_txt/t1_biology_2_101.deft	 8917	 8918	 O
+the	 data/source_txt/t1_biology_2_101.deft	 8919	 8922	 B-Definition
+cell	 data/source_txt/t1_biology_2_101.deft	 8923	 8927	 I-Definition
+grows	 data/source_txt/t1_biology_2_101.deft	 8928	 8933	 I-Definition
+and	 data/source_txt/t1_biology_2_101.deft	 8934	 8937	 I-Definition
+DNA	 data/source_txt/t1_biology_2_101.deft	 8938	 8941	 I-Definition
+is	 data/source_txt/t1_biology_2_101.deft	 8942	 8944	 I-Definition
+replicated	 data/source_txt/t1_biology_2_101.deft	 8945	 8955	 I-Definition
+.	 data/source_txt/t1_biology_2_101.deft	 8955	 8956	 O
+
+During	 data/source_txt/t1_biology_2_101.deft	 8963	 8969	 O
+the	 data/source_txt/t1_biology_2_101.deft	 8970	 8973	 O
+mitotic	 data/source_txt/t1_biology_2_101.deft	 8974	 8981	 B-Term
+phase	 data/source_txt/t1_biology_2_101.deft	 8982	 8987	 I-Term
+,	 data/source_txt/t1_biology_2_101.deft	 8987	 8988	 O
+the	 data/source_txt/t1_biology_2_101.deft	 8989	 8992	 B-Definition
+replicated	 data/source_txt/t1_biology_2_101.deft	 8993	 9003	 I-Definition
+DNA	 data/source_txt/t1_biology_2_101.deft	 9004	 9007	 I-Definition
+and	 data/source_txt/t1_biology_2_101.deft	 9008	 9011	 I-Definition
+cytoplasmic	 data/source_txt/t1_biology_2_101.deft	 9012	 9023	 I-Definition
+contents	 data/source_txt/t1_biology_2_101.deft	 9024	 9032	 I-Definition
+are	 data/source_txt/t1_biology_2_101.deft	 9033	 9036	 I-Definition
+separated	 data/source_txt/t1_biology_2_101.deft	 9037	 9046	 I-Definition
+,	 data/source_txt/t1_biology_2_101.deft	 9046	 9047	 I-Definition
+and	 data/source_txt/t1_biology_2_101.deft	 9048	 9051	 I-Definition
+the	 data/source_txt/t1_biology_2_101.deft	 9052	 9055	 I-Definition
+cell	 data/source_txt/t1_biology_2_101.deft	 9056	 9060	 I-Definition
+divides	 data/source_txt/t1_biology_2_101.deft	 9061	 9068	 I-Definition
+.	 data/source_txt/t1_biology_2_101.deft	 9068	 9069	 O
+
+

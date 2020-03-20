@@ -1,0 +1,63 @@
+4408	 data/source_txt/t5_economic_2_0.deft	 10967	 10971	 O	 -1	 -1	 0
+.	 data/source_txt/t5_economic_2_0.deft	 10971	 10972	 O	 -1	 -1	 0
+
+An	 data/source_txt/t5_economic_2_0.deft	 10973	 10975	 O	 -1	 -1	 0
+example	 data/source_txt/t5_economic_2_0.deft	 10976	 10983	 O	 -1	 -1	 0
+from	 data/source_txt/t5_economic_2_0.deft	 10984	 10988	 O	 -1	 -1	 0
+the	 data/source_txt/t5_economic_2_0.deft	 10989	 10992	 O	 -1	 -1	 0
+market	 data/source_txt/t5_economic_2_0.deft	 10993	 10999	 O	 -1	 -1	 0
+for	 data/source_txt/t5_economic_2_0.deft	 11000	 11003	 O	 -1	 -1	 0
+gasoline	 data/source_txt/t5_economic_2_0.deft	 11004	 11012	 O	 -1	 -1	 0
+can	 data/source_txt/t5_economic_2_0.deft	 11013	 11016	 O	 -1	 -1	 0
+be	 data/source_txt/t5_economic_2_0.deft	 11017	 11019	 O	 -1	 -1	 0
+shown	 data/source_txt/t5_economic_2_0.deft	 11020	 11025	 O	 -1	 -1	 0
+in	 data/source_txt/t5_economic_2_0.deft	 11026	 11028	 O	 -1	 -1	 0
+the	 data/source_txt/t5_economic_2_0.deft	 11029	 11032	 O	 -1	 -1	 0
+form	 data/source_txt/t5_economic_2_0.deft	 11033	 11037	 O	 -1	 -1	 0
+of	 data/source_txt/t5_economic_2_0.deft	 11038	 11040	 O	 -1	 -1	 0
+a	 data/source_txt/t5_economic_2_0.deft	 11041	 11042	 O	 -1	 -1	 0
+table	 data/source_txt/t5_economic_2_0.deft	 11043	 11048	 O	 -1	 -1	 0
+or	 data/source_txt/t5_economic_2_0.deft	 11049	 11051	 O	 -1	 -1	 0
+a	 data/source_txt/t5_economic_2_0.deft	 11052	 11053	 O	 -1	 -1	 0
+graph	 data/source_txt/t5_economic_2_0.deft	 11054	 11059	 O	 -1	 -1	 0
+.	 data/source_txt/t5_economic_2_0.deft	 11059	 11060	 O	 -1	 -1	 0
+
+A	 data/source_txt/t5_economic_2_0.deft	 11069	 11070	 B-Definition	 T68	 T67	 Direct-Defines
+table	 data/source_txt/t5_economic_2_0.deft	 11071	 11076	 I-Definition	 T68	 T67	 Direct-Defines
+that	 data/source_txt/t5_economic_2_0.deft	 11077	 11081	 I-Definition	 T68	 T67	 Direct-Defines
+shows	 data/source_txt/t5_economic_2_0.deft	 11082	 11087	 I-Definition	 T68	 T67	 Direct-Defines
+the	 data/source_txt/t5_economic_2_0.deft	 11088	 11091	 I-Definition	 T68	 T67	 Direct-Defines
+quantity	 data/source_txt/t5_economic_2_0.deft	 11092	 11100	 I-Definition	 T68	 T67	 Direct-Defines
+demanded	 data/source_txt/t5_economic_2_0.deft	 11101	 11109	 I-Definition	 T68	 T67	 Direct-Defines
+at	 data/source_txt/t5_economic_2_0.deft	 11110	 11112	 I-Definition	 T68	 T67	 Direct-Defines
+each	 data/source_txt/t5_economic_2_0.deft	 11113	 11117	 I-Definition	 T68	 T67	 Direct-Defines
+price	 data/source_txt/t5_economic_2_0.deft	 11118	 11123	 I-Definition	 T68	 T67	 Direct-Defines
+,	 data/source_txt/t5_economic_2_0.deft	 11123	 11124	 O	 -1	 -1	 0
+such	 data/source_txt/t5_economic_2_0.deft	 11125	 11129	 O	 -1	 -1	 0
+as	 data/source_txt/t5_economic_2_0.deft	 11130	 11132	 O	 -1	 -1	 0
+[	 data/source_txt/t5_economic_2_0.deft	 11133	 11134	 O	 -1	 -1	 0
+link	 data/source_txt/t5_economic_2_0.deft	 11134	 11138	 O	 -1	 -1	 0
+]	 data/source_txt/t5_economic_2_0.deft	 11138	 11139	 O	 -1	 -1	 0
+,	 data/source_txt/t5_economic_2_0.deft	 11139	 11140	 O	 -1	 -1	 0
+is	 data/source_txt/t5_economic_2_0.deft	 11141	 11143	 O	 -1	 -1	 0
+called	 data/source_txt/t5_economic_2_0.deft	 11144	 11150	 O	 -1	 -1	 0
+a	 data/source_txt/t5_economic_2_0.deft	 11151	 11152	 B-Term	 T67	 0	 0
+demand	 data/source_txt/t5_economic_2_0.deft	 11153	 11159	 I-Term	 T67	 0	 0
+schedule	 data/source_txt/t5_economic_2_0.deft	 11160	 11168	 I-Term	 T67	 0	 0
+.	 data/source_txt/t5_economic_2_0.deft	 11168	 11169	 O	 -1	 -1	 0
+
+Price	 data/source_txt/t5_economic_2_0.deft	 11176	 11181	 O	 -1	 -1	 0
+in	 data/source_txt/t5_economic_2_0.deft	 11182	 11184	 O	 -1	 -1	 0
+this	 data/source_txt/t5_economic_2_0.deft	 11185	 11189	 O	 -1	 -1	 0
+case	 data/source_txt/t5_economic_2_0.deft	 11190	 11194	 O	 -1	 -1	 0
+is	 data/source_txt/t5_economic_2_0.deft	 11195	 11197	 O	 -1	 -1	 0
+measured	 data/source_txt/t5_economic_2_0.deft	 11198	 11206	 O	 -1	 -1	 0
+in	 data/source_txt/t5_economic_2_0.deft	 11207	 11209	 O	 -1	 -1	 0
+dollars	 data/source_txt/t5_economic_2_0.deft	 11210	 11217	 O	 -1	 -1	 0
+per	 data/source_txt/t5_economic_2_0.deft	 11218	 11221	 O	 -1	 -1	 0
+gallon	 data/source_txt/t5_economic_2_0.deft	 11222	 11228	 O	 -1	 -1	 0
+of	 data/source_txt/t5_economic_2_0.deft	 11229	 11231	 O	 -1	 -1	 0
+gasoline	 data/source_txt/t5_economic_2_0.deft	 11232	 11240	 O	 -1	 -1	 0
+.	 data/source_txt/t5_economic_2_0.deft	 11240	 11241	 O	 -1	 -1	 0
+
+

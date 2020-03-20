@@ -1,0 +1,56 @@
+366	 data/source_txt/t1_biology_2_101.deft	 8807	 8810	 O	 -1	 -1	 0
+.	 data/source_txt/t1_biology_2_101.deft	 8810	 8811	 O	 -1	 -1	 0
+
+The	 data/source_txt/t1_biology_2_101.deft	 8812	 8815	 O	 -1	 -1	 0
+cell	 data/source_txt/t1_biology_2_101.deft	 8816	 8820	 O	 -1	 -1	 0
+cycle	 data/source_txt/t1_biology_2_101.deft	 8821	 8826	 O	 -1	 -1	 0
+has	 data/source_txt/t1_biology_2_101.deft	 8827	 8830	 O	 -1	 -1	 0
+two	 data/source_txt/t1_biology_2_101.deft	 8831	 8834	 O	 -1	 -1	 0
+major	 data/source_txt/t1_biology_2_101.deft	 8835	 8840	 O	 -1	 -1	 0
+phases	 data/source_txt/t1_biology_2_101.deft	 8841	 8847	 O	 -1	 -1	 0
+:	 data/source_txt/t1_biology_2_101.deft	 8847	 8848	 O	 -1	 -1	 0
+interphase	 data/source_txt/t1_biology_2_101.deft	 8849	 8859	 O	 -1	 -1	 0
+and	 data/source_txt/t1_biology_2_101.deft	 8860	 8863	 O	 -1	 -1	 0
+the	 data/source_txt/t1_biology_2_101.deft	 8864	 8867	 O	 -1	 -1	 0
+mitotic	 data/source_txt/t1_biology_2_101.deft	 8868	 8875	 O	 -1	 -1	 0
+phase	 data/source_txt/t1_biology_2_101.deft	 8876	 8881	 O	 -1	 -1	 0
+(	 data/source_txt/t1_biology_2_101.deft	 8882	 8883	 O	 -1	 -1	 0
+[	 data/source_txt/t1_biology_2_101.deft	 8883	 8884	 O	 -1	 -1	 0
+link	 data/source_txt/t1_biology_2_101.deft	 8884	 8888	 O	 -1	 -1	 0
+]	 data/source_txt/t1_biology_2_101.deft	 8888	 8889	 O	 -1	 -1	 0
+)	 data/source_txt/t1_biology_2_101.deft	 8889	 8890	 O	 -1	 -1	 0
+.	 data/source_txt/t1_biology_2_101.deft	 8890	 8891	 O	 -1	 -1	 0
+
+During	 data/source_txt/t1_biology_2_101.deft	 8900	 8906	 O	 -1	 -1	 0
+interphase	 data/source_txt/t1_biology_2_101.deft	 8907	 8917	 B-Term	 T47	 0	 0
+,	 data/source_txt/t1_biology_2_101.deft	 8917	 8918	 O	 -1	 -1	 0
+the	 data/source_txt/t1_biology_2_101.deft	 8919	 8922	 B-Definition	 T48	 T47	 Direct-Defines
+cell	 data/source_txt/t1_biology_2_101.deft	 8923	 8927	 I-Definition	 T48	 T47	 Direct-Defines
+grows	 data/source_txt/t1_biology_2_101.deft	 8928	 8933	 I-Definition	 T48	 T47	 Direct-Defines
+and	 data/source_txt/t1_biology_2_101.deft	 8934	 8937	 I-Definition	 T48	 T47	 Direct-Defines
+DNA	 data/source_txt/t1_biology_2_101.deft	 8938	 8941	 I-Definition	 T48	 T47	 Direct-Defines
+is	 data/source_txt/t1_biology_2_101.deft	 8942	 8944	 I-Definition	 T48	 T47	 Direct-Defines
+replicated	 data/source_txt/t1_biology_2_101.deft	 8945	 8955	 I-Definition	 T48	 T47	 Direct-Defines
+.	 data/source_txt/t1_biology_2_101.deft	 8955	 8956	 O	 -1	 -1	 0
+
+During	 data/source_txt/t1_biology_2_101.deft	 8963	 8969	 O	 -1	 -1	 0
+the	 data/source_txt/t1_biology_2_101.deft	 8970	 8973	 O	 -1	 -1	 0
+mitotic	 data/source_txt/t1_biology_2_101.deft	 8974	 8981	 B-Term	 T49	 0	 0
+phase	 data/source_txt/t1_biology_2_101.deft	 8982	 8987	 I-Term	 T49	 0	 0
+,	 data/source_txt/t1_biology_2_101.deft	 8987	 8988	 O	 -1	 -1	 0
+the	 data/source_txt/t1_biology_2_101.deft	 8989	 8992	 B-Definition	 T50	 T49	 Direct-Defines
+replicated	 data/source_txt/t1_biology_2_101.deft	 8993	 9003	 I-Definition	 T50	 T49	 Direct-Defines
+DNA	 data/source_txt/t1_biology_2_101.deft	 9004	 9007	 I-Definition	 T50	 T49	 Direct-Defines
+and	 data/source_txt/t1_biology_2_101.deft	 9008	 9011	 I-Definition	 T50	 T49	 Direct-Defines
+cytoplasmic	 data/source_txt/t1_biology_2_101.deft	 9012	 9023	 I-Definition	 T50	 T49	 Direct-Defines
+contents	 data/source_txt/t1_biology_2_101.deft	 9024	 9032	 I-Definition	 T50	 T49	 Direct-Defines
+are	 data/source_txt/t1_biology_2_101.deft	 9033	 9036	 I-Definition	 T50	 T49	 Direct-Defines
+separated	 data/source_txt/t1_biology_2_101.deft	 9037	 9046	 I-Definition	 T50	 T49	 Direct-Defines
+,	 data/source_txt/t1_biology_2_101.deft	 9046	 9047	 I-Definition	 T50	 T49	 Direct-Defines
+and	 data/source_txt/t1_biology_2_101.deft	 9048	 9051	 I-Definition	 T50	 T49	 Direct-Defines
+the	 data/source_txt/t1_biology_2_101.deft	 9052	 9055	 I-Definition	 T50	 T49	 Direct-Defines
+cell	 data/source_txt/t1_biology_2_101.deft	 9056	 9060	 I-Definition	 T50	 T49	 Direct-Defines
+divides	 data/source_txt/t1_biology_2_101.deft	 9061	 9068	 I-Definition	 T50	 T49	 Direct-Defines
+.	 data/source_txt/t1_biology_2_101.deft	 9068	 9069	 O	 -1	 -1	 0
+
+

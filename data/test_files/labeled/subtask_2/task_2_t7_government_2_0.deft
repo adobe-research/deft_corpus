@@ -1,0 +1,58 @@
+5812	 data/source_txt/t7_government_2_0.deft	 770	 774	 O
+.	 data/source_txt/t7_government_2_0.deft	 774	 775	 O
+
+For	 data/source_txt/t7_government_2_0.deft	 776	 779	 O
+example	 data/source_txt/t7_government_2_0.deft	 780	 787	 O
+,	 data/source_txt/t7_government_2_0.deft	 787	 788	 O
+food	 data/source_txt/t7_government_2_0.deft	 789	 793	 O
+,	 data/source_txt/t7_government_2_0.deft	 793	 794	 O
+clothing	 data/source_txt/t7_government_2_0.deft	 795	 803	 O
+,	 data/source_txt/t7_government_2_0.deft	 803	 804	 O
+and	 data/source_txt/t7_government_2_0.deft	 805	 808	 O
+housing	 data/source_txt/t7_government_2_0.deft	 809	 816	 O
+are	 data/source_txt/t7_government_2_0.deft	 817	 820	 O
+provided	 data/source_txt/t7_government_2_0.deft	 821	 829	 B-Definition
+in	 data/source_txt/t7_government_2_0.deft	 830	 832	 I-Definition
+ample	 data/source_txt/t7_government_2_0.deft	 833	 838	 I-Definition
+supply	 data/source_txt/t7_government_2_0.deft	 839	 845	 I-Definition
+by	 data/source_txt/t7_government_2_0.deft	 846	 848	 I-Definition
+private	 data/source_txt/t7_government_2_0.deft	 849	 856	 I-Definition
+businesses	 data/source_txt/t7_government_2_0.deft	 857	 867	 I-Definition
+that	 data/source_txt/t7_government_2_0.deft	 868	 872	 I-Definition
+earn	 data/source_txt/t7_government_2_0.deft	 873	 877	 I-Definition
+a	 data/source_txt/t7_government_2_0.deft	 878	 879	 I-Definition
+profit	 data/source_txt/t7_government_2_0.deft	 880	 886	 I-Definition
+in	 data/source_txt/t7_government_2_0.deft	 887	 889	 I-Definition
+return	 data/source_txt/t7_government_2_0.deft	 890	 896	 I-Definition
+.	 data/source_txt/t7_government_2_0.deft	 896	 897	 O
+
+These	 data/source_txt/t7_government_2_0.deft	 906	 911	 B-Referential-Definition
+goods	 data/source_txt/t7_government_2_0.deft	 912	 917	 I-Referential-Definition
+and	 data/source_txt/t7_government_2_0.deft	 918	 921	 I-Referential-Definition
+services	 data/source_txt/t7_government_2_0.deft	 922	 930	 I-Referential-Definition
+are	 data/source_txt/t7_government_2_0.deft	 931	 934	 O
+known	 data/source_txt/t7_government_2_0.deft	 935	 940	 O
+as	 data/source_txt/t7_government_2_0.deft	 941	 943	 O
+private	 data/source_txt/t7_government_2_0.deft	 944	 951	 B-Term
+goods	 data/source_txt/t7_government_2_0.deft	 952	 957	 I-Term
+.	 data/source_txt/t7_government_2_0.deft	 957	 958	 O
+
+These	 data/source_txt/t7_government_2_0.deft	 906	 911	 B-Referential-Definition
+goods	 data/source_txt/t7_government_2_0.deft	 912	 917	 I-Referential-Definition
+and	 data/source_txt/t7_government_2_0.deft	 918	 921	 I-Referential-Definition
+services	 data/source_txt/t7_government_2_0.deft	 922	 930	 I-Referential-Definition
+are	 data/source_txt/t7_government_2_0.deft	 931	 934	 O
+known	 data/source_txt/t7_government_2_0.deft	 935	 940	 O
+as	 data/source_txt/t7_government_2_0.deft	 941	 943	 O
+private	 data/source_txt/t7_government_2_0.deft	 944	 951	 B-Term
+goods	 data/source_txt/t7_government_2_0.deft	 952	 957	 I-Term
+.	 data/source_txt/t7_government_2_0.deft	 957	 958	 O
+
+Paul	 data/source_txt/t7_government_2_0.deft	 958	 962	 O
+A.	 data/source_txt/t7_government_2_0.deft	 963	 965	 O
+Samuelson	 data/source_txt/t7_government_2_0.deft	 966	 975	 O
+.	 data/source_txt/t7_government_2_0.deft	 975	 976	 O
+1954	 data/source_txt/t7_government_2_0.deft	 983	 987	 O
+.	 data/source_txt/t7_government_2_0.deft	 987	 988	 O
+
+

@@ -1,0 +1,44 @@
+714	 data/source_txt/t1_biology_2_202.deft	 13971	 13974	 O	 -1	 -1	 0
+.	 data/source_txt/t1_biology_2_202.deft	 13974	 13975	 O	 -1	 -1	 0
+
+Viruses	 data/source_txt/t1_biology_2_202.deft	 13984	 13991	 O	 -1	 -1	 0
+are	 data/source_txt/t1_biology_2_202.deft	 13992	 13995	 O	 -1	 -1	 0
+acellular	 data/source_txt/t1_biology_2_202.deft	 13996	 14005	 B-Term	 T81	 0	 0
+,	 data/source_txt/t1_biology_2_202.deft	 14005	 14006	 O	 -1	 -1	 0
+meaning	 data/source_txt/t1_biology_2_202.deft	 14007	 14014	 O	 -1	 -1	 0
+they	 data/source_txt/t1_biology_2_202.deft	 14015	 14019	 O	 -1	 -1	 0
+are	 data/source_txt/t1_biology_2_202.deft	 14020	 14023	 O	 -1	 -1	 0
+biological	 data/source_txt/t1_biology_2_202.deft	 14024	 14034	 B-Definition	 T80	 T81	 Direct-Defines
+entities	 data/source_txt/t1_biology_2_202.deft	 14035	 14043	 I-Definition	 T80	 T81	 Direct-Defines
+that	 data/source_txt/t1_biology_2_202.deft	 14044	 14048	 I-Definition	 T80	 T81	 Direct-Defines
+do	 data/source_txt/t1_biology_2_202.deft	 14049	 14051	 I-Definition	 T80	 T81	 Direct-Defines
+not	 data/source_txt/t1_biology_2_202.deft	 14052	 14055	 I-Definition	 T80	 T81	 Direct-Defines
+have	 data/source_txt/t1_biology_2_202.deft	 14056	 14060	 I-Definition	 T80	 T81	 Direct-Defines
+a	 data/source_txt/t1_biology_2_202.deft	 14061	 14062	 I-Definition	 T80	 T81	 Direct-Defines
+cellular	 data/source_txt/t1_biology_2_202.deft	 14063	 14071	 I-Definition	 T80	 T81	 Direct-Defines
+structure	 data/source_txt/t1_biology_2_202.deft	 14072	 14081	 I-Definition	 T80	 T81	 Direct-Defines
+.	 data/source_txt/t1_biology_2_202.deft	 14081	 14082	 O	 -1	 -1	 0
+
+They	 data/source_txt/t1_biology_2_202.deft	 14089	 14093	 O	 -1	 -1	 0
+therefore	 data/source_txt/t1_biology_2_202.deft	 14094	 14103	 O	 -1	 -1	 0
+lack	 data/source_txt/t1_biology_2_202.deft	 14104	 14108	 O	 -1	 -1	 0
+most	 data/source_txt/t1_biology_2_202.deft	 14109	 14113	 O	 -1	 -1	 0
+of	 data/source_txt/t1_biology_2_202.deft	 14114	 14116	 O	 -1	 -1	 0
+the	 data/source_txt/t1_biology_2_202.deft	 14117	 14120	 O	 -1	 -1	 0
+components	 data/source_txt/t1_biology_2_202.deft	 14121	 14131	 O	 -1	 -1	 0
+of	 data/source_txt/t1_biology_2_202.deft	 14132	 14134	 O	 -1	 -1	 0
+cells	 data/source_txt/t1_biology_2_202.deft	 14135	 14140	 O	 -1	 -1	 0
+,	 data/source_txt/t1_biology_2_202.deft	 14140	 14141	 O	 -1	 -1	 0
+such	 data/source_txt/t1_biology_2_202.deft	 14142	 14146	 O	 -1	 -1	 0
+as	 data/source_txt/t1_biology_2_202.deft	 14147	 14149	 O	 -1	 -1	 0
+organelles	 data/source_txt/t1_biology_2_202.deft	 14150	 14160	 O	 -1	 -1	 0
+,	 data/source_txt/t1_biology_2_202.deft	 14160	 14161	 O	 -1	 -1	 0
+ribosomes	 data/source_txt/t1_biology_2_202.deft	 14162	 14171	 O	 -1	 -1	 0
+,	 data/source_txt/t1_biology_2_202.deft	 14171	 14172	 O	 -1	 -1	 0
+and	 data/source_txt/t1_biology_2_202.deft	 14173	 14176	 O	 -1	 -1	 0
+the	 data/source_txt/t1_biology_2_202.deft	 14177	 14180	 O	 -1	 -1	 0
+plasma	 data/source_txt/t1_biology_2_202.deft	 14181	 14187	 O	 -1	 -1	 0
+membrane	 data/source_txt/t1_biology_2_202.deft	 14188	 14196	 O	 -1	 -1	 0
+.	 data/source_txt/t1_biology_2_202.deft	 14196	 14197	 O	 -1	 -1	 0
+
+

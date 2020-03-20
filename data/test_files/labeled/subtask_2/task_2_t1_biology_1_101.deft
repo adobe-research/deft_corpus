@@ -1,0 +1,55 @@
+400	 data/source_txt/t1_biology_1_101.deft	 12112	 12115	 O
+.	 data/source_txt/t1_biology_1_101.deft	 12115	 12116	 O
+
+The	 data/source_txt/t1_biology_1_101.deft	 12125	 12128	 B-Definition
+nuclear	 data/source_txt/t1_biology_1_101.deft	 12129	 12136	 I-Definition
+division	 data/source_txt/t1_biology_1_101.deft	 12137	 12145	 I-Definition
+that	 data/source_txt/t1_biology_1_101.deft	 12146	 12150	 I-Definition
+forms	 data/source_txt/t1_biology_1_101.deft	 12151	 12156	 I-Definition
+haploid	 data/source_txt/t1_biology_1_101.deft	 12157	 12164	 I-Definition
+cells	 data/source_txt/t1_biology_1_101.deft	 12165	 12170	 I-Definition
+,	 data/source_txt/t1_biology_1_101.deft	 12170	 12171	 O
+which	 data/source_txt/t1_biology_1_101.deft	 12172	 12177	 O
+is	 data/source_txt/t1_biology_1_101.deft	 12178	 12180	 O
+called	 data/source_txt/t1_biology_1_101.deft	 12181	 12187	 O
+meiosis	 data/source_txt/t1_biology_1_101.deft	 12188	 12195	 B-Term
+,	 data/source_txt/t1_biology_1_101.deft	 12195	 12196	 O
+is	 data/source_txt/t1_biology_1_101.deft	 12197	 12199	 O
+related	 data/source_txt/t1_biology_1_101.deft	 12200	 12207	 O
+to	 data/source_txt/t1_biology_1_101.deft	 12208	 12210	 O
+mitosis	 data/source_txt/t1_biology_1_101.deft	 12211	 12218	 O
+.	 data/source_txt/t1_biology_1_101.deft	 12218	 12219	 O
+
+As	 data/source_txt/t1_biology_1_101.deft	 12226	 12228	 O
+you	 data/source_txt/t1_biology_1_101.deft	 12229	 12232	 O
+have	 data/source_txt/t1_biology_1_101.deft	 12233	 12237	 O
+learned	 data/source_txt/t1_biology_1_101.deft	 12238	 12245	 O
+,	 data/source_txt/t1_biology_1_101.deft	 12245	 12246	 O
+mitosis	 data/source_txt/t1_biology_1_101.deft	 12247	 12254	 B-Term
+is	 data/source_txt/t1_biology_1_101.deft	 12255	 12257	 O
+the	 data/source_txt/t1_biology_1_101.deft	 12258	 12261	 B-Definition
+part	 data/source_txt/t1_biology_1_101.deft	 12262	 12266	 I-Definition
+of	 data/source_txt/t1_biology_1_101.deft	 12267	 12269	 I-Definition
+a	 data/source_txt/t1_biology_1_101.deft	 12270	 12271	 I-Definition
+cell	 data/source_txt/t1_biology_1_101.deft	 12272	 12276	 I-Definition
+reproduction	 data/source_txt/t1_biology_1_101.deft	 12277	 12289	 I-Definition
+cycle	 data/source_txt/t1_biology_1_101.deft	 12290	 12295	 I-Definition
+that	 data/source_txt/t1_biology_1_101.deft	 12296	 12300	 I-Definition
+results	 data/source_txt/t1_biology_1_101.deft	 12301	 12308	 I-Definition
+in	 data/source_txt/t1_biology_1_101.deft	 12309	 12311	 I-Definition
+identical	 data/source_txt/t1_biology_1_101.deft	 12312	 12321	 I-Definition
+daughter	 data/source_txt/t1_biology_1_101.deft	 12322	 12330	 I-Definition
+nuclei	 data/source_txt/t1_biology_1_101.deft	 12331	 12337	 I-Definition
+that	 data/source_txt/t1_biology_1_101.deft	 12338	 12342	 I-Definition
+are	 data/source_txt/t1_biology_1_101.deft	 12343	 12346	 I-Definition
+also	 data/source_txt/t1_biology_1_101.deft	 12347	 12351	 I-Definition
+genetically	 data/source_txt/t1_biology_1_101.deft	 12352	 12363	 I-Definition
+identical	 data/source_txt/t1_biology_1_101.deft	 12364	 12373	 I-Definition
+to	 data/source_txt/t1_biology_1_101.deft	 12374	 12376	 I-Definition
+the	 data/source_txt/t1_biology_1_101.deft	 12377	 12380	 I-Definition
+original	 data/source_txt/t1_biology_1_101.deft	 12381	 12389	 I-Definition
+parent	 data/source_txt/t1_biology_1_101.deft	 12390	 12396	 I-Definition
+nucleus	 data/source_txt/t1_biology_1_101.deft	 12397	 12404	 I-Definition
+.	 data/source_txt/t1_biology_1_101.deft	 12404	 12405	 O
+
+

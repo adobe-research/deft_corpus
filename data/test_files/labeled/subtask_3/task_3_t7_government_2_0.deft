@@ -1,0 +1,58 @@
+5812	 data/source_txt/t7_government_2_0.deft	 770	 774	 O	 -1	 -1	 0
+.	 data/source_txt/t7_government_2_0.deft	 774	 775	 O	 -1	 -1	 0
+
+For	 data/source_txt/t7_government_2_0.deft	 776	 779	 O	 -1	 -1	 0
+example	 data/source_txt/t7_government_2_0.deft	 780	 787	 O	 -1	 -1	 0
+,	 data/source_txt/t7_government_2_0.deft	 787	 788	 O	 -1	 -1	 0
+food	 data/source_txt/t7_government_2_0.deft	 789	 793	 O	 -1	 -1	 0
+,	 data/source_txt/t7_government_2_0.deft	 793	 794	 O	 -1	 -1	 0
+clothing	 data/source_txt/t7_government_2_0.deft	 795	 803	 O	 -1	 -1	 0
+,	 data/source_txt/t7_government_2_0.deft	 803	 804	 O	 -1	 -1	 0
+and	 data/source_txt/t7_government_2_0.deft	 805	 808	 O	 -1	 -1	 0
+housing	 data/source_txt/t7_government_2_0.deft	 809	 816	 O	 -1	 -1	 0
+are	 data/source_txt/t7_government_2_0.deft	 817	 820	 O	 -1	 -1	 0
+provided	 data/source_txt/t7_government_2_0.deft	 821	 829	 B-Definition	 T1	 0	 0
+in	 data/source_txt/t7_government_2_0.deft	 830	 832	 I-Definition	 T1	 0	 0
+ample	 data/source_txt/t7_government_2_0.deft	 833	 838	 I-Definition	 T1	 0	 0
+supply	 data/source_txt/t7_government_2_0.deft	 839	 845	 I-Definition	 T1	 0	 0
+by	 data/source_txt/t7_government_2_0.deft	 846	 848	 I-Definition	 T1	 0	 0
+private	 data/source_txt/t7_government_2_0.deft	 849	 856	 I-Definition	 T1	 0	 0
+businesses	 data/source_txt/t7_government_2_0.deft	 857	 867	 I-Definition	 T1	 0	 0
+that	 data/source_txt/t7_government_2_0.deft	 868	 872	 I-Definition	 T1	 0	 0
+earn	 data/source_txt/t7_government_2_0.deft	 873	 877	 I-Definition	 T1	 0	 0
+a	 data/source_txt/t7_government_2_0.deft	 878	 879	 I-Definition	 T1	 0	 0
+profit	 data/source_txt/t7_government_2_0.deft	 880	 886	 I-Definition	 T1	 0	 0
+in	 data/source_txt/t7_government_2_0.deft	 887	 889	 I-Definition	 T1	 0	 0
+return	 data/source_txt/t7_government_2_0.deft	 890	 896	 I-Definition	 T1	 0	 0
+.	 data/source_txt/t7_government_2_0.deft	 896	 897	 O	 -1	 -1	 0
+
+These	 data/source_txt/t7_government_2_0.deft	 906	 911	 B-Referential-Definition	 T2	 T1	 Refers-To
+goods	 data/source_txt/t7_government_2_0.deft	 912	 917	 I-Referential-Definition	 T2	 T1	 Refers-To
+and	 data/source_txt/t7_government_2_0.deft	 918	 921	 I-Referential-Definition	 T2	 T1	 Refers-To
+services	 data/source_txt/t7_government_2_0.deft	 922	 930	 I-Referential-Definition	 T2	 T1	 Refers-To
+are	 data/source_txt/t7_government_2_0.deft	 931	 934	 O	 -1	 -1	 0
+known	 data/source_txt/t7_government_2_0.deft	 935	 940	 O	 -1	 -1	 0
+as	 data/source_txt/t7_government_2_0.deft	 941	 943	 O	 -1	 -1	 0
+private	 data/source_txt/t7_government_2_0.deft	 944	 951	 B-Term	 T3	 0	 0
+goods	 data/source_txt/t7_government_2_0.deft	 952	 957	 I-Term	 T3	 0	 0
+.	 data/source_txt/t7_government_2_0.deft	 957	 958	 O	 -1	 -1	 0
+
+These	 data/source_txt/t7_government_2_0.deft	 906	 911	 B-Referential-Definition	 T2	 T3	 Indirect-Defines
+goods	 data/source_txt/t7_government_2_0.deft	 912	 917	 I-Referential-Definition	 T2	 T3	 Indirect-Defines
+and	 data/source_txt/t7_government_2_0.deft	 918	 921	 I-Referential-Definition	 T2	 T3	 Indirect-Defines
+services	 data/source_txt/t7_government_2_0.deft	 922	 930	 I-Referential-Definition	 T2	 T3	 Indirect-Defines
+are	 data/source_txt/t7_government_2_0.deft	 931	 934	 O	 -1	 -1	 0
+known	 data/source_txt/t7_government_2_0.deft	 935	 940	 O	 -1	 -1	 0
+as	 data/source_txt/t7_government_2_0.deft	 941	 943	 O	 -1	 -1	 0
+private	 data/source_txt/t7_government_2_0.deft	 944	 951	 B-Term	 T3	 0	 0
+goods	 data/source_txt/t7_government_2_0.deft	 952	 957	 I-Term	 T3	 0	 0
+.	 data/source_txt/t7_government_2_0.deft	 957	 958	 O	 -1	 -1	 0
+
+Paul	 data/source_txt/t7_government_2_0.deft	 958	 962	 O	 -1	 -1	 0
+A.	 data/source_txt/t7_government_2_0.deft	 963	 965	 O	 -1	 -1	 0
+Samuelson	 data/source_txt/t7_government_2_0.deft	 966	 975	 O	 -1	 -1	 0
+.	 data/source_txt/t7_government_2_0.deft	 975	 976	 O	 -1	 -1	 0
+1954	 data/source_txt/t7_government_2_0.deft	 983	 987	 O	 -1	 -1	 0
+.	 data/source_txt/t7_government_2_0.deft	 987	 988	 O	 -1	 -1	 0
+
+

@@ -1,0 +1,63 @@
+4408	 data/source_txt/t5_economic_2_0.deft	 10967	 10971	 O
+.	 data/source_txt/t5_economic_2_0.deft	 10971	 10972	 O
+
+An	 data/source_txt/t5_economic_2_0.deft	 10973	 10975	 O
+example	 data/source_txt/t5_economic_2_0.deft	 10976	 10983	 O
+from	 data/source_txt/t5_economic_2_0.deft	 10984	 10988	 O
+the	 data/source_txt/t5_economic_2_0.deft	 10989	 10992	 O
+market	 data/source_txt/t5_economic_2_0.deft	 10993	 10999	 O
+for	 data/source_txt/t5_economic_2_0.deft	 11000	 11003	 O
+gasoline	 data/source_txt/t5_economic_2_0.deft	 11004	 11012	 O
+can	 data/source_txt/t5_economic_2_0.deft	 11013	 11016	 O
+be	 data/source_txt/t5_economic_2_0.deft	 11017	 11019	 O
+shown	 data/source_txt/t5_economic_2_0.deft	 11020	 11025	 O
+in	 data/source_txt/t5_economic_2_0.deft	 11026	 11028	 O
+the	 data/source_txt/t5_economic_2_0.deft	 11029	 11032	 O
+form	 data/source_txt/t5_economic_2_0.deft	 11033	 11037	 O
+of	 data/source_txt/t5_economic_2_0.deft	 11038	 11040	 O
+a	 data/source_txt/t5_economic_2_0.deft	 11041	 11042	 O
+table	 data/source_txt/t5_economic_2_0.deft	 11043	 11048	 O
+or	 data/source_txt/t5_economic_2_0.deft	 11049	 11051	 O
+a	 data/source_txt/t5_economic_2_0.deft	 11052	 11053	 O
+graph	 data/source_txt/t5_economic_2_0.deft	 11054	 11059	 O
+.	 data/source_txt/t5_economic_2_0.deft	 11059	 11060	 O
+
+A	 data/source_txt/t5_economic_2_0.deft	 11069	 11070	 B-Definition
+table	 data/source_txt/t5_economic_2_0.deft	 11071	 11076	 I-Definition
+that	 data/source_txt/t5_economic_2_0.deft	 11077	 11081	 I-Definition
+shows	 data/source_txt/t5_economic_2_0.deft	 11082	 11087	 I-Definition
+the	 data/source_txt/t5_economic_2_0.deft	 11088	 11091	 I-Definition
+quantity	 data/source_txt/t5_economic_2_0.deft	 11092	 11100	 I-Definition
+demanded	 data/source_txt/t5_economic_2_0.deft	 11101	 11109	 I-Definition
+at	 data/source_txt/t5_economic_2_0.deft	 11110	 11112	 I-Definition
+each	 data/source_txt/t5_economic_2_0.deft	 11113	 11117	 I-Definition
+price	 data/source_txt/t5_economic_2_0.deft	 11118	 11123	 I-Definition
+,	 data/source_txt/t5_economic_2_0.deft	 11123	 11124	 O
+such	 data/source_txt/t5_economic_2_0.deft	 11125	 11129	 O
+as	 data/source_txt/t5_economic_2_0.deft	 11130	 11132	 O
+[	 data/source_txt/t5_economic_2_0.deft	 11133	 11134	 O
+link	 data/source_txt/t5_economic_2_0.deft	 11134	 11138	 O
+]	 data/source_txt/t5_economic_2_0.deft	 11138	 11139	 O
+,	 data/source_txt/t5_economic_2_0.deft	 11139	 11140	 O
+is	 data/source_txt/t5_economic_2_0.deft	 11141	 11143	 O
+called	 data/source_txt/t5_economic_2_0.deft	 11144	 11150	 O
+a	 data/source_txt/t5_economic_2_0.deft	 11151	 11152	 B-Term
+demand	 data/source_txt/t5_economic_2_0.deft	 11153	 11159	 I-Term
+schedule	 data/source_txt/t5_economic_2_0.deft	 11160	 11168	 I-Term
+.	 data/source_txt/t5_economic_2_0.deft	 11168	 11169	 O
+
+Price	 data/source_txt/t5_economic_2_0.deft	 11176	 11181	 O
+in	 data/source_txt/t5_economic_2_0.deft	 11182	 11184	 O
+this	 data/source_txt/t5_economic_2_0.deft	 11185	 11189	 O
+case	 data/source_txt/t5_economic_2_0.deft	 11190	 11194	 O
+is	 data/source_txt/t5_economic_2_0.deft	 11195	 11197	 O
+measured	 data/source_txt/t5_economic_2_0.deft	 11198	 11206	 O
+in	 data/source_txt/t5_economic_2_0.deft	 11207	 11209	 O
+dollars	 data/source_txt/t5_economic_2_0.deft	 11210	 11217	 O
+per	 data/source_txt/t5_economic_2_0.deft	 11218	 11221	 O
+gallon	 data/source_txt/t5_economic_2_0.deft	 11222	 11228	 O
+of	 data/source_txt/t5_economic_2_0.deft	 11229	 11231	 O
+gasoline	 data/source_txt/t5_economic_2_0.deft	 11232	 11240	 O
+.	 data/source_txt/t5_economic_2_0.deft	 11240	 11241	 O
+
+
