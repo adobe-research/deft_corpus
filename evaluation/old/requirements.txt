@@ -2,7 +2,7 @@ certifi==2019.3.9
 colorama==0.4.1
 numpy==1.17.0
 pandas==0.25.0
-pipenv==2018.11.26
+pipenv==2022.1.8
 python-dateutil==2.8.0
 pytz==2019.2
 six==1.12.0
