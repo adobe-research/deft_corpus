@@ -1,4 +1,4 @@
-certifi==2019.3.9
+certifi==2022.12.7
 colorama==0.4.1
 numpy==1.17.0
 pandas==0.25.0
